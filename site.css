@@ -217,7 +217,20 @@ hr {
     filter: alpha(opacity=0);
 	}
 
-
+.contributor-header{
+/*	background: orange;*/
+	height:400px;
+	}
+.contributor-name{
+	font-size: 55px;
+	padding: 200px 40px 0 40px;
+}
+.contributor-details{
+/*	height:200px;*/
+	}
+.stories h2{
+	font-weight:600;
+	}
 /* Header */
 
 .header-container{
@@ -479,8 +492,9 @@ table {
 .pad4    { padding:40px; }
 .pad4h   { padding-left:40px; padding-right:40px; }
 .pad8    { padding:100px 40px; }
+.pad8h   { padding: 200px 40px;}
 .pad4c   { padding:40px; }
-.pad9    { padding:150px 0 0 20px;
+.pad9    { padding:150px 0 0 20px; }
 
 /* Additional Utility Classes
 ------------------------------------------------------- */
