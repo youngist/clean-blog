@@ -44,7 +44,7 @@ body,
 input,
 textarea {
   color:#333;
-  font:15px/1.67 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font:15px/1.67 'Titillium Web', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing:antialiased;
   }
 *, *:after, *:before {
@@ -61,6 +61,7 @@ h5,
 h6 {
   margin:0;
   font-weight:bold;
+  font-family:'Titillium Web', sans-serif;
   }
 
 h1 {
@@ -89,6 +90,7 @@ h4, h5 {
 
 p {
   margin:0 0 20px;
+  font-family:'Fauna One', serif;
   }
   p:last-child { margin-bottom:0;}
 
@@ -101,7 +103,7 @@ a {
     color:#9ed485;
     }
   a:hover {
-    color:#54af29;
+    color:#e68b24;
     }
   a:active {
     color:#9ed485;
@@ -123,6 +125,124 @@ hr {
   height:1px;
   background:#f8f8f8;
   }
+
+/* Content Section */
+.picks, .media-header{
+	font-family:'Titillium Web', sans-serif;
+	border-top: 1px solid #AFAFAF;
+	border-bottom: 1px solid #AFAFAF;
+	font-size: 14px;
+	font-weight:600;	
+	}
+	
+.articles, .media{
+	margin-top: 53px;
+	height:800px;
+	}
+	
+.articles {
+	background:#F4F5F6;
+	overflow-y:scroll;
+	}
+	
+.article{
+	padding: 10px 0 60px 0;
+/*	border-top: 1px solid #AFAFAF;*/
+	}
+	
+.article h2{
+	padding-top:20px;
+	margin-bottom: 5px;
+	}
+	
+.article a{
+	color:#474546;
+	}
+	
+.article a:hover {
+    color:#e68b24;
+	}
+		
+.media{
+	background:#8D8D8D;
+	overflow-y:scroll;
+	overflow-x:hidden;
+	}
+	
+.media-header{
+	color:#AFAFAF;
+	}
+	
+.video{
+	padding: 20px 0;
+	}
+	
+	
+/* Circle images and Contributor elements */
+.contributors{
+	font-style:italic;
+	}
+
+.circular {
+	margin:10px;
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+    background: url(http://f.cl.ly/items/3F3L3T0H1U3F1x1a3p3H/Screen%20Shot%202013-06-07%20at%2010.37.19%20PM.png) no-repeat;
+	background-size:130px;
+	}
+.article-circle{
+	margin-top:20px;
+    width: 60px;
+    height: 60px;
+	background-size: 60px;
+	float:right;
+	}
+.circular img {
+    opacity: 0;
+    filter: alpha(opacity=0);
+	}
+
+
+/* Header */
+
+.header-container{
+	background:#F9FAFA;
+	box-shadow: 0 0 20px 0 rgb(218, 218, 218);
+	}
+.header-title{
+	padding-left: 08.3333%;
+	color: black;
+	width:250px;
+	font-family:'Engel Light ltd';
+	font-weight:100;
+	font-size:32px;
+	position: fixed;
+	z-index: 2;
+	width: 100%;
+	background: #F9FAFA;
+	box-shadow: 0 0 20px 0 rgb(218, 218, 218);
+	}
+.header-title-link{
+	color: black;
+	}
+.header-about, .header-feeds{
+	position:absolute;
+	padding:15px 0px 15px 0;
+	text-align:center;
+	font-size:17px;
+	font-family:'DINPro-Medium';
+	}
+.header-about{
+	right:270px;
+	top:15px;
+	}
+.header-feeds{
+	right:150px;
+	top:15px;
+	}
 
 /* Block Quotes */
 blockquote,
@@ -339,13 +459,14 @@ table {
 
 /* Padding
 ------------------------------------------------------- */
+.pad0	 { padding:5px; }
 .pad1    { padding:10px; }
 .pad2    { padding:20px; }
 .pad21h  { padding:10px 20px; }
 .pad2h   { padding:0 20px; }
 .pad4    { padding:40px; }
 .pad4h   { padding-left:40px; padding-right:40px; }
-.pad8    { padding:80px 40px; }
+.pad8    { padding:100px 40px; }
 .pad4c   { padding:40px; }
 
 /* Additional Utility Classes

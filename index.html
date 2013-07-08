@@ -1,0 +1,30 @@
+---
+layout: default
+---
+	<div class='pad8 col8 articles'><div class='pad0 col10 margin1 picks'>Editor's Picks</div><div class='col10 margin1 article'>
+	{% for post in site.categories.editors %}
+	<div class=' circular article-circle'></div><h2><a href={{post.url}}>{{post.headline}}</a></h2>
+	<p class='contributors'>{% for contributor in post.contributors %}
+		<!-- if more than one add an 'and' (if loop index is two or more) -->
+	{{contributor}}
+	{% endfor %}</p>
+	<p>{{ post.content | strip_html | truncatewords:40}}</p>
+	{% endfor %}
+	</div>
+	<div class='pad0 col10 margin1 picks'>Most Recent</div>
+	<div class='col10 margin1 article'>
+		{% for post in site.categories.article limit:3 %}
+<div class=' circular article-circle'></div><h2><a href={{post.url}}>{{post.headline}}</a></h2>
+		<p class='contributors'>{% for contributor in post.contributors %}
+			<!-- if more than one add an 'and' (if loop index is two or more) -->
+		{{contributor}}
+		{% endfor %}</p>
+		<p>{{ post.content | strip_html | truncatewords:40}}</p>
+		{% endfor %}
+		</div>	
+	</div>
+	<div class='pad8 col4 media'><div class='pad0 col11 margin1 media-header'>Video</div><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/QeDm2PrNV1I" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/j1FkYkd9Ea8" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/ZApBgNQgKPU" frameborder="0" allowfullscreen></iframe>
+	{% for post in site.categories.video %}
+<iframe class='margin1 video' width="325" height="275" src="{{post.videourl}}" frameborder="0" allowfullscreen></iframe>
+	{% endfor %}
+	<div class='pad0 col10 margin1 media-header'>Galleries</div></div>
