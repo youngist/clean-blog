@@ -177,28 +177,40 @@ hr {
 	padding: 20px 0;
 	}
 	
-	
+.main-content{
+	padding: 150px 0 0 20px;
+	}
+.contributor-info{
+	margin: 150px 0 0 0;
+/*	padding: 0 0 0 200px;*/
+	border-right: 1px solid #AFAFAF;
+	}
+.contributor-name-bio{
+	float:right;
+	}
 /* Circle images and Contributor elements */
 .contributors{
 	font-style:italic;
+	color:#999999;
 	}
 
 .circular {
-	margin:10px;
-    width: 130px;
-    height: 130px;
+	float: right;
+	margin: 10px;
+    width: 90px;
+    height: 90px;
     border-radius: 100px;
     -webkit-border-radius: 200px;
     -moz-border-radius: 200px;
     background: url(http://f.cl.ly/items/3F3L3T0H1U3F1x1a3p3H/Screen%20Shot%202013-06-07%20at%2010.37.19%20PM.png) no-repeat;
-	background-size:130px;
+	background-size:90px;
 	}
 .article-circle{
 	margin-top:20px;
     width: 60px;
     height: 60px;
 	background-size: 60px;
-	float:right;
+	border: none;
 	}
 .circular img {
     opacity: 0;
@@ -468,6 +480,7 @@ table {
 .pad4h   { padding-left:40px; padding-right:40px; }
 .pad8    { padding:100px 40px; }
 .pad4c   { padding:40px; }
+.pad9    { padding:150px 0 0 20px;
 
 /* Additional Utility Classes
 ------------------------------------------------------- */

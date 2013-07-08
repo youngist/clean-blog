@@ -3,6 +3,6 @@ server: true
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-baseurl: /clean-blog
-production_url : http://username.github.com/
+baseurl: 
+production_url : http://username.github.com/clean-blog/
 permalink: :title

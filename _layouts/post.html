@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class='col3 contributor-info'>
+	<div class='circular'></div><div class='center contributor-name-bio'><h4>{% for contributor in page.contributors %}{{contributor}}{% endfor %}</h4><p class='contributors'>{{page.contributorbio}}</p></div>
+	<!-- if more than one add an 'and' (if loop index is two or more) -->
+	</div>
+<div class='col7 main-content'>
+				<h1 class='article-title'>{{ page.headline }}</h1>
+			{{ content }}
+		</div>
