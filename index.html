@@ -4,7 +4,7 @@ layout: default
 	<div class='pad8 col8 articles'><div class='pad0 col10 margin1 picks'>Editor's Picks</div><div class='col10 margin1 article'>
 	{% for post in site.categories.editors %}
 		{% if post.published == true %}
-	<div class=' circular article-circle'></div><h2><a href={{baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+	<div class=' circular article-circle'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
 	<p class='contributors'>{% for contributor in post.contributors %}
 		<!-- if more than one add an 'and' (if loop index is two or more) -->
 	{{contributor}}
@@ -17,7 +17,7 @@ layout: default
 	<div class='col10 margin1 article'>
 		{% for post in site.categories.article limit:3 %}
 				{% if post.published == true %}
-<div class='fr circular article-circle'></div><h2><a href={{baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+<div class='fr circular article-circle'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
 		<p class='contributors'>{% for contributor in post.contributors %}
 			<!-- if more than one add an 'and' (if loop index is two or more) -->
 		{{contributor}}
