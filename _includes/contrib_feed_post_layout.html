@@ -2,7 +2,7 @@
 <!-- assign a new variable to hold current page contributors -->
 {% assign contributorname = {{page.contributors}} %}
 <!-- This should be an include because it repeats for the feeds and contributors -->
-	<div class='contributor-header'><div class='col5 contributor-theme-image'><img height=400px src='http://www.thisiscolossal.com/wp-content/uploads/2013/07/umbrellas-4.jpg'/></div><div class='col5 contributor-details'><h1 class='contributor-name'>{{contributorname}}</h1><p class='pad2 contributors'>{{page.excerpt}}</p></div></div>
+	<div class='contributor-header'><div class='col5 contributor-theme-image'><img height=400px src='http://www.thisiscolossal.com/wp-content/uploads/2013/07/umbrellas-4.jpg'/></div><div class='contrib-layout circular'></div><div class='margin1 col5 contributor-details'><h1 class='contributor-name'>{{contributorname}}</h1><div class=' contributors page-excerpt'>{{page.excerpt}}</div></div></div>
 	<div class='col11 contributor-content'>
 	<div class='pad4 col4 contributor-bio'>{{ page.bio }}</div>
 	<div class='pad4 col8 stories'>
