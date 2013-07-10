@@ -7,7 +7,7 @@ production_url : http://username.github.com/
 permalink: :title
 prose:
   siteurl: "http://youngist.github.com/clean-blog/"
-  site:
+  site: 
   metadata:
     _posts:
       - name: "layout"
