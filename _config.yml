@@ -58,7 +58,7 @@ prose:
           element: "text"
           placeholder: "Type contributors for the article"
           label: "Contributors"
- 	    - name: "photosize"
+      - name: "photosize"
         field:
           element: "select"
           label: "Article Photo Size"
