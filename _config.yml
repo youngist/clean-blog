@@ -40,16 +40,6 @@ prose:
           element: "text"
           placeholder: "Type tagline for the article"
           label: "Tagline"
-      - name: "tags"
-        field:
-          element: "text"
-          placeholder: "Type tags for the article"
-          label: "Tags"
-      - name: "contributors"
-        field:
-          element: "text"
-          placeholder: "Type contributors for the article"
-          label: "Contributors"
       - name: "photosize"
         field:
           element: "select"
