@@ -70,22 +70,22 @@ prose:
               value: "small"
             - name: "None"
               value: "none"
- 	    - name: "contributorphoto"
+      - name: "contributorphoto"
         field:
           element: "text"
           label: "Contributor's Photo Link"
           placeholder: "Paste url to contributor main image"
- 	    - name: "contributorshortbio"
+      - name: "contributorshortbio"
         field:
           element: "text"
           label: "Contributor's Quick Bio"
           placeholder: "Copy contributor quick bio"
- 	    - name: "contributortwitter"
+      - name: "contributortwitter"
         field:
           element: "text"
           label: "Contributor's Twitter"
           placeholder: "Paste url to contributor twitter profile"
- 	    - name: "contributorfacebook"
+      - name: "contributorfacebook"
         field:
           element: "text"
           label: "Contributor's Facebook"
