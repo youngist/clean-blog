@@ -8,16 +8,6 @@ permalink: :title
 prose:
   metadata:
     _posts:
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          options:
-            - name: True
-              value: true
-            - name: False
-              value: false
-          selected: false
       - name: "layout"
         field:
           element: "hidden"
