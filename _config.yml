@@ -1,4 +1,3 @@
-auto: true
 server: true
 markdown: rdiscount
 rdiscount:
@@ -6,3 +5,88 @@ rdiscount:
 baseurl: clean-blog/
 production_url : http://username.github.com/
 permalink: :title
+prose:
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          options:
+            - name: True
+              value: true
+            - name: False
+              value: false
+          selected: false
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "Layout"
+          value: "post"
+	- name: "categories"
+        field:
+          element: "select"
+          label: "Category"
+          placeholder: "Choose type of post"
+          options:
+            - name: "Article"
+              value: "article"
+            - name: "Video"
+              value: "video"
+      - name: "title"
+        field:
+          element: "text"
+          placeholder: "This is for the SEO"
+          label: "Title"
+      - name: "headline"
+        field:
+          element: "text"
+          placeholder: "Type main title for the article"
+          label: "Headline"
+      - name: "tagline"
+        field:
+          element: "text"
+          placeholder: "Type tagline for the article"
+          label: "Tagline"
+      - name: "tags"
+        field:
+          element: "text"
+          placeholder: "Type tags for the article"
+          label: "Tags"
+      - name: "contributors"
+        field:
+          element: "text"
+          placeholder: "Type contributors for the article"
+          label: "Contributors"
+ 	  - name: "photosize"
+        field:
+          element: "select"
+          label: "Article Photo Size"
+          placeholder: "Choose your post image size"
+          options:
+            - name: "Large"
+              value: "large"
+            - name: "Small"
+              value: "small"
+            - name: "None"
+              value: "none"
+ 	  - name: "contributorphoto"
+        field:
+          element: "text"
+          label: "Contributor's Photo Link"
+          placeholder: "Paste url to contributor main image"
+ 	  - name: "contributorshortbio"
+        field:
+          element: "text"
+          label: "Contributor's Quick Bio"
+          placeholder: "Copy contributor quick bio"
+ 	  - name: "contributortwitter"
+        field:
+          element: "text"
+          label: "Contributor's Twitter"
+          placeholder: "Paste url to contributor twitter profile"
+ 	  - name: "contributorfacebook"
+        field:
+          element: "text"
+          label: "Contributor's Facebook"
+          placeholder: "Paste url to contributor facebook profile"
