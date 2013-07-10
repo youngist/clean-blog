@@ -23,7 +23,7 @@ prose:
           element: "hidden"
           label: "Layout"
           value: "post"
-	- name: "categories"
+      - name: "categories"
         field:
           element: "select"
           label: "Category"
