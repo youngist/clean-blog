@@ -1,4 +1,3 @@
-auto: true
 server: true
 markdown: rdiscount
 rdiscount:
@@ -6,3 +5,5 @@ rdiscount:
 baseurl: /clean-blog
 production_url : http://username.github.com/
 permalink: :title
+prose:
+  siteurl: "http://www.youngist.github.io/clean-blog/"
