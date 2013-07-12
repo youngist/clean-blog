@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-	<div class='pad8 col8 articles'><div class='pad0 col10 margin1 picks'>Editor's Picks</div><div class='col10 margin1 article'>
+	<div class='pad8 col8 articles-section'><div class='pad0 col10 margin1 article-list-title picks'>Editor's Picks</div><div class='col10 margin1 article'>
 	{% for post in site.categories.editors %}
 		{% if post.published == true %}
 	<div class='circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 60px;'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
@@ -12,7 +12,7 @@ layout: default
 		{% endif %}
 	{% endfor %}
 	</div>
-	<div class='pad0 col10 margin1 picks'>Most Recent</div>
+	<div class='pad0 col10 margin1 article-list-title picks'>Most Recent</div>
 	<div class='col10 margin1 article'>
 		{% for post in site.categories.article limit:4 %}
 		 		{% if post.categories[1] != "editors" %}
@@ -26,7 +26,7 @@ layout: default
 		{% endfor %}
 		</div>	
 	</div>
-	<div class='pad8 col4 media'><div class='pad0 col11 margin1 media-header'>Video</div><!-- <iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/QeDm2PrNV1I" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/j1FkYkd9Ea8" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/ZApBgNQgKPU" frameborder="0" allowfullscreen></iframe> -->
+	<div class='pad8 col4 article-list-title media-section'><div class='pad0 col11 margin1 media-header'>Video</div><!-- <iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/QeDm2PrNV1I" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/j1FkYkd9Ea8" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/ZApBgNQgKPU" frameborder="0" allowfullscreen></iframe> -->
 	{% for post in site.categories.video %}
 			{% if post.published == true %}
 <iframe class='margin1 video' width="325" height="275" src="{{post.videourl}}" frameborder="0" allowfullscreen></iframe>

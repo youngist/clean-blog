@@ -127,32 +127,48 @@ hr {
   }
 
 /* Content Section */
-.picks, .media-header{
+
+.article-list-title {
 	font-family:'Titillium Web', sans-serif;
 	border-top: 1px solid #AFAFAF;
 	border-bottom: 1px solid #AFAFAF;
 	font-size: 14px;
 	font-weight:600;	
-	}
-	
-.articles, .media{
+}  
+
+.articles-section, .media-section {
 	margin-top: 53px;
 	height:800px;
 	}
 	
-.articles {
+.articles-section {
 	background:#F4F5F6;
 	overflow-y:scroll;
 	}
+
+.media-section {
+	background:#8D8D8D;
+	overflow-y:scroll;
+	overflow-x:hidden;
+	}
 	
-.article{
+.article {
 	padding: 10px 0 60px 0;
 /*	border-top: 1px solid #AFAFAF;*/
 	}
 	
-.article h2{
+.article h2 {
 	padding-top:20px;
 	margin-bottom: 5px;
+	
+	/*
+h2 {
+  font-size:28px;
+  margin-bottom:20px;
+  line-height:1.25em;
+  }
+	
+	*/
 	}
 	
 .article a{
@@ -163,11 +179,6 @@ hr {
     color:#e68b24;
 	}
 		
-.media{
-	background:#8D8D8D;
-	overflow-y:scroll;
-	overflow-x:hidden;
-	}
 	
 .media-header{
 	color:#AFAFAF;
@@ -188,6 +199,10 @@ hr {
 .contributor-name-bio{
 	float:right;
 	}
+.contributor-theme-image img{
+	height:400px;
+	}
+
 /* Circle images and Contributor elements */
 .contributors{
 	font-style:italic;
@@ -202,7 +217,6 @@ hr {
     border-radius: 100px;
     -webkit-border-radius: 200px;
     -moz-border-radius: 200px;
-    background: url(http://f.cl.ly/items/3F3L3T0H1U3F1x1a3p3H/Screen%20Shot%202013-06-07%20at%2010.37.19%20PM.png) no-repeat;
 	background-size:90px;
 	}
 .article-circle{
@@ -237,7 +251,7 @@ hr {
 	}
 .contributor-name{
 	font-size: 55px;
-	padding: 200px 20px 0 40px;
+/*	padding: 200px 20px 0 40px;*/
 	margin:0;
 }
 
@@ -272,7 +286,7 @@ hr {
 	background: #F9FAFA;
 	box-shadow: 0 0 20px 0 rgb(218, 218, 218);
 	}
-.header-title-link{
+a.header-title-link{
 	color: black;
 	}
 .header-about, .header-feeds{
@@ -599,12 +613,18 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .pad4c { padding:0; }
   .pad4,
   .pad4h { padding-left:20px; padding-right:20px; }
-  .pad8 { padding:40px 20px; }
+  .pad8, .pad8h { padding:40px 20px; }
   .hide-mobile { display:none; }
   .show-mobile { display:block; }
   .icon {
     background-image:url(img/sprite@2x.png);
     background-size:240px 240px;
     }
-  }
+   .contributor-theme-image img{
+	width: 100%;
+	height:auto;
+ 	}
+	.contributor-name {
+		padding:50px 20px 0 40px;
+	}
 
