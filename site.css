@@ -240,6 +240,13 @@ hr {
 	padding: 200px 20px 0 40px;
 	margin:0;
 }
+
+.post{
+	font-size: 20px;
+	padding: 10px;
+	margin:0;
+	color:#333;
+}
 .contributor-details{
 /*	height:200px;*/
 	}
