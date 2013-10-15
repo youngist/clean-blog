@@ -2383,7 +2383,7 @@ input[type="button"].btn-block {
           transition: height 0.35s ease;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'Glyphicons Halflings';
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
@@ -3198,7 +3198,7 @@ input[type="button"].btn-block {
 
 .glyphicon-wrench:before {
   content: "\1f527";
-}
+}*/
 
 .caret {
   display: inline-block;
@@ -6060,7 +6060,7 @@ body.modal-open,
   top: 0;
   bottom: 0;
   left: 0;
-  width: 15%;
+  width: 10%;
   font-size: 20px;
   color: #ffffff;
   text-align: center;
@@ -6156,16 +6156,17 @@ body.modal-open,
 }
 
 .carousel-caption {
-  position: absolute;
+/*  position: absolute;*/
   right: 15%;
   bottom: 20px;
   left: 15%;
 /*  z-index: 10;*/
-  padding-top: 20px;
+/*  padding-top: 20px;
   padding-bottom: 20px;
-  color: #ffffff;
-  text-align: center;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+*/  margin-top:40px;
+  color: #474546;
+  text-align: left;
+/*  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);*/
 }
 
 .carousel-caption .btn {

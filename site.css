@@ -60,12 +60,12 @@ h4,
 h5,
 h6 {
   margin:0;
-  font-weight:bold;
+  font-weight: 600;
   font-family:'Titillium Web', sans-serif;
   }
 
 h1 {
-  font-size:32px;
+  font-size:35px;
   margin-bottom:20px;
   line-height:1em;
   }
@@ -127,6 +127,14 @@ hr {
   }
 
 /* Content Section */
+
+.carousel-dark{
+	height: 425px;
+	margin-top: 40px;
+	background: rgb(53, 51, 51);
+	padding: 20px 0;
+	z-index:-1;
+}
  
 .ad-box {
 	background: white;  	
@@ -139,12 +147,9 @@ hr {
 	background:#F4F5F6;
 	height:150px;
 	padding:100px;
-	border-bottom:5px solid #AFAFAF;
+	border-bottom:2px solid #AFAFAF;
 }
-/*.carousel{
-	height:435px;
-	}
-*/.tags{
+.tags{
 	background:#BFBEBE;
 	height:40px;
 	}
@@ -167,7 +172,8 @@ hr {
 .article-list-title {
 	font-family:'Titillium Web', sans-serif;
 	font-size: 14px;
-	font-weight:600;	
+	font-weight:600;
+	padding: 15px 0 15px 0;
 }
 .articles-section {
 	background:#F4F5F6;
@@ -179,12 +185,12 @@ hr {
 	}
 	
 .article {
-	padding: 10px 0 60px 0;
+	padding: 0 0 60px 0;
 /*	border-top: 1px solid #AFAFAF;*/
 	}
 	
 .article h2 {
-	padding-top:20px;
+/*	padding-top:20px;*/
 	margin-bottom: 5px;
 	
 	/*
@@ -196,7 +202,6 @@ h2 {
 	
 	*/
 	}
-	
 .article a{
 	color:#474546;
 	}
@@ -250,6 +255,10 @@ footer {
 	height:400px;
 	}
 
+.post-box{
+	border-right: 1px solid #AFAFAF;
+	}
+
 /* Circle images and Contributor elements */
 .contributors{
 	font-style:italic;
@@ -258,7 +267,7 @@ footer {
 
 .circular {
 	float: right;
-	margin: 10px;
+/*	margin: 10px;*/
     width: 90px;
     height: 90px;
     border-radius: 100px;
@@ -267,9 +276,9 @@ footer {
 	background-size:90px;
 	}
 .article-circle{
-	margin-top:20px;
-    width: 60px;
-    height: 60px;
+/*	margin-top:20px;*/
+    width: 75px;
+    height: 75px;
 	background-size: 60px;
 	border: none;
 	}
