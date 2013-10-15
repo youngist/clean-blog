@@ -1,35 +1,52 @@
 ---
 layout: default
 ---
-	<div class='pad8 col8 articles-section'><div class='pad0 col10 margin1 article-list-title picks'>Editor's Picks</div><div class='col10 margin1 article'>
-	{% for post in site.categories.editors %}
-		{% if post.published == true %}
-	<div class='circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 60px;'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
-	<p class='contributors'>{% for contributor in post.contributors %}
- 		<a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}
-	{% endfor %}</p>
-	<p>{{ post.content | strip_html | truncatewords:40}}</p>
-		{% endif %}
-	{% endfor %}
-	</div>
-	<div class='pad0 col10 margin1 article-list-title picks'>Most Recent</div>
-	<div class='col10 margin1 article'>
-		{% for post in site.categories.article limit:4 %}
-		 		{% if post.categories[1] != "editors" %}
-				{% if post.published == true %}
+<div class='col12 ad'><div class='col5 container ad-box'></div></div>
+<div class='col12 container carousel'></div>
+<div class='col12 tags'>
+<div class='skinny'>TRENDING:</div><div class='tag-box'><!-- for loop through recent articles and take unique tags, max 6? --></div>
+</div>
+<section class='col12 all-media'>
+<div class='pad4 col8 articles-section'>
+<div class='pad0 col10 margin1 article-list-title picks'>Editor's Picks</div>
+<div class='col10 margin1 article'>
+{% for post in site.categories.editors %}
+{% if post.published == true %}
+<div class='fl circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 60px;'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+<p class='contributors'>{% for contributor in post.contributors %}
+<a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p><p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}{% endfor %}</div>
+<div class='pad0 col10 margin1 article-list-title picks'>Most Recent</div>
+<div class='col10 margin1 article'>
+{% for post in site.categories.article limit:4 %}
+{% if post.categories[1] != "editors" %}
+{% if post.published == true %}
 <div class='fr circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 60px;'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
-		<p class='contributors'>{% for contributor in post.contributors %}
-		<a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
-		<p>{{ post.content | strip_html | truncatewords:40}}</p>
-				{% endif %}
-			    {% endif %}
-		{% endfor %}
-		</div>	
-	</div>
-	<div class='pad8 col4 article-list-title media-section'><div class='pad0 col11 margin1 media-header'>Video</div><!-- <iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/QeDm2PrNV1I" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/j1FkYkd9Ea8" frameborder="0" allowfullscreen></iframe><iframe class='margin1 video' width="325" height="275" src="//www.youtube.com/embed/ZApBgNQgKPU" frameborder="0" allowfullscreen></iframe> -->
-	{% for post in site.categories.video %}
+<p class='contributors'>{% for contributor in post.contributors %}
+<a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+<p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}{% endif %}{% endfor %}</div></div>
+<div class='pad4 col4 article-list-title media-section'>
+<div class='pad0 col12 margin1 media-header'>New Videos</div>
+	{% for post in site.categories.video limit:4 %}
 			{% if post.published == true %}
-<iframe class='margin1 video' width="325" height="275" src="{{post.videourl}}" frameborder="0" allowfullscreen></iframe>
+			{% if forloop.rindex != 1 %}
+<iframe class='col12 margin1 video' src="{{post.videourl}}" frameborder="0" allowfullscreen></iframe>
+<h3 class='col12 margin1'>{{post.title}}</h3>
+			{% endif %}
+			{% if forloop.rindex == 1 %}
+			<!-- <div class='margin1 ad-box video'></div> -->
+			{% endif %}
 			{% endif %}
 	{% endfor %}
-	<div class='pad0 col10 margin1 media-header'>Galleries</div></div>
+	<div class='pad0 col12 margin1 media-header'>Galleries</div>
+	<!-- this will be a for loop for galleries later -->
+	<div class='col12 margin1 dark'></div>
+	<h3 class='col12 margin1'>My Body, My Marriage{{post.title}}</h3>
+	<div class='col12 margin1 dark'></div>
+	<h3 class='col12 margin1'>Stonewall 1969{{post.title}}</h3>
+	<div class='pad0 col12 margin1 media-header'>Sounds</div>
+	<!-- this will be a for loop for sounds later -->
+	<div class='col12 margin1 dark'></div>
+	<h3 class='col12 margin1'>Lysistrata Lyceum: Meditations from a Greek American Living in Greece{{post.title}}</h3>
+	<h3 class='col12 margin1'>Click here to listen.</h3>
+	</div></section>
+<section class='col12 pad4 footer'><div class='col12 pad4 footer-container'></div></section>

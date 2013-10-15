@@ -12,7 +12,7 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
+rticle, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
@@ -127,29 +127,55 @@ hr {
   }
 
 /* Content Section */
+ 
+.ad-box {
+	background: white;  	
+	border: black 1px solid;
+	height:75px;
+	width:650px;
+}
 
+.ad {
+	background:#F4F5F6;
+	height:150px;
+	padding:100px;
+	border-bottom:5px solid #AFAFAF;
+}
+.carousel{
+	height:435px;
+	}
+.tags{
+	background:#BFBEBE;
+	height:40px;
+	}
+.skinny{
+	color: white;
+	font: 'Titillium Web', sans-serif;
+	font-weight: 600;
+	margin-left: 20px;
+	font-size: 20px;
+	}
+.dark{
+	background: rgb(53, 51, 51);
+	height: 235px;
+	width: 275px;
+	padding: 20px 0;
+}
+.all-media{
+	height:1776px;
+}
 .article-list-title {
 	font-family:'Titillium Web', sans-serif;
-	border-top: 1px solid #AFAFAF;
-	border-bottom: 1px solid #AFAFAF;
 	font-size: 14px;
 	font-weight:600;	
-}  
-
-.articles-section, .media-section {
-	margin-top: 53px;
-	height:800px;
-	}
-	
+}
 .articles-section {
 	background:#F4F5F6;
-	overflow-y:scroll;
 	}
 
 .media-section {
 	background:#8D8D8D;
-	overflow-y:scroll;
-	overflow-x:hidden;
+	color:white;
 	}
 	
 .article {
@@ -181,16 +207,37 @@ h2 {
 		
 	
 .media-header{
-	color:#AFAFAF;
+	color:#fff;
 	}
 	
 .video{
 	padding: 20px 0;
+	width:275px;
+	height:275px;
 	}
-	
+
+.small{
+	width:275px;
+	height:275px;
+	}
+
 .main-content{
 	padding: 150px 0 0 20px;
 	}
+	
+.footer{
+	background:rgb(53, 51, 51);
+	height: 300px;
+	}
+	
+footer {
+	border-top: 1px dotted #d3d3d3;
+	font-size: 14px;
+	}
+	
+.footer-container{
+	}
+	
 .contributor-info{
 	margin: 150px 0 0 0;
 	position: fixed;
@@ -274,7 +321,6 @@ h2 {
 	box-shadow: 0 0 20px 0 rgb(218, 218, 218);
 	}
 .header-title{
-	padding-left: 08.3333%;
 	color: black;
 	width:250px;
 	font-family:'Engel Light ltd';
