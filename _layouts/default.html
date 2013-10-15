@@ -6,8 +6,10 @@
 <!-- <link rel='shortcut icon' href='{{base}}/img/favicon.ico'> -->
 <title>{{page.title}}</title>
 <meta name='description' content='{{ page.excerpt }}'>
+<link type="text/css" rel="stylesheet" href='{{base}}/carousel.css'>
+<link type="text/css" rel="stylesheet" href='{{base}}/bootstrap.css'> <!-- careful what gets changed to bootstrap -->
 <link type="text/css" rel="stylesheet" href='{{base}}/site.css'>
- <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
  <link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700' rel='stylesheet' type='text/css'>
  <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
  <script src="{{base}}/js/jquery.slides.min.js"></script>
@@ -26,10 +28,16 @@
 </script>
 </head>
 <body {% if page.class %}class="{{page.class}}"{% endif %} >
-<div class='header-container'>
-	<a class='header-title-link' href='{{base}}/'><div class='header-title'>{</font><font style='color:#e68b24; font-weight:bold;'>young</font>}ist</div></a>
+<div class='col12 header-container'>
+<div class='col12 header'><a class='header-title-link' href='{{base}}/'><div class='margin1 header-title'>{</font><font style='color:#e68b24; font-weight:bold;'>young</font>}ist</div></a>
+<div class='margin7 col1 center actions'>DONATE</div>
+<div class='col1 center actions'>ABOUT</div>
+<div class='col1 center actions'>CONTRIBUTE</div>
+<div class='col1 center actions'>UPDATES</div>
+</div>
 </div>
 <body>
 {{content}}
+<script src="{{base}}/bootstrap.min.js"></script>
 </body>
 </html>

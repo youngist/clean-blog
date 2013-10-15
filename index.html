@@ -1,13 +1,54 @@
 ---
 layout: default
 ---
-<div class='col12 ad'><div class='col5 container ad-box'></div></div>
-<div class='col12 container carousel'></div>
+<!--CSS LOGIC AD BOX DOESN'T DROPDOWN PROPERLY WHEN IN TABLET OR PHONE, CHECK CSS FOR BOX, related to header and header container -->
+<div class='col12 container ad'><div class='col5 margin3 ad-box'></div></div>
+<!-- JEKYLL LOGIC Feature tagged stories will be on the carousel, so featured stories will not show up in recent or editors picks -->
+<div id='myCarousel' class='col12 carousel slide'><ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol><div class="carousel-inner">
+<!--NEED TO PUT JEKYLL LOGIC This will be the first article with "active" the rest will be just "item" -->
+        <div class="item active">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Student Loan Interest Rates Double, American Youth Still Fucked</h1>
+              <p>Congressional lawmakers threw young Americans under the bus again this week when they failed to pass a bill that would prevent the interest rate on a key group of student loans from automatically doubling on July 1st. The inaction on behalf of lawmakers means that, as of Monday...</p>
+              <p><a class="btn btn-large btn-primary" href="#">Read More</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="data:," data-src="holder.js/100%x500/auto/#777:#7a7a7a/text:Second slide" alt="Second slide" style="height: 500px; width: 100%; display: block;">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Another example headline.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a class="btn btn-large btn-primary" href="#">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="data:," data-src="holder.js/100%x500/auto/#777:#7a7a7a/text:Third slide" alt="Third slide" style="height: 500px; width: 100%; display: block;">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>One more for good measure.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a class="btn btn-large btn-primary" href="#">Browse gallery</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+	  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+	  <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+  </div>
 <div class='col12 tags'>
-<div class='skinny'>TRENDING:</div><div class='tag-box'><!-- for loop through recent articles and take unique tags, max 6? --></div>
+<div class='skinny'>TRENDING:</div><div class='tag-box'><!-- JEKYLL LOGIC for loop through recent articles and take unique tags, max 6? --></div>
 </div>
 <section class='col12 all-media'>
 <div class='pad4 col8 articles-section'>
+<!--CSS LOGIC FLOAT WRITER BUBBLE AND OTHER INFO TO THE LEFT LIKE CONTRIBUTOR PAGES -->
 <div class='pad0 col10 margin1 article-list-title picks'>Editor's Picks</div>
 <div class='col10 margin1 article'>
 {% for post in site.categories.editors %}
@@ -20,7 +61,7 @@ layout: default
 {% for post in site.categories.article limit:4 %}
 {% if post.categories[1] != "editors" %}
 {% if post.published == true %}
-<div class='fr circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 60px;'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+<div class='fl circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 60px;'></div><h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
 <p class='contributors'>{% for contributor in post.contributors %}
 <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
 <p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}{% endif %}{% endfor %}</div></div>
