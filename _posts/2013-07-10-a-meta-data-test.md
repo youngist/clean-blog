@@ -1,9 +1,7 @@
 ---
 layout: post
-published: 
-  - false
-  - published
-categories: video
+published: true
+categories: featured
 title: "A Metadata Test - {young}ist"
 headline: A Metadata Test
 tagline: "It's just for fun!"
