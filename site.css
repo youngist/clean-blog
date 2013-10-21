@@ -324,8 +324,7 @@ footer {
 	font-weight:600;
 	}
 /* Header */
-.header{
-}
+
 .header-container{
 	height:50px;
 	background:#F9FAFA;
@@ -350,7 +349,6 @@ footer {
 	font-family:'Engel Light ltd';
 	font-weight:100;
 	font-size:32px;
-	position: fixed;
 	}
 a.header-title-link{
 	color: black;
