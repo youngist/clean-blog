@@ -126,6 +126,11 @@ hr {
   background:#f8f8f8;
   }
 
+@font-face {
+  font-family: EngleLight_ltd;
+  src: url('EngleLight_ltd.ttf');
+  }
+
 /* Content Section */
 
 .carousel-dark{
@@ -151,7 +156,6 @@ hr {
 }
 .tags{
 	background:#BFBEBE;
-	height:40px;
 	}
 .skinny{
 	color: white;
@@ -162,12 +166,12 @@ hr {
 	}
 .dark{
 	background: rgb(53, 51, 51);
-	height: 235px;
-	width: 275px;
-	padding: 20px 0;
+/*  height: 235px;
+  width: 275px;
+*/	padding: 20px 0;
 }
 .all-media{
-	height:1776px;
+/*  height:1776px;*/
 }
 .article-list-title {
 	font-family:'Titillium Web', sans-serif;
@@ -192,15 +196,6 @@ hr {
 .article h2 {
 /*	padding-top:20px;*/
 	margin-bottom: 5px;
-	
-	/*
-h2 {
-  font-size:28px;
-  margin-bottom:20px;
-  line-height:1.25em;
-  }
-	
-	*/
 	}
 .article a{
 	color:#474546;
@@ -209,8 +204,7 @@ h2 {
 .article a:hover {
     color:#e68b24;
 	}
-		
-	
+
 .media-header{
 	color:#fff;
 	}
@@ -232,9 +226,24 @@ h2 {
 	
 .footer{
 	background:rgb(53, 51, 51);
-	height: 300px;
+	color: #e68b24;
 	}
-	
+
+.menu li a {
+    float: left;
+    width: 25%;
+    font-size: 15px;
+    line-height: 10px;
+    height: 40px;
+    position: relative;
+    display: block;
+    text-align: center;
+    white-space: nowrap;
+    position: relative;
+    z-index: 0;
+    padding: 10px 5px;
+    border-radius: 3px;
+	}
 footer {
 	border-top: 1px dotted #d3d3d3;
 	font-size: 14px;
@@ -267,7 +276,6 @@ footer {
 
 .circular {
 	float: right;
-/*	margin: 10px;*/
     width: 90px;
     height: 90px;
     border-radius: 100px;
@@ -276,7 +284,6 @@ footer {
 	background-size:90px;
 	}
 .article-circle{
-/*	margin-top:20px;*/
     width: 75px;
     height: 75px;
 	background-size: 60px;
@@ -302,12 +309,10 @@ footer {
 	border:5px solid #fff;
 }
 .contributor-header{
-/*	background: orange;*/
 	height:400px;
 	}
 .contributor-name{
 	font-size: 55px;
-/*	padding: 200px 20px 0 40px;*/
 	margin:0;
 }
 
@@ -317,17 +322,14 @@ footer {
 	margin:0;
 	color:#333;
 }
-.contributor-details{
-/*	height:200px;*/
-	}
 .stories h2{
 	font-weight:600;
 	}
+
 /* Header */
 .header{
 }
 .header-container{
-	height:50px;
 	background:#F9FAFA;
 	box-shadow: 0 0 20px 0 rgb(218, 218, 218);
 	color: black;
@@ -350,7 +352,6 @@ footer {
 	font-family:'Engel Light ltd';
 	font-weight:100;
 	font-size:32px;
-	position: fixed;
 	}
 a.header-title-link{
 	color: black;
@@ -370,6 +371,10 @@ a.header-title-link{
 	right:150px;
 	top:15px;
 	}
+
+.fill-article {
+  background: #F4F5F6;
+  }
 
 /* Block Quotes */
 blockquote,
@@ -686,7 +691,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
     background-image:url(img/sprite@2x.png);
     background-size:240px 240px;
     }
-   .contributor-theme-image img{
+  .contributor-theme-image img{
 	width: 100%;
 	height:auto;
  	}

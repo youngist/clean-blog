@@ -2,7 +2,7 @@
 layout: default
 ---
 <!--CSS LOGIC AD BOX DOESN'T DROPDOWN PROPERLY WHEN IN TABLET OR PHONE, CHECK CSS FOR BOX, related to header and header container -->
-<div class='col12 container ad'><div class='col7 margin2 ad-box'></div></div>
+<div class='pad8 col12 container ad'><div class='col7 margin2 ad-box'></div></div>
 <!-- JEKYLL LOGIC Feature tagged stories will be on the carousel, so featured stories will not show up in recent or editors picks -->
 <div id='myCarousel' class='col12 carousel slide'>
     <ol class="carousel-indicators">
@@ -50,9 +50,9 @@ layout: default
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
   </div>
-<div class='col12 tags'>
+<div class='pad2 tags'>
     <!-- Change title for class -->
-    <div class='col1 skinny'>TRENDING:</div>
+    <div class='col2 skinny'>TRENDING:</div>
     <div class='tag-box'>
 <!-- JEKYLL LOGIC for loop through recent articles and take unique tags, max 6? -->
     {% for post in site.posts limit: 4 %}
@@ -64,7 +64,7 @@ layout: default
     {% endfor %}
     </div>
 </div>
-<section class='col12 all-media'>
+<div class='clearfix fill-article all-media'>
     <div class='pad4 col8 articles-section'>
     <!--CSS LOGIC FLOAT WRITER BUBBLE AND OTHER INFO TO THE LEFT LIKE CONTRIBUTOR PAGES -->
         <div class='col9 margin3 article-list-title picks'>Editor's Picks</div>
@@ -78,6 +78,7 @@ layout: default
                 <h4>{{post.date || date: "%b %d, %Y" }}</h4>
             </div>
             <div class='col9 margin1 article'>
+                <div class='col12 pad8 dark'></div><!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->
                 <h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
                 <p class='contributors'>{% for contributor in post.contributors %}
                 <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p><p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}
@@ -94,18 +95,22 @@ layout: default
                 {% for tag in post.tags %}{{ tag }}{% endfor %}
                 <h4>{{post.date || date: "%b %d, %Y" }}</h4>
             </div>
+        </div>
         <div class='col9 margin1 article'>
+            {% if forloop.rindex == 2 %}<div class='col12 pad8 dark'></div><!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->{% endif %}
             <h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
             <p class='contributors'>{% for contributor in post.contributors %}
             <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
-            <p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}{% endif %}</div></div>{% endfor %}</div></div></div>
-    <div class='pad4 col4 article-list-title media-section'>
+            <p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}{% endif %}
+        </div>{% endfor %}
+    <!-- </div> -->
+    <div class='pad4 col4 article-list-title fill-article article-section'>
         <!-- MEDIA SECTION WILL SHOW IMAGE OR SCREENSHOT OF VIDEO AND LINK TO THE ARTICLE WITH THE VIDEO EMBEDDED -->
-        <div class='pad0 col11 media-header'>New Videos</div>
+        <div class='col11 article-list-title'>New Videos</div>
         {% for post in site.categories.video limit:4 %}
         {% if post.published == true %}
         {% if forloop.rindex != 1 %}
-        <div class='col11 dark'></div>
+        <div class='col11 pad8 dark'></div>
         <h3 class='col11'>{{post.title}}</h3>
         {% endif %}
         {% if forloop.rindex == 1 %}
@@ -114,19 +119,17 @@ layout: default
         {% endif %}
         {% endif %}
         {% endfor %}
-        <div class='pad0 col11 media-header'>Galleries</div>
+        <div class='pad0 col11 article-list-title'>Galleries</div>
         <!-- this will be a for loop for galleries later -->
-        <div class='col11 dark'></div>
+        <div class='col11 pad8 dark'></div>
         <h3 class='col11'>My Body, My Marriage{{post.title}}</h3>
-        <div class='col11 dark'></div>
+        <div class='col11 pad8 dark'></div>
         <h3 class='col11 '>Stonewall 1969{{post.title}}</h3>
-        <div class='pad0 col11 media-header'>Sounds</div>
+        <div class='pad0 col11 article-list-title'>Sounds</div>
         <!-- this will be a for loop for sounds later -->
-        <div class='col11 dark'></div>
+        <div class='col11 pad8 dark'></div>
         <h3 class='col11'>Lysistrata Lyceum: Meditations from a Greek American Living in Greece{{post.title}}</h3>
         <h3 class='col11'>Click here to listen.</h3>
     </div>
-</section>
-<section class='col12 pad4 footer'>
-    <div class='col12 pad4 footer-container'></div>
-    </section>
+</div>
+<div class='col12 pad2 center footer'>{Young}ist footer</div>

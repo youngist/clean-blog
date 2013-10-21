@@ -28,15 +28,17 @@
 </script>
 </head>
 <body {% if page.class %}class="{{page.class}}"{% endif %} >
-<div class='col12 header-container'>
-<div class='col12 header'><a class='header-title-link' href='{{base}}/'><div class='margin1 header-title'>{</font><font style='color:#e68b24; font-weight:bold;'>young</font>}ist</div></a>
-<div class='margin7 col1 center actions'>DONATE</div>
-<div class='col1 center actions'>ABOUT</div>
-<div class='col1 center actions'>CONTRIBUTE</div>
-<div class='col1 center actions'>UPDATES</div>
+<div class='header-container'>
+    <div class='header'>
+        <div class='margin1 col4 header-title'><a class='header-title-link' href='{{base}}/'>{young}ist</a></div>
+        <ul class='menu col6'>
+            <li class='center actions'><a href='{{base}}/donate'>DONATE</a></li>
+            <li class='center actions'><a href='{{base}}/about'>ABOUT</a></li>
+            <li class='center actions'><a href='{{base}}/contribute'>CONTRIBUTE</a></li>
+            <li class='center actions'><a href='#modal'>UPDATES</a></li>
+        </ul>
+    </div>
 </div>
-</div>
-<body>
 {{content}}
 <script src="{{base}}/bootstrap.min.js"></script>
 </body>
