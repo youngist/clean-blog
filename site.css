@@ -133,6 +133,10 @@ hr {
 
 /* Content Section */
 
+.rborder{
+  border-right: 1px solid #AFAFAF;
+}
+
 .carousel-dark{
 	height: 425px;
 	margin-top: 40px;
@@ -141,6 +145,17 @@ hr {
 	z-index:-1;
 }
  
+ .search-box{
+   width:20%;
+ }
+.prev{
+  background: url("images/arrow-l.png") no-repeat;
+  }
+
+.next{
+  background: url("images/arrow-r.png") no-repeat;
+ }
+
 .ad-box {
 	background: white;  	
 	border: black 1px solid;
@@ -231,7 +246,7 @@ hr {
 
 .menu li a {
     float: left;
-    width: 25%;
+    width: 15%;
     font-size: 15px;
     line-height: 10px;
     height: 40px;
@@ -239,19 +254,26 @@ hr {
     display: block;
     text-align: center;
     white-space: nowrap;
-    position: relative;
     z-index: 0;
     padding: 10px 5px;
     border-radius: 3px;
+	}
+	.menu-social li a{
+    font-size: 15px;
+    display: block;
+    white-space: nowrap;
+    position: relative;
+    z-index: 0;
+    border-radius: 3px;
+    height: 41px;
+    width: 42px;
+    float:left;
 	}
 footer {
 	border-top: 1px dotted #d3d3d3;
 	font-size: 14px;
 	}
-	
-.footer-container{
-	}
-	
+
 .contributor-info{
 	margin: 150px 0 0 0;
 	position: fixed;
@@ -347,14 +369,8 @@ footer {
 	font-weight: 600;
 }
 .header-title{
-	color: black;
-	font-family:'Engel Light ltd';
-	font-weight:100;
-	font-size:32px;
-	}
-a.header-title-link{
-	color: black;
-	}
+  height:60px;
+  }
 .header-about, .header-feeds{
 	position:absolute;
 	padding:15px 0px 15px 0;

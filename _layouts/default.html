@@ -10,9 +10,8 @@
 <link type="text/css" rel="stylesheet" href='{{base}}/carousel.css'>
 <link type="text/css" rel="stylesheet" href='{{base}}/bootstrap.css'> <!-- careful what gets changed to bootstrap -->
 <link type="text/css" rel="stylesheet" href='{{base}}/site.css'>
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
- <link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700' rel='stylesheet' type='text/css'>
- <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -27,19 +26,39 @@
 
 </script>
 </head>
-<body {% if page.class %}class="{{page.class}}"{% endif %} >
-<div class='header-container'>
+<body {% if page.class %} class='{{page.class}}' {% endif %}>
+<div class='header-container clearfix'>
     <div class='header'>
-        <div class='margin1 col4 header-title'><a class='header-title-link' href='{{base}}/'>{young}ist</a></div>
-        <ul class='menu col6'>
+        <div class='col2 rborder header-title'><a class='header-title-link' href='{{base}}/'><img class='logo' src='{{base}}/images/tumblrlogo.png' style='height:60px;' /></a></div>
+        <div class='col1 rborder'><img class='margin4' src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></div>
+        <!-- SOCIAL MEDIA -->
+        <ul class='menu-social rborder col2'>
+            <li class=''><a class='pad0' href='rss'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
+            <li class=''><a class='pad0' href='facebook'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
+            <li class=''><a class='pad0' href='twitter'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
+            <li class=''><a class='pad0' href='tumblr'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
+        </ul>
+        <div id="search">
+          <form action="{{base}}/search" class='col2' method="get">
+            <input type="text" class='col2' id="search-query" name="q" placeholder="Search" autocomplete="off">
+          </form>
+        </div>
+        <ul class='menu col5'>
             <li class='center actions'><a href='{{base}}/donate'>DONATE</a></li>
             <li class='center actions'><a href='{{base}}/about'>ABOUT</a></li>
-            <li class='center actions'><a href='{{base}}/contribute'>CONTRIBUTE</a></li>
+            <li class='center actions'><a href='{{base}}/pitch'>PITCH</a></li>
             <li class='center actions'><a href='#modal'>UPDATES</a></li>
         </ul>
     </div>
 </div>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 {{content}}
+<!-- <script src="{{base}}/js/search.min.js"></script> -->
 <script src="{{base}}/bootstrap.min.js"></script>
+<script src="{{base}}/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="{{base}}/js/mustache.js" type="text/javascript" charset="utf-8"></script>
+<script src="{{base}}/js/date.format.js" type="text/javascript" charset="utf-8"></script>
+<script src="{{base}}/js/URI.js" type="text/javascript" charset="utf-8"></script>
+<script src="{{base}}/js/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
 </body>
 </html>
