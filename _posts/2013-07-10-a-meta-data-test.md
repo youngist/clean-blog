@@ -5,7 +5,7 @@ categories: featured
 title: "A Metadata Test - {young}ist"
 headline: A Metadata Test
 tagline: "It's just for fun!"
-tags: "women, students"
+tags: women students
 contributors: Maya Richman
 photosize: none
 contributorphoto: undefined
