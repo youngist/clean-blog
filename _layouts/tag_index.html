@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<h1 class='pad8h col12'>{{page.tag}}</h1>
+	<ul class='col12'>
+  	{% for post in site.posts %}
+			{% for tag in post.tags %}
+			{% if tag == page.tag %}
+			<div class=''>
+			<li class=''>
+    <!-- <time style="color:#666;font-size:11px;" datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%m/%d/%y"}}</time> -->
+				<img src="{{base}}/img/{{post.image}}" width=400px;/>
+				<a class="" href='{{post.url}}'><h3 class=''>{{post.headline}}</h3></a>
+    			<p class="">{{post.tagline}}</p>
+				<div class=''>
+					<ul class="">
+						{% for tag in post.tags %}
+						<li class=""><a class="" href="/tag/{{ tag }}">{{ tag }}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+  		  	</li>
+  		    {% endif %}
+			</div>
+  {% endfor %}
+  {% endfor %}
+</ul>
