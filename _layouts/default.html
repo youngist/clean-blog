@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta charset='utf-8' />
-<!-- <link rel='shortcut icon' href='{{base}}/img/favicon.ico'> -->
 <title>{{page.title}}</title>
-<meta name='description' content='{{ page.excerpt }}'>
+<!-- Find another way to include excerpt for facebook and other social sharing -->
+<!-- <meta name='description' content='{{ page.excerpt }}'> -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link type="text/css" rel="stylesheet" href='{{base}}/carousel.css'>
 <link type="text/css" rel="stylesheet" href='{{base}}/bootstrap.css'> <!-- careful what gets changed to bootstrap -->
@@ -27,27 +27,35 @@
 </script>
 </head>
 <body {% if page.class %} class='{{page.class}}' {% endif %}>
-<div class='header-container clearfix'>
+<div class='col12 header-container clearfix'>
     <div class='header'>
-        <div class='col2 rborder header-title'><a class='header-title-link' href='{{base}}/'><img class='logo' src='{{base}}/images/tumblrlogo.png' style='height:60px;' /></a></div>
-        <div class='col1 rborder'><img class='margin4' src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></div>
+        <div class='col2 rborder header-title' style='padding-bottom: 70px;'>
+            <a class='header-title-link' href='{{base}}/'>
+                <img class='logo' src='{{base}}/images/tumblrlogo.png' style='height:60px;' />
+            </a>
+        </div>
+        <!-- <div class='col1 center rborder' style="padding-bottom: 10px;">
+            <img src="/clean-blog/images/speaker-temp.png" style="height: 41px;">
+        </div> -->
+    </div>
         <!-- SOCIAL MEDIA -->
-        <ul class='menu-social rborder col2'>
+        <ul class='menu rborder col3' style="padding-bottom: 30px;">
+            <li class=''><a class='rborder pad0' href='{{base}}/action'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
             <li class=''><a class='pad0' href='rss'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
-            <li class=''><a class='pad0' href='facebook'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
-            <li class=''><a class='pad0' href='twitter'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
-            <li class=''><a class='pad0' href='tumblr'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.facebook.com/youngist/'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.youngist.tumblr.org/'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
         </ul>
         <div id="search">
-          <form action="{{base}}/search" class='col2' method="get">
+          <form action="{{base}}/search" class='col2 rborder search' method="get">
             <input type="text" class='col2' id="search-query" name="q" placeholder="Search" autocomplete="off">
           </form>
         </div>
         <ul class='menu col5'>
-            <li class='center actions'><a href='{{base}}/donate'>DONATE</a></li>
-            <li class='center actions'><a href='{{base}}/about'>ABOUT</a></li>
-            <li class='center actions'><a href='{{base}}/pitch'>PITCH</a></li>
-            <li class='center actions'><a href='#modal'>UPDATES</a></li>
+            <li class='bold center nav-action'><a href='{{base}}/donate'>DONATE</a></li>
+            <li class='bold center nav-action'><a href='{{base}}/about'>ABOUT</a></li>
+            <li class='bold center nav-action'><a href='{{base}}/pitch'>PITCH</a></li>
+            <li class='bold center nav-action'><a href='#modal'>UPDATES</a></li>
         </ul>
     </div>
 </div>

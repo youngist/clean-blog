@@ -2,25 +2,33 @@
 <!-- assign a new variable to hold current page contributors -->
 {% assign contributorname = {{page.contributors[0]}} %}
 <!-- This should be an include because it repeats for the feeds and contributors -->
-	<div class='contributor-header'><div class='col5 contributor-theme-image'><img src='http://www.thisiscolossal.com/wp-content/uploads/2013/07/umbrellas-4.jpg'/></div><div class='contrib-layout circular' style='background:url({{page.image}}) no-repeat; background-size: 225px;'></div><div class='pad8h margin1 col5 contributor-details'><h1 class='contributor-name'>{{contributorname}}</h1><div class=' contributors page-excerpt'>{{page.excerpt}}</div></div></div>
-	<div class='col11 contributor-content'>
-	<div class='pad4 col4 contributor-bio'>{{ page.bio }}</div>
-	<div class='pad4 col8 stories'>
-		<div class='pad0 col11 margin1 picks'>My Stories</div>
-<!-- Must cycle through contributors array to compare with contributor page name -->
-	{% for post in site.posts %}
-	{% for contributor in post.contributors	%}
-		{% if contributor == contributorname %}
-			{% if page.class != contributor %}
-				{% if post.published == true %}
-				<div class="margin1 article">
-					<h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
-					<p class='contributors'>{% for contributor in post.contributors %}{{contributor}}{% endfor %}</p>
-					<p>{{ post.content | strip_html | truncatewords:40}}</p>
-				</div>
+<div class='contributor-header'>
+    <div class='col5 contributor-theme-image'><img src='http://www.thisiscolossal.com/wp-content/uploads/2013/07/umbrellas-4.jpg'/></div>
+    <div class='contrib-layout circular' style='background:url({{page.image}}) no-repeat; background-size: 225px;'></div>
+    <div class='pad8h margin1 col5 contributor-details'>
+        <h1 class='contributor-name'>{{contributorname}}</h1>
+        <div class='contributors titillium bold page-excerpt'>{{page.excerpt}}</div>
+    </div>
+</div>
+    <div class='col11 contributor-content'>
+        <div class='pad4 col4 contributor-bio'>{{ page.bio }}</div>
+        <div class='pad4 col8 stories'>
+        <div class='pad0 col11 margin1 picks'>My Stories</div>
+        <!-- Must cycle through contributors array to compare with contributor page name -->
+        {% for post in site.posts %}
+        {% for contributor in post.contributors	%}
+        {% if contributor == contributorname %}
+        {% if page.class != contributor %}
+        {% if post.published == true %}
+        <div class="margin1 article">
+            <h2 class='bold'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+            <!-- PUT IN LOGIC FOR ADDING "ANDS" -->
+            <p class='contributors'>{% for contributor in post.contributors %}{{contributor}}{% endfor %}</p>
+            <p>{{ post.content | strip_html | truncatewords:40}}</p>
+        </div>
 {% endif %}
 {% endif %}
 {% endif %}
-		{% endfor %}
+{% endfor %}
   {% endfor %}
 </div>

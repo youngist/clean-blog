@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-<div class='col3 contributor-info'>
-	<div class='circular' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 130px;'></div><div class='center contributor-name-bio'><h4>{% for contributor in page.contributors %}
-		<p>{% assign contributorclear = contributor | replace: "'", ' ' %}</p>
-		<a href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}"><h3 class='contributor-name post'>{{ contributor }}</h3></a>{% endfor %}
-</h4><p class='contributors'>{{page.contributorbio}}</p></div>
-	<!-- if more than one add an 'and' (if loop index is two or more) -->
-	</div>
-<div class='margin3 col7 main-content'>
-				<h1 class='article-title'>{{ page.headline }}</h1>
-			{{ content }}
-		</div>
+<div class='col3 rborder contributor-info'>
+    <div class='fl circular' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 130px;'></div>
+    <div class='center fr'><h4>{% for contributor in page.contributors %}
+    	<p>{% assign contributorclear = contributor | replace: "'", ' ' %}</p>
+    	<a href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}"><h3 class='contributor-name post'>{{ contributor }}</h3></a>{% endfor %}
+    </h4><p class='contributors'>{{page.contributorbio}}</p></div>
+    <!-- if more than one add an 'and' (if loop index is two or more) -->
+    </div>
+    <div class='margin3 col7 main-content'>
+    			<h1 class='article-title'>{{ page.headline }}</h1>
+    		{{ content }}
+    	</div>

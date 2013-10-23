@@ -133,262 +133,244 @@ hr {
 
 /* Content Section */
 
+/* General Utilities and Styles */
+
 .rborder{
   border-right: 1px solid #AFAFAF;
 }
 
-.carousel-dark{
-	height: 425px;
-	margin-top: 40px;
-	background: rgb(53, 51, 51);
-	padding: 20px 0;
-	z-index:-1;
+.titillium{
+  font-family:'Titillium Web', sans-serif;
 }
- 
- .search-box{
+
+.bold{
+  font-weight:600;
+}
+
+.pad10 {
+  padding: 0 0 60px 0;
+}
+
+/* makes the article and media section the same off white*/
+.fill-article {
+  background: #F4F5F6;
+  }
+
+/*Navigation*/
+
+.search-box{
    width:20%;
  }
+ 
+.search{
+  padding:15px;
+  }
+
+/*Taken from Mapbox.com menu*/
+.menu li a {
+  float: left;
+  width: 20%; /*Change to 25% when in mobile layout */
+  font-size: 15px;
+  line-height: 10px;
+  height: 40px;
+  position: relative;
+  display: block;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 0;
+  padding: 10px 5px;
+  border-radius: 3px;
+  }
+
+/* Carousel */
+
+.carousel-dark{
+/*  height: 425px;*/
+  margin-top: 40px;
+  background: rgb(53, 51, 51);
+/*  padding: 20px 0;*/
+  z-index:-1;
+}
+
 .prev{
   background: url("images/arrow-l.png") no-repeat;
+  left: -10px;
   }
 
 .next{
   background: url("images/arrow-r.png") no-repeat;
- }
+  right: -60px;
+  }
+
+/* Ads */
+.ad {
+  background:#F4F5F6;
+  border-bottom:2px solid #AFAFAF;
+  height:150px;
+  padding:100px;
+  }
 
 .ad-box {
-	background: white;  	
-	border: black 1px solid;
-	height:75px;
-	width:650px;
-}
+  background: white;
+  border: black 1px solid;
+  height:75px;
+  width:650px;
+  }
 
-.ad {
-	background:#F4F5F6;
-	height:150px;
-	padding:100px;
-	border-bottom:2px solid #AFAFAF;
-}
+/* Tags */
 .tags{
 	background:#BFBEBE;
 	}
-.skinny{
-	color: white;
-	font: 'Titillium Web', sans-serif;
-	font-weight: 600;
-	margin-left: 20px;
-	font-size: 20px;
-	}
-.dark{
-	background: rgb(53, 51, 51);
-/*  height: 235px;
-  width: 275px;
-*/	padding: 20px 0;
+
+.medium-title{
+  font-size: 20px;
+  color: white;
 }
-.all-media{
-/*  height:1776px;*/
-}
-.article-list-title {
-	font-family:'Titillium Web', sans-serif;
-	font-size: 14px;
-	font-weight:600;
-	padding: 15px 0 15px 0;
-}
+
+/* Main Page Article and Media Section */
+.image-space {
+  background: rgb(53, 51, 51);
+/*  padding: 20px 0;*/
+  }
+
+.section-title {
+  font-size: 14px;
+  padding: 15px 0 15px 0;
+  }
+
 .articles-section {
-	background:#F4F5F6;
-	}
+  background:#F4F5F6;
+  color:#474546;
+  }
 
 .media-section {
-	background:#8D8D8D;
-	color:white;
-	}
-	
-.article {
-	padding: 0 0 60px 0;
-/*	border-top: 1px solid #AFAFAF;*/
-	}
-	
+  background:#8D8D8D;
+  color:#ffffff;
+  }
+
 .article h2 {
-/*	padding-top:20px;*/
-	margin-bottom: 5px;
-	}
+/*  Make margin smaller than average h2*/
+  margin-bottom: 5px;
+  }
+/*Article links and Author links on the front page look bad in orange*/
 .article a{
-	color:#474546;
-	}
-	
+  color:#474546;
+  }
+  
 .article a:hover {
-    color:#e68b24;
-	}
+  color:#e68b24;
+  }
 
-.media-header{
-	color:#fff;
-	}
-	
-.video{
-	padding: 20px 0;
-	width:275px;
-	height:275px;
-	}
-
-.small{
-	width:275px;
-	height:275px;
-	}
-
-.main-content{
-	padding: 150px 0 0 20px;
-	}
-	
+/* Footer */
 .footer{
-	background:rgb(53, 51, 51);
-	color: #e68b24;
-	}
+  background:rgb(53, 51, 51);
+  color: #e68b24;
+  }
 
-.menu li a {
-    float: left;
-    width: 15%;
-    font-size: 15px;
-    line-height: 10px;
-    height: 40px;
-    position: relative;
-    display: block;
-    text-align: center;
-    white-space: nowrap;
-    z-index: 0;
-    padding: 10px 5px;
-    border-radius: 3px;
-	}
-	.menu-social li a{
-    font-size: 15px;
-    display: block;
-    white-space: nowrap;
-    position: relative;
-    z-index: 0;
-    border-radius: 3px;
-    height: 41px;
-    width: 42px;
-    float:left;
-	}
 footer {
 	border-top: 1px dotted #d3d3d3;
 	font-size: 14px;
 	}
 
-.contributor-info{
-	margin: 150px 0 0 0;
-	position: fixed;
-	border-right: 1px solid #AFAFAF;
-	}
-.contributor-name-bio{
-	float:right;
-	}
-.contributor-theme-image img{
-	height:400px;
-	}
-
-.post-box{
-	border-right: 1px solid #AFAFAF;
-	}
-
 /* Circle images and Contributor elements */
+
+/* In Post layout*/
+.contributor-info{
+  margin: 150px 0 0 0;
+  position: fixed;
+  }
+
+/* Image given by contributor must always be this height?*/
+.contributor-theme-image img{
+  height:400px;
+  }
+
 .contributors{
-	font-style:italic;
-	color:#999999;
-	}
+  font-style:italic;
+  color:#999999;
+  }
 
+/*What's the difference between these two?*/
 .circular {
-	float: right;
-    width: 90px;
-    height: 90px;
-    border-radius: 100px;
-    -webkit-border-radius: 200px;
-    -moz-border-radius: 200px;
-	background-size:90px;
-	}
-.article-circle{
-    width: 75px;
-    height: 75px;
-	background-size: 60px;
-	border: none;
-	}
+  width: 90px;
+  height: 90px;
+  border-radius: 100px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+  background-size:90px;
+  }
 .circular img {
-    opacity: 0;
-    filter: alpha(opacity=0);
-	}
-.page-excerpt{
-	font-family: 'Titillium Web', sans-serif;
-	font-size:20px;
-	font-weight:600;
-	padding:10px 0 10px 40px;
-	}
-.contrib-layout{
-	position: absolute;
-	top: 150px;
-	left: 35%;
-	width: 150px;
-	height: 150px;
-	background-size: 150px;
-	border:5px solid #fff;
-}
-.contributor-header{
-	height:400px;
-	}
-.contributor-name{
-	font-size: 55px;
-	margin:0;
-}
+  opacity: 0;
+  filter: alpha(opacity=0);
+  }
 
+.article-circle{
+  width: 75px;
+  height: 75px;
+  background-size: 60px;
+/*  border: none;*/
+  }
+
+/*CSS for contributor circle*/
+.contrib-layout{
+  position: absolute;
+  top: 150px;
+  left: 35%;
+  width: 150px;
+  height: 150px;
+  background-size: 150px;
+  border:5px solid #fff;
+  }
+
+/*CSS for contributor circle*/
+.contrib-layout{
+  position: absolute;
+  top: 150px;
+  left: 35%;
+  width: 150px;
+  height: 150px;
+  background-size: 150px;
+  border:5px solid #fff;
+  }
+
+/*Can use for tags posted or anything of posts*/
+.page-excerpt{
+  font-size:20px;
+  padding:10px 0 10px 40px;
+  }
+
+/* NOT SURE WHERE THIS IS USED
 .post{
-	font-size: 20px;
-	padding: 10px;
-	margin:0;
-	color:#333;
+  color:#333;
+  font-size: 20px;
+  padding: 10px;
+  margin:0;
 }
-.stories h2{
-	font-weight:600;
-	}
+*/
 
 /* Header */
 
 .header-container{
-	background:#F9FAFA;
-	box-shadow: 0 0 20px 0 rgb(218, 218, 218);
-	color: black;
-	width: 250px;
-	font-family: 'Engel Light ltd';
-	font-weight: 100;
-	font-size: 32px;
-	position: fixed;
-	z-index: 2;
-	width: 100%;
-	}
-.actions{
-	margin: 13px 0 0 0;
-	font-size: 18px;
-	color: #BFBEBE;
-	font-weight: 600;
-}
+  background:#F9FAFA;
+  color: #000000;
+  box-shadow: 0 0 20px 0 rgb(218, 218, 218);
+/*  width: 250px;*/
+  font-family: 'Engel Light ltd';
+  font-weight: 100;
+  font-size: 32px;
+  position: fixed;
+  z-index: 2;
+  }
+
+.nav-action{
+  margin: 13px 0 0 0;
+  font-size: 18px;
+  color: #BFBEBE;
+  }
+
+/*Controls the size of the icon*/
 .header-title{
   height:60px;
-  }
-.header-about, .header-feeds{
-	position:absolute;
-	padding:15px 0px 15px 0;
-	text-align:center;
-	font-size:17px;
-	font-family:'DINPro-Medium';
-	}
-.header-about{
-	right:270px;
-	top:15px;
-	}
-.header-feeds{
-	right:150px;
-	top:15px;
-	}
-
-.fill-article {
-  background: #F4F5F6;
   }
 
 /* Block Quotes */
@@ -706,11 +688,17 @@ Details: http://www.positioniseverything.net/easyclearing.html
     background-image:url(img/sprite@2x.png);
     background-size:240px 240px;
     }
+/*  TRYING TO MAKE THINGS MORE MOBILE PRETTY*/
   .contributor-theme-image img{
-	width: 100%;
-	height:auto;
- 	}
-	.contributor-name {
-		padding:50px 20px 0 40px;
-	}
-
+  width: 100%;
+  height:auto;
+  }
+  .contributor-name {
+  padding:50px 20px 0 40px;
+  }
+  .ad {
+  padding-top:431px;
+  }
+  .ad-box{
+  margin-top: -50px;
+  }
