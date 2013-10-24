@@ -192,7 +192,7 @@ hr {
   z-index:-1;
 }
 
-.prev{
+/*.prev{
   background: url("images/arrow-l.png") no-repeat;
   left: -10px;
   }
@@ -201,7 +201,7 @@ hr {
   background: url("images/arrow-r.png") no-repeat;
   right: -60px;
   }
-
+*/
 /* Ads */
 .ad {
   background:#F4F5F6;
@@ -360,6 +360,11 @@ footer {
   font-size: 32px;
   position: fixed;
   z-index: 2;
+  }
+
+.header{
+  float: left;
+  width: 16.6666%;
   }
 
 .nav-action{
@@ -702,3 +707,8 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .ad-box{
   margin-top: -50px;
   }
+  .header{
+    float: left;
+    width: 0;
+  }
+  

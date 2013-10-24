@@ -28,17 +28,21 @@
 </head>
 <body {% if page.class %} class='{{page.class}}' {% endif %}>
 <div class='col12 header-container clearfix'>
-    <div class='header'>
-        <div class='col2 rborder header-title' style='padding-bottom: 70px;'>
-            <a class='header-title-link' href='{{base}}/'>
-                <img class='logo' src='{{base}}/images/tumblrlogo.png' style='height:60px;' />
-            </a>
-        </div>
-        <!-- <div class='col1 center rborder' style="padding-bottom: 10px;">
-            <img src="/clean-blog/images/speaker-temp.png" style="height: 41px;">
-        </div> -->
-    </div>
         <!-- SOCIAL MEDIA -->
+        <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+        </button>
+        <div class='header'>
+            <div class='rborder header-title' style='padding-bottom: 70px;'>
+                <a class='header-title-link' href='{{base}}/'>
+                    <img class='logo' src='{{base}}/images/tumblrlogo.png' style='height:60px;' />
+                </a>
+            </div>
+        </div>
+        <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
         <ul class='menu rborder col3' style="padding-bottom: 30px;">
             <li class=''><a class='rborder pad0' href='{{base}}/action'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
             <li class=''><a class='pad0' href='rss'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
@@ -57,6 +61,7 @@
             <li class='bold center nav-action'><a href='{{base}}/pitch'>PITCH</a></li>
             <li class='bold center nav-action'><a href='#modal'>UPDATES</a></li>
         </ul>
+        </nav>
     </div>
 </div>
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
