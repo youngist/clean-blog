@@ -24,7 +24,7 @@ layout: default
                         <p>{{ post.content | strip_html | truncatewords:40}}</p>
                         <p><a class="btn btn-large btn-primary" href="#">Read More</a></p>
                     </div>
-                    <div class="margin1 col6 pad8 carousel-dark"></div>
+                    <div><img class='col5 image-space' src='http://media.tumblr.com/e11fbcc41a52800d4c76d61339f9d8a5/tumblr_inline_mv6llgHQ6X1rkj9dw.jpg'/></div>
                 </div>
             </div>
     {% endif %}
@@ -39,7 +39,7 @@ layout: default
                 <p>{{ post.content | strip_html | truncatewords:40}}</p>
                 <p><a class="btn btn-large btn-primary" href="#">Learn more</a></p>
             </div>
-            <div class="margin1 col6 carousel-dark"></div>
+                    <div><img class='col5 image-space' src='http://media.salon.com/2013/07/trayvon_martin_protest2-620x412.jpg'/></div>
           </div>
         </div>
         {% endif %}
@@ -80,7 +80,7 @@ layout: default
                 <h4>{{post.date || date: "%b %d, %Y" }}</h4>
             </div>
             <div class='col9 margin1 article'>
-                <div class='col12 pad8 image-space'></div><!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->
+                <div class='col12'><img class='image-space' src='http://media.tumblr.com/e11fbcc41a52800d4c76d61339f9d8a5/tumblr_inline_mv6llgHQ6X1rkj9dw.jpg'/></div><!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->
                 <h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
                 <p class='contributors'>{% for contributor in post.contributors %}
                 <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p><p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}
@@ -99,7 +99,7 @@ layout: default
             </div>
         </div>
         <div class='col9 margin1 article'>
-            {% if forloop.rindex == 2 %}<div class='col12 pad8 image-space'></div><!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->{% endif %}
+            {% if forloop.rindex == 2 %}<div class='col12'><img class='image-space' src='http://media.tumblr.com/e11fbcc41a52800d4c76d61339f9d8a5/tumblr_inline_mv6llgHQ6X1rkj9dw.jpg'/></div><!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->{% endif %}
             <h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
             <p class='contributors'>{% for contributor in post.contributors %}
             <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
@@ -112,7 +112,9 @@ layout: default
         {% for post in site.categories.video limit:4 %}
         {% if post.published == true %}
         {% if forloop.rindex != 1 %}
-        <div class='col11 pad8 image-space'></div>
+        <div class='col11'>
+            <img class='image-space' src='https://lh3.googleusercontent.com/p3tFpAjG-TfjyUeyj_PM_5PPNmQwIbuW9trIl3j-TejPg13JOS3VszzIl7QalrIqiVG8cqCb2deX7KLbQc7suewsIQG2U27fTZG-tOPQVhtWeTvoL3ZG_yw24Q'/>
+        </div>
         <h3 class='col11'>{{post.title}}</h3>
         {% endif %}
         {% if forloop.rindex == 1 %}

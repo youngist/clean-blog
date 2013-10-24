@@ -208,6 +208,7 @@ hr {
   border-bottom:2px solid #AFAFAF;
   height:150px;
   padding:100px;
+  padding-top: 130px;
   }
 
 .ad-box {
@@ -366,16 +367,17 @@ footer {
   float: left;
   width: 16.6666%;
   }
+.logo{
+  width: 175px;
+  }
+.image-space{
+  width:100%;
+  }
 
 .nav-action{
   margin: 13px 0 0 0;
   font-size: 18px;
   color: #BFBEBE;
-  }
-
-/*Controls the size of the icon*/
-.header-title{
-  height:60px;
   }
 
 /* Block Quotes */
@@ -654,6 +656,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
   }
+  .logo{
+    width: 115px;
+  }
 
 /* Mobile Layout
 ------------------------------------------------------- */
@@ -702,13 +707,18 @@ Details: http://www.positioniseverything.net/easyclearing.html
   padding:50px 20px 0 40px;
   }
   .ad {
-  padding-top:431px;
+  padding:80px 50px;
   }
-  .ad-box{
+/*  .ad-box{
   margin-top: -50px;
   }
-  .header{
+*/.header{
     float: left;
     width: 0;
   }
-  
+  .navbar-collapse {
+    padding-top: 50px;
+  }
+  .logo{
+    width: 115px;
+  }
