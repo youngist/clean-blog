@@ -166,10 +166,28 @@ hr {
   padding:15px;
   }
 
-/*Taken from Mapbox.com menu*/
-.menu li a {
+/* Tags */
+
+.tag-box li a {
   float: left;
-  width: 20%; /*Change to 25% when in mobile layout */
+  width: 10%;
+  text-align: center;
+  line-height: 1px;
+  color: white;
+} 
+.tag h4 a{
+  background: #e68b24;
+  color: white;
+  text-align: center;
+  min-width: 70px;
+}
+.tags{
+  height:70px;
+}
+/*Taken from Mapbox.com menu*/
+.menu li a, .menu-social li a {
+  float: left;
+  width: 25%; /*Change to 25% when in mobile layout */
   font-size: 15px;
   line-height: 10px;
   height: 40px;
@@ -181,6 +199,12 @@ hr {
   padding: 10px 5px;
   border-radius: 3px;
   }
+
+  .menu-social li a {
+    width: 20%; /*Change to 25% when in mobile layout */
+    }
+
+
 
 /* Carousel */
 
@@ -691,7 +715,8 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .pad4c { padding:0; }
   .pad4,
   .pad4h { padding-left:20px; padding-right:20px; }
-  .pad8, .pad8h { padding:40px 20px; }
+  .pad8 { padding:40px 20px; }
+  .pad8h { padding:80px 20px; }
   .hide-mobile { display:none; }
   .show-mobile { display:block; }
   .icon {
@@ -721,4 +746,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   }
   .logo{
     width: 115px;
+  }
+  .tags{
+    height:250px;
   }
