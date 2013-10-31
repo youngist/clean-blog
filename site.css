@@ -151,6 +151,9 @@ hr {
   padding: 0 0 60px 0;
 }
 
+.textr{
+ text-align:right;
+}
 /* makes the article and media section the same off white*/
 .fill-article {
   background: #F4F5F6;
@@ -179,7 +182,7 @@ hr {
   background: #e68b24;
   color: white;
   text-align: center;
-  min-width: 70px;
+  min-width: 100px;
 }
 .tags{
   height:70px;
@@ -250,10 +253,15 @@ hr {
 .medium-title{
   font-size: 20px;
   color: white;
-}
+  }
 
 /* Main Page Article and Media Section */
+
+.listed-article{
+  padding-bottom:75px;
+  }
 .image-space {
+  height:450px;
   background: rgb(53, 51, 51);
 /*  padding: 20px 0;*/
   }
@@ -394,7 +402,7 @@ footer {
 .logo{
   width: 175px;
   }
-.image-space{
+.media-space{
   width:100%;
   }
 
@@ -617,6 +625,12 @@ table {
 .margin11 { margin-left:91.6666%; }
 .margin12 { margin-left:100.0000%; }
 
+.marginr0  { margin-right:04.1666%; }
+.marginr1  { margin-right:08.3333%; }
+.marginr2  { margin-right:16.6666%; }
+.marginr3  { margin-right:25.0000%; }
+.marginr4  { margin-right:33.3333%; }
+
 /* Padding
 ------------------------------------------------------- */
 .pad0	 { padding:5px; }
@@ -680,10 +694,10 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
   }
-  .logo{
+/*  .logo{
     width: 115px;
   }
-
+*/
 /* Mobile Layout
 ------------------------------------------------------- */
 @media only screen and (max-width:640px) {
@@ -711,7 +725,12 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .margin9,
   .margin10,
   .margin11,
-  .margin12 { margin-left:0; }
+  .margin12,
+  .marginr0,
+  .marginr1,
+  .marginr2,
+  .marginr3,
+  .marginr4 { margin-left:0; }
   .pad4c { padding:0; }
   .pad4,
   .pad4h { padding-left:20px; padding-right:20px; }
@@ -748,5 +767,8 @@ Details: http://www.positioniseverything.net/easyclearing.html
     width: 115px;
   }
   .tags{
-    height:250px;
+    height:278px;
+  }
+  .tag h4 a{
+    margin-bottom: 10px;
   }
