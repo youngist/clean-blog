@@ -158,6 +158,9 @@ hr {
 .fill-article {
   background: #F4F5F6;
   }
+.dark-link{
+  color:#333;
+  }
 
 /*Navigation*/
 
@@ -309,7 +312,7 @@ footer {
 
 /* In Post layout*/
 .contributor-info{
-  margin: 150px 0 0 0;
+/*  margin: 150px 0 0 0;*/
   position: fixed;
   }
 
@@ -372,6 +375,14 @@ footer {
   padding:10px 0 10px 40px;
   }
 
+.publishedabove{
+  border-top: 1px solid #AFAFAF;
+  margin-top: 20px;
+  }
+.publishedbelow{
+  border-bottom: 1px solid #AFAFAF;
+  margin-bottom: 20px;
+}  
 /* NOT SURE WHERE THIS IS USED
 .post{
   color:#333;
@@ -746,6 +757,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .contributor-theme-image img{
   width: 100%;
   height:auto;
+  }
+  .contributor-info{
+    position:relative;
   }
   .contributor-name {
   padding:50px 20px 0 40px;
