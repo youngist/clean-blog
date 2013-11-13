@@ -135,6 +135,12 @@ hr {
 
 /* General Utilities and Styles */
 
+.topborder{
+  border-top:1px solid #fff;
+}
+.bottomborder{
+  border-bottom:1px solid #fff;
+}
 .rborder{
   border-right: 1px solid #AFAFAF;
 }
@@ -232,6 +238,23 @@ hr {
   right: -60px;
   }
 */
+
+/* About Page */
+.about-list{
+  font-size:20px;
+  }
+  
+.motto{
+  font-weight: 600;
+  font-family:'Titillium Web', sans-serif;
+  font-style:italic;
+  color:#AFAFAF;
+  font-size:20px;
+  }
+  
+p.about-list ol li{
+  font-size:20px;
+}
 /* Ads */
 .ad {
   background:#F4F5F6;
@@ -302,7 +325,15 @@ hr {
   background:rgb(53, 51, 51);
   color: #e68b24;
   }
-
+.footer-links{
+  }
+.footer-links li{
+  }
+.footer-links li a{
+  }
+.footer-social li{
+  float:left;
+  }
 footer {
 	border-top: 1px dotted #d3d3d3;
 	font-size: 14px;
