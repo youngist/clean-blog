@@ -326,13 +326,38 @@ p.about-list ol li{
   color: #e68b24;
   }
 .footer-links{
-  }
-.footer-links li{
+  text-align:left;
   }
 .footer-links li a{
+  font-weight: 800;
+  color: white;
+  font-size: 25px;
+  line-height: 25px;
+  }
+.footer-social{
+  margin-bottom: 15px;
   }
 .footer-social li{
   float:left;
+  }
+.footer-logo{
+  font-family: 'Engel Light ltd';
+  color: white;
+  font-size: 45px;
+  }
+.footer-button{
+  background: orange;
+  margin-bottom: 15px;
+  }
+.footer-button a{
+  color: rgb(53, 51, 51);
+  font-size: 25px;
+  font-weight: 600;
+  }
+.social-circle{
+    width: 30px;
+    height: 30px;
+    background: white;
   }
 footer {
 	border-top: 1px dotted #d3d3d3;
