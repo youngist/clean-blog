@@ -30,7 +30,8 @@ module Jekyll
         entry.strip_index_suffix_from_url! if @strip_index_html
 
         index << {
-          :title => entry.title, 
+          :title => entry.title,
+          :headline => entry.headline,
           :url => entry.url,
           :date => entry.date,
           :categories => entry.categories,
@@ -54,7 +55,7 @@ module Jekyll
       end
 
       # Keep the search.json file from being cleaned by Jekyll
-      site.static_files << Jekyll::SearchIndexFile.new(site, site.dest, "/", filename)
+      site.static_files << Jekyll::SearchIndexFile.new(site, site.dest, "clean-blog/", filename)
 
       puts ''
     end
