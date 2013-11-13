@@ -25,6 +25,13 @@
   })();
 
 </script>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{ padding-top:100px; background:#fff; clear:left; font:14px "Titillium Web",Arial,sans-serif; z-index:1; position:fixed;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
 </head>
 <body {% if page.class %} class='{{page.class}}' {% endif %}>
 <div class='col12 header-container clearfix'>
@@ -59,15 +66,54 @@
             <li class='bold center nav-action'><a href='{{base}}/donate'>DONATE</a></li>
             <li class='bold center nav-action'><a href='{{base}}/about'>ABOUT</a></li>
             <li class='bold center nav-action'><a href='{{base}}/pitch'>PITCH</a></li>
-            <li class='bold center nav-action'><a href='#modal'>UPDATES</a></li>
+            <li class='bold center nav-action'><a href='{{base}}/#update' onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
         </ul>
         </nav>
     </div>
 </div>
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type='text/javascript'>
+function updatemodal(){
+    el = document.getElementById("mc_embed_signup");
+    if($(el).hasClass("hide")){
+      $(el).removeClass("hide");
+      $(el).addClass("shown");
+    }
+    else if($(el).hasClass("shown")){
+        $(el).removeClass("shown");
+        $(el).addClass("hide");
+    }
+}
+</script>
+<div id="mc_embed_signup" class='hide pad4 margin4'>
+<form action="http://Youngist.us4.list-manage.com/subscribe/post?u=890561b9b92aaff44f71a6864&amp;id=7ab0d89a07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <em class='fr'><a onclick='updatemodal()'>Close</a></em>
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 {{content}}
 <div class='col12 pad4 center container footer'>
-    <div class='col3 footer-logo'>{young}ist</div>
+    <div class='col4 footer-logo'>{young}ist</div>
     <ul class='col2 footer-links'>
         <li><a href='{{base}}/contact'>Contact Us</a></li>
         <li><a href='{{base}}/masthead'>Masthead</a></li>
@@ -78,15 +124,15 @@
         <li><a href='{{base}}/about'>About Us</a></li>
         <li><a href='{{base}}/terms'>Terms of Service</a></li>
     </ul>
-    <div class='col4'>
-    <ul class='fl col12 footer-social'>
-        <li><a class='pad0' href='rss'><img class='circular social-circle' src='{{base}}/images/icon-social-rss.svg' style='height: 41px;' /></a></li>
-        <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular social-circle' src='{{base}}/images/icon-social-facebook.svg' style='height: 41px;' /></a></li>
-        <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular social-circle' src='{{base}}/images/icon-social-twitter.svg' style='height: 41px;' /></a></li>
-        <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular social-circle' src='{{base}}/images/icon-social-tumblr.svg' style='height: 41px;' /></a></li>
-    </ul>
-    <div class='pad0 fl col10 footer-button'><a href='{{base}}/#modal'>Sign up for email updates</a></div>
-    <div class='pad0 fl col11 footer-button'><a href='{{base}}/donate'>Help keep us up and running</a></div>
+    <div class='col3'>
+        <ul class='fl col12 footer-social'>
+            <li><a class='pad0' href='rss'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss.svg' /></a></li>
+            <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-facebook.svg' style='height: 25px;' /></a></li>
+            <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter.svg' style='height: 25px;' /></a></li>
+            <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr.svg' style='height: 25px;' /></a></li>
+        </ul>
+        <div class='pad0 fl col12 footer-button'><a href='{{base}}/#update' onclick='updatemodal()'>Sign up for email updates</a></div>
+        <div class='pad0 fl col12 footer-button'><a href='{{base}}/donate'>Help keep us up and running</a></div>
     </div>
 </div>
 <!-- <script src="{{base}}/js/search.min.js"></script> -->

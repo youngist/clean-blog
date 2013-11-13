@@ -354,10 +354,10 @@ p.about-list ol li{
   font-size: 25px;
   font-weight: 600;
   }
-.social-circle{
-    width: 30px;
-    height: 30px;
-    background: white;
+.footer-social-logo{
+  height:25px;
+  width:25px;
+  background: white;
   }
 footer {
 	border-top: 1px dotted #d3d3d3;
@@ -383,13 +383,16 @@ footer {
   }
 
 /*What's the difference between these two?*/
-.circular {
+.other-circle{
   width: 90px;
   height: 90px;
+  background-size:90px;
+  }
+
+.circular {
   border-radius: 100px;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
-  background-size:90px;
   }
 .circular img {
   opacity: 0;

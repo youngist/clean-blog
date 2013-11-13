@@ -31,7 +31,6 @@ module Jekyll
 
         index << {
           :title => entry.title,
-          :headline => entry.headline,
           :url => entry.url,
           :date => entry.date,
           :categories => entry.categories,
