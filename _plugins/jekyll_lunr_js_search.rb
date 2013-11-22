@@ -60,7 +60,7 @@ module Jekyll
     end
 
   private
-    
+  
     def pages_to_index(site)
       # Deep copy pages
       items = []

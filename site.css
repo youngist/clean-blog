@@ -167,7 +167,6 @@ hr {
 .dark-link{
   color:#333;
   }
-
 /*Navigation*/
 
 .search-box{
@@ -188,13 +187,15 @@ hr {
   color: white;
 } 
 .tag h4 a{
-  background: #e68b24;
   color: white;
   text-align: center;
   min-width: 100px;
 }
 .tags{
   height:70px;
+}
+.tag-color{
+  background: #e68b24;
 }
 /*Taken from Mapbox.com menu*/
 .menu li a, .menu-social li a {
@@ -454,17 +455,18 @@ footer {
 /* Header */
 
 .header-container{
+  color: #BFBEBE;
+  font-weight: 800;
   background:#F9FAFA;
-  color: #000000;
   box-shadow: 0 0 20px 0 rgb(218, 218, 218);
-/*  width: 250px;*/
   font-family: 'Engel Light ltd';
-  font-weight: 100;
-  font-size: 32px;
   position: fixed;
   z-index: 2;
   }
-
+.header-container a:hover{
+	color:#e68b24;
+	text-decoration: none;
+}
 .header{
   float: left;
   width: 16.6666%;
@@ -480,6 +482,17 @@ footer {
   margin: 13px 0 0 0;
   font-size: 18px;
   color: #BFBEBE;
+  }
+
+/* Social */
+a.facebook-color{
+  background:#425F9C;
+  }
+a.twitter-color{
+  background:#00ACEE;
+  }
+a.google-color{
+  background:#DF5138;
   }
 
 /* Block Quotes */
