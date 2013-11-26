@@ -93,7 +93,7 @@ p {
   font-family:'Fauna One', serif;
   }
   p:last-child { margin-bottom:0;}
-
+  
 /* Links */
 a {
   color:#e68b24;
@@ -108,8 +108,16 @@ a {
   a:active {
     color:#e68b24;
     }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 a{
+   color:#474546;
+   }
 
-abbr {
+r {
   border-bottom:1px dotted #000;
   cursor:help;
   }

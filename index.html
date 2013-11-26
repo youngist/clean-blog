@@ -6,29 +6,29 @@ exclude_from_search: true
 <div class='pad8 col12 container ad'><div class='col7 margin2 ad-box'></div></div>
 <!-- JEKYLL LOGIC Feature tagged stories will be on the carousel, so featured stories will not show up in recent or editors picks -->
 <div id='myCarousel' class='col12 carousel slide'>
-    <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
+    <ol class='carousel-indicators'>
+        <li data-target='#myCarousel' data-slide-to='0' class='active'></li>
+        <li data-target='#myCarousel' data-slide-to='1'></li>
+        <li data-target='#myCarousel' data-slide-to='2'></li>
     </ol>
-    <div class="carousel-inner">
-    <!-- This will be the first article with "active" the rest will be just "item"  -->
+    <div class='carousel-inner'>
+    <!-- This will be the first article with 'active' the rest will be just 'item'  -->
     {% for post in site.categories.featured limit: 3 %}
     {% if post.published == true %}
     {% if forloop.rindex == 1 %}
-        <div class="item active">
-          <div class="container">
-            <div class="margin0 col4 carousel-caption tag">
-                <h1><a href={{site.baseurl}}/{{post.url}}>{{post.headline}}</h1>
+        <div class='item active'>
+          <div class='container'>
+            <div class='margin0 col4 carousel-caption tag'>
+                <h1 class='article'><a href={{site.baseurl}}/{{post.url}}>{{post.headline}}</h1>
                 <p class='contributors'>{% for contributor in post.contributors %}
-                <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+                <a href='{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}'>{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
                 <p>{{ post.content | strip_html | truncatewords:40}}</p>
                 <div class='pad0 circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 75px;'></div>
                 <!--ADD TAGS AND DATE -->
                 {% for tag in post.tags %}<h4 class='pad0 fl'><a class='tag-color pad0' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
-                <!-- <h4 class='fl'>{{post.date || date: "%b %d, %Y" }}</h4> -->
+                <!-- <h4 class='fl'>{{post.date || date: '%b %d, %Y' }}</h4> -->
             
-                <!-- <p><a class="btn btn-large btn-primary" href="#">Learn more</a></p> -->
+                <!-- <p><a class='btn btn-large btn-primary' href='#'>Learn more</a></p> -->
             </div>
             <div><img class='margin1 image-space' src={{post.featuredphoto}}></div>
           </div>
@@ -36,19 +36,19 @@ exclude_from_search: true
     {% endif %}
         <!-- Make the second and third post fill this item template -->
         {% if forloop.rindex != 1 %}
-        <div class="item">
-          <div class="container">
-            <div class="margin0 col4 carousel-caption tag">
+        <div class='item'>
+          <div class='container'>
+            <div class='margin0 col4 carousel-caption tag'>
                 <h1>{{post.headline}}</h1>
                 <p class='contributors'>{% for contributor in post.contributors %}
-                <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+                <a href='{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}'>{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
                 <p>{{ post.content | strip_html | truncatewords:40}}</p>
                 <div class='pad0 circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 75px;'></div>
                 <!--ADD TAGS AND DATE -->
                 {% for tag in post.tags %}<h4 class='pad0 fl'><a class='pad0 tag-color' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
-                <!-- <h4 class='fl'>{{post.date || date: "%b %d, %Y" }}</h4> -->
+                <!-- <h4 class='fl'>{{post.date || date: '%b %d, %Y' }}</h4> -->
                 
-                <!-- <p><a class="btn btn-large btn-primary" href="#">Learn more</a></p> -->
+                <!-- <p><a class='btn btn-large btn-primary' href='#'>Learn more</a></p> -->
             </div>
             <div><img class='margin1 image-space' src={{post.featuredphoto}}></div>
           </div>
@@ -59,8 +59,8 @@ exclude_from_search: true
       </div>
       <!-- FIND ICONS FOR THESE from Tom -->
       <div id='nav-buttons'>
-          <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon pad4 prev"></span></a>
-          <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon pad4 next"></span></a>
+          <a class='left carousel-control' href='#myCarousel' data-slide='prev'><span class='glyphicon pad4 prev'></span></a>
+          <a class='right carousel-control' href='#myCarousel' data-slide='next'><span class='glyphicon pad4 next'></span></a>
       </div>
   </div>
 <div class='pad2 tags'>
@@ -68,44 +68,53 @@ exclude_from_search: true
     <div class='col2 medium-title boldtitillium'>TRENDING:</div>
     <ul class='tag'>
 <!-- JEKYLL LOGIC for loop through recent articles and take unique tags, max 6? -->
-    {% for post in site.posts limit: 3 %}
+    {% for post in site.posts limit: 5 %}
     {% if post.published == true %}
-    <!-- MAKE SURE TAGS DON'T REPEAT, CAN'T HAVE MORE THAN 6 --><!-- Need logic if tag already exists -->
-    <!-- Still need to add tag plugin -->
-    {% for tag in post.tags %}<li class='col2'><h4><a class='col1 pad0 tag-color' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4></li>{% endfor %}
+    <!-- MAKE SURE TAGS DON'T REPEAT Need logic if tag already exists, add tag to list and compare, if the same skip? -->
+    {% for tag in post.tags limit:1 %}<li class='col2'><h4><a class='col1 pad0 tag-color' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4></li>{% endfor %}
     {% endif %}
     {% endfor %}
     </ul>
 </div>
 <div class='container fill-article all-media'>
     <div class='pad4 col8 articles-section'>
-        <!--CSS LOGIC FLOAT WRITER BUBBLE AND OTHER INFO TO THE LEFT LIKE CONTRIBUTOR PAGES -->
         <div class='col9 margin3 titillium bold section-title picks'>Editor's Picks</div>
         {% for post in site.categories.editors %}
         {% if post.published == true %}
         <div class='container col12 listed-article'>
             <div class='col2 rborder tag'>
                 <div class='pad0 marginr3 fr circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 75px;'></div>
-                <!--ADD TAGS AND DATE -->
                 {% for tag in post.tags %}<h4 class='pad0 marginr3 textr col12 fr'><a class='pad0 tag-color' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
-                <h4 class='pad0 col12 marginr3 textr fr'>{{post.date || date: "%b %d, %Y" }}</h4>
+                <h4 class='pad0 col12 marginr3 textr fr'>{{post.date || date: '%b %d, %Y' }}</h4>
             </div>
             <div class='col9 margin0 article'>
-                <div class='col12'><img class='col12 image-space' src={{post.articlephoto}} /></div><!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->
+                <!-- ADD LOGIC If post has a picture! -->
+				{% if {{post.featuredphoto}} != 'undefined' || '' %}
+				<div class='col12'>
+					<img class='col12 image-space' src={{post.articlephoto}} />
+				</div>
+				{% endif %}<!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->
                 <h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
-                <p class='contributors'>{% for contributor in post.contributors %}
-                <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p><p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}
+                <p class='contributors'>
+					{% for contributor in post.contributors %}
+					{% assign links = 'false' %} 
+					{% for post in site.posts %} 
+					{% if post.title == contributor %}<a href='{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}'>{{contributor}}</a>
+					{% assign links = 'true' %} 
+					{% endif %}
+					{% endfor %}
+					{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p><p>{{ post.content | strip_html | truncatewords:40}}</p>{% endif %}
             </div>{% endfor %}
         </div>
         <div class='col9 margin3 titillium bold section-title picks'>Most Recent</div>
         {% for post in site.categories.article limit:4 %}
-        {% if post.categories[1] != "editors" %}
+        {% if post.categories[1] != 'editors' %}
         {% if post.published == true %}
             <div class='container col12 listed-article'>
                 <div class='col2 rborder tag'>
                     <div class='pad0 marginr3 fr circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: 75px;'></div>
                     {% for tag in post.tags %}<h4 class='pad0 marginr3 textr col12 fr'><a class='pad0 tag-color' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
-                    <h4 class='pad0 col12 marginr3 textr fr'>{{post.date || date: "%b %d, %Y" }}</h4>
+                    <h4 class='pad0 col12 marginr3 textr fr'>{{post.date || date: '%b %d, %Y' }}</h4>
                 </div>
                 <div class='col9 margin0 article'>
                     {% if forloop.rindex == 2 %}
@@ -117,7 +126,7 @@ exclude_from_search: true
                     <h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
                     <p class='contributors'>
                         {% for contributor in post.contributors %}
-                        <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+                        <a href='{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}'>{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
                         <p>{{ post.content | strip_html | truncatewords:40}}</p>
                 </div>
             </div>
@@ -126,15 +135,15 @@ exclude_from_search: true
         {% endfor %}
         </div>
         <div class='pad4 col4 article-list-title fill-article article-section'>
-        <!-- MEDIA SECTION WILL SHOW IMAGE OR SCREENSHOT OF VIDEO AND LINK TO THE ARTICLE WITH THE VIDEO EMBEDDED -->
+        <!-- MEDIA SECTION WILL SHOW IMAGE OR SCREENSHOT OF VIDEO AND LINK TO THE ARTICLE WITH THE VIDEO EMBEDDED under metadata featuredphoto: -->
             <div class='col11 titillium bold section-title'>New Videos</div>
-            {% for post in site.categories.video limit:4 %}
+            {% for post in site.categories.video limit:2 %}
             {% if post.published == true %}
             {% if forloop.rindex != 1 %}
             <div class='col11'>
-                <img class='col11 media-space' src='https://lh3.googleusercontent.com/p3tFpAjG-TfjyUeyj_PM_5PPNmQwIbuW9trIl3j-TejPg13JOS3VszzIl7QalrIqiVG8cqCb2deX7KLbQc7suewsIQG2U27fTZG-tOPQVhtWeTvoL3ZG_yw24Q'/>
+                <img class='col11 media-space' src={{post.featuredphoto}} />
             </div>
-            <h3 class='col11'>{{post.title}}</h3>
+            <h3 class='col11 article'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h3>
             {% endif %}
             {% if forloop.rindex == 1 %}
             <!-- WE WILL PUT AN ADD HERE -->
@@ -143,22 +152,23 @@ exclude_from_search: true
             {% endif %}
             {% endfor %}
             <div class='pad0 col11 titillium bold section-title'>Galleries</div>
-            <!-- this will be a for loop for galleries later -->
+            {% for post in site.categories.gallery limit:2 %}
+            {% if post.published == true %}
             <div class='col11'>
-                <img class='col11 media-space' src='http://london-student.net/wp-content/uploads/2013/10/IMG_59751-682x1024.jpg'/>
+                <img class='col11 media-space' src={{post.featuredphoto}} />
             </div>
-            <h3 class='col11'>My Body, My Marriage{{post.title}}</h3>
-            <div class='col11'>
-                <img class='col11 media-space' src='http://media.tumblr.com/a6d9bb6f25de41e0f654f0807aa99f05/tumblr_inline_mv2xcpD9nN1rkj9dw.png'/>
-            </div>
-            <h3 class='col11 '>Stonewall 1969{{post.title}}</h3>
+            <h3 class='col11 article'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h3>
+            {% endif %}
+            {% endfor %}
             <div class='pad0 col11 titillium bold section-title'>Sounds</div>
-            <!-- this will be a for loop for sounds later -->
+            {% for post in site.categories.sound limit:2 %}
+            {% if post.published == true %}
             <div class='col11'>
-                <img class='col11 media-space' src='http://wagingnonviolence.org/wp-content/uploads/2013/10/eloy8.5.jpg'/>
+                <img class='col11 media-space' src={{post.featuredphoto}} />
             </div>
-            <h3 class='col11'>Lysistrata Lyceum: Meditations from a Greek American Living in Greece{{post.title}}</h3>
+            <h3 class='col11 article'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h3>
+            {% endif %}
+            {% endfor %}
         </div>
     </div>
 </div>
-
