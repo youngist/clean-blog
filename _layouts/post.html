@@ -6,15 +6,8 @@ layout: default
   <img itemprop="image" src="{{ page.featuredphoto }}" />
   <p itemprop="description">{{page.tagline}}</p>
 </div> -->
-<!-- Open Graph -->
-<meta property='og:title' content='{{ page.headline }}' />
-<meta property='og:image' content='{{ page.featuredphoto }}' />
-<meta property='og:description' content='{{page.tagline}}' />
-<meta property="og:url" content="{{page.url}}" />
-<!-- Should I use tagline or an excerpt? -->
-<!-- <meta property='og:description' content='{{ post.content | strip_html | truncatewords:20}}' /> -->
 <div class='col12 container pad8' style='padding-top:152px;'>
-    <div class='col10 margin3 main-content'>
+    <div class='col8 margin3 main-content'>
         <h1 class='article-title'>{{ page.headline }}</h1>
         {{ content }}
     </div>
@@ -31,10 +24,12 @@ layout: default
             <h4 class='margin3 col7 publishedabove'>published</h4>
             <h4 class='margin3 col7 publishedbelow'>{{page.date || date: "%b %d, %Y" }}</h4>
             <!-- </div> -->
-            <h4 class='tag'><a class='margin3 col3 pad0 facebook-color' href='http://www.facebook.com/'>Facebook</a></h4>
-            <h4><a class='margin3 col3 pad0 google-color' href='http://www.google.com/'>Google+</a></h4>
-            <h4><a class='margin3 col3 pad0 twitter-color' href='http://www.twitter.com/'>Twitter</a></h4>
-    </div>
+            <h4 class='tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="youngist.github.com/{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
+</h4>
+            <h4 class='tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
+            <h4 class='tag'></h4>
+	</div>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
             <!-- NEED LOGIC FOR LOADING SOCIAL MEDIA LINKS IF POSSIBLE -->
             <!-- ADD TOP BORDER -->
             <!-- SHARE SOCIAL MEDIA -->

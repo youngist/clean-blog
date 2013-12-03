@@ -180,13 +180,24 @@ hr {
 .search-box{
    width:20%;
  }
- 
-.search{
+
+ .search{
   padding:15px;
   }
 
-/* Tags */
+/* .rss{
+  background: url('imgs/sprite-smaller.png') no-repeat -27px -189px;
+  width: 27px;
+  height: 28px;
+  }
 
+ .facebook{
+  background: url('imgs/sprite-smaller.png') no-repeat 0 -189px;
+  width: 17px;
+  height: 28px;
+  }
+*/
+/* Tags */
 .tag-box li a {
   float: left;
   width: 10%;
@@ -197,10 +208,10 @@ hr {
 .tag h4 a{
   color: white;
   text-align: center;
-  min-width: 100px;
+  min-width: 110px;
 }
 .tags{
-  height:70px;
+/*  height:70px;*/
 }
 .tag-color{
   background: #e68b24;
@@ -247,6 +258,11 @@ hr {
   right: -60px;
   }
 */
+
+/*Masthead*/
+.bio{
+	padding:30px 0;
+}
 
 /* About Page */
 .about-list{
@@ -861,7 +877,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
     width: 115px;
   }
   .tags{
-    height:278px;
+    /*height:278px;*/
   }
   .tag h4 a{
     margin-bottom: 10px;

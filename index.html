@@ -63,20 +63,23 @@ exclude_from_search: true
           <a class='right carousel-control' href='#myCarousel' data-slide='next'><span class='glyphicon pad4 next'></span></a>
       </div>
   </div>
-<div class='pad2 tags'>
+<div class='pad2 container tags'>
     <!-- Change title for class -->
-    <div class='col2 medium-title boldtitillium'>TRENDING:</div>
+    <div class='col1 medium-title boldtitillium'>TRENDING:</div>
     <ul class='tag'>
 <!-- JEKYLL LOGIC for loop through recent articles and take unique tags, max 6? -->
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.posts limit: 8 %}
     {% if post.published == true %}
     <!-- MAKE SURE TAGS DON'T REPEAT Need logic if tag already exists, add tag to list and compare, if the same skip? -->
-    {% for tag in post.tags limit:1 %}<li class='col2'><h4><a class='col1 pad0 tag-color' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4></li>{% endfor %}
+    {% for tag in post.tags limit:1 %}<li style='
+    margin-left: 20px;'><h4><a class='col1 pad0 tag-color' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4></li>{% endfor %}
     {% endif %}
     {% endfor %}
+	<li style='
+    margin-left: 20px;'><h4><a class='col1 pad0 tag-color' href={{site.baseurl}}/tag/black-friday>Black Friday</a></h4></li>
     </ul>
 </div>
-<div class='container fill-article all-media'>
+<div class='container col12 fill-article all-media'>
     <div class='pad4 col8 articles-section'>
         <div class='col9 margin3 titillium bold section-title picks'>Editor's Picks</div>
         {% for post in site.categories.editors %}
