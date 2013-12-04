@@ -208,7 +208,7 @@ hr {
 .tag h4 a{
   color: white;
   text-align: center;
-  min-width: 110px;
+  min-width: 100px;
 }
 .tags{
 /*  height:70px;*/
@@ -398,10 +398,10 @@ footer {
   }
 
 /* Image given by contributor must always be this height?*/
-.contributor-theme-image img{
-  height:400px;
-  }
-
+.contributor-theme-image{
+	background: chocolate;
+	height:400px;
+}
 .contributors{
   font-style:italic;
   color:#999999;
@@ -879,6 +879,14 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .tags{
     /*height:278px;*/
   }
+  .media.tag-color{
+   display: none;
+  }
   .tag h4 a{
+    margin-bottom: 10px;
+	max-width: 240px;
+  }
+  .media h4 a{
+    display: none;
     margin-bottom: 10px;
   }
