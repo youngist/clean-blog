@@ -1,0 +1,32 @@
+---
+published: false
+---
+
+## Students Fined $5,000 for Activism by Wesleyan University
+### by Mariama Eversley and Ross Levin
+
+![bathroom signs](/http://media.tumblr.com/4708ddfc8ce1b7f745af2e3ec5648fa5/tumblr_inline_mx9a71RyHK1rkj9dw.jpg)
+
+The self-proclaimed “Diversity University” is at it again.  Wesleyan University, located in Middletown, Connecticut, is prosecuting three trans* and gender-nonconforming students for taking political action to address transgender discrimination on campus.  This comes just one year after the University reversed their need blind admission policy, and a rash of racial profiling by the campus police, Public Safety.  
+
+On Wednesday, December 4th, Wesleyan University will be holding a disciplinary hearing against the three aforementioned trans* and gender-nonconforming students.  The charges against the three stem from actions taken this October to “degender” public restrooms.  These students are being targeted because of their visibility in these actions and in the LGBTQ community on campus, despite no evidence that they are indeed responsible for the $5,245 in fines they are facing.
+
+Beginning this October, Wesleyan students began removing gender signs from public restrooms across campus. In place of the gender signs, they posted new all gender signs as well as manifestos which explained their actions: “We demand that Wesleyan University stop segregating bathrooms along gender lines and provide all-gender bathrooms in all buildings in the University. We believe gender-segregated bathrooms create uncomfortable and potentially dangerous situations for trans* and gender-variant presenting people. We believe gender-segregated bathrooms reinforce trans* invisibility at Wesleyan.”
+
+The manifesto was signed by an anonymous group “Pissed Off Trans* People,” and the group provided manifestos and all-gender signs available for download online.  The materials soon had over 200 downloads and many students outside of the original group were participating on their own.
+
+The charges stem from one incident in the student center when a university employee stopped a group of five students suspected of degendering two restrooms. From this moment on things got confusing. Only three of the five students have been brought up on charges and face disciplinary consequences. These three students are being singled out for punishment because of their visibility in the LGBTQ community and are being forced to carry the weight of all degendering activism on campus this semester.  
+
+The entire disciplinary process has been mired with confusion and secrecy.
+
+After several meetings with University administrators, the accused students have been met with hostility and obstinance. Administrators have made it difficult to obtain basic information necessary for the students to defend themselves including public safety reports and the calculation of the $5,245 fine. Two of the accused students weren’t even informed they were being charged until several weeks after the incident.
+
+While the three trans* and gender-nonconforming students were meeting with various administrators, they frequently received contradictory information. Even such basic information as the extent and specific of their charges were unclear. The judicial process has been inconsistent and has resulted in a chaotic and isolating experience, leaving them unable to adequately defend themselves and putting unneeded stress on students during the final weeks of the semester.
+
+In addition to these inconsistencies and frustrations the basis of these charges have been questionable at best. The indictment of the three trans* students is based on the notion of preponderance: the assumption that one piece of evidence is sufficient to prove a guilty verdict, and that the accused are guilty unless proven innocent. Although there is only evidence that the three trans* and gender-nonconforming students were present at the sign removal in the campus center, they are being charged for the removal all the bathroom gender signs on the entire university campus.
+
+Finally, in the middle of the proceedings and negotiations with the administration the fine was nearly doubled from about $3,000 to over $5,000. The fine breaks down to $157 per sign plus additional unexplained fees. This calculation comes in spite of an offer from mydoorsign.com to donate all-gender signs to the University for free.
+
+The nature of these proceedings has indicted the accused students as guilty from the outset and has served to make an example of students who decide to transgress the rules that govern public space and take direct political action to alleviate the oppression faced by trans* and gender-nonconforming and LGBTQ students on campus.
+
+The trial takes place this Wednesday, December 4th at 4:30 pm, in the North College administrative building.    
