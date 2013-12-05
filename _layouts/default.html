@@ -122,8 +122,8 @@ function updatemodal(){
 <!--End mc_embed_signup-->
 {{content}}
 <div class='col12 pad4 center container footer'>
-    <div class='col4 footer-logo'>{young}ist</div>
-    <ul class='col2 footer-links'>
+    <div class='col3 footer-logo'>{young}ist</div>
+    <ul class='col3 footer-links'>
         <li><a href='{{base}}/contact'>Contact Us</a></li>
         <li><a href='{{base}}/masthead'>Masthead</a></li>
         <li><a href='{{base}}/pitch'>Pitch</a></li>
@@ -140,8 +140,8 @@ function updatemodal(){
             <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter.svg' style='height: 25px;' /></a></li>
             <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr.svg' style='height: 25px;' /></a></li>
         </ul>
-        <div class='pad0 fl col12 footer-button'><a onclick='updatemodal()'>Sign up for email updates</a></div>
-        <div class='pad0 fl col12 footer-button'><a href='{{base}}/donate'>Support youth media</a></div>
+        <div class='pad0 fl col12 footer-button' onclick='updatemodal()' style='cursor:pointer;'><a class='clickable' onclick='updatemodal()'>Sign up for email updates</a></div>
+        <div class='pad0 fl col12 footer-button' onclick="location.href='{{base}}/donate';" style='cursor:pointer;'><a href='{{base}}/donate'>Support youth media</a></div>
     </div>
 </div>
 <!-- <script src="{{base}}/js/search.min.js"></script> -->

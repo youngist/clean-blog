@@ -168,6 +168,7 @@ hr {
 .textr{
  text-align:right;
 }
+
 /* makes the article and media section the same off white*/
 .fill-article {
   background: #F4F5F6;
@@ -175,6 +176,8 @@ hr {
 .dark-link{
   color:#333;
   }
+
+
 /*Navigation*/
 
 .search-box{
@@ -318,8 +321,8 @@ p.about-list ol li{
   }
 
 .section-title {
-  font-size: 14px;
-  padding: 15px 0 15px 0;
+  padding: 20px 20px 0px 20px;
+  font-size: 15px;
   }
 
 .articles-section {
@@ -738,6 +741,8 @@ table {
 .marginr3  { margin-right:25.0000%; }
 .marginr4  { margin-right:33.3333%; }
 
+.margincarousel { margin-left:5%; }
+
 /* Padding
 ------------------------------------------------------- */
 .pad0	 { padding:5px; }
@@ -805,6 +810,10 @@ Details: http://www.positioniseverything.net/easyclearing.html
     width: 115px;
   }
 */
+  .tag h4 a {
+  max-width: 530px;
+  }
+
 /* Mobile Layout
 ------------------------------------------------------- */
 @media only screen and (max-width:640px) {
@@ -840,7 +849,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .marginr4 { margin-left:0; }
   .pad4c { padding:0; }
   .pad4,
-  .pad4h { padding-left:20px; padding-right:20px; }
+  .pad4h { padding-left:20px; padding-right:20px; padding-top:20px; padding-bottom:20px;}
   .pad8 { padding:40px 20px; }
   .pad8h { padding:80px 20px; }
   .hide-mobile { display:none; }
@@ -889,4 +898,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .media h4 a{
     display: none;
     margin-bottom: 10px;
+  }
+  .footer-logo {
+  	font-size: 30px;
   }
