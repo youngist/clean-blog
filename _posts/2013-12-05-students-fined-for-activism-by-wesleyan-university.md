@@ -5,7 +5,7 @@ published: false
 ## Students Fined $5,000 for Activism by Wesleyan University
 ### by Mariama Eversley and Ross Levin
 
-![bathroom signs](/http://media.tumblr.com/4708ddfc8ce1b7f745af2e3ec5648fa5/tumblr_inline_mx9a71RyHK1rkj9dw.jpg)
+![bathroom signs](http://media.tumblr.com/4708ddfc8ce1b7f745af2e3ec5648fa5/tumblr_inline_mx9a71RyHK1rkj9dw.jpg)
 
 The self-proclaimed “Diversity University” is at it again.  Wesleyan University, located in Middletown, Connecticut, is prosecuting three trans* and gender-nonconforming students for taking political action to address transgender discrimination on campus.  This comes just one year after the University reversed their need blind admission policy, and a rash of racial profiling by the campus police, Public Safety.  
 
@@ -29,4 +29,4 @@ Finally, in the middle of the proceedings and negotiations with the administrati
 
 The nature of these proceedings has indicted the accused students as guilty from the outset and has served to make an example of students who decide to transgress the rules that govern public space and take direct political action to alleviate the oppression faced by trans* and gender-nonconforming and LGBTQ students on campus.
 
-The trial takes place this Wednesday, December 4th at 4:30 pm, in the North College administrative building.    
+The trial takes place this Wednesday, December 4th at 4:30 pm, in the North College administrative building.
