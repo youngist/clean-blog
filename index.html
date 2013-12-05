@@ -97,7 +97,7 @@ exclude_from_search: true
                 <!-- ADD LOGIC If post has a picture! -->
 				{% if {{post.featuredphoto}} != 'undefined' || '' %}
 				<div class='col12'>
-					<img class='col12 image-space' src={{post.articlephoto}} />
+					<img class='col12 image-space' src={{post.featuredphoto}} />
 				</div>
 				{% endif %}<!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->
                 <h2><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
@@ -128,7 +128,7 @@ exclude_from_search: true
                     <!-- ONLY FOR LAST AND FIRST FEATURED ARTICLE SHOW IMAGE -->
 					{% if {{post.featuredphoto}} != 'undefined' || '' %}
                     <div class='col12'>
-                        <img class='col11 image-space' src={{post.articlephoto}} />
+                        <img class='col11 image-space' src={{post.featuredphoto}} />
                     </div>
 					{% endif %}
                     {% endif %}
