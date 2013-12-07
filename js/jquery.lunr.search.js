@@ -24,7 +24,7 @@
   
   var LunrSearch = (function() {
     function LunrSearch(elem, options) {
-      this.$elem = elem;      
+      this.$elem = elem;
       this.$results = $(options.results),
       this.$entries = $(options.entries, this.$results),
       this.indexDataUrl = options.indexUrl;
@@ -160,7 +160,7 @@
   };
   
   $.fn.lunrSearch.defaults = {
-    indexUrl  : '/clean-blog/search.json',     // Url for the .json file containing search index source data (containing: title, url, date, body)
+    indexUrl  : '/search.json',     // Url for the .json file containing search index source data (containing: title, url, date, body)
     results   : '#search-results',  // selector for containing search results element
     entries   : '.entries',         // selector for search entries containing element (contained within results above)
     template  : '#search-results-template'  // selector for Mustache.js template

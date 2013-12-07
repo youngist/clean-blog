@@ -93,7 +93,7 @@ p {
   font-family:'Fauna One', serif;
   }
   p:last-child { margin-bottom:0;}
-
+  
 /* Links */
 a {
   color:#e68b24;
@@ -108,8 +108,16 @@ a {
   a:active {
     color:#e68b24;
     }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 a{
+   color:#474546;
+   }
 
-abbr {
+r {
   border-bottom:1px dotted #000;
   cursor:help;
   }
@@ -160,6 +168,7 @@ hr {
 .textr{
  text-align:right;
 }
+
 /* makes the article and media section the same off white*/
 .fill-article {
   background: #F4F5F6;
@@ -168,18 +177,30 @@ hr {
   color:#333;
   }
 
+
 /*Navigation*/
 
 .search-box{
    width:20%;
  }
- 
-.search{
+
+ .search{
   padding:15px;
   }
 
-/* Tags */
+/* .rss{
+  background: url('imgs/sprite-smaller.png') no-repeat -27px -189px;
+  width: 27px;
+  height: 28px;
+  }
 
+ .facebook{
+  background: url('imgs/sprite-smaller.png') no-repeat 0 -189px;
+  width: 17px;
+  height: 28px;
+  }
+*/
+/* Tags */
 .tag-box li a {
   float: left;
   width: 10%;
@@ -188,13 +209,15 @@ hr {
   color: white;
 } 
 .tag h4 a{
-  background: #e68b24;
   color: white;
   text-align: center;
   min-width: 100px;
 }
 .tags{
-  height:70px;
+/*  height:70px;*/
+}
+.tag-color{
+  background: #e68b24;
 }
 /*Taken from Mapbox.com menu*/
 .menu li a, .menu-social li a {
@@ -238,6 +261,11 @@ hr {
   right: -60px;
   }
 */
+
+/*Masthead*/
+.bio{
+	padding:30px 0;
+}
 
 /* About Page */
 .about-list{
@@ -293,8 +321,8 @@ p.about-list ol li{
   }
 
 .section-title {
-  font-size: 14px;
-  padding: 15px 0 15px 0;
+  padding: 20px 20px 0px 20px;
+  font-size: 15px;
   }
 
 .articles-section {
@@ -373,10 +401,10 @@ footer {
   }
 
 /* Image given by contributor must always be this height?*/
-.contributor-theme-image img{
-  height:400px;
-  }
-
+.contributor-theme-image{
+	background: chocolate;
+	height:400px;
+}
 .contributors{
   font-style:italic;
   color:#999999;
@@ -454,17 +482,18 @@ footer {
 /* Header */
 
 .header-container{
+  color: #BFBEBE;
+  font-weight: 800;
   background:#F9FAFA;
-  color: #000000;
   box-shadow: 0 0 20px 0 rgb(218, 218, 218);
-/*  width: 250px;*/
   font-family: 'Engel Light ltd';
-  font-weight: 100;
-  font-size: 32px;
   position: fixed;
   z-index: 2;
   }
-
+.header-container a:hover{
+	color:#e68b24;
+	text-decoration: none;
+}
 .header{
   float: left;
   width: 16.6666%;
@@ -480,6 +509,17 @@ footer {
   margin: 13px 0 0 0;
   font-size: 18px;
   color: #BFBEBE;
+  }
+
+/* Social */
+a.facebook-color{
+  background:#425F9C;
+  }
+a.twitter-color{
+  background:#00ACEE;
+  }
+a.google-color{
+  background:#DF5138;
   }
 
 /* Block Quotes */
@@ -701,6 +741,8 @@ table {
 .marginr3  { margin-right:25.0000%; }
 .marginr4  { margin-right:33.3333%; }
 
+.margincarousel { margin-left:5%; }
+
 /* Padding
 ------------------------------------------------------- */
 .pad0	 { padding:5px; }
@@ -768,6 +810,10 @@ Details: http://www.positioniseverything.net/easyclearing.html
     width: 115px;
   }
 */
+  .tag h4 a {
+  max-width: 530px;
+  }
+
 /* Mobile Layout
 ------------------------------------------------------- */
 @media only screen and (max-width:640px) {
@@ -803,7 +849,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .marginr4 { margin-left:0; }
   .pad4c { padding:0; }
   .pad4,
-  .pad4h { padding-left:20px; padding-right:20px; }
+  .pad4h { padding-left:20px; padding-right:20px; padding-top:20px; padding-bottom:20px;}
   .pad8 { padding:40px 20px; }
   .pad8h { padding:80px 20px; }
   .hide-mobile { display:none; }
@@ -840,8 +886,19 @@ Details: http://www.positioniseverything.net/easyclearing.html
     width: 115px;
   }
   .tags{
-    height:278px;
+    /*height:278px;*/
+  }
+  .media.tag-color{
+   display: none;
   }
   .tag h4 a{
     margin-bottom: 10px;
+	max-width: 240px;
+  }
+  .media h4 a{
+    display: none;
+    margin-bottom: 10px;
+  }
+  .footer-logo {
+  	font-size: 30px;
   }
