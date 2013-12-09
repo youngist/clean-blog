@@ -244,10 +244,8 @@ hr {
 /* Carousel */
 
 .carousel-dark{
-/*  height: 425px;*/
   margin-top: 40px;
   background: rgb(53, 51, 51);
-/*  padding: 20px 0;*/
   z-index:-1;
 }
 
@@ -315,7 +313,7 @@ p.about-list ol li{
   padding-bottom:75px;
   }
 .image-space {
-  height:450px;
+/*  height:450px;*/
   background: rgb(53, 51, 51);
 /*  padding: 20px 0;*/
   }
