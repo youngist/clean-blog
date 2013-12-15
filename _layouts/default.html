@@ -72,12 +72,11 @@ top: 100px;}
           </form>
         </div>
         <ul class='menu col5'>
-            <li class='bold center nav-action'><a href='{{base}}/donate'>DONATE</a></li>
-            <li class='bold center nav-action'><a href='{{base}}/about'>ABOUT</a></li>
-            <li class='bold center nav-action'><a href='{{base}}/pitch'>PITCH</a></li>
-            <li class='bold center nav-action'><a onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
-        </ul>
-        </nav>
+            <li class='center nav-action'><a href='{{base}}/donate'>DONATE</a></li>
+            <li class='center nav-action'><a href='{{base}}/about'>ABOUT</a></li>
+            <li class='center nav-action'><a href='{{base}}/pitch'>PITCH</a></li>
+            <li class='center nav-action'><a onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
+        </ul        </nav>
     </div>
 </div>
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
@@ -140,7 +139,7 @@ function updatemodal(){
             <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter.svg' style='height: 25px;' /></a></li>
             <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr.svg' style='height: 25px;' /></a></li>
         </ul>
-        <div class='pad0 fl col12 footer-button' onclick='updatemodal()' style='cursor:pointer;'><a class='clickable' onclick='updatemodal()'>Sign up for email updates</a></div>
+        <div class='pad0 fl col12 footer-button' onclick='updatemodal()' style='cursor:pointer;'><a onclick='updatemodal()'>Sign up for email updates</a></div>
         <div class='pad0 fl col12 footer-button' onclick="location.href='{{base}}/donate';" style='cursor:pointer;'><a href='{{base}}/donate'>Support youth media</a></div>
     </div>
 </div>
