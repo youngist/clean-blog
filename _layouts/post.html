@@ -17,6 +17,8 @@ layout: default
             {% for contributor in page.contributors %}{% assign contributorclear = contributor | replace: "'", ' ' %}
             <h5 class='margin3 col10 contributor-name post'><a class='dark-link' href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}">{{ contributor }}</a></h5>{% endfor %}
             <h4 class='margin3 col5'>{{page.contributorage}} Years Old</h4>
+            <h4 class='margin3 col5'>{{page.contributorexcerpt}}</h4>
+            {% if contributortwitter != undefined %}<h4 class='margin3 col5'>Catch up with me {{page.contributortwitter}}</h4>{% endif %}
             <p class='margin3 col7' style='text-align:left;'>{{page.contributorshortbio}}</p>
             <!-- SOCIAL MEDIA FOR THE AUTHOR -->
             <!-- ADD TOP BORDER -->
