@@ -14,7 +14,7 @@ layout: default
     
     // watch the window's scroll event
         $(window).scroll(function(){
-            console.log($('body').scrollTop());
+
             // check the body's scrollTop
             if($('body').scrollTop() < postheight & $('body').scrollTop() > -50 ){
                 
@@ -22,21 +22,14 @@ layout: default
                 $('.contributor-info').css({
                     'position': 'fixed'
                 });
-                // $('.main-content').css({
-                //     'padding-top': '40px'
-                // });
             } else {
                 var topvalue = postheight - contributorheight;
-                topvalue = topvalue.toString();
-                console.log(topvalue);
+                topvalue = topvalue.toString() + 'px';
                 // don't forget to reverse
                 $('.contributor-info').css({
                     'position': 'absolute',
                     'top:': topvalue
                 });
-                // $('.main-content').css({
-                //     'padding-top': '0'
-                // });
             }
         });
         
