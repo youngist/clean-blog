@@ -15,12 +15,11 @@ layout: default
         $(window).scroll(function(){
             console.log($('body').scrollTop());
             // check the body's scrollTop
-            if($('body').scrollTop() < postheight & $('body').scrollTop() > 20 ){
+            if($('body').scrollTop() < postheight & $('body').scrollTop() > -50 ){
                 
                 // do stuff
                 $('.contributor-info').css({
-                    'position': 'fixed',
-                    'top': '0'
+                    'position': 'fixed'
                 });
                 // $('.main-content').css({
                 //     'padding-top': '40px'
@@ -29,8 +28,7 @@ layout: default
                 
                 // don't forget to reverse
                 $('.contributor-info').css({
-                    'position': 'relative',
-                    'top': 'auto'
+                    'position': 'relative'
                 });
                 // $('.main-content').css({
                 //     'padding-top': '0'
