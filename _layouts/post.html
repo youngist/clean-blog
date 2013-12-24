@@ -15,7 +15,7 @@ layout: default
         $(window).scroll(function(){
             
             // check the body's scrollTop
-            if($('body').scrollTop() < postheight ){
+            if($('body').scrollTop() < postheight & $('body').scrollTop() > 20 ){
                 
                 // do stuff
                 $('.contributor-info').css({
@@ -29,7 +29,7 @@ layout: default
                 
                 // don't forget to reverse
                 $('.contributor-info').css({
-                    'position': 'absolute',
+                    'position': 'relative',
                     'top': 'auto'
                 });
                 // $('.main-content').css({
