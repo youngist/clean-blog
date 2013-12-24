@@ -2,11 +2,46 @@
 layout: default
 ---
 <div class='col12 container pad8' style='padding-top:152px;'>
-    <div class='col8 margin3 main-content'>
+    <div class='col8 margin3 main-content' id='maincontent'>
      <img src={{page.featuredphoto}} />
         <h1 class='article-title'>{{ page.headline }}</h1>
         {{ content }}
     </div>
+<script>
+	var postheight = $("#maincontent").height();	
+	$(function(){
+    
+    // watch the window's scroll event
+        $(window).scroll(function(){
+            
+            // check the body's scrollTop
+            if($('body').scrollTop() < postheight ){
+                
+                // do stuff
+                $('.contributor-info').css({
+                    'position': 'fixed',
+                    'top': '0'
+                });
+                $('.main-content').css({
+                    'padding-top': '40px'
+                });
+            } else {
+                
+                // don't forget to reverse
+                $('.contributor-info').css({
+                    'position': 'absolute',
+                    'top': 'auto'
+                });
+                $('.main-content').css({
+                    'padding-top': '0'
+                });
+            }
+        });
+        
+    });
+	
+</script>
+
     <div class='col2 rborder contributor-info tag'>
             <div class='margin4 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 75px;'></div>
             {% for contributor in page.contributors %}{% assign contributorclear = contributor | replace: "'", ' ' %}
