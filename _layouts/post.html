@@ -14,7 +14,7 @@ layout: default
     
     // watch the window's scroll event
         $(window).scroll(function(){
-
+	   var topvalue = postheight - contributorheight;
             // check the body's scrollTop
             if($('body').scrollTop() < postheight & $('body').scrollTop() > -50 ){
                 
@@ -23,13 +23,10 @@ layout: default
                     'position': 'fixed'
                 });
             } else {
-                var topvalue = postheight - contributorheight;
-                topvalue = topvalue.toString() + 'px';
-                console.log(topvalue);
                 // don't forget to reverse
                 $('.contributor-info').css({
                     'position': 'absolute',
-                    'top:': topvalue
+                    'top': topvalue
                 });
             }
         });
