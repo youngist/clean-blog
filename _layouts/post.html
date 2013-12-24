@@ -26,11 +26,12 @@ layout: default
                 //     'padding-top': '40px'
                 // });
             } else {
-                
+                var topvalue = postheight - contributorheight;
+                topvalue = topvalue.toString();
                 // don't forget to reverse
                 $('.contributor-info').css({
                     'position': 'absolute',
-                    'top:': postheight - contributorheight
+                    'top:': topvalue
                 });
                 // $('.main-content').css({
                 //     'padding-top': '0'
