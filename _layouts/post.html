@@ -8,7 +8,8 @@ layout: default
         {{ content }}
     </div>
 <script>
-	var postheight = $("#maincontent").height();	
+	var postheight = $("#maincontent").height();
+	var contributorheight = $("#contributorcontent").height();
 	$(function(){
     
     // watch the window's scroll event
@@ -28,7 +29,8 @@ layout: default
                 
                 // don't forget to reverse
                 $('.contributor-info').css({
-                    'position': 'relative'
+                    'position': 'absolute',
+                    'top:': postheight - contributorheight
                 });
                 // $('.main-content').css({
                 //     'padding-top': '0'
@@ -40,7 +42,7 @@ layout: default
 	
 </script>
 
-    <div class='col2 rborder contributor-info tag'>
+    <div class='col2 rborder contributor-info tag' id='contributorcontent'>
             <div class='margin4 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 75px;'></div>
             {% for contributor in page.contributors %}{% assign contributorclear = contributor | replace: "'", ' ' %}
             <h5 class='margin3 col10 contributor-name post'><a class='dark-link' href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}">{{ contributor }}</a></h5>{% endfor %}
