@@ -232,6 +232,7 @@ hr {
   white-space: nowrap;
   z-index: 0;
   padding: 10px 5px;
+  font-weight: 200;
   border-radius: 3px;
   }
 
@@ -752,7 +753,7 @@ table {
 .pad4    { padding:40px; }
 .pad4h   { padding-left:40px; padding-right:40px; }
 .pad8    { padding:100px 40px; }
-.pad8h   { padding: 200px 40px;}
+.pad8h   { padding: 200px 40px 0 40px;}
 .pad4c   { padding:40px; }
 .pad9    { padding:150px 0 0 20px; }
 

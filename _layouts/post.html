@@ -1,13 +1,9 @@
 ---
 layout: default
 ---
-<!-- <div itemscope itemtype="http://schema.org/Blog">
-  <h1 itemprop="name">{{ page.headline }}</h1>
-  <img itemprop="image" src="{{ page.featuredphoto }}" />
-  <p itemprop="description">{{page.tagline}}</p>
-</div> -->
 <div class='col12 container pad8' style='padding-top:152px;'>
-    <div class='col8 margin3 main-content'>
+    <div class='col8 margin3 main-content' id='maincontent'>
+     <img src={{page.featuredphoto}} />
         <h1 class='article-title'>{{ page.headline }}</h1>
         {{ content }}
     </div>
@@ -21,19 +17,52 @@ layout: default
             <!-- SOCIAL MEDIA FOR THE AUTHOR -->
             <!-- ADD TOP BORDER -->
             <!-- <div class='col12 container published'> -->
+<script>
+	var postheight = $("#maincontent").height();
+	var contributorheight = $("#contributorcontent").height();
+	$(function(){
+    
+    // watch the window's scroll event
+        $(window).scroll(function(){
+	   var topvalue = postheight - contributorheight;
+            // check the body's scrollTop
+            if($('body').scrollTop() < topvalue & $('body').scrollTop() > -50 ){
+                
+                // do stuff
+                $('.contributor-info').css({
+                    'position': 'fixed',
+                     'top': ''
+                    
+                });
+            } else {
+                // don't forget to reverse
+                $('.contributor-info').css({
+                    'position': 'absolute',
+                    'top': topvalue
+                });
+            }
+        });
+        
+    });
+	
+</script>
+
+    <div class='col2 rborder contributor-info tag' id='contributorcontent'>
+            <div class='margin3 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 75px;'></div>
+            {% for contributor in page.contributors %}{% assign contributorclear = contributor | replace: "'", ' ' %}
+            <h5 class='margin2 col10 contributor-name post'><a class='dark-link' href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}">{{ contributor }}</a></h5>{% endfor %}
+            <h4 class='margin2 col11'>{{page.contributorage}} Years Old</h4>
+            {% if contributortwitter != undefined %}<h4 class='margin3 col5'>Catch up with me {{page.contributortwitter}}</h4>{% endif %}
+            <p class='margin2 col10' style='text-align:left;'>{{page.contributorshortbio}}</p>
             {% for tag in page.tags %}<h4> <a class='tag-color margin3 col3 pad0' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
-            <h4 class='margin3 col7 publishedabove'>published</h4>
-            <h4 class='margin3 col7 publishedbelow'>{{page.date || date: "%b %d, %Y" }}</h4>
-            <!-- </div> -->
-            <h4 class='tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="youngist.github.com/{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
+            <h4 class='margin2 col10 publishedabove'>published</h4>
+            <h4 class='margin2 col10 publishedbelow'>{{page.date || date: "%b %d, %Y" }}</h4>
+            <h4 class='fr marginr4 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="youngist.github.com/{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
-            <h4 class='tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
-            <h4 class='tag'></h4>
+            <h4 class='fr marginr4 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
+            <h4 class='fr marginr4 tag'><div class="fb-share-button" data-href={{page.url}} data-type="button"></div></h4>
 	</div>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
-            <!-- NEED LOGIC FOR LOADING SOCIAL MEDIA LINKS IF POSSIBLE -->
-            <!-- ADD TOP BORDER -->
-            <!-- SHARE SOCIAL MEDIA -->
         <!-- <div class='margin4 col3 l circular' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 130px;'></div>
         <div class='center fr'><h4>{% for contributor in page.contributors %}
             <p>{% assign contributorclear = contributor | replace: "'", ' ' %}</p> -->
