@@ -4,11 +4,10 @@
 <head>
 <meta charset='utf-8' />
 <title>{{page.title}}</title>
-<!-- Find another way to include excerpt for facebook and other social sharing -->
-<!-- <meta name='description' content='{{ page.excerpt }}'> -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link type="text/css" rel="stylesheet" href='{{base}}/css/carousel.css'>
 <link type="text/css" rel="stylesheet" href='{{base}}/css/bootstrap.css'> <!-- careful what gets changed to bootstrap -->
+<link rel="canonical" href={{base.url}}{{page.url}}>
 <link type="text/css" rel="stylesheet" href='{{base}}/css/site.css'>
 <link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
@@ -30,9 +29,9 @@
 <meta property='og:title' content='{{ page.headline }}' />
 <meta property='og:image' content='{{ page.featuredphoto }}' />
 <meta property='og:description' content='{{page.tagline}}' />
-<meta property="og:url" content="{{page.url}}" />
+<meta property='og:url' content={{base.url}}{{page.url}} />
+<meta property='og:description' content={{ post.content | strip_html | truncatewords:20}} />
 <!-- Should I use tagline or an excerpt? -->
-<!-- <meta property='og:description' content='{{ post.content | strip_html | truncatewords:20}}' /> -->
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -62,17 +61,17 @@ top: 100px;}
         <div class='header'>
             <div class='rborder'>
                 <a href='{{base}}/'>
-                    <img class='margin2 logo' src='{{base}}/images/tumblrlogo.png' />
+                    <img class='logo' src='{{base}}/images/tumblrlogo.png' />
                 </a>
             </div>
         </div>
         <nav class="rborder navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
-        <ul class='menu-social col3' style="padding-bottom: 30px;">
-            <li class=''><a class='pad0' href='{{base}}/action'><img src='{{base}}/images/speaker-temp.png' style='height: 41px;' /></a></li>
-            <li class=''><a class='pad0 rss' href='rss'><img src='{{base}}/images/icon-social-rss.svg' style='height: 41px;' /></a></li>
-            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' style='height: 41px;' /></a></li>
-            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 41px;' /></a></li>
-            <li class=''><a class='pad0' href='http://www.youngist.tumblr.org/'><img src='{{base}}/images/icon-social-tumblr.svg' style='height: 41px;' /></a></li>
+        <ul class='menu-social col3'>
+            <li class=''><a class='pad0' href='{{base}}/action'><img src='{{base}}/images/speaker-temp.png' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0 rss' href='{{base}}/feed/feed.xml'><img src='{{base}}/images/icon-social-rss.svg' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='{{base}}/images/icon-social-tumblr.svg' style='height: 35px;' /></a></li>
         </ul>
         <div id="search">
           <form action="{{base}}/search" class='col2 search' method="get">
@@ -142,10 +141,10 @@ function updatemodal(){
     </ul>
     <div class='col3'>
         <ul class='fl col12 footer-social'>
-            <li><a class='pad0' href='rss'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss.svg' /></a></li>
-            <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-facebook.svg' style='height: 25px;' /></a></li>
-            <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter.svg' style='height: 25px;' /></a></li>
-            <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr.svg' style='height: 25px;' /></a></li>
+            <li><a class='pad0' href='rss'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss-footer.svg' /></a></li>
+            <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-facebook-footer.svg' /></a></li>
+            <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter-footer.svg' /></a></li>
+            <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr-footer.svg' /></a></li>
         </ul>
         <div class='pad0 fl col12 footer-button' onclick='updatemodal()' style='cursor:pointer;'><a>Sign up for email updates</a></div>
         <div class='pad0 fl col12 footer-button' onclick="location.href='{{base}}/donate';" style='cursor:pointer;'><a href='{{base}}/donate'>Support youth media</a></div>

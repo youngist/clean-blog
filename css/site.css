@@ -187,6 +187,10 @@ hr {
 
 /*Navigation*/
 
+.nav-action a{
+	color:#bfbebe;
+}
+	
 .search-box{
    width:20%;
  }
@@ -239,7 +243,7 @@ hr {
   white-space: nowrap;
   z-index: 0;
   padding: 10px 5px;
-  font-weight: 200;
+  font-weight: 600;
   border-radius: 3px;
   }
 
@@ -247,7 +251,9 @@ hr {
     width: 20%; /*Change to 25% when in mobile layout */
     }
 
-
+.menu-social li a:hover {
+	color:#E68B24;
+}
 
 /* Carousel */
 
@@ -271,6 +277,11 @@ hr {
 /*Masthead*/
 .bio{
 	padding:30px 0;
+	font-size:14px;
+}
+.staff-title{
+	font-size: 20px;
+	margin-left: 8%;
 }
 
 /* About Page */
@@ -370,6 +381,10 @@ p.about-list ol li{
   }
 .footer-social{
   margin-bottom: 15px;
+  padding-top: 10px;
+  }
+.footer-social-logo{
+  height: 25px;
   }
 .footer-social li{
   float:left;

@@ -5,7 +5,7 @@ title: Students Fined $5,000 for Activism by Wesleyan University - {young}ist
 headline: Students Fined $5,000 for Activism by Wesleyan University
 tags:
 - "LGBQT"
-- "Student Activism"
+- "Student\ Activism"
 categories: editors
 contributors:
 - Mariama Eversley 
@@ -13,6 +13,7 @@ contributors:
 contributorphoto: undefined
 featuredphoto: http://media.tumblr.com/4708ddfc8ce1b7f745af2e3ec5648fa5/tumblr_inline_mx9a71RyHK1rkj9dw.jpg
 contributorage: undefined
+contributortwitter: fake
 ---
 
 The self-proclaimed “Diversity University” is at it again.  Wesleyan University, located in Middletown, Connecticut, is prosecuting three trans* and gender-nonconforming students for taking political action to address transgender discrimination on campus.  This comes just one year after the University reversed their need blind admission policy, and a rash of racial profiling by the campus police, Public Safety.  
