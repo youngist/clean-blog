@@ -138,7 +138,14 @@ hr {
   font-family: EngleLight_ltd;
   src: url('EngleLight_ltd.ttf');
   }
-
+  
+.i{
+  font-style:italic;	  
+}
+  
+.alright{
+  text-align: right;
+}
 /* Content Section */
 
 /* General Utilities and Styles */
@@ -320,8 +327,8 @@ p.about-list ol li{
   }
 
 .section-title {
-  padding: 20px 20px 0px 20px;
-  font-size: 15px;
+  padding-bottom:20px;
+  font-size: 20px;
   }
 
 .articles-section {
@@ -802,21 +809,17 @@ Details: http://www.positioniseverything.net/easyclearing.html
 
 /* Tablet Layout
 ------------------------------------------------------- */
-@media only screen and (max-width:770px) {
+@media only screen and (max-width:1050px) {
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
   }
-/*  .logo{
-    width: 115px;
-  }
-*/
   .tag h4 a {
-  max-width: 530px;
+/*  max-width: 530px;*/
   }
 
 /* Mobile Layout
 ------------------------------------------------------- */
-@media only screen and (max-width:640px) {
+@media only screen and (max-width:1030px) {
   .col1,
   .col2,
   .col3,
@@ -893,7 +896,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   }
   .tag h4 a{
     margin-bottom: 10px;
-	max-width: 240px;
+/*	max-width: 240px;*/
   }
   .media h4 a{
     display: none;
@@ -901,4 +904,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   }
   .footer-logo {
   	font-size: 30px;
+  }
+  .contributor-info{
+	  position:relative !important;
   }

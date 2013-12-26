@@ -5,18 +5,9 @@ layout: default
     <div class='col8 margin3 main-content' id='maincontent'>
      <img src={{page.featuredphoto}} />
         <h1 class='article-title'>{{ page.headline }}</h1>
+		<h2>By [names]</h2>
         {{ content }}
     </div>
-    <div class='col2 rborder contributor-info tag'>
-            <div class='margin4 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 75px;'></div>
-            <p>{% for contributor in page.contributors %}{% assign contributorclear = contributor | replace: "'", ' ' %}
-            <a class='dark-link' href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}">{{ contributor }}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p> 
-			<!-- <h5 class='margin3 col10 contributor-name post'> -->
-            <h4 class='margin3 col5'>{{page.contributorage}} Years Old</h4>
-            <p class='margin3 col7' style='text-align:left;'>{{page.contributorshortbio}}</p>
-            <!-- SOCIAL MEDIA FOR THE AUTHOR -->
-            <!-- ADD TOP BORDER -->
-            <!-- <div class='col12 container published'> -->
 <script>
 	var postheight = $("#maincontent").height();
 	var contributorheight = $("#contributorcontent").height();
@@ -25,6 +16,7 @@ layout: default
     // watch the window's scroll event
         $(window).scroll(function(){
 	   var topvalue = postheight - contributorheight;
+	   console.log(topvalue);
             // check the body's scrollTop
             if($('body').scrollTop() < topvalue & $('body').scrollTop() > -50 ){
                 
@@ -50,25 +42,17 @@ layout: default
     <div class='col2 rborder contributor-info tag' id='contributorcontent'>
             <div class='margin3 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 75px;'></div>
             {% for contributor in page.contributors %}{% assign contributorclear = contributor | replace: "'", ' ' %}
-            <h5 class='margin2 col10 contributor-name post'><a class='dark-link' href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}">{{ contributor }}</a></h5>{% endfor %}
-            <h4 class='margin2 col11'>{{page.contributorage}} Years Old</h4>
-            {% if contributortwitter != undefined %}<h4 class='margin3 col5'>Catch up with me {{page.contributortwitter}}</h4>{% endif %}
-            <p class='margin2 col10' style='text-align:left;'>{{page.contributorshortbio}}</p>
-            {% for tag in page.tags %}<h4> <a class='tag-color margin3 col3 pad0' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
-            <h4 class='margin2 col10 publishedabove'>published</h4>
-            <h4 class='margin2 col10 publishedbelow'>{{page.date || date: "%b %d, %Y" }}</h4>
+            <h5 class='col9 contributor-name post alright'><a class='dark-link' href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}">{{ contributor }}</a></h5>{% endfor %}
+            <h4 class='col9 i alright'>{{page.contributorage}} Years Old</h4>
+            <!-- {% if contributortwitter != undefined %} --><h4 class='col9 i alright'>Catch up with me {{page.contributortwitter}}</h4><!-- {% endif %} -->
+            <p class='col9 i alright' style=' font-size:11px;'>{{page.contributorshortbio}}</p>
+            {% for tag in page.tags %}<h4> <a class='tag-color margin2 col3 pad0' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
+            <h4 class='margin2 col7 i publishedabove alright'>published</h4>
+            <h4 class='margin2 col7 publishedbelow alright'>{{page.date || date: "%b %d, %Y" }}</h4>
             <h4 class='fr marginr4 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="youngist.github.com/{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
             <h4 class='fr marginr4 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
             <h4 class='fr marginr4 tag'><div class="fb-share-button" data-href={{page.url}} data-type="button"></div></h4>
 	</div>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
-        <!-- <div class='margin4 col3 l circular' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 130px;'></div>
-        <div class='center fr'><h4>{% for contributor in page.contributors %}
-            <p>{% assign contributorclear = contributor | replace: "'", ' ' %}</p> -->
-            <!-- <a href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}"><h3 class='contributor-name post'>{{ contributor }}</h3></a>{% endfor %}</h4> -->
-            <!-- <p class='contributors'>{{page.contributorbio}}</p>
-        </div> -->
-        <!-- if more than one add an 'and' (if loop index is two or more) -->
-        <!-- </div> -->
 </div>

@@ -91,7 +91,7 @@ body {
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
-@media (min-width: 768px) {
+@media (min-width: 1030px) {
 
   /* Remove the edge padding needed for mobile */
   .marketing {
@@ -121,7 +121,7 @@ body {
 
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1030px) {
   .featurette-heading {
     margin-top: 120px;
   }
