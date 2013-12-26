@@ -379,6 +379,10 @@ p.about-list ol li{
   font-size: 25px;
   line-height: 25px;
   }
+.footer-links li a:hover {
+  	text-decoration:none;
+	color:#e68b24;
+  }
 .footer-social{
   margin-bottom: 15px;
   padding-top: 10px;

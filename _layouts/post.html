@@ -3,44 +3,13 @@ layout: default
 ---
 <div class='col12 container pad8' style='padding-top:152px;'>
     <div class='col8 margin3 main-content' id='maincontent'>
-     <img src={{page.featuredphoto}} />
+     <img alt='{{page.featuredphotoalt}}' title='{{page.featuredphotoalt}}' src={{page.featuredphoto}} />
         <h1 class='article-title'>{{ page.headline }}</h1>
 		<h2>By [names]</h2>
         {{ content }}
     </div>
-<script>
-	var postheight = $("#maincontent").height();
-	var contributorheight = $("#contributorcontent").height();
-	$(function(){
-    
-    // watch the window's scroll event
-        $(window).scroll(function(){
-	   var topvalue = postheight - contributorheight;
-	   console.log(topvalue);
-            // check the body's scrollTop
-            if($('body').scrollTop() < topvalue - 200 & $('body').scrollTop() > -50 ){
-                
-                // do stuff
-                $('.contributor-info').css({
-                    'position': 'fixed',
-                     'top': ''
-                    
-                });
-            } else {
-                // don't forget to reverse
-                $('.contributor-info').css({
-                    'position': 'absolute',
-                    'top': topvalue - 200
-                });
-            }
-        });
-        
-    });
-	
-</script>
-
     <div class='col2 rborder contributor-info tag' id='contributorcontent'>
-            <div class='margin3 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: 75px;'></div>
+            <div class='margin3 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: cover;'></div>
 			<!-- Need logic to not link to empty pages, although the main writer should always have something about themselves in the column -->
 			{% for contributor in page.contributors %}
 			{% assign contributorclear = contributor | replace: "'", ' ' %}
@@ -49,7 +18,7 @@ layout: default
             <h4 class='col9 i alright'>{{page.contributorage}} Years Old</h4>
             <p class='col9 i alright' style=' font-size:11px;'>{{page.contributorshortbio}}</p>
             <p class='col9 i alright'  style=' font-size:11px;'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
-            {% for tag in page.tags %}<h4> <a style='margin-bottom: 10px;' class='tag-color margin2 col3 pad0' href={{site.baseurl}}/tag/{{ tag }}>{{ tag }}</a></h4>{% endfor %}
+            {% for tag in page.tags %}<h4> <a style='margin-bottom: 10px;' class='tag-color margin2 col3 pad0' href={{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}>{{ tag | downcase }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove alright'>published</h4>
             <h4 class='margin2 col7 publishedbelow alright'>{{page.date || date: "%b %d, %Y" }}</h4>
             <h4 class='fr marginr4 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="{{base.url}}{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
@@ -57,5 +26,36 @@ layout: default
             <h4 class='fr marginr4 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
             <h4 class='fr marginr4 tag'><div class="fb-share-button" data-href={{base.url}}/{{page.url}} data-type="button"></div></h4>
 	</div>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
+	<script>
+		var postheight = $("#maincontent").height();
+		var contributorheight = $("#contributorcontent").height();
+		$(function(){
+    
+	    // watch the window's scroll event
+	        $(window).scroll(function(){
+		   var topvalue = postheight - contributorheight;
+		   console.log(postheight);
+		   console.log(contributorheight);
+	            // check the body's scrollTop
+	            if($('body').scrollTop() + contributorheight < postheight & $('body').scrollTop() > -50 ){
+                
+	                // do stuff
+	                $('.contributor-info').css({
+	                    'position': 'fixed',
+	                     'top': ''
+                    
+	                });
+	            } else {
+	                // don't forget to reverse
+	                $('.contributor-info').css({
+	                    'position': 'absolute',
+	                    'top': topvalue
+	                });
+	            }
+	        });
+        
+	    });
+	
+	</script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
 </div>

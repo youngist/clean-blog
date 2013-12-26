@@ -3,8 +3,8 @@
 {% assign contributorname = {{page.contributors[0]}} %}
 <!-- This should be an include because it repeats for the feeds and contributors -->
 <div class='contributor-header'>
-    <div class='col5 contributor-theme-image'>{% if page.coverphoto != 'undefined' %} <img src='{{ page.coverphoto}}' class='col12'/> {% endif %}</div>
-    <div class='contrib-layout circular' style='background:url({{page.image}}) no-repeat; background-size: 225px;'></div>
+    <div class='col5 contributor-theme-image'>{% if page.coverphoto != 'undefined' %} <img src='{{ page.coverphoto}}' class='col12'/> {<a href="../_layouts/post.html" id="" title="post">post</a>{% endif %}</div>
+    <div class='contrib-layout circular' style='background:url({{page.image}}) no-repeat; background-size: cover;'></div> <!-- background-size: 225px; -->
     <div class='pad8h margin1 col5 contributor-details'>
         <h1 class='contributor-name'>{{contributorname}}</h1>
         <div class='contributors titillium bold page-excerpt'>{{page.excerpt}}</div>
