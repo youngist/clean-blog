@@ -1,5 +1,6 @@
 ---
 layout: default
+category: page
 title: William C. Anderson
 class: contributor
 position: contributor

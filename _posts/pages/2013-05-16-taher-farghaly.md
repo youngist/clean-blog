@@ -1,5 +1,6 @@
 ---
 layout: default
+category: page
 title: Taher Farghaly
 class: contributor
 position: Contributor

@@ -1,5 +1,6 @@
 ---
 layout: default
+category: page
 title: Stephanie Rivera
 class: contributor
 position: Contributor

@@ -1,5 +1,6 @@
 ---
 layout: default
+category: page
 title: Maria Zepatou
 class: contributor
 position: Contributor

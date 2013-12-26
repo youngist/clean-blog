@@ -1,5 +1,6 @@
 ---
 layout: default
+category: page
 title: Katrina Casino
 class: staff
 position: editor

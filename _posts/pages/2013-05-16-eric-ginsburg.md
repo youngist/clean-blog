@@ -1,5 +1,6 @@
 ---
 layout: default
+category: page
 title: Eric Ginsburg
 class: contributor
 position: contributor

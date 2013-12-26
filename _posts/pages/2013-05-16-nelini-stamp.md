@@ -1,5 +1,6 @@
 ---
 layout: default
+category: page
 title: Nelini Stamp
 class: contributor
 position: contributor
