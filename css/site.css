@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'EngelLight_ltd';
+  src: url('http://localhost:4000/clean-blog/css/EngelLight_ltd.ttf') format(‘truetype’);
+  }
+
 /*  Reset ♥
     http://meyerweb.com/eric/tools/css/reset/
     v2.0 | 20110126
@@ -132,11 +137,6 @@ hr {
   border:0;
   height:1px;
   background:#f8f8f8;
-  }
-
-@font-face {
-  font-family: EngleLight_ltd;
-  src: url('EngleLight_ltd.ttf');
   }
   
 .i{
@@ -337,7 +337,7 @@ p.about-list ol li{
   padding-bottom:75px;
   }
 .image-space {
-/*  height:450px;*/
+  height:450px;
   background: rgb(53, 51, 51);
 /*  padding: 20px 0;*/
   }
@@ -399,7 +399,7 @@ p.about-list ol li{
   float:left;
   }
 .footer-logo{
-  font-family: 'Engel Light ltd';
+  font-family: 'EngelLight_ltd';
   color: white;
   font-size: 45px;
   }
