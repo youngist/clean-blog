@@ -3,40 +3,47 @@
 {% assign contributorname = {{page.contributors[0]}} %}
 <!-- This should be an include because it repeats for the feeds and contributors -->
 <div class='contributor-header'>
-    <div class='col5 contributor-theme-image'>{% if page.coverphoto != 'undefined' %} <img src='{{ page.coverphoto}}' class='col12'/> {<a href="../_layouts/post.html" id="" title="post">post</a>{% endif %}</div>
-    <div class='contrib-layout circular' style='background:url({{page.image}}) no-repeat; background-size: cover;'></div> <!-- background-size: 225px; -->
+    {% if page.coverphoto != undefined and page.coverphoto != '' %}<div class='col5 contributor-theme-image' style='background:url({{page.coverphoto}}) no-repeat; background-size: cover;'>
+		{% else %}
+		<div class='col5 contributor-theme-image' style='background:#e68b24;'>
+		{% endif %}</div>
+    <div class='contrib-layout circular' style='background:url({{page.image}}) no-repeat; background-size: cover;'></div>
     <div class='pad8h margin1 col5 contributor-details'>
         <h1 class='contributor-name'>{{contributorname}}</h1>
-        <div class='contributors titillium bold page-excerpt'>{{page.excerpt}}</div>
+        <div class='contributors titillium bold page-excerpt'>{{ page.excerpt }}</div>
     </div>
 </div>
-    <div class='col11 contributor-content'>
+<div class='col11 contributor-content'>
         <div class='pad4 col4 contributor-bio'>{{ page.bio }}</div>
         <div class='pad4 col8 stories'>
-        <div class='pad0 col11 margin1 picks'>My Stories</div>
-        <!-- Must cycle through contributors array to compare with contributor page name -->
-        {% for post in site.posts %}
-        {% for contributor in post.contributors	%}
-        {% if contributor == contributorname %}
-        {% if page.class != contributor %}
-        {% if post.published == true %}
-        <div class="margin1 article">
-            <h2 class='bold'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
-            <!-- PUT IN LOGIC FOR ADDING "ANDS" -->
-            <p class='contributors'>
-				{% assign contributorclear = contributor | replace: "'", ' ' %}
-				{% assign links = 'false' %}
-				{% if contributor == contributorname %}
-				<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-				{% assign links = 'true' %} 
-				{% endif %}
-				{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}</p>
+             <div class='pad0 col11 margin1 picks'>My Stories</div>
+             <!-- Must cycle through contributors array to compare with contributor page name -->
+             {% for post in site.posts %}
+             {% for contributor in post.contributors %}
+             {% if contributor == contributorname %}
+             {% if page.class != contributor %}
+             {% if post.published == true %}
+             <div class="margin1 article">
+               <h2 class='bold'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+               <!-- PUT IN LOGIC FOR ADDING "ANDS" -->
+               <p class='contributors'>
+   				{% assign contributorclear = contributor | replace: "'", ' ' %}
+   				{% assign links = 'false' %}
+   				{% if contributor == contributorname %}
+   				<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+   				{% assign links = 'true' %} 
+   				{% endif %}
+   				{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}</p>
+   			{% if post.category != video || sound || gallery %}
             <p>{{ post.content | strip_html | truncatewords:40}}</p>
-        </div>
-{% endif %}
-{% endif %}
-{% endif %}
-{% endfor %}
-  {% endfor %}
-</div>
-</div>
+   			{% else %}
+   			<p>Post should have some brief description {{ post.excerpt }}</p>
+   			{% endif %}
+		</div>
+   		     {% endif %}
+   		     {% endif %}
+   		     {% endif %}
+   		     {% endfor %}
+       	     {% endfor %}
+		</div>
+	</div>

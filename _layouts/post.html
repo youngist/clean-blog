@@ -1,26 +1,59 @@
 ---
 layout: default
 ---
-<div class='col12 container pad8' style='padding-top:152px;'>
+{% assign category = page.categories %}
+<div class='col12 container pad4'>
     <div class='col8 margin3 main-content' id='maincontent'>
-     <img alt='{{page.featuredphotoalt}}' title='{{page.featuredphotoalt}}' src={{page.featuredphoto}} />
-        <h1 class='article-title'>{{ page.headline }}</h1>
-		<h2>By [names]</h2>
+	{% if page.videourl != undefined | '' %}
+	<iframe width="100%" height="400" src="{{page.videourl}}" frameborder="0" allowfullscreen></iframe>
+	{% else %}
+	{% if category != 'video' %} 
+     <img class='col11' alt='{{page.featuredphotoalt}}' title='{{page.featuredphotoalt}}' src={{page.featuredphoto}} />
+	{% endif %}
+	{% endif %}
+	{% if page.categories == gallery %}
+	<!-- flickr embed -->
+	{% endif %}
+	{% if page.categories == sound %}
+	<!-- soundcloud embed -->
+	{% endif %}
+        <h1 class='article-title' style='margin-top:20px;'>{{ page.headline }}</h1>
+		<h2 class='article-title' style='font-size:25px;' >{{ page.tagline }}</h2>
+		<h3>By 
+				{% for contributor in page.contributors %}
+				{% assign contributorclear = contributor | replace: "'", ' ' %}
+				{% assign links = 'false' %}
+				{% for post in site.posts %}
+				{% if contributor == post.contributors %}
+				<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+				{% assign links = 'true' %}
+				{% endif %}
+				{% endfor %}
+				{% if links == 'false' %} {{contributor}}{% endif %}
+				{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h3>
+
         {{ content }}
     </div>
     <div class='col2 rborder contributor-info tag' id='contributorcontent'>
-            <div class='margin3 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: cover;'></div>
-			<!-- Need logic to not link to empty pages, although the main writer should always have something about themselves in the column -->
-			{% for contributor in page.contributors %}
-			{% assign contributorclear = contributor | replace: "'", ' ' %}
-            <h5 class='col9 contributor-name post alright'><a class='dark-link' href="{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}">{{ contributor }}</a></h5>
-			{% endfor %}
-            <h4 class='col9 i alright'>{{page.contributorage}} Years Old</h4>
-            <p class='col9 i alright' style=' font-size:11px;'>{{page.contributorshortbio}}</p>
-            <p class='col9 i alright'  style=' font-size:11px;'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
-            {% for tag in page.tags %}<h4> <a style='margin-bottom: 10px;' class='tag-color margin2 col3 pad0' href={{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}>{{ tag | downcase }}</a></h4>{% endfor %}
+            <div class='margin4 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: cover;'></div>
+            <h5 class='col9 alright contributors'>
+				{% for contributor in page.contributors %}
+				{% assign contributorclear = contributor | replace: "'", ' ' %}
+				{% assign links = 'false' %}
+				{% for post in site.posts %} 
+				{% if post.title == contributor %}<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+				{% assign links = 'true' %} 
+				{% endif %}
+				{% endfor %}
+				{% if links == 'false' %} {{contributor}}{% endif %}
+				{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h5>			
+            {% if page.contributorage != "undefined" %}<h4 class='col9 i alright'>{{page.contributorage}} Years Old</h4>{% endif %}
+            {% if page.contributorshortbio != "undefined" || '' %}
+			<p class='col9 i alright' style=' font-size:11px; margin-bottom:10px;'>{{page.contributorshortbio}}</p>{% endif %}
+            {% if page.contributortwitter != "undefined" %}<p class='col9 i alright'  style=' font-size:11px; margin-bottom:10px;'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>{% endif %}
+            {% for tag in page.tags %}<h4> <a style='margin-bottom: 10px;' class='tag-color margin2 col7 pad0' href={{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}>{{ tag | downcase }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove alright'>published</h4>
-            <h4 class='margin2 col7 publishedbelow alright'>{{page.date || date: "%b %d, %Y" }}</h4>
+            <h4 class='margin2 col7 publishedbelow alright'>{{page.date || date: "%B %d, %Y" }}</h4>
             <h4 class='fr marginr4 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="{{base.url}}{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
             <h4 class='fr marginr4 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>

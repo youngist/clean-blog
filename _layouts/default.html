@@ -68,7 +68,7 @@ top: 100px;}
         <nav class="rborder navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
         <ul class='menu-social col3'>
             <li class=''><a class='pad0' href='{{base}}/action'><img src='{{base}}/images/speaker-temp.png' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0 rss' href='{{base}}/feed/feed.xml'><img src='{{base}}/images/icon-social-rss.svg' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='{{base}}/images/icon-social-rss.svg' style='height: 35px;' /></a></li>
             <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' style='height: 35px;' /></a></li>
             <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 35px;' /></a></li>
             <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='{{base}}/images/icon-social-tumblr.svg' style='height: 35px;' /></a></li>
@@ -79,9 +79,9 @@ top: 100px;}
           </form>
         </div>
         <ul class='menu col5'>
-            <li class='center nav-action'><a href='{{base}}/donate'>DONATE</a></li>
-            <li class='center nav-action'><a href='{{base}}/about'>ABOUT</a></li>
-            <li class='center nav-action'><a href='{{base}}/pitch'>PITCH</a></li>
+            <li class='center nav-action'><a {% if page.class == "donate" %}class="active"{% endif %} href='{{base}}/donate'>DONATE</a></li>
+            <li class='center nav-action'><a {% if page.class == "about" %}class="active"{% endif %} href='{{base}}/about'>ABOUT</a></li>
+            <li class='center nav-action'><a {% if page.class == "pitch" %}class="active"{% endif %} href='{{base}}/pitch'>PITCH</a></li>
             <li class='center nav-action'><a onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
         </ul        </nav>
     </div>
@@ -93,10 +93,12 @@ function updatemodal(){
     if($(el).hasClass("hide")){
       $(el).removeClass("hide");
       $(el).addClass("shown");
+	  $(el).addClass("active");
     }
     else if($(el).hasClass("shown")){
         $(el).removeClass("shown");
         $(el).addClass("hide");
+		$(el).removeClass("active");
     }
 }
 </script>
@@ -124,8 +126,14 @@ function updatemodal(){
 	</div>	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </form>
 </div>
-
 <!--End mc_embed_signup-->
+<!--CSS LOGIC AD BOX DOESN'T DROPDOWN PROPERLY WHEN IN TABLET OR PHONE, CHECK CSS FOR BOX, related to header and header container -->
+{% if page.class != "donate" and page.class !=  "pitch" %}
+{% if page.class != "about" %}
+<div class='pad8 col12 container ad' style='padding-top: 80px;
+padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div>
+{% endif %}
+{% endif %}
 {{content}}
 <div class='col12 pad4 center container footer'>
     <div class='col3 footer-logo'>{young}ist</div>
@@ -141,7 +149,7 @@ function updatemodal(){
     </ul>
     <div class='col3'>
         <ul class='fl col12 footer-social'>
-            <li><a class='pad0' href='rss'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss-footer.svg' /></a></li>
+            <li><a class='pad0' href='http://feeds.feedburner.com/youngist-development'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss-footer.svg' /></a></li>
             <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-facebook-footer.svg' /></a></li>
             <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter-footer.svg' /></a></li>
             <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr-footer.svg' /></a></li>

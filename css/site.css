@@ -190,6 +190,10 @@ hr {
 .nav-action a{
 	color:#bfbebe;
 }
+
+.nav-action a.active{
+	color:#e68b24;
+}
 	
 .search-box{
    width:20%;
@@ -314,6 +318,7 @@ p.about-list ol li{
   border: black 1px solid;
   height:75px;
   width:650px;
+  text-align:center;
   }
 
 /* Tags */
@@ -462,18 +467,7 @@ footer {
 /*CSS for contributor circle*/
 .contrib-layout{
   position: absolute;
-  top: 150px;
-  left: 35%;
-  width: 150px;
-  height: 150px;
-  background-size: 150px;
-  border:5px solid #fff;
-  }
-
-/*CSS for contributor circle*/
-.contrib-layout{
-  position: absolute;
-  top: 150px;
+  top: 250px;
   left: 35%;
   width: 150px;
   height: 150px;
@@ -489,7 +483,6 @@ footer {
 
 .publishedabove{
   border-top: 1px solid #AFAFAF;
-  margin-top: 20px;
   }
 .publishedbelow{
   border-bottom: 1px solid #AFAFAF;
