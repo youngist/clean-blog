@@ -12,11 +12,11 @@ categories:
   - editors
 tags: 
   - "Sexual-Assault"
-featuredphoto: "https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg"
-contributorphoto: null
-contributorshortbio: null
-contributortwitter: null
-contributorage: null
+featuredphoto: https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg
+contributorphoto: undefined
+contributorshortbio: undefined
+contributortwitter: _George_Joseph_
+contributorage: undefined
 ---
 
 Society’s historically racist template for what sexual violence looks like generally confines itself to the dark city alley in which a Black male stranger overpowers a young white girl. But for college students the reality is much closer to home. 57% of rapes occur on a date, 90% of college women know their rapist, and one in four college women have survived rape or attempted rape. In fact, according to a US Department of Justice policeguide, “College women are more at risk for rape and other forms of sexual assault than women the same age but not in college.” Furthermore, studies have shown that the fraternity experience makes men more likely to rape, and fraternity members committhree times more sexual assaults than non-fraternity members. In other words, at college, rapists and the culture that supports them are an integral part of campus. Yet nationwide, university administrations have not only refused to tackle this reality head on, but have actually done everything to cover it up, thereby isolating survivors and marginalizing those insisting on the severity of the situation. Because of this reprehensible state of affairs, in October the Columbia University Democrats released apetition, demanding the university release anonymous aggregate data on campus rape and its consequences; yet after two months of op-eds, meetings, and negotiations, the administration has continued to hide the numbers and with them the chillingly proximate nature of rape on our campus.
@@ -39,4 +39,4 @@ Judging by the conduct of Columbia thus far, it is obvious that the administrati
 
 When universities hide the true extent to which sexual violence afflicts campus, they isolate the voices of those that have survived such attacks and undermine our ability as a community to recognize the severity of the situation. This refusal reinforces our narrow and racialized perception of rape, in the process adding to our disgraceful inability to resolutely condemn rape regardless of the perpetrator. It is the responsibility of the university to broaden our vision and make us more sensitive to the chilling reality that rape, and the culture that perpetuates it, is a significant part of campus life. Releasing the numbers is the first step in this process, but if our administrators continue to remain complicit, covering up the true extent of campus rape, students must go it alone, shaming them every step of the way. As one survivor declared, “Whether they release the numbers or not, its going to be because of student initiative, not going because of people on some committee. If we make enough noise around campus and in the media, they will be forced to change.”
 
-Follow George on Twitter at @_George_Joseph_ !
+Follow George on Twitter at [@_George_Joseph_](http://wwww.twiiter.com/_George_Joseph_) !
