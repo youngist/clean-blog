@@ -498,6 +498,18 @@ footer {
   border-bottom: 1px solid #AFAFAF;
   margin-bottom: 20px;
 }  
+
+.small-words{
+	 font-size:11px;
+}
+
+.article-title{
+	margin-top:20px;
+}
+
+.article-tagline{
+	font-size:25px;
+}
 /* NOT SURE WHERE THIS IS USED
 .post{
   color:#333;
@@ -772,6 +784,10 @@ table {
 
 .margincarousel { margin-left:5%; }
 
+.margin-bottom{
+	margin-bottom:10px;
+}
+
 /* Padding
 ------------------------------------------------------- */
 .pad0	 { padding:5px; }
@@ -909,6 +925,16 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .contributor-info{
     position:relative;
   }
+  
+  #contributorcontent{
+	  position: relative;
+	  top: 20px !important;
+  }
+  
+  .alright{
+  	  text-align:left;
+  }
+  
   .contributor-name {
   padding:50px 20px 0 40px;
   }

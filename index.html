@@ -100,7 +100,8 @@ exclude_from_search: true
 					{% assign contributorclear = contributor | replace: "'", ' ' %}
 					{% assign links = 'false' %} 
 					{% for post in site.posts %} 
-					{% if post.title == contributor %}<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+					{% if post.contributors == contributor %}
+					<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
 					{% assign links = 'true' %} 
 					{% endif %}
 					{% endfor %}
@@ -167,7 +168,7 @@ exclude_from_search: true
         {% for post in site.categories.gallery limit:2 %}
         {% if post.published == true %}
         <div class='col11' onclick="location.href='{{site.baseurl}}{{post.url}}';" style='cursor:pointer;'>
-            <img class='col11 media-space' src={{post.featuredphoto}} />
+            <img class='image-space' src={{post.featuredphoto}} />
             <a href={{site.baseurl}}{{post.url}}></a>
         </div>
          <h3 class='col11 article'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h3>
@@ -177,7 +178,7 @@ exclude_from_search: true
             {% for post in site.categories.sound limit:2 %}
             {% if post.published == true %}
             <div class='col11' onclick="location.href='{{site.baseurl}}{{post.url}}';" style='cursor:pointer;'>
-                <img class='col11 media-space' src={{post.featuredphoto}} /><a href={{site.baseurl}}{{post.url}}></a>
+                <img class='image-space' src={{post.featuredphoto}} /><a href={{site.baseurl}}{{post.url}}></a>
             </div>
             <h3 class='col11 article'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h3>
             {% endif %}

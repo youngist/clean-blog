@@ -17,9 +17,9 @@ layout: default
 	{% if page.categories == sound %}
 	<!-- soundcloud embed -->
 	{% endif %}
-        <h1 class='article-title' style='margin-top:20px;'>{{ page.headline }}</h1>
-		<h2 class='article-title' style='font-size:25px;' >{{ page.tagline }}</h2>
-		<h3>By 
+        <h1 class='col11 article-title'>{{ page.headline }}</h1>
+		<h2 class='col11 article-tagline'>{{ page.tagline }}</h2>
+		<h3 class='col11'>By 
 				{% for contributor in page.contributors %}
 				{% assign contributorclear = contributor | replace: "'", ' ' %}
 				{% assign links = 'false' %}
@@ -32,32 +32,40 @@ layout: default
 				{% if links == 'false' %} {{contributor}}{% endif %}
 				{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h3>
 
-        {{ content }}
+    <div class='col11'>{{ content }}</div>
     </div>
+	<!-- NOTE: Line height makes all elements look clearer, line-height: 1.67em; -->
     <div class='col2 rborder contributor-info tag' id='contributorcontent'>
-            <div class='margin4 circular article-circle' style='background:url({{page.contributorphoto}}) no-repeat; background-size: cover;'></div>
-            <h5 class='col9 alright contributors'>
-				{% for contributor in page.contributors %}
-				{% assign contributorclear = contributor | replace: "'", ' ' %}
-				{% assign links = 'false' %}
-				{% for post in site.posts %} 
-				{% if post.title == contributor %}<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-				{% assign links = 'true' %} 
-				{% endif %}
-				{% endfor %}
-				{% if links == 'false' %} {{contributor}}{% endif %}
-				{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h5>			
-            {% if page.contributorage != "undefined" %}<h4 class='col9 i alright'>{{page.contributorage}} Years Old</h4>{% endif %}
-            {% if page.contributorshortbio != "undefined" || '' %}
-			<p class='col9 i alright' style=' font-size:11px; margin-bottom:10px;'>{{page.contributorshortbio}}</p>{% endif %}
-            {% if page.contributortwitter != "undefined" %}<p class='col9 i alright'  style=' font-size:11px; margin-bottom:10px;'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>{% endif %}
-            {% for tag in page.tags %}<h4> <a style='margin-bottom: 10px;' class='tag-color margin2 col7 pad0' href={{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}>{{ tag | downcase }}</a></h4>{% endfor %}
+            {% if page.contributorphoto != "undefined" %}
+			<div class='margin4 circular article-circle margin-bottom' style='background:url({{page.contributorphoto}}) no-repeat; background-size: cover;'></div>
+			{% endif %}
+            <h5 class='col9 alright contributors margin-bottom'>
+			{% for contributor in page.contributors %}
+			{% assign contributorclear = contributor | replace: "'", ' ' %}
+			{% assign links = 'false' %}
+			{% for post in site.posts %} 
+			{% if post.title == contributor %}<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+			{% assign links = 'true' %} 
+			{% endif %}
+			{% endfor %}
+			{% if links == 'false' %} {{contributor}}{% endif %}
+			{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h5>			
+            {% if page.contributorage != "undefined" %}
+			<h4 class='col9 i alright margin-bottom'>{{page.contributorage}} Years Old</h4>
+			{% endif %}
+            {% if page.contributorshortbio != "undefined" %}
+			<p class='col9 i alright small-words margin-bottom'>{{page.contributorshortbio}}</p>
+			{% endif %}
+            {% if page.contributortwitter != "undefined" %}
+			<p class='col9 i alright small-words'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
+			{% endif %}
+            {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}>{{ tag | downcase }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove alright'>published</h4>
-            <h4 class='margin2 col7 publishedbelow alright'>{{page.date || date: "%B %d, %Y" }}</h4>
+            <h4 class='margin2 col7 publishedbelow alright'>{{page.date | date: "%B %d, %Y" }}</h4>
             <h4 class='fr marginr4 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="{{base.url}}{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
             <h4 class='fr marginr4 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
-            <h4 class='fr marginr4 tag'><div class="fb-share-button" data-href={{base.url}}/{{page.url}} data-type="button"></div></h4>
+            <h4 class='fr marginr4 tag'><div class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>
 	</div>
 	<script>
 		var postheight = $("#maincontent").height();
@@ -67,8 +75,6 @@ layout: default
 	    // watch the window's scroll event
 	        $(window).scroll(function(){
 		   var topvalue = postheight - contributorheight;
-		   console.log(postheight);
-		   console.log(contributorheight);
 	            // check the body's scrollTop
 	            if($('body').scrollTop() + contributorheight < postheight & $('body').scrollTop() > -50 ){
                 

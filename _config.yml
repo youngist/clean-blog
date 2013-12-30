@@ -1,4 +1,4 @@
-server: true
+serve: true
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
