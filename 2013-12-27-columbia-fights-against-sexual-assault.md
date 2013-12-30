@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 date: 2013-12-27
 headline: "Columbia Students’ Fight Against Campus Sexual Violence— And For Administrative Transparency"
