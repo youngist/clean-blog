@@ -62,10 +62,10 @@ layout: default
             {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}>{{ tag | downcase }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove alright'>published</h4>
             <h4 class='margin2 col7 publishedbelow alright'>{{page.date | date: "%B %d, %Y" }}</h4>
-            <h4 class='fr marginr4 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="{{base.url}}{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
+            <h4 class='fr marginr3 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
-            <h4 class='fr marginr4 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
-            <h4 class='fr marginr4 tag'><div class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>
+            <h4 class='fr marginr3 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
+            <h4 class='fr marginr3 tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>
 	</div>
 	<script>
 		var postheight = $("#maincontent").height();
