@@ -72,7 +72,7 @@ exclude_from_search: true
 </div>
 <div class='container col12 fill-article all-media'>
 		<div class='pad2 container col7'>
-			<div class='titillium bold picks section-title'>Editor's Picks</div>
+			<div class='titillium bold picks section-title'>Top Stories</div>
         {% for post in site.categories.editors %}
         {% if post.published == true %}		
 			<div class='container col12 listed-article'>
@@ -148,13 +148,13 @@ exclude_from_search: true
         {% for post in site.categories.video limit:2 %}
         {% if post.published == true %}
         {% if forloop.rindex != 1 %}
-        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
+        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
             <img class='play' src='images/play.svg' width=200 /><a href={{site.baseurl}}{{post.url}}></a>
         </div>
         <h3 class='col11 article'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h3>
         {% endif %}
         {% if forloop.rindex == 1 %}
-        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
+        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
             <img class='play' src='images/play.svg' width=200 /><a href={{site.baseurl}}{{post.url}}></a>
         </div>
         <h3 class='col11 article'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h3>

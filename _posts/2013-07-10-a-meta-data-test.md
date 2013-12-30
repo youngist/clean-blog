@@ -5,6 +5,7 @@ categories: featured
 title: "A Metadata Test - {young}ist"
 headline: A Metadata Test
 tagline: "It's just for fun!"
+excerpt: A practice article full of nothingness in order to test the jekyll logic. I now know I need to have excerpt otherwise the entire article is shown, because of default excerpt values through jekyll.
 tags: 
 - women 
 - students

@@ -130,8 +130,10 @@ function updatemodal(){
 <!--CSS LOGIC AD BOX DOESN'T DROPDOWN PROPERLY WHEN IN TABLET OR PHONE, CHECK CSS FOR BOX, related to header and header container -->
 {% if page.class != "donate" and page.class !=  "pitch" %}
 {% if page.class != "about" %}
+{% if page.class != "contributor" %}
 <div class='pad8 col12 container ad' style='padding-top: 80px;
 padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div>
+{% endif %}
 {% endif %}
 {% endif %}
 {{content}}

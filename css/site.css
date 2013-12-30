@@ -3,6 +3,7 @@
   src: url('http://localhost:4000/clean-blog/css/EngelLight_ltd.ttf') format(‘truetype’);
   }
 
+
 /*  Reset ♥
     http://meyerweb.com/eric/tools/css/reset/
     v2.0 | 20110126
@@ -121,6 +122,12 @@ h5,
 h6 a{
    color:#474546;
    }
+   
+   /* About Page */
+.header-wrapper{
+ padding-top:100px;  
+ }
+   
 
 r {
   border-bottom:1px dotted #000;
@@ -183,7 +190,6 @@ hr {
 .dark-link{
   color:#333;
   }
-
 
 /*Navigation*/
 
@@ -301,8 +307,9 @@ hr {
   font-size:20px;
   }
   
-p.about-list ol li{
+.about-list li{
   font-size:20px;
+  color:#474546;
 }
 /* Ads */
 .ad {
@@ -357,6 +364,9 @@ p.about-list ol li{
   color:#ffffff;
   }
 
+.article{
+	margin-bottom:20px;
+  }
 .article h2 {
 /*  Make margin smaller than average h2*/
   margin-bottom: 5px;
@@ -404,7 +414,7 @@ p.about-list ol li{
   font-size: 45px;
   }
 .footer-button{
-  background: orange;
+  background: #e68b24;
   margin-bottom: 15px;
   }
 .footer-button a{
@@ -467,7 +477,7 @@ footer {
 /*CSS for contributor circle*/
 .contrib-layout{
   position: absolute;
-  top: 250px;
+  top: 150px;
   left: 35%;
   width: 150px;
   height: 150px;
@@ -775,6 +785,24 @@ table {
 .pad8h   { padding: 200px 40px 0 40px;}
 .pad4c   { padding:40px; }
 .pad9    { padding:150px 0 0 20px; }
+
+.page-headline{
+  padding-top: 120px !important;
+  padding-bottom: 60px;
+  }
+  
+.page-title{
+	font-size:50px;
+  }
+ .about-header{
+ 	color:white; 
+	background:#BFBEBE;
+	padding-top:0;
+ } 
+ .about-category{
+ 	color:white; 
+	margin-bottom: 25px;
+ }
 
 /* Additional Utility Classes
 ------------------------------------------------------- */
