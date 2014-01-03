@@ -2,6 +2,7 @@
 published: true
 date: 2014-01-01
 layout: post
+categories: article
 headline: "Phillip Agnew\: “This is my tome to 2013; my poem to the year of my dreams”"
 title: "Phillip Agnew\: “This is my tome to 2013; my poem to the year of my dreams” - {young}ist"
 featuredphoto: https://31.media.tumblr.com/4044262fef186dae25fb629f9cd753a5/tumblr_inline_myqpyhhzm01rkj9dw.jpg
@@ -12,6 +13,7 @@ tags:
 - dream-defenders
 - poetry
 ---
+
 For 364 days, at least, I found myself in a constant state of conflict.
 
 Almost daily my alarm clock awoke me at the corner of a crossroad: asking that I decide 
