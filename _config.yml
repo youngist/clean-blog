@@ -10,4 +10,37 @@ description: "Your source for independent, youth-led political and cultural news
 url: http://www.youngist.github.io/clean-blog/
 prose:
   siteurl: "http://www.youngist.github.io/clean-blog/"
-  site:
+  rooturl: '_posts'
+  media: 'images'
+  metadata:
+      source/_posts:
+        - name: "layout"
+          field:
+            element: "hidden"
+            value: "post"
+        - name: "title"
+          field:
+            element: "text"
+            label: "Title"
+            value: ""
+            type: "text"
+        - name: "contributors"
+          field:
+            element: "text"
+            label: "Contributor"
+            value: ""
+            placeholder: "Trunk Botterson"
+            type: "text"
+        - name: "categories"
+          field:
+            element: "multiselect"
+            label: "Post Category"
+            placeholder: "Create or choose"
+            alterable: true
+        - name: "tags"
+          field:
+            element: "multiselect"
+            label: "Add Tags"
+            placeholder: "Choose Tags"
+            alterable: true
+      
