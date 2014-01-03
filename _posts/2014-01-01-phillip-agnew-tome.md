@@ -3,8 +3,8 @@ published: true
 date: 2014-01-01
 layout: post
 categories: article
-headline: "Phillip Agnew\: “This is my tome to 2013; my poem to the year of my dreams”"
-title: "Phillip Agnew\: “This is my tome to 2013; my poem to the year of my dreams” - {young}ist"
+headline: "Phillip Agnew - “This is my tome to 2013; my poem to the year of my dreams”"
+title: "Phillip Agnew -  “This is my tome to 2013; my poem to the year of my dreams” - {young}ist"
 featuredphoto: https://31.media.tumblr.com/4044262fef186dae25fb629f9cd753a5/tumblr_inline_myqpyhhzm01rkj9dw.jpg
 featuredphotoalttext: "Phillip Agnew, Executive Director of the Dream Defenders, on bus bound for 50th Anniversary of the March on Washington. – Photo by Trymaine Lee/MSNBC"
 contributortwitter: PhilofDreams_
