@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 published: true
 date: 2014-01-01
 layout: post
