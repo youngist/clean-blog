@@ -2,6 +2,7 @@
 layout: default
 category: page
 title: Stephanie Rivera
+titlename: Stephanie Rivera
 class: contributor
 position: Contributor
 excerpt: Teacher under-construction

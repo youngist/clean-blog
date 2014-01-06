@@ -2,6 +2,7 @@
 layout: default
 category: page
 title: Nelini Stamp
+titlename: Nelini Stamp
 class: contributor
 position: contributor
 excerpt: Organizer, Rabble Rouser, plays the mandolin

@@ -91,17 +91,17 @@ top: 100px;}
         <div class='header'>
             <div class='rborder'>
                 <a href='{{base}}/'>
-                    <img class='logo' src='{{base}}/images/tumblrlogo.png' />
+                    <img class='logo' src='{{base}}/images/tumblrlogo.png' alt='main logo image'/>
                 </a>
             </div>
         </div>
         <nav class="rborder navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
         <ul class='menu-social col3'>
-            <li class=''><a class='pad0' href='{{base}}/action'><img src='{{base}}/images/icon-action-page.svg' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='{{base}}/images/icon-social-rss.svg' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='{{base}}/images/icon-social-tumblr.svg' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0' href='{{base}}/action'><img src='{{base}}/images/icon-action-page.svg' alt='action logo' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='{{base}}/images/icon-social-rss.svg' style='height: 35px;' alt='rss logo' /></a></li>
+            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' alt='facebook logo' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 35px;' alt='twitter logo' /></a></li>
+            <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='{{base}}/images/icon-social-tumblr.svg' style='height: 35px;' alt='tumblr logo' /></a></li>
         </ul>
         <div id="search">
           <form action="{{base}}/search" class='col2 search' method="get">
@@ -113,7 +113,7 @@ top: 100px;}
             <li class='center nav-action'><a {% if page.class == "about" %}class="active"{% endif %} href='{{base}}/about'>ABOUT</a></li>
             <li class='center nav-action'><a {% if page.class == "pitch" %}class="active"{% endif %} href='{{base}}/pitch'>PITCH</a></li>
             <li class='center nav-action'><a onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
-        </ul        </nav>
+        </ul>        </nav>
     </div>
 </div>
 <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
@@ -177,15 +177,30 @@ padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div>
     </ul>
     <div class='col3'>
         <ul class='fl col12 footer-social'>
-            <li><a class='pad0' href='http://feeds.feedburner.com/youngist-development'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss-footer.svg' /></a></li>
-            <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-facebook-footer.svg' /></a></li>
-            <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter-footer.svg' /></a></li>
-            <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr-footer.svg' /></a></li>
+            <li><a class='pad0' href='http://feeds.feedburner.com/youngist-development'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss-footer.svg' alt='rss logo'/></a></li>
+            <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-facebook-footer.svg' alt='facebook logo'/></a></li>
+            <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter-footer.svg' alt='twitter logo' /></a></li>
+            <li><a class='pad0' href='http://www.youngist.tumblr.org/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr-footer.svg' alt='tumblr logo' /></a></li>
         </ul>
         <div class='pad0 fl col12 footer-button' onclick='updatemodal()' style='cursor:pointer;'><a>Sign up for email updates</a></div>
         <div class='pad0 fl col12 footer-button' onclick="location.href='{{base}}/donate';" style='cursor:pointer;'><a href='{{base}}/donate'>Support youth media</a></div>
     </div>
 </div>
+<script type="text/javascript">
+   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+   var disqus_shortname = 'youngist2'; // required: replace example with your forum shortname
+   var disqus_identifier = '{{page.url}}';
+   var disqus_title = '{{page.title}}';
+   var disqus_url = '{{site.url}}{{page.url}}';
+
+   /* * * DON'T EDIT BELOW THIS LINE * * */
+   (function () {
+       var s = document.createElement('script'); s.async = true;
+       s.type = 'text/javascript';
+       s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+       (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+   }());
+   </script>
 <script src="{{base}}/js/bootstrap.min.js"></script>
 <script src="{{base}}/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="{{base}}/js/mustache.js" type="text/javascript" charset="utf-8"></script>

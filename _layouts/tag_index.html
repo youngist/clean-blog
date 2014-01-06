@@ -3,7 +3,7 @@ layout: default
 exclude_from_search: true
 ---
 <div class='pad4 col12 container' style='color:white; padding-top:16.6666%; {% if page.tag != 'politics'%} background:chocolate; {% else %} background:url(https://www.lib.utexas.edu/maps/world_maps/txu-oclc-264266980-world_pol_2008-2.jpg); background-size:cover; {% endif %}'>
-    <h1 class='margin1' style='text-transform:capitalize; font-size: -webkit-xxx-large; {% if page.tag != 'politics'%} color:white; {% else %} color:chocolate; {% endif %}' >{{page.tag}}</h1>
+    <h1 class='margin1' style='text-transform:capitalize; font-size: -webkit-xxx-large; {% if page.tag != 'politics'%} color:white; {% else %} color:chocolate; {% endif %}' >{{page.tag | slugify }}</h1>
 </div>
 {% for post in site.posts %}
 {% if post.published == true %}
@@ -13,8 +13,17 @@ exclude_from_search: true
     <div class='margin1 article'>
     <h2 class='bold'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
     <!-- PUT IN LOGIC FOR ADDING 'ANDS' -->
-    <p class='contributors'>{% for contributor in post.contributors %}
-    <a href="{{site.baseurl}}/{{ contributor | downcase | replace:' ','-' }}">{{contributor}}</a>{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+    <p class='contributors'>
+		{% for contributor in post.contributors %}
+		{% assign contributorclear = contributor | replace: "'", ' ' %}
+		{% assign links = 'false' %} 
+		{% for post in site.posts %}
+		{% if post.titlename == contributor %}
+		<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+		{% assign links = 'true' %} 
+		{% endif %}
+		{% endfor %}
+		{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
     <p>{{ post.content | strip_html | truncatewords:40}}</p>
     </div>
 </div>

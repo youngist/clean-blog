@@ -2,6 +2,7 @@
 layout: default
 category: page
 title: Eric Ginsburg
+titlename: Eric Ginsburg
 class: contributor
 position: contributor
 excerpt: Journalist living in Greensboro, NC.

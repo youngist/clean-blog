@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class='col12 container' style='background: #F4F5F6;'>
+	<img src="/clean-blog/images/icon-action-page-active.svg" alt="action logo" style="padding-left: 40px; padding-top: 40px; height:100px;" class='fl'>	
+	<h2 style="line-height: 2.25em; color:#e68b24; padding-top: 40px;">TAKE ACTION</h2>
+	<div class='pad4 container'>
+{% for post in site.categories.action %}
+	<div class='col4' style='margin-bottom: 40px;'> <!-- margin-right: 20px; -->
+		<div class='col10' style='background:url({{post.featuredphoto}}); background-size:cover; height:200px;'/></div>
+		<div class='col10' style='background:white;'>
+			<h3 class='pad2'><a href='{{site.baseurl}}{{post.url}}'>{{post.headline}}</a></h3>
+			<p class='pad2' style='margin-bottom:0;'>{{post.type}}</p>
+		</div>
+	</div>
+{% endfor %}
+	</div>
+</div>

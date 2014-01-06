@@ -2,6 +2,7 @@
 layout: default
 category: page
 title: Taher Farghaly
+titlename: Taher Farghaly
 class: contributor
 position: Contributor
 excerpt: Read, write, read, write ... again and again and again..

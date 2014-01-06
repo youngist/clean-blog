@@ -1,7 +1,8 @@
 ---
 layout: default
 category: page
-title: "Jessica Fisher"
+title: Jessica Fisher
+titlename: Jessica Fisher
 class: contributor
 position: contributor
 excerpt: Journo-Activist femme transwoman in college and on a mission

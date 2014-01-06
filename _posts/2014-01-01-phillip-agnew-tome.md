@@ -9,6 +9,8 @@ featuredphoto: https://31.media.tumblr.com/4044262fef186dae25fb629f9cd753a5/tumb
 featuredphotoalttext: "Phillip Agnew, Executive Director of the Dream Defenders, on bus bound for 50th Anniversary of the March on Washington. – Photo by Trymaine Lee/MSNBC"
 contributortwitter: PhilofDreams_
 contributors: Phillip Agnew
+contributorage: undefined
+contributorphoto: undefined
 tags:
 - dream-defenders
 - poetry

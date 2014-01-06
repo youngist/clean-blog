@@ -2,6 +2,7 @@
 layout: default
 category: page
 title: William C. Anderson
+titlename: William C. Anderson
 class: contributor
 position: contributor
 excerpt: Southern organizer based in Brooklyn, NY

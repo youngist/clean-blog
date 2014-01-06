@@ -442,7 +442,7 @@ footer {
 
 /* Image given by contributor must always be this height?*/
 .contributor-theme-image{
-	background: chocolate;
+	background: #e68b24;
 	height:400px;
 }
 .contributors{
@@ -928,7 +928,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   
   #contributorcontent{
 	  position: relative;
-	  top: 20px !important;
+	  top: 4px !important;
   }
   
   .alright{

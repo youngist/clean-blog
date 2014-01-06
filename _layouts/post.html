@@ -8,7 +8,9 @@ layout: default
 	<iframe width="100%" height="400" src="{{page.videourl}}" frameborder="0" allowfullscreen></iframe>
 	{% else %}
 	{% if category != 'video' %} 
+	{% if page.featuredphoto != "undefined" %} 
      <img class='col11' alt='{{page.featuredphotoalt}}' title='{{page.featuredphotoalt}}' src={{page.featuredphoto}} />
+	{% endif %}
 	{% endif %}
 	{% endif %}
 	{% if page.categories == gallery %}
@@ -24,7 +26,7 @@ layout: default
 				{% assign contributorclear = contributor | replace: "'", ' ' %}
 				{% assign links = 'false' %}
 				{% for post in site.posts %}
-				{% if contributor == post.contributors %}
+				{% if contributor == post.titlename %}
 				<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
 				{% assign links = 'true' %}
 				{% endif %}
@@ -32,7 +34,22 @@ layout: default
 				{% if links == 'false' %} {{contributor}}{% endif %}
 				{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h3>
 
-    <div class='col11'>{{ content }}</div>
+    <div class='col11' style='padding-bottom: 20px;'>{{ content }}</div>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'youngist2'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
     </div>
 	<!-- NOTE: Line height makes all elements look clearer, line-height: 1.67em; -->
     <div class='col2 rborder contributor-info tag' id='contributorcontent'>
@@ -44,7 +61,7 @@ layout: default
 			{% assign contributorclear = contributor | replace: "'", ' ' %}
 			{% assign links = 'false' %}
 			{% for post in site.posts %} 
-			{% if post.title == contributor %}<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+			{% if post.titlename == contributor %}<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
 			{% assign links = 'true' %} 
 			{% endif %}
 			{% endfor %}
@@ -59,13 +76,13 @@ layout: default
             {% if page.contributortwitter != "undefined" %}
 			<p class='col9 i alright small-words'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
 			{% endif %}
-            {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}>{{ tag | downcase }}</a></h4>{% endfor %}
+            {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | slugify  }}>{{ tag | downcase | slugify }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove alright'>published</h4>
             <h4 class='margin2 col7 publishedbelow alright'>{{page.date | date: "%B %d, %Y" }}</h4>
-            <h4 class='fr marginr3 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-via=theyoungist data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
+            <h4 class='fr marginr1 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
-            <h4 class='fr marginr3 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
-            <h4 class='fr marginr3 tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>
+            <h4 class='fr marginr1 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
+            <h4 class='fr marginr1 tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>
 	</div>
 	<script>
 		var postheight = $("#maincontent").height();

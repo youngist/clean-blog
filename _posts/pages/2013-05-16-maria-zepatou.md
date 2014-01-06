@@ -2,6 +2,7 @@
 layout: default
 category: page
 title: Maria Zepatou
+titlename: Maria Zepatou
 class: contributor
 position: Contributor
 excerpt: Writer, traveller, lost earrings detective
