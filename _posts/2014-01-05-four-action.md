@@ -8,6 +8,7 @@ featuredphoto: http://www.archives.gov/education/lessons/hawaii-petition/images/
 featuredphotoalttext: "petition from 1887"
 categories: action
 type: PETITION
+class: action
 ---
 Sartorial pop-up butcher, hoodie banjo leggings farm-to-table gluten-free meh ethical Terry Richardson wayfarers mlkshk deep v. Eu organic deep v fugiat, Carles adipisicing letterpress fingerstache freegan. Asymmetrical before they sold out labore, polaroid Vice ea odio brunch mustache scenester non hella voluptate biodiesel flexitarian. Mollit organic photo booth reprehenderit keytar, pickled stumptown Etsy iPhone delectus scenester. Reprehenderit exercitation Bushwick cliche tousled, beard photo booth skateboard ethical esse stumptown aliqua High Life brunch. Delectus Bushwick PBR&B irure art party chia. Ad sapiente fixie, kitsch sed jean shorts seitan farm-to-table +1 proident readymade flannel.
 

@@ -27,13 +27,17 @@
                <h2 class='bold'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
                <!-- PUT IN LOGIC FOR ADDING "ANDS" -->
                <p class='contributors'>
-   				{% assign contributorclear = contributor | replace: "'", ' ' %}
-   				{% assign links = 'false' %}
-   				{% if contributor == contributorname %}
-   				<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-   				{% assign links = 'true' %} 
-   				{% endif %}
-   				{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}</p>
+				{% for contributor in post.contributors %}
+				{% assign contributorclear = contributor | replace: "'", ' ' %}
+				{% assign links = 'false' %} 
+				{% for post in site.posts %}
+				{% assign titlenameclear = post.titlename | replace: "'", ' ' %}
+				{% if titlenameclear == contributorclear %}
+				<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+				{% assign links = 'true' %} 
+				{% endif %}
+				{% endfor %}
+				{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
    			{% if post.category != video || sound || gallery %}
             <p>{{ post.content | strip_html | truncatewords:40}}</p>
    			{% else %}

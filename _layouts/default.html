@@ -30,7 +30,6 @@
 <meta property='og:image' content='{{ page.featuredphoto }}' />
 <meta property='og:url' content={{site.baseurl}}{{page.url}} />
 <meta property='og:description' content='{{ post.content | strip_html | truncatewords:20}}' />
-<!-- Should I use tagline or an excerpt? -->
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -97,7 +96,7 @@ top: 100px;}
         </div>
         <nav class="rborder navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
         <ul class='menu-social col3'>
-            <li class=''><a class='pad0' href='{{base}}/action'><img src='{{base}}/images/icon-action-page.svg' alt='action logo' style='height: 35px;' /></a></li>
+            <li class=''><a class='pad0' href='{{base}}/action'><img {% if page.class == "action" %}src='{{base}}/images/icon-action-page-active.svg' {% else %} src='{{base}}/images/icon-action-page.svg' {% endif %} alt='action logo' style='height: 35px;' /></a></li>
             <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='{{base}}/images/icon-social-rss.svg' style='height: 35px;' alt='rss logo' /></a></li>
             <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' alt='facebook logo' style='height: 35px;' /></a></li>
             <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 35px;' alt='twitter logo' /></a></li>

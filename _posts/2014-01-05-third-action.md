@@ -8,6 +8,7 @@ featuredphoto: http://www.archives.gov/education/lessons/hawaii-petition/images/
 featuredphotoalttext: "petition from 1887"
 categories: action
 type: PETITION
+class: action
 ---
 Umami salvia post-ironic actually, ethical Schlitz gastropub forage authentic. Sustainable jean shorts umami master cleanse tousled. Velit flannel bitters proident selfies pork belly ullamco. Deserunt typewriter aesthetic, 90's keytar craft beer Godard cliche Banksy sint. Letterpress officia art party Pitchfork cardigan est. Drinking vinegar fugiat trust fund, keffiyeh hashtag accusamus gluten-free banjo. Sint bespoke wayfarers, fingerstache chia Wes Anderson velit minim enim four loko est id keffiyeh.
 
