@@ -97,6 +97,7 @@ h4, h5 {
 p {
   margin:0 0 20px;
   font-family:'Fauna One', serif;
+  color:#474546;
   }
   p:last-child { margin-bottom:0;}
   
@@ -298,6 +299,7 @@ hr {
 .about-list{
   font-size:20px;
   margin-top: 25px;
+  color:white;
   }
   
 .motto{
@@ -312,6 +314,12 @@ hr {
   font-size:20px;
   color:#474546;
 }
+
+/* Donate */
+.donate-p{
+  font-size: 17px;
+}
+
 /* Ads */
 .ad {
   background:#F4F5F6;
