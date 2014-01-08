@@ -1,8 +1,14 @@
 @font-face {
-  font-family: 'EngelLight_ltd';
-  src: url('http://localhost:4000/clean-blog/css/EngelLight_ltd.ttf') format(‘truetype’);
-  }
+    font-family: 'engel_light_ltdlight';
+    src: url('engellight_ltd-webfont.eot');
+    src: url('engellight_ltd-webfont.eot?#iefix') format('embedded-opentype'),
+         url('engellight_ltd-webfont.woff') format('woff'),
+         url('engellight_ltd-webfont.ttf') format('truetype'),
+         url('engellight_ltd-webfont.svg#engel_light_ltdlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
 
+}
 
 /*  Reset ♥
     http://meyerweb.com/eric/tools/css/reset/
@@ -418,7 +424,7 @@ hr {
   float:left;
   }
 .footer-logo{
-  font-family: 'EngelLight_ltd';
+  font-family: 'engel_light_ltdlight';
   color: white;
   font-size: 45px;
   }
