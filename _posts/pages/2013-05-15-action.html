@@ -8,13 +8,31 @@ category: page
 	<h2 style="line-height: 2.25em; color:#e68b24; padding-top: 40px;">TAKE ACTION</h2>
 	<div class='pad4 container'>
 {% for post in site.categories.action %}
-	<div class='col4' style='margin-bottom: 40px;'> <!-- margin-right: 20px; -->
+{% if post.layout == "post" %}
+    <div class='article'>
+    <h2 class='bold'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+    <p class='contributors'>
+		{% for contributor in post.contributors %}
+		{% assign contributorclear = contributor | replace: "'", ' ' %}
+		{% assign links = 'false' %} 
+		{% for post in site.posts %}
+		{% if post.titlename == contributor %}
+		<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+		{% assign links = 'true' %} 
+		{% endif %}
+		{% endfor %}
+		{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+    <p>{{ post.content | strip_html | truncatewords:40}}</p>
+    </div>
+{% else %}
+	<div class='col4' style='margin-bottom: 40px;'>
 		<div class='col10' style='background:url({{post.featuredphoto}}); background-size:cover; height:200px;'/></div>
 		<div class='col10' style='background:white;'>
 			<h3 class='pad2'><a href='{{site.baseurl}}{{post.url}}'>{{post.headline}}</a></h3>
 			<p class='pad2' style='margin-bottom:0;'>{{post.type}}</p>
 		</div>
 	</div>
+{% endif %}
 {% endfor %}
 	</div>
 </div>

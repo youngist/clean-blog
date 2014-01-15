@@ -7,6 +7,9 @@ title: "Stop writing Petitions - {young}ist"
 featuredphoto: http://www.archives.gov/education/lessons/hawaii-petition/images/hawaii-petition-02.jpg
 featuredphotoalttext: "petition from 1887"
 categories: action
+tags:
+- petitions
+- woc
 type: PETITION
 class: action
 ---

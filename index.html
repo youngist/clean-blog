@@ -3,7 +3,7 @@ layout: default
 exclude_from_search: true
 ---
 <!-- JEKYLL LOGIC Feature tagged stories will be on the carousel, so featured stories will not show up in recent or editors picks -->
-<div id='myCarousel' class='col12 carousel'>
+<div id='myCarousel' class='col12 carousel slide'>
     <ol class='carousel-indicators'>
         <li data-target='#myCarousel' data-slide-to='0' class='active'></li>
         <li data-target='#myCarousel' data-slide-to='1'></li>
@@ -95,7 +95,7 @@ exclude_from_search: true
         {% if post.published == true %}		
 			<div class='container col12 listed-article'>
 			{% if {{post.contributorphoto}} != "undefined" %}
-            <div class='col2 rborder media tag'>
+            <div class='col2 media tag'>
                 <div class='pad0 marginr1 fr circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: cover;'></div>
 			{% else %} 
 			<div class='col2 media tag'>
@@ -136,7 +136,7 @@ exclude_from_search: true
         {% if post.published == true %}
         <div class='container col12 listed-article'>
 			{% if {{post.contributorphoto}} != "undefined" %}
-            <div class='col2 rborder media tag'>
+            <div class='col2 media tag'>
                 <div class='pad0 marginr1 fr circular article-circle' style='background:url({{post.contributorphoto}}) no-repeat; background-size: cover;'></div>
 			{% else %} 
 			<div class='col2 media tag'>
