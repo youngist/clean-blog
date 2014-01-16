@@ -1,22 +1,28 @@
 ---
 layout: post
 published: true
-date: 2014-01-16
-categories: article
+date: 
+  - 2014-01-16T00:00:00.000Z
+  - "Wed Jan 15 2014 19:00:00 GMT-0500 (EST)"
+categories: 
+  - article
+  - action
 excerpt: ""
 maintitle: "markdown tutorial - {Young}ist"
-headline: "markdown tutorial"
-tagline: ""
+headline: Markdown Tutorial
+tagline: A new way to publish
 featuredphoto: undefined
 featuredphotoalttext: ""
 tags: 
-  - markdown
+  - Markdown
 contributors: 
   - Maya Richman
-contributorphoto: undefined
-contributorshortbio: undefined
+contributorphoto: "https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/30a5a903022d519cfbfad525904da6dd/tumblr_inline_mocar7RARS1rkj9dw.jpg"
+contributorshortbio: something witty
 contributortwitter: mayarichman
-contributorage: 22
+contributorage: 
+  - 22
+  - "22"
 ---
 
 This is a basic post!
