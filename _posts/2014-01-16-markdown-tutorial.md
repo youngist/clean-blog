@@ -1,22 +1,22 @@
 ---
-layout: null
+layout: post
 published: true
-date: null
-categories: null
+date: 2014-01-16
+categories: article
 excerpt: ""
 maintitle: "markdown tutorial - {Young}ist"
-headline: ""
+headline: "markdown tutorial"
 tagline: ""
 featuredphoto: ""
 featuredphotoalttext: ""
 tags: 
-  - null
+  - undefined
 contributors: 
-  - null
-contributorphoto: null
-contributorshortbio: null
-contributortwitter: null
-contributorage: null
+  - undefined
+contributorphoto: undefined
+contributorshortbio: undefined
+contributortwitter: undefined
+contributorage: undefined
 ---
 
 This is a basic post!
