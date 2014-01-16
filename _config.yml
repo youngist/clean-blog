@@ -24,11 +24,6 @@ prose:
           label: "Post Category"
           placeholder: "Create or choose"
           alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          value: "2014-01-01"
       - name: "maintitle"
         field:
           element: "text"
