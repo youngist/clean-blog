@@ -18,27 +18,80 @@ prose:
           element: "text"
           label: "Layout"
           value: "post"
-      - name: "maintitle"
-        field:
-          element: "text"
-          label: "Title"
-          value: "Title of piece"
-          type: "text"
-      - name: "contributors"
-        field:
-          element: "multiselect"
-          label: "Contributors"
-          placeholder: "Create or choose"
-          type: "text"
       - name: "categories"
         field:
           element: "multiselect"
           label: "Post Category"
           placeholder: "Create or choose"
           alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: "2014-01-01"
+      - name: "maintitle"
+        field:
+          element: "text"
+          label: "Title of piece for SEO"
+          value: "Title of piece for SEO"
+          type: "text"
+      - name: "headline"
+        field:
+          element: "text"
+          label: "Headline"
+          value: "Headline of piece"
+          type: "text"
+      - name: "tagline"
+        field:
+          element: "text"
+          label: "tagline"
+          value: "tagline of piece"
+          type: "text"
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Tags"
+          label: "Tags"
           placeholder: "Choose Tags"
           alterable: true
+      - name: "featuredphoto"
+        field:
+          element: "text"
+          label: "Featured photo"
+          value: "Featured photo url"
+          type: "text"
+      - name: "featuredphotoalttext"
+        field:
+          element: "text"
+          label: "Featured photo alt text"
+          value: "Featured photo alt text"
+          type: "text"
+      - name: "contributors"
+        field:
+          element: "multiselect"
+          label: "Contributors"
+          placeholder: "Create or choose"
+          alterable: true
+      - name: "contributorphoto"
+        field:
+          element: "text"
+          label: "Contributor photo"
+          value: "Contributor photo"
+          type: "text"
+      - name: "contributorshortbio"
+        field:
+          element: "text"
+          label: "Contributor short bio"
+          value: "Contributor short bio"
+          type: "text"
+      - name: "contributortwitter"
+        field:
+          element: "text"
+          label: "Contributor twitter"
+          value: "Contributor twitter"
+          type: "text"
+      - name: "contributorage"
+        field:
+          element: "text"
+          label: "Contributor age"
+          value: "Contributor age"
+          type: "text"
