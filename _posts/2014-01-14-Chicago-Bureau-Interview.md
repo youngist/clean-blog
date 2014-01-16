@@ -1,24 +1,27 @@
 ---
-published: true
 layout: post
-date: 2014-01-14
-categories: article
+published: true
+date: {}
+categories: 
+  - ""
+  - article
 excerpt: "Chicago Bureau Interview With Mariame Kaba about the School-to-Prison Pipleline"
 title: "Chicago Bureau Interview With Mariame Kaba: Can the U.S. Snap School-to-Prison Pipleline with New Rules? - {Young}ist"
 headline: "Chicago Bureau Interview With Mariame Kaba: Can the U.S. Snap School-to-Prison Pipleline with New Rules?"
 tagline: ""
 featuredphoto: "http://www.chicago-bureau.org/wp-content/uploads/2014/01/incarceration-dropouts-fs-3-768x593.jpg"
-featuredphotoalttext: "incareration and high school dropout rates"
+featuredphotoalttext: incareration and high school dropout rates
 tags: 
-- youth
-- prisons
-contributors:
-- Susan Du
+  - prisons
+  - youth
+contributors: 
+  - Susan Du
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 ---
+
 **This article was [originally published](http://www.chicago-bureau.org/qa-mariame-kaba-can-u-s-really-snap-school-prison-pipleline-new-discipline-guidelines/) by The Chicago Bureau, a publication devoted to examining issues of juvenile justice in Chicago.
 **
 
