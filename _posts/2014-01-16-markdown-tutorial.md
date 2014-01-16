@@ -1,23 +1,24 @@
 ---
-published: 
-layout: 
-date: 
-categories: 
+layout: null
+published: true
+date: null
+categories: null
 excerpt: ""
-title: " - {Young}ist"
+title: " 2014-01-16-markdown-tutorial.md"
 headline: ""
 tagline: ""
 featuredphoto: ""
 featuredphotoalttext: ""
 tags: 
-- 
-contributors:
-- 
-contributorphoto: 
-contributorshortbio: 
-contributortwitter: 
-contributorage: 
+  - null
+contributors: 
+  - null
+contributorphoto: null
+contributorshortbio: null
+contributortwitter: null
+contributorage: null
 ---
+
 This is a basic post!
 
 
@@ -151,4 +152,3 @@ First Header | Second Header | Third Header
 :----------- | :-----------: | -----------:
 Left         | Center        | Right
 Left         | Center        | Right
-
