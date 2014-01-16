@@ -1,7 +1,7 @@
 ---
 layout: default
 category: page
-title: Taher Farghaly
+maintitle: Taher Farghaly
 titlename: Taher Farghaly
 class: contributor
 position: Contributor

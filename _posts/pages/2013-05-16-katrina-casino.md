@@ -1,7 +1,7 @@
 ---
 layout: default
 category: page
-title: Katrina Casino
+maintitle: Katrina Casino
 titlename: Katrina Casino
 class: staff
 position: editor

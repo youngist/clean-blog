@@ -1,7 +1,7 @@
 ---
 layout: default
 category: page
-title: Eric Ginsburg
+maintitle: Eric Ginsburg
 titlename: Eric Ginsburg
 class: contributor
 position: contributor

@@ -4,7 +4,7 @@ layout: post
 date: 2014-01-14
 categories: article
 excerpt: "Chicago Bureau Interview With Mariame Kaba about the School-to-Prison Pipleline"
-title: "Chicago Bureau Interview With Mariame Kaba: Can the U.S. Snap School-to-Prison Pipleline with New Rules? - {Young}ist"
+maintitle: "Chicago Bureau Interview With Mariame Kaba: Can the U.S. Snap School-to-Prison Pipleline with New Rules? - {Young}ist"
 headline: "Chicago Bureau Interview With Mariame Kaba: Can the U.S. Snap School-to-Prison Pipleline with New Rules?"
 tagline: ""
 featuredphoto: "http://www.chicago-bureau.org/wp-content/uploads/2014/01/incarceration-dropouts-fs-3-768x593.jpg"

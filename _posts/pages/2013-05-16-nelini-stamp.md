@@ -1,7 +1,7 @@
 ---
 layout: default
 category: page
-title: Nelini Stamp
+maintitle: Nelini Stamp
 titlename: Nelini Stamp
 class: contributor
 position: contributor

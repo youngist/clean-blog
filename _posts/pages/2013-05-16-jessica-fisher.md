@@ -1,7 +1,7 @@
 ---
 layout: default
 category: page
-title: Jessica Fisher
+maintitle: Jessica Fisher
 titlename: Jessica Fisher
 class: contributor
 position: contributor

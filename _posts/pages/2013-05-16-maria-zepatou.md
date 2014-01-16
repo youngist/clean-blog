@@ -1,7 +1,7 @@
 ---
 layout: default
 category: page
-title: Maria Zepatou
+maintitle: Maria Zepatou
 titlename: Maria Zepatou
 class: contributor
 position: Contributor

@@ -15,26 +15,26 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "hidden"
+          element: "text"
+		  label: "Layout"
           value: "post"
-      - name: "title"
+      - name: "maintitle"
         field:
           element: "text"
           label: "Title"
-          value: ""
+          value: "Title of piece"
           type: "text"
       - name: "contributors"
         field:
-          element: "text"
-          label: "Contributor"
-          value: ""
-          placeholder: "Trunk Botterson"
+          element: "multiselect"
+          label: "Contributors"
+		  placeholder: "Create or choose"
           type: "text"
       - name: "categories"
         field:
           element: "multiselect"
           label: "Post Category"
-          placeholder: "Create or choose"
+		  placeholder: "Create or choose"
           alterable: true
       - name: "tags"
         field:

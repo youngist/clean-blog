@@ -4,7 +4,7 @@ layout: post
 date: 2014-01-14
 headline: "CeCe McDonald, Transgender Women of Color, and Dreams Beyond the Prison Industrial Complex"
 tagline: ""
-title: "CeCe McDonald, Transgender Women of Color, and Dreams Beyond the Prison Industrial Complex - {young}ist"
+maintitle: "CeCe McDonald, Transgender Women of Color, and Dreams Beyond the Prison Industrial Complex - {young}ist"
 excerpt: "Something describing the article"
 contributors: 
   - Lexi Adsit

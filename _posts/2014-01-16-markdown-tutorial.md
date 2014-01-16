@@ -4,7 +4,7 @@ layout:
 date: 
 categories: 
 excerpt: ""
-title: " - {Young}ist"
+maintitle: " - {Young}ist"
 headline: ""
 tagline: ""
 featuredphoto: ""

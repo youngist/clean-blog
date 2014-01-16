@@ -1,7 +1,7 @@
 ---
 layout: default
 category: page
-title: Stephanie Rivera
+maintitle: Stephanie Rivera
 titlename: Stephanie Rivera
 class: contributor
 position: Contributor

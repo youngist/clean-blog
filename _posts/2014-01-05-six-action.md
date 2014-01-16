@@ -3,7 +3,7 @@ published: true
 date: 2014-01-05
 layout: action
 headline: "Stop writing Petitions, 2nd"
-title: "Stop writing Petitions, 2nd - {young}ist"
+maintitle: "Stop writing Petitions, 2nd - {young}ist"
 featuredphoto: http://www.archives.gov/education/lessons/hawaii-petition/images/hawaii-petition-02.jpg
 featuredphotoalttext: "petition from 1887"
 categories: action

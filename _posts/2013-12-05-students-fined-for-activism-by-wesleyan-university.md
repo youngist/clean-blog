@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Students Fined $5,000 for Activism by Wesleyan University - {young}ist
+maintitle: Students Fined $5,000 for Activism by Wesleyan University - {young}ist
 headline: Students Fined $5,000 for Activism by Wesleyan University
 tags:
 - "LGBQT"
