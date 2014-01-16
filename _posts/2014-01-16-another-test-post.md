@@ -11,7 +11,7 @@ contributorshortbio: Something witty
 contributortwitter: mayarichman
 contributorage: "22"
 categories: 
-  - article
+  - featured
 tags: 
   - Markdown
   - "Site-Build"
