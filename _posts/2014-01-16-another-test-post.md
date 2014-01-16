@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Another Test Post - {Young}ist"
 headline: Another Test Post
