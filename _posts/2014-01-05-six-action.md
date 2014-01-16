@@ -1,6 +1,5 @@
 ---
 published: true
-date: 2014-01-05
 layout: action
 headline: "Stop writing Petitions, 2nd"
 maintitle: "Stop writing Petitions, 2nd - {young}ist"

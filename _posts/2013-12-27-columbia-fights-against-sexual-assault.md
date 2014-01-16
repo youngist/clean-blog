@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-date: 2013-12-27
 headline: Columbia Students’ Fight Against Campus Sexual Violence— And For Administrative Transparency
 tagline: "When universities cover up the extent of campus sexual violence, they marginalize the true gravity of the issue and those fighting back."
 maintitle: "Columbia Students’ Fight Against Campus Sexual Violence— And For Administrative Transparency - {young}ist"

@@ -1,6 +1,5 @@
 ---
 published: true
-date: 2014-01-01
 layout: post
 categories: article
 headline: "Phillip Agnew - “This is my tome to 2013; my poem to the year of my dreams”"

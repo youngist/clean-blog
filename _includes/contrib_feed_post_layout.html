@@ -39,7 +39,7 @@
 				{% endfor %}
 				{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
    			{% if post.category != video || sound || gallery %}
-            <p>{{ post.content | strip_html | truncatewords:40}}</p>
+            <p>{{ post.content | strip_html |  textilize  | truncatewords:40}}</p>
    			{% else %}
    			<p>{{ post.excerpt}}</p>
    			{% endif %}

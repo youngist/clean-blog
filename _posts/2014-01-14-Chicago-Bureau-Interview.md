@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-date: 2014-01-14
 categories: 
   - article
 excerpt: "Chicago Bureau Interview With Mariame Kaba about the School-to-Prison Pipleline"
