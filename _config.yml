@@ -16,7 +16,7 @@ prose:
       - name: "layout"
         field:
           element: "text"
-		  label: "Layout"
+          label: "Layout"
           value: "post"
       - name: "maintitle"
         field:
@@ -28,13 +28,13 @@ prose:
         field:
           element: "multiselect"
           label: "Contributors"
-		  placeholder: "Create or choose"
+          placeholder: "Create or choose"
           type: "text"
       - name: "categories"
         field:
           element: "multiselect"
           label: "Post Category"
-		  placeholder: "Create or choose"
+          placeholder: "Create or choose"
           alterable: true
       - name: "tags"
         field:
