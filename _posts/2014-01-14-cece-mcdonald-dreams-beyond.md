@@ -20,7 +20,6 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 ---
-
 I’ll be honest, I didn’t consistently follow [CeCe McDonald’s](http://abcnews.go.com/blogs/headlines/2014/01/transgender-activist-cece-mcdonald-released-early-from-prison/) story or read [her blog](http://supportcece.wordpress.com/category/ceces-blog/). Mostly because incarceration is a huge fear of mine and I’ve heard so many negative experiences of incarceration for transgender women of color, I prayed CeCe would not share that same experience. It breaks my heart to hear negative experiences of any transgender woman of color because I often feel absolutely helpless to be able to do anything about it and that these negative experiences are so commonplace. I also recognize the structural oppression that plays such a large role in conducting violence within our lives. Resisting and fighting structural violence often feels like boxing a ghost who doesn’t have any rules to follow.
 
 As I look back on this experience, I wished I had taken time to write a letter and thank her for her strength, courage, and inspiration to do what she had done: Stand up for herself, her friends, and transgender women of color everywhere. Resisting the violent forces that aspire to obliterate us from existence. CeCe McDonald is a warrior princess of our community for choosing to survive and resist the way she did.

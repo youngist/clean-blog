@@ -7,16 +7,16 @@ excerpt: ""
 maintitle: "markdown tutorial - {Young}ist"
 headline: "markdown tutorial"
 tagline: ""
-featuredphoto: ""
+featuredphoto: undefined
 featuredphotoalttext: ""
 tags: 
-  - undefined
+  - markdown
 contributors: 
-  - undefined
+  - Maya Richman
 contributorphoto: undefined
 contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributortwitter: mayarichman
+contributorage: 22
 ---
 
 This is a basic post!
