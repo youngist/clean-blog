@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Reimagining Freedom: One Student’s Take on the Escuelita - {Young}ist"
 headline: "Reimagining Freedom: One Student’s Take on the Escuelita"
