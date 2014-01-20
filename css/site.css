@@ -190,6 +190,14 @@ hr {
  text-align:right;
 }
 
+.capitalize{
+ text-transform: capitalize;
+}
+
+.button-color:hover{
+ background: #FF9A28;
+}
+
 /* makes the article and media section the same off white*/
 .fill-article {
   background: #F4F5F6;
@@ -275,6 +283,20 @@ hr {
 
 /* Carousel */
 
+.prevslide{
+	background:url(/clean-blog/images/arrow-l.png) no-repeat;
+	position: absolute;
+	top: 250px;
+	left:30px;
+}
+
+.nextslide{
+	background:url(/clean-blog/images/arrow-r.png) no-repeat;
+	position: absolute;
+	top: 250px;
+	right:0;
+}
+
 .carousel-dark{
   margin-top: 40px;
   background: rgb(53, 51, 51);
@@ -358,7 +380,7 @@ hr {
 /* Main Page Article and Media Section */
 
 .listed-article{
-  padding-bottom:75px;
+  padding-bottom:40px;
   }
 .image-space {
   height:400px;

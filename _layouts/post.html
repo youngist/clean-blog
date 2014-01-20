@@ -21,7 +21,7 @@ layout: default
 	{% if page.categories == sound %}
 	<!-- soundcloud embed -->
 	{% endif %}
-        <h1 class='col11 article-title'>{{ page.headline }}</h1>
+        <h1 class='col11 article-title capitalize'>{{ page.headline }}</h1>
 		{% if page.tagline != "undefined" %}<h2 class='col11 article-tagline'>{{ page.tagline }}</h2>{% endif %}
 		<h3 class='col11'>By 
 				{% for contributor in page.contributors %}
@@ -78,12 +78,12 @@ layout: default
             {% if page.contributortwitter != "undefined" %}
 			<p class='col9 i alright small-words'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
 			{% endif %}
-            {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | slugify  }}>{{ tag | downcase | slugify }}</a></h4>{% endfor %}
+            {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | page.headline }}>{{ tag | downcase | slugify }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove alright'>published</h4>
             <h4 class='margin2 col7 publishedbelow alright'>{{page.date | date: "%B %d, %Y" }}</h4>
             <h4 class='fr marginr1 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
-            <h4 class='fr marginr1 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4>
+            <!-- <h4 class='fr marginr1 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4> -->
             <h4 class='fr marginr1 tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>
 	</div>
 	<script>

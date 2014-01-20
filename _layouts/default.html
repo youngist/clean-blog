@@ -12,6 +12,7 @@
 <link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script src="{{base}}/js/underscore.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -26,10 +27,11 @@
 
 </script>
 <!-- Open Graph -->
-<meta property='og:title' content="{{ page.headline | replace: "'", ' '}}" />
+<meta property='og:title' class='capitalize' content="{{ page.headline | replace: "'", ' '}}" />
 <meta property='og:image' content='{{ page.featuredphoto }}' />
 <meta property='og:url' content={{site.baseurl}}{{page.url}} />
-<meta property='og:description' content='{{ post.content | strip_html |  textilize  | truncatewords:20}}' />
+<!-- Error when using textilize due to nil values -->
+<meta property='og:description' content='{{ post.content | strip_html |   truncatewords:20}}' />
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -96,11 +98,11 @@ top: 100px;}
         </div>
         <nav class="rborder navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
         <ul class='menu-social col3'>
-            <li class=''><a class='pad0' href='{{base}}/action'><img {% if page.class == "action" %}src='{{base}}/images/icon-action-page-active.svg' {% else %} src='{{base}}/images/icon-action-page.svg' {% endif %} alt='action logo' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='{{base}}/images/icon-social-rss.svg' style='height: 35px;' alt='rss logo' /></a></li>
-            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' alt='facebook logo' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 35px;' alt='twitter logo' /></a></li>
-            <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='{{base}}/images/icon-social-tumblr.svg' style='height: 35px;' alt='tumblr logo' /></a></li>
+            <li class=''><a class='pad0' href='{{base}}/action'><img {% if page.class == "action" %}src='{{base}}/images/icon-action-page-active.svg' {% else %} src='{{base}}/images/icon-action-page.svg' {% endif %} alt='action logo' style='height: 30px;' /></a></li>
+            <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='{{base}}/images/icon-social-rss.svg' style='height: 30px;' alt='rss logo' /></a></li>
+            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' alt='facebook logo' style='height: 30px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='{{base}}/images/icon-social-twitter.svg' style='height: 30px;' alt='twitter logo' /></a></li>
+            <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='{{base}}/images/icon-social-tumblr.svg' style='height: 30px;' alt='tumblr logo' /></a></li>
         </ul>
         <div id="search">
           <form action="{{base}}/search" class='col2 search' method="get">
@@ -142,7 +144,7 @@ function updatemodal(){
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name <span class="asterisk">*</span></label>
+	<label for="mce-FNAME">First Name</label>
 	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
@@ -156,13 +158,12 @@ function updatemodal(){
 </form>
 </div>
 <!--End mc_embed_signup-->
-<!--CSS LOGIC AD BOX DOESN'T DROPDOWN PROPERLY WHEN IN TABLET OR PHONE, CHECK CSS FOR BOX, related to header and header container -->
 {% if page.class != "donate" and page.class !=  "pitch" %}
 {% if page.class != "about" %}
 {% if page.class != "masthead" %}
 {% if page.class != "contributor" %}
-<div class='pad8 col12 container ad' style='padding-top: 80px;
-padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div>
+<!-- <div class='pad8 col12 container ad' style='padding-top: 80px;
+padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div> -->
 {% endif %}
 {% endif %}
 {% endif %}
