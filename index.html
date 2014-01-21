@@ -3,7 +3,7 @@ layout: default
 exclude_from_search: true
 ---
 <!-- JEKYLL LOGIC Feature tagged stories will be on the carousel, so featured stories will not show up in recent or editors picks -->
-<div id='myCarousel' class='col12 carousel slide' style='padding-top: 75px;'>
+<div id='myCarousel' class='col12 carousel slide' style='padding-top: 50px;'>
     <div class='carousel-inner'>
     <!-- This will be the first article with 'active' the rest will be just 'item'  -->
     {% for post in site.categories.featured limit: 3 %}
@@ -11,9 +11,9 @@ exclude_from_search: true
     {% if forloop.rindex == 1 %}
     <div class='item active'>
       <div class='pad2 container'>
-        <div class='margin1 col4 carousel-caption tag article'>
-            <h1 class='capitalize'><a href='{{site.baseurl}}{{post.url}}'>{{post.headline }}</a></h1>
-            <p class='contributors'>
+        <div class='margin1 col4 carousel-caption tag'>
+            <h1 class='capitalize article'><a href='{{site.baseurl}}{{post.url}}'>{{post.headline }}</a></h1>
+            <p class='contributors article'>
 				{% for contributor in post.contributors %}
 				{% assign contributorclear = contributor | replace: "'", ' ' %}
 				{% assign links = 'false' %} 
@@ -37,9 +37,9 @@ exclude_from_search: true
         {% if forloop.rindex != 1 %}
         <div class='item'>
           <div class='pad2 container'>
-            <div class='margin1 col4 carousel-caption tag article'>
-                <h1 class='capitalize'><a href='{{site.baseurl}}{{post.url}}'>{{ post.headline}}</a></h1>
-                <p class='contributors'>
+            <div class='margin1 col4 carousel-caption tag'>
+                <h1 class='capitalize article'><a href='{{site.baseurl}}{{post.url}}'>{{ post.headline}}</a></h1>
+                <p class='contributors article'>
 					{% for contributor in post.contributors %}
 					{% assign contributorclear = contributor | replace: "'", ' ' %}
 					{% assign links = 'false' %} 
@@ -202,13 +202,13 @@ for (var i = 0; i < nonduplicatelist.length; i++) {
         {% if post.published == true %}
         {% if forloop.rindex != 1 %}
         <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
-            <img class='play' src='images/play.svg' width=200 /><a href={{site.baseurl}}{{post.url}}></a>
+            <img class='play' src='images/play.svg' width=150 /><a href={{site.baseurl}}{{post.url}}></a>
         </div>
         <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h3>
         {% endif %}
         {% if forloop.rindex == 1 %}
         <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
-            <img class='play' src='images/play.svg' width=200 /><a href={{site.baseurl}}{{post.url}}></a>
+            <img class='play' src='images/play.svg' width=150 /><a href={{site.baseurl}}{{post.url}}></a>
         </div>
         <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline}}</a></h3>
 

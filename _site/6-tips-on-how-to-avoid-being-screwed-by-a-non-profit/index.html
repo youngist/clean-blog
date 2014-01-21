@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset='utf-8' />
-<title>6 Tips on How to Avoid Being Screwed by a Non-Profit - {young}ist</title>
+<title>6 Tips on How to Avoid Being Screwed by a Non-Profit - {Young}ist</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link type="text/css" rel="stylesheet" href='/clean-blog/css/carousel.css'>
 <link type="text/css" rel="stylesheet" href='/clean-blog/css/bootstrap.css'> <!-- careful what gets changed to bootstrap -->
@@ -12,6 +12,7 @@
 <link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script src="/clean-blog/js/underscore.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -26,9 +27,10 @@
 
 </script>
 <!-- Open Graph -->
-<meta property='og:title' content="6 Tips on How to Avoid Being Screwed by a Non-Profit" />
+<meta property='og:title' class='capitalize' content="6 Tips on How to Avoid Being Screwed by a Non-Profit" />
 <meta property='og:image' content='' />
 <meta property='og:url' content=/clean-blog/6-tips-on-how-to-avoid-being-screwed-by-a-non-profit />
+<!-- Error when using textilize due to nil values -->
 <meta property='og:description' content='' />
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -96,11 +98,11 @@ top: 100px;}
         </div>
         <nav class="rborder navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
         <ul class='menu-social col3'>
-            <li class=''><a class='pad0' href='/clean-blog/action'><img  src='/clean-blog/images/icon-action-page.svg'  alt='action logo' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='/clean-blog/images/icon-social-rss.svg' style='height: 35px;' alt='rss logo' /></a></li>
-            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='/clean-blog/images/icon-social-facebook.svg' alt='facebook logo' style='height: 35px;' /></a></li>
-            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='/clean-blog/images/icon-social-twitter.svg' style='height: 35px;' alt='twitter logo' /></a></li>
-            <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='/clean-blog/images/icon-social-tumblr.svg' style='height: 35px;' alt='tumblr logo' /></a></li>
+            <li class=''><a class='pad0' href='/clean-blog/action'><img  src='/clean-blog/images/icon-action-page.svg'  alt='action logo' style='height: 30px;' /></a></li>
+            <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='/clean-blog/images/icon-social-rss.svg' style='height: 30px;' alt='rss logo' /></a></li>
+            <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='/clean-blog/images/icon-social-facebook.svg' alt='facebook logo' style='height: 30px;' /></a></li>
+            <li class=''><a class='pad0' href='http://www.twitter.com/theyoungist/'><img src='/clean-blog/images/icon-social-twitter.svg' style='height: 30px;' alt='twitter logo' /></a></li>
+            <li class=''><a class='pad0' href='http://www.youngist.org/'><img src='/clean-blog/images/icon-social-tumblr.svg' style='height: 30px;' alt='tumblr logo' /></a></li>
         </ul>
         <div id="search">
           <form action="/clean-blog/search" class='col2 search' method="get">
@@ -142,7 +144,7 @@ function updatemodal(){
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name <span class="asterisk">*</span></label>
+	<label for="mce-FNAME">First Name</label>
 	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
@@ -156,19 +158,19 @@ function updatemodal(){
 </form>
 </div>
 <!--End mc_embed_signup-->
-<!--CSS LOGIC AD BOX DOESN'T DROPDOWN PROPERLY WHEN IN TABLET OR PHONE, CHECK CSS FOR BOX, related to header and header container -->
 
 
 
 
-<div class='pad8 col12 container ad' style='padding-top: 80px;
-padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div>
+<!-- <div class='pad8 col12 container ad' style='padding-top: 80px;
+padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div> -->
 
 
 
 
 
-<div class='col12 container pad4'>
+<div class='col12 container pad4' style='padding-top: 130px;
+padding-left: 0;'>
     <div class='col8 margin3 main-content' id='maincontent'>
 		<!-- WORKS FOR YOUTUBE -->
 	
@@ -180,7 +182,7 @@ padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div>
 	
 	
 	
-        <h1 class='col11 article-title'>6 Tips on How to Avoid Being Screwed by a Non-Profit</h1>
+        <h1 class='col11 article-title capitalize'>6 Tips on How to Avoid Being Screwed by a Non-Profit</h1>
 		<h2 class='col11 article-tagline'></h2>
 		<h3 class='col11'>By 
 				

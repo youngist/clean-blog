@@ -206,6 +206,9 @@ hr {
   color:#333;
   }
 
+.orangeback{
+  background: #e68b24;
+  }
 /*Navigation*/
 
 .nav-action a{
@@ -460,6 +463,9 @@ hr {
   color: rgb(53, 51, 51);
   font-size: 25px;
   font-weight: 600;
+  }
+.footer-button a:hover{
+  color: #fff;
   }
 .footer-social-logo{
   height:25px;
@@ -995,7 +1001,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
     width: 115px;
   }
   .tags{
-    /*height:278px;*/
+    padding-top: 70px;
   }
   .media.tag-color{
    display: none;
@@ -1014,3 +1020,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .contributor-info{
 	  position:relative !important;
   }
+  #myCarousel{
+	  display:none;
+  }
+  #nav-buttons{
+	  display:none;
+  

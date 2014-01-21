@@ -9,7 +9,7 @@ excerpt: A practice article full of nothingness in order to test the jekyll logi
 tags: 
 - women 
 - students
-- black friday
+- black-friday
 contributors: Maya Richman
 featuredphoto: http://media.tumblr.com/9e0a5ebc0fce7fef1f7c4d2c19655297/tumblr_inline_mvhw7xDuZM1rkj9dw.jpg
 contributorphoto: http://media.tumblr.com/30a5a903022d519cfbfad525904da6dd/tumblr_inline_mocar7RARS1rkj9dw.jpg

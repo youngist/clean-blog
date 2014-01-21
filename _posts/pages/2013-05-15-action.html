@@ -3,16 +3,16 @@ layout: default
 class: action
 category: page
 ---
-<div class='col12 container' style='background: #F4F5F6;'>
+<div class='col12 container' style='background: #F4F5F6; padding-top:70px;'>
 	<img src="/clean-blog/images/icon-action-page-active.svg" alt="action logo" style="padding-left: 40px; padding-top: 40px; height:100px;" class='fl'>	
 	<h2 style="line-height: 2.25em; color:#e68b24; padding-top: 40px;">TAKE ACTION</h2>
 	<div class='pad4 container'>
 {% for post in site.categories.action %}
 {% if post.layout != "post" %}
 	<div class='col4' style='margin-bottom: 40px;'>
-		<div class='col10' style='background:url({{post.featuredphoto}}); background-size:cover; height:200px;'/></div>
+		<div class='col10 orangeback' style='{% if post.featuredphoto != "undefined" %} background:url({{post.featuredphoto}}); {% endif %} background-size:cover; height:200px;'/></div>
 		<div class='col10' style='background:white;'>
-			<h3 class='pad2'><a href='{{site.baseurl}}{{post.url}}'>{{post.headline}}</a></h3>
+			<h3 class='pad2 capitalize'><a href='{{site.baseurl}}{{post.url}}'>{{ post.headline}}</a></h3>
 			<p class='pad2' style='margin-bottom:0;'>{{post.type}}</p>
 		</div>
 	</div>
@@ -21,7 +21,7 @@ category: page
 {% for post in site.categories.action %}
 {% if post.layout == "post" %}
     <div class='article'>
-    <h2 class='bold'><a href={{site.baseurl}}{{post.url}}>{{post.headline}}</a></h2>
+    <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline}}</a></h2>
     <p class='contributors'>
 		{% for contributor in post.contributors %}
 		{% assign contributorclear = contributor | replace: "'", ' ' %}
@@ -33,7 +33,7 @@ category: page
 		{% endif %}
 		{% endfor %}
 		{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
-    <p>{{ post.content | strip_html |  textilize  | truncatewords:40}}</p>
+    <p>{{ post.content | textilize  | strip_html |  truncatewords:40}}</p>
     </div>
 {% endif %}
 {% endfor %}

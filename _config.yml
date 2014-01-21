@@ -5,7 +5,7 @@ rdiscount:
 baseurl: /clean-blog
 production_url : http://username.github.com/
 permalink: :title
-name: "{young}ist"
+name: "{Young}ist"
 description: "Your source for independent, youth-led political and cultural news analysis, digital storytelling, and creative intervention."
 url: http://www.youngist.github.io/clean-blog
 prose:

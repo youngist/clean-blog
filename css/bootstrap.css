@@ -6018,8 +6018,8 @@ body.modal-open,
   line-height: 1;
 }
 
-.carousel-inner > .active,
 .carousel-inner > .next,
+.carousel-inner > .active,
 .carousel-inner > .prev {
   display: block;
 }
@@ -6035,6 +6035,7 @@ body.modal-open,
   width: 100%;
 }
 
+
 .carousel-inner > .next {
   left: 100%;
 }
@@ -6048,10 +6049,7 @@ body.modal-open,
   left: 0;
 }
 
-.carousel-inner > .active.left {
-  left: -100%;
-}
-
+?
 .carousel-inner > .active.right {
   left: 100%;
 }
@@ -6127,14 +6125,15 @@ body.modal-open,
 }
 
 .carousel-indicators {
-  position: absolute;
+/*  position: absolute;
   bottom: 10px;
   left: 50%;
-/*  z-index: 15;*/
-  width: 60%;
-  padding-left: 0;
-  margin-left: -30%;
+*/  z-index: 200;
+/*  width: 60%;
+*/  padding-left: 0;
+/*  margin-left: -30%;*/
   text-align: center;
+  background: #e68b24;
   list-style: none;
 }
 
@@ -6189,7 +6188,7 @@ body.modal-open,
     padding-bottom: 30px;
   }
   .carousel-indicators {
-    bottom: 20px;
+/*    bottom: 20px;*/
   }
 }
 
