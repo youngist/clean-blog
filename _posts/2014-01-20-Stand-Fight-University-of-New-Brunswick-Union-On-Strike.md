@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Stand! Fight! University of New Brunswick Union On Strike - {Young}ist"
 headline: "Stand! Fight! University of New Brunswick Union On Strike"
