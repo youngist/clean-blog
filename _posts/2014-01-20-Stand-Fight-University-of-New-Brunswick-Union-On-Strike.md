@@ -19,10 +19,6 @@ contributors:
   - "Queen Arsem-O'Malley"
 ---
 
-- testing out
-- bulleted items
-- ahh
-
 Temperatures hovered just above freezing in New Brunswick last week, and yet a group of people at the Fredericton, Saint John and Moncton campuses of the University of New Brunswick spent days standing outside.
 
 That group was hundreds of the professors, librarians, and researchers from the Association of University of New Brunswick Teachers (AUNBT). The union declared a strike on Monday, after working without contracts since March, and stalled negotiations with University administration.
