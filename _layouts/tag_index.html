@@ -3,7 +3,7 @@ layout: default
 exclude_from_search: true
 ---
 <div class='pad4 col12 container' style='color:white; padding-top:16.6666%; {% if page.tag != 'politics'%} background:chocolate; {% else %} background:url(https://www.lib.utexas.edu/maps/world_maps/txu-oclc-264266980-world_pol_2008-2.jpg); background-size:cover; {% endif %}'>
-    <h1 class='margin1' style='text-transform:capitalize; font-size: -webkit-xxx-large; {% if page.tag != 'politics'%} color:white; {% else %} color:chocolate; {% endif %}' >{{page.tag | downcase | replace:'-',' '  }}</h1>
+    <h1 class='margin1' style='font-size: -webkit-xxx-large; {% if page.tag != 'politics'%} color:white; {% else %} color:chocolate; {% endif %}' >{{page.tag | downcase | replace:'-',' '  }}</h1>
 </div>
 {% for post in site.posts %}
 {% if post.published == true %}
@@ -24,7 +24,7 @@ exclude_from_search: true
 		{% endif %}
 		{% endfor %}
 		{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
-    <p>{{ post.content | textilize | strip_html |  truncatewords:40}}</p>
+    <p>{{ post.content | markdownify | strip_html |  truncatewords:40}}</p>
     </div>
 </div>
 {% endif %}

@@ -7,7 +7,7 @@ category: page
     <h1 class='margin1 page-title'>Recent Posts</h1>
 	<p class='col6'></p>
 </div>
-<div class='pad4 col12 container' style='color:white; background:#BFBEBE;'>
+<div class='pad4 col12 container' style='color:white; background: #F4F5F6;'>
 	{% for post in site.posts limit:50 %}
 	{% if post.layout == "post" %}
 	    <div class='article'>
@@ -23,7 +23,7 @@ category: page
 			{% endif %}
 			{% endfor %}
 			{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
-	    <p>{{ post.content | textilize  | strip_html |  truncatewords:40}}</p>
+	    <p>{{ post.content | markdownify  | strip_html |  truncatewords:40}}</p>
 	    </div>
 	{% endif %}
 	{% endfor %}

@@ -27,11 +27,12 @@
 
 </script>
 <!-- Open Graph -->
-<meta property='og:title' class='capitalize' content="{{ page.headline | replace: "'", ' '}}" />
+<meta property='og:title' class='capitalize' content="{{ page.headline}}" />
+<!-- | replace: "'", ' ' -->
 <meta property='og:image' content='{{ page.featuredphoto }}' />
-<meta property='og:url' content={{site.baseurl}}{{page.url}} />
-<!-- Error when using textilize due to nil values -->
-<meta property='og:description' content='{{ post.content | strip_html |   truncatewords:20}}' />
+<meta property='og:url' content={{site.url}}{{page.url}} />
+<!-- Error when using markdownify due to nil values -->
+<meta property='og:description' content='{{ page.content | markdownify | strip_html |  truncatewords:20 }}' />
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -97,7 +98,7 @@ top: 100px;}
             </div>
         </div>
         <nav class="rborder navbar-collapse bs-navbar-collapse collapse" role="navigation" style='height:1px;'>
-        <ul class='menu-social col3'>
+        <ul class='menu-social col3 nodec'>
             <li class=''><a class='pad0' href='{{base}}/action'><img {% if page.class == "action" %}src='{{base}}/images/icon-action-page-active.svg' {% else %} src='{{base}}/images/icon-action-page.svg' {% endif %} alt='action logo' style='height: 30px;' /></a></li>
             <li class=''><a class='pad0 rss' href='http://feeds.feedburner.com/youngist-development'><img src='{{base}}/images/icon-social-rss.svg' style='height: 30px;' alt='rss logo' /></a></li>
             <li class=''><a class='pad0 facebook' href='https://www.facebook.com/youngistdotorg'><img src='{{base}}/images/icon-social-facebook.svg' alt='facebook logo' style='height: 30px;' /></a></li>
@@ -109,7 +110,7 @@ top: 100px;}
             <input type="text" class='col2' id="search-query" name="q" placeholder="Search" autocomplete="off">
           </form>
         </div>
-        <ul class='menu col5'>
+        <ul class='menu col5 nodec'>
             <li class='center nav-action'><a {% if page.class == "donate" %}class="active"{% endif %} href='{{base}}/donate'>DONATE</a></li>
             <li class='center nav-action'><a {% if page.class == "about" %}class="active"{% endif %} href='{{base}}/about'>ABOUT</a></li>
             <li class='center nav-action'><a {% if page.class == "pitch" %}class="active"{% endif %} href='{{base}}/pitch'>PITCH</a></li>
@@ -174,7 +175,7 @@ padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div> -->
 		<div class='col12'><a href='{{base}}/' style='color:white; text-decoration:none;'><span style='font-weight:200;'>{</span>young<span style='font-weight:200;'>}</span>ist</a></div>
 		<div class='margin3 col6' style='font-size: 15px;'>Independent news and views of/by/for Generation Screwed.</div>
 	</div>
-    <ul class='margin1 col3 footer-links'>
+    <ul class='margin1 col3 footer-links nodec'>
 		<li><a href='{{base}}/about'>About Us</a></li>
         <li><a href='{{base}}/masthead'>Masthead</a></li>
 		<li><a href='{{base}}/all-posts'>Recent Posts</a></li>
@@ -182,7 +183,7 @@ padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div> -->
 		<li><a href='{{base}}/donate'>Donate</a></li>
     </ul>
     <div class='col3'>
-        <ul class='fl col12 footer-social'>
+        <ul class='fl col12 footer-social nodec'>
             <li><a class='pad0' href='http://feeds.feedburner.com/youngist-development'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-rss-footer.svg' alt='rss logo'/></a></li>
             <li><a class='pad0' href='https://www.facebook.com/youngistdotorg'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-facebook-footer.svg' alt='facebook logo'/></a></li>
             <li><a class='pad0' href='http://www.twitter.com/theyoungist/'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter-footer.svg' alt='twitter logo' /></a></li>

@@ -2,8 +2,7 @@
 layout: default
 ---
 {% assign category = page.categories %}
-<div class='col12 container pad4' style='padding-top: 130px;
-padding-left: 0;'>
+<div class='col12 container pad4 post-content'>
     <div class='col8 margin3 main-content' id='maincontent'>
 		<!-- WORKS FOR YOUTUBE -->
 	{% if page.videourl != undefined  %}
@@ -12,7 +11,8 @@ padding-left: 0;'>
 	{% else %}
 	{% if category != 'video' %} 
 	{% if page.featuredphoto != "undefined" %} 
-     <img class='col11' alt='{{page.featuredphotoalt}}' title='{{page.featuredphotoalt}}' src={{page.featuredphoto}} />
+     <img class='col11' alt='{{page.featuredphotoalttext}}' title='{{page.featuredphotoalttext}}' src={{page.featuredphoto}} />
+	{% if page.featuredphotoalttext != "undefined" %}<em class='col11'>{{page.featuredphotoalttext}}</em>{% endif %}
 	{% endif %}
 	{% endif %}
 	{% endif %}

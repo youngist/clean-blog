@@ -12,6 +12,7 @@ categories:
 tags: 
   - Sexual-Assault
 featuredphoto: https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg
+featuredphotoalttext: "Painting by someone who supports the cause."
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: _George_Joseph_

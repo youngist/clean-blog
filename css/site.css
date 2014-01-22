@@ -117,6 +117,7 @@ a {
     }
   a:hover {
     color:#e68b24;
+	text-decoration:none;
     }
   a:active {
     color:#e68b24;
@@ -152,6 +153,13 @@ hr {
   height:1px;
   background:#f8f8f8;
   }
+  
+ul {
+  list-style: disc;
+  }
+ol{
+  list-style: decimal;
+}  
   
 .i{
   font-style:italic;	  
@@ -227,18 +235,6 @@ hr {
   padding:15px;
   }
 
-/* .rss{
-  background: url('imgs/sprite-smaller.png') no-repeat -27px -189px;
-  width: 27px;
-  height: 28px;
-  }
-
- .facebook{
-  background: url('imgs/sprite-smaller.png') no-repeat 0 -189px;
-  width: 17px;
-  height: 28px;
-  }
-*/
 /* Tags */
 .tag-box li a {
   float: left;
@@ -247,6 +243,9 @@ hr {
   line-height: 1px;
   color: white;
 } 
+.tag h4{
+  margin-bottom: 10px;
+}
 .tag h4 a{
   color: white;
   text-align: center;
@@ -865,6 +864,13 @@ table {
  	color:white; 
 	margin-bottom: 25px;
  }
+ 
+ .post-content{
+ 	padding: 130px 20px 20px 0;
+ }
+ .nodec{
+ 	list-style-type:none;
+ }
 
 /* Additional Utility Classes
 ------------------------------------------------------- */
@@ -1025,4 +1031,8 @@ Details: http://www.positioniseverything.net/easyclearing.html
   }
   #nav-buttons{
 	  display:none;
+  }
+  .post-content{
+  	padding: 130px 20px 20px 20px;
+  }
   

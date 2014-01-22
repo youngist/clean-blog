@@ -5,24 +5,38 @@ layout: default
 	<img src="/clean-blog/images/icon-action-page-active.svg" alt="action logo" style="padding-left: 40px; padding-top: 40px; height:100px;" class='fl'>	
 	<h2 style="line-height: 2.25em; color:#e68b24; padding-top: 40px;">TAKE ACTION</h2>
 	<div class='col8 pad4 container' style='padding-top:0;'>
-		<div class='col12 orangeback' style='{% if page.featuredphoto != "undefined" %} background:url({{page.featuredphoto}}); {% endif %} background-size:cover; height:550px; margin-top: 25px;'></div>
+		<div class='col12 orangeback' style='{% if page.featuredphoto != "undefined" %} background:url({{page.featuredphoto}}); {% endif %} background-size:cover; height:300px; margin-top: 25px;'></div>
 		<div style='background:white;'>
 			<h2 class='pad2 capitalize'>{{page.headline}}</h2>
 			<h6 class='pad2'>{{page.type}}</h6>
+<div class='col12 media tag'>
+	<div class='pad2 col2'>
+	    {% for tag in page.tags %}<h4 class='pad0 media tag-color button-color'><a class='pad0' href='{{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}'>{{ tag | downcase | replace:'-',' '  }}</a></h4>{% endfor %}
+	</div>
+	<div class='pad2 col2'>
+            <h4 class='col12 fl tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
+</h4>
+<h4 class='col12 fl tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>	
+</div>
+</div>
 			<div class='pad2'>{{content}}</div>
 		</div>
 	</div>
 	<div class='col4 pad4 container' style='padding-top:0;'>
 		<h5>Other Actions</h5>
 		<!-- DONT INCLUDE SHOWN ACTION -->
-	{% for post in site.categories.action limit:3 %}
+	{% for post in site.categories.action limit:2 %}
+	{% if post.headline != page.headline %}
 		<div class='col12' style='margin-bottom: 40px;'>
-			<div style='{% if post.featuredphoto != "undefined" %} background:url({{post.featuredphoto}}); {% endif %}background-size:cover; height:200px;'/></div>
+			<div class='orangeback' style='{% if post.featuredphoto != "undefined" %} background:url({{post.featuredphoto}}); background-size:cover;{% endif %} height:200px;'/></div>
 			<div style='background:white;'>
 				<h3 class='pad2 capitalize'><a href='{{site.baseurl}}{{post.url}}'>{{ post.headline }}</a></h3>
 				<p class='pad2' style='margin-bottom:0;'>{{post.type}}</p>
+				
 			</div>
 		</div>
+	{% endif %}
 	{% endfor %}
 	</div>
 </div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
