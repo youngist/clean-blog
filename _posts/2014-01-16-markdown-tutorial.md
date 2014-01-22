@@ -23,6 +23,7 @@ contributorage: "22"
 
 This is a basic post!
 
+<img src='/images/tumblrlogo.png' class='col12' />
 
 #### Strong and Emphasize 
 
@@ -49,7 +50,6 @@ A [reference style][id] link. Input id, then anywhere in the doc, define the lin
 
 Titles ( or called tool tips ) in the links are optional.
 
-
 ####  Ordered Lists
 
 Ordered lists are created using "1." + Space:
@@ -72,20 +72,11 @@ Or using "-" + Space:
 - Unordered list item
 - Unordered list item
 
+
 #### Hard Linebreak
 
 End a line with two or more spaces will create a hard linebreak, called `<br />` in HTML. ( Control + Return )  
 Above line ended with 2 spaces.
-
-#### Horizontal Rules
-
-Three or more asterisks or dashes:
-
-***
-
----
-
-- - - -
 
 #### Headers
 
@@ -140,13 +131,6 @@ First Header | Second Header | Third Header
 ------------ | ------------- | ------------
 Content Cell | Content Cell  | Content Cell
 Content Cell | Content Cell  | Content Cell
-
-If you wish, you can add a leading and tailing pipe to each line of the table:
-
-| First Header | Second Header | Third Header |
-| ------------ | ------------- | ------------ |
-| Content Cell | Content Cell  | Content Cell |
-| Content Cell | Content Cell  | Content Cell |
 
 Specify alignement for each column by adding colons to separator lines:
 
