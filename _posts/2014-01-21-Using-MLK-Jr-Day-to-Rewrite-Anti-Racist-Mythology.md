@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Using Martin Luther King, Jr. Day to Rewrite Anti-Racist Mythology - {Young}ist"
 headline: "Using Martin Luther King, Jr. Day to Rewrite Anti-Racist Mythology"
