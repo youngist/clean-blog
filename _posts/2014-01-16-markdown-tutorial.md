@@ -23,7 +23,7 @@ contributorage: "22"
 
 This is a basic post!
 
-<img src='/images/tumblrlogo.png' class='col12' />
+<img src='../images/tumblrlogo.png' class='col12' />
 
 #### Strong and Emphasize 
 
