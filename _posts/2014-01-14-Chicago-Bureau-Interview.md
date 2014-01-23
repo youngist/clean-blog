@@ -63,9 +63,9 @@ It’s problematic that they don’t take a clear position on whether schools sh
 
 Very often when we do the work that we all do around trying to end the criminalization of youth of color in particular, it is really difficult. It’s sometimes very isolating. You wonder when we’re going to have a break. Are we going to get positive news, are we going to have any sort of an opening, does anybody care about this. I think that for all the folks that worked for a really long time across the country to bring the issue of the pipeline to prominence, this should be celebrated. It doesn’t mean the issue is going to end or change tomorrow, but concerted efforts by large groups of people over time does make a difference.
 
-<img src='http://www.chicago-bureau.org/wp-content/uploads/2013/10/suspensions-fs-2-page-001.jpg' alt='school suspensions' title='school suspensions' class='col11'>
+<img src='http://www.chicago-bureau.org/wp-content/uploads/2013/10/suspensions-fs-2-page-001.jpg' alt='school suspensions' title='school suspensions' class='col12'>
 
-<img src='http://www.chicago-bureau.org/wp-content/uploads/2013/10/lgbt-rj-combo-791x1024.jpg' alt='lgbqt youth in school-to-prison pipeline' title='lgbqt youth in school-to-prison pipeline' class='col11'>
+<img src='http://www.chicago-bureau.org/wp-content/uploads/2013/10/lgbt-rj-combo-791x1024.jpg' alt='lgbqt youth in school-to-prison pipeline' title='lgbqt youth in school-to-prison pipeline' class='col12'>
 
 
 Graphics courtesy of Project NIA, showing the tough path facing minors who dropout of school or work and the high racial disparity among those arrested.
