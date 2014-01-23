@@ -60,6 +60,12 @@ prose:
           label: "Featured photo alt text"
           value: "Featured photo alt text"
           type: "text"
+      - name: "videourl"
+        field:
+          element: "text"
+          label: "videourl"
+          value: "videourl"
+          type: "text"
       - name: "contributors"
         field:
           element: "multiselect"

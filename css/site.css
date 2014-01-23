@@ -237,6 +237,16 @@ ol{
   padding:15px;
   }
 
+ .large-quote{
+	 color: #e68b24;
+	 font-size: 25px;
+	 font-style: italic;
+  }
+  .quotations{
+	color:gray; 
+	font-size:35px;
+  }
+
 /* Tags */
 .tag-box li a {
   float: left;

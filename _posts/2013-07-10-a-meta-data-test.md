@@ -18,8 +18,7 @@ contributortwitter: mayarichman
 contributorage: 22
 ---
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc congue, tellus id convallis suscipit, ante massa tempor nisi, nec molestie dui urna id enim. Nullam purus justo, vulputate sed molestie ac, euismod sed metus. Cras lobortis consectetur enim, sed cursus ante volutpat id. Nunc sem enim, tincidunt in diam ut, varius fringilla metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla sit amet metus eget diam pulvinar dapibus nec interdum tortor. Vestibulum mi tortor, ultricies at eros vel, pharetra iaculis lacus.</p>
-<h3 style='color: #e68b24;
-font-size: 25px;font-style: italic;'><font style='color:gray; font-size:35px;'>"</font>I just wanted to try this autopopulating of the metadata out.<font style='color:gray; font-size:35px;'>"</font></h3>
+<h3 class='large-quote'><font class='quotations'>"</font>I just wanted to try this autopopulating of the metadata out.<font class='quotations'>"</font></h3>
 <p>Praesent lobortis lobortis consequat. Phasellus accumsan ligula vitae dolor mollis dictum. Aenean sit amet aliquet odio. Vestibulum tempus urna dolor, non condimentum erat mattis sed. Sed porta, urna vel ultrices congue, enim tellus sodales quam, congue egestas diam erat eu diam. Vivamus rhoncus aliquam dolor sit amet lacinia. Proin nec pharetra arcu, eu malesuada risus. Donec gravida nunc porta tellus semper lacinia. Fusce accumsan ligula eu magna ornare facilisis.</p>
 
 

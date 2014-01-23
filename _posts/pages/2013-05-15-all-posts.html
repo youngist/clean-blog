@@ -12,17 +12,7 @@ category: page
 	{% if post.layout == "post" %}
 	    <div class='article'>
 	    <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>
-	    <p class='contributors'>
-			{% for contributor in post.contributors %}
-			{% assign contributorclear = contributor | replace: "'", ' ' %}
-			{% assign links = 'false' %} 
-			{% for post in site.posts %}
-			{% if post.titlename == contributor %}
-			<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-			{% assign links = 'true' %} 
-			{% endif %}
-			{% endfor %}
-			{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+		{% include contrib_list.html %}
 	    <p>{{ post.content | markdownify  | strip_html |  truncatewords:40}}</p>
 	    </div>
 	{% endif %}

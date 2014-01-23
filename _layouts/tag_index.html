@@ -9,21 +9,11 @@ exclude_from_search: true
 {% if post.published == true %}
 {% for tag in post.tags %}
 {% if tag == page.tag %}
-<div class='col12 pad4'>
+<div class='col12 pad2'>
     <div class='margin1 article'>
     <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>
     <!-- PUT IN LOGIC FOR ADDING 'ANDS' -->
-    <p class='contributors'>
-		{% for contributor in post.contributors %}
-		{% assign contributorclear = contributor | replace: "'", ' ' %}
-		{% assign links = 'false' %} 
-		{% for post in site.posts %}
-		{% if post.titlename == contributor %}
-		<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-		{% assign links = 'true' %} 
-		{% endif %}
-		{% endfor %}
-		{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>
+	{% include contrib_list.html %}
     <p>{{ post.content | markdownify | strip_html |  truncatewords:40}}</p>
     </div>
 </div>

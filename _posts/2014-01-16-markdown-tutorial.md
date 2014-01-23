@@ -5,12 +5,12 @@ date: "2014-01-16"
 categories: 
   - article
   - action
-excerpt: ""
+excerpt: undefined
 maintitle: "markdown tutorial - {Young}ist"
 headline: Markdown Tutorial
 tagline: A new way to publish
 featuredphoto: undefined
-featuredphotoalttext: ""
+featuredphotoalttext: undefined
 tags: 
   - Markdown
 contributors: 

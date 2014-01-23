@@ -4,24 +4,72 @@ layout: default
 {% assign category = page.categories %}
 <div class='col12 container pad4 post-content'>
     <div class='col8 margin3 main-content' id='maincontent'>
-		<!-- WORKS FOR YOUTUBE -->
-	{% if page.videourl != undefined  %}
+	{% assign hasphoto = false  %}
+	{% assign hastext = false  %}
+	{% for cat in page.categories %}
+	{% if cat == "video"  %}
 	<iframe width="100%" height="400" src="{{page.videourl}}" frameborder="0" allowfullscreen></iframe>
-	<!-- <iframe width="100%" height="400" src="//player.vimeo.com/video/{{page.videourl}}" frameborder="0" allowfullscreen></iframe> just the include the url number-->
-	{% else %}
-	{% if category != 'video' %} 
-	{% if page.featuredphoto != "undefined" %} 
+	{% endif %}
+
+	{% if cat == "article" %}
+	{% if hasphoto == false %}
+	{% if page.featuredphoto != "undefined"  %}
      <img class='col11' alt='{{page.featuredphotoalttext}}' title='{{page.featuredphotoalttext}}' src={{page.featuredphoto}} />
-	{% if page.featuredphotoalttext != "undefined" %}<em class='col11'>{{page.featuredphotoalttext}}</em>{% endif %}
+	{% assign hasphoto = true  %}
+	{% endif %}
+	{% endif %}
+	{% if hastext == false %}
+	{% if page.featuredphotoalttext != "undefined" %}
+	<em class='col11'>{{page.featuredphotoalttext}}</em>
+	{% assign hastext = true  %}
 	{% endif %}
 	{% endif %}
 	{% endif %}
-	{% if page.categories == gallery %}
-	<!-- flickr embed -->
+	
+	{% if cat == "sound" %}
+	{% if hasphoto == false %}
+	{% if page.featuredphoto != "undefined"  %}
+     <img class='col11' alt='{{page.featuredphotoalttext}}' title='{{page.featuredphotoalttext}}' src={{page.featuredphoto}} />
+	{% assign hasphoto = true  %}
 	{% endif %}
-	{% if page.categories == sound %}
-	<!-- soundcloud embed -->
 	{% endif %}
+	{% if hastext == false %}
+	{% if page.featuredphotoalttext != "undefined" %}
+	<em class='col11'>{{page.featuredphotoalttext}}</em>
+	{% assign hastext = true  %}
+	{% endif %}
+	{% endif %}
+	{% endif %}
+	
+	{% if cat == "editors" %}
+	{% if hasphoto == false %}
+	{% if page.featuredphoto != "undefined"  %}
+     <img class='col11' alt='{{page.featuredphotoalttext}}'
+	  title='{{page.featuredphotoalttext}}' src={{page.featuredphoto}} />
+	{% assign hasphoto = true  %}
+	{% endif %}
+	{% endif %}
+	{% if hastext == false %}
+	{% if page.featuredphotoalttext != "undefined" %}
+	<em class='col11'>{{page.featuredphotoalttext}}</em>
+	{% endif %}
+	{% endif %}
+	{% endif %}
+	
+	{% if cat == "featured" %}
+	{% if hasphoto == false %}
+	{% if page.featuredphoto != "undefined"  %}
+     <img class='col11' alt='{{page.featuredphotoalttext}}' title='{{page.featuredphotoalttext}}' src={{page.featuredphoto}} />
+ 	{% assign hasphoto = true  %}
+ 	{% endif %}
+	{% endif %}
+	{% if hastext == false %}
+	{% if page.featuredphotoalttext != "undefined" %}
+	<em class='col11'>{{page.featuredphotoalttext}}</em>
+	{% endif %}
+	{% endif %}
+	{% endif %}
+	{% endfor %}
         <h1 class='col11 article-title capitalize'>{{ page.headline }}</h1>
 		{% if page.tagline != "undefined" %}<h2 class='col11 article-tagline'>{{ page.tagline }}</h2>{% endif %}
 		<h3 class='col11'>By 
