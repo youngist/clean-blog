@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Students Rally to Topple Trans-Pacific Partnership, “NAFTA on Steroids” - {Young}ist"
 headline: "Students Rally to Topple Trans-Pacific Partnership, “NAFTA on Steroids”"
 tagline: undefined
-featuredphoto: undefined
+featuredphoto: "https://s3.amazonaws.com/f.cl.ly/items/1u3F0z032P1o2I1T0T2n/Screen%20Shot%202014-01-24%20at%204.40.57%20PM.png"
 featuredphotoalttext: undefined
 videourl: //www.youtube.com/embed/aHbf8rI3Gsk
 contributorphoto: undefined
