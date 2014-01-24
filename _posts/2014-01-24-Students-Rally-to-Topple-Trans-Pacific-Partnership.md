@@ -13,6 +13,8 @@ contributortwitter: undefined
 contributorage: undefined
 contributors: 
   - "Dennis Trainor, Jr. | The Resistance Report"
+categories: 
+  - video
 ---
 
 January 22 marked the beginning of a ten-day push by groups who work on a wide variety of issues to stop Congress from granting the President Fast Track for the Trans-Pacific Partnership (TPP). The push culminates in an [Intercontinental Day of Action](http://www.flushthetpp.org/inter-continental-day-of-action-against-the-tpp-corporate-globalization/) against the TPP on Jan 31 — with events and actions being planned all around the world. 
