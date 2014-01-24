@@ -158,55 +158,55 @@ ul {
   list-style: disc;
   list-style-position: inside;
   }
-ol{
+ol {
   list-style: decimal;
   list-style-position: inside;
-}  
+  }
   
-.i{
+.i {
   font-style:italic;	  
-}
+  }
   
-.alright{
+.alright {
   text-align: right;
-}
+  }
 /* Content Section */
 
 /* General Utilities and Styles */
 
-.topborder{
+.topborder {
   border-top:1px solid #fff;
-}
-.bottomborder{
+  }
+.bottomborder {
   border-bottom:1px solid #fff;
-}
-.rborder{
+  }
+.rborder {
   border-right: 1px solid #AFAFAF;
-}
+  }
 
-.titillium{
+.titillium {
   font-family:'Titillium Web', sans-serif;
-}
+  }
 
-.bold{
+.bold {
   font-weight:600;
-}
+  }
 
 .pad10 {
   padding: 0 0 60px 0;
-}
+  }
 
 .textr{
  text-align:right;
-}
+ }
 
 .capitalize{
  text-transform: capitalize;
-}
+ }
 
 .button-color:hover{
  background: #FF9A28;
-}
+ }
 
 /* makes the article and media section the same off white*/
 .fill-article {
@@ -219,32 +219,36 @@ ol{
 .orangeback{
   background: #e68b24;
   }
+
 /*Navigation*/
 
-.nav-action a{
-	color:#bfbebe;
-}
-
-.nav-action a.active{
-	color:#e68b24;
-}
+.nav-action a {
+  color:#bfbebe;
+  }
+	.nav-action a.active {
+	  color:#e68b24;
+	  }
 	
-.search-box{
-   width:20%;
- }
+.search-box {
+  width:20%;
+  }
 
- .search{
+ .search {
   padding:15px;
   }
 
- .large-quote{
-	 color: #e68b24;
-	 font-size: 25px;
-	 font-style: italic;
+.play {
+  opacity:0.7;
   }
-  .quotations{
-	color:gray; 
-	font-size:35px;
+
+ .large-quote {
+  color: #e68b24;
+  font-size: 25px;
+  font-style: italic;
+  }
+.quotations{
+  color:gray; 
+  font-size:35px;
   }
 
 /* Tags */
@@ -254,22 +258,22 @@ ol{
   text-align: center;
   line-height: 1px;
   color: white;
-} 
-.tag h4{
+  }
+.tag h4 {
   margin-bottom: 10px;
-}
+  }
+
 .tag h4 a{
   color: white;
   text-align: center;
   min-width: 100px;
   font-size:12px;
-}
-.tags{
-/*  height:70px;*/
-}
+  }
+
 .tag-color{
   background: #e68b24;
-}
+  }
+
 /*Taken from Mapbox.com menu*/
 .menu li a, .menu-social li a {
   float: left;
@@ -287,82 +291,78 @@ ol{
   border-radius: 3px;
   }
 
-  .menu-social li a {
-    width: 20%; /*Change to 25% when in mobile layout */
-    }
+.menu-social li a {
+  width: 20%; /*Change to 25% when in mobile layout */
+  }
 
 .menu-social li a:hover {
-	color:#E68B24;
-}
+  color:#E68B24;
+  }
 
 /* Carousel */
 
-.prevslide{
-	background:url(/clean-blog/images/arrow-l.png) no-repeat;
-	position: absolute;
-	top: 250px;
-	left:30px;
-}
+.prevslide {
+  background:url(/clean-blog/images/arrow-l.png) no-repeat;
+  position: absolute;
+  top: 250px;
+  left:30px;
+  }
 
-.nextslide{
-	background:url(/clean-blog/images/arrow-r.png) no-repeat;
-	position: absolute;
-	top: 250px;
-	right:0;
-}
+.nextslide {
+  background:url(/clean-blog/images/arrow-r.png) no-repeat;
+  position: absolute;
+  top: 250px;
+  right:0;
+  }
 
-.carousel-dark{
+.carousel-dark {
   margin-top: 40px;
   background: rgb(53, 51, 51);
   z-index:-1;
-}
-
-/*.prev{
-  background: url("images/arrow-l.png") no-repeat;
-  left: -10px;
   }
 
-.next{
-  background: url("images/arrow-r.png") no-repeat;
-  right: -60px;
+ .item {
+  height: 460px;
   }
-*/
+
 
 /*Masthead*/
-.bio{
-	padding:30px 0;
-	font-size:14px;
-}
-.staff-title{
-	font-size: 20px;
-	margin-left: 8%;
-}
+
+.bio {
+ padding:30px 0;
+ font-size:14px;
+ }
+
+.staff-title {
+ font-size: 20px;
+ margin-left: 8%;
+ }
 
 /* About Page */
-.about-list{
+.about-list {
   font-size:20px;
   margin-top: 25px;
   color:white;
   margin-bottom: 0px;
   }
-  
-.motto{
+
+.motto {
   font-weight: 600;
   font-family:'Titillium Web', sans-serif;
   font-style:italic;
   color:#fff;
   font-size:20px;
   }
-  
-.about-list li{
+
+.about-list li {
   font-size:20px;
   color:#474546;
-}
+  }
 
 /* Donate */
-.donate-p{
+.donate-p {
   font-size: 17px;
-}
+  }
 
 /* Ads */
 .ad {
@@ -382,18 +382,18 @@ ol{
   }
 
 /* Tags */
-.tags{
-	background:#BFBEBE;
-	}
+.tags {
+  background:#BFBEBE;
+  }
 
-.medium-title{
+.medium-title {
   font-size: 20px;
   color: white;
   }
 
 /* Main Page Article and Media Section */
 
-.listed-article{
+.listed-article {
   padding-bottom:40px;
   }
 .image-space {
@@ -418,96 +418,109 @@ ol{
   }
 
 .article{
-	margin-bottom:20px;
+  margin-bottom:20px;
   }
 .article h2 {
-/*  Make margin smaller than average h2*/
   margin-bottom: 5px;
   }
+
 /*Article links and Author links on the front page look bad in orange*/
 .article a{
   color:#474546;
   }
-  
+
 .article a:hover {
   color:#e68b24;
   }
 
 /* Footer */
-.footer{
+.footer {
   background:rgb(53, 51, 51);
   color: #e68b24;
   }
-.footer-links{
+
+.footer-links {
   text-align:left;
   }
-.footer-links li a{
+
+.footer-links li a {
   font-weight: 600;
   color: white;
   font-size: 25px;
   line-height: 25px;
   }
+
 .footer-links li a:hover {
-  	text-decoration:none;
-	color:#e68b24;
+  text-decoration:none;
+  color:#e68b24;
   }
-.footer-social{
+
+.footer-social {
   margin-bottom: 15px;
   padding-top: 10px;
   }
-.footer-social-logo{
+
+.footer-social-logo {
   height: 25px;
   }
-.footer-social li{
+
+.footer-social li {
   float:left;
   }
-.footer-logo{
+
+.footer-logo {
   font-family: 'engel_light_ltdlight';
   color: white;
   font-size: 45px;
   }
-.footer-button{
+
+.footer-button {
   background: #e68b24;
   margin-bottom: 15px;
   }
-.footer-button a{
+
+.footer-button a {
   color: rgb(53, 51, 51);
   font-size: 25px;
   font-weight: 600;
   }
-.footer-button a:hover{
+
+.footer-button a:hover {
   color: #fff;
   }
-.footer-social-logo{
+
+.footer-social-logo {
   height:25px;
   width:25px;
   background: white;
   }
+
 footer {
-	border-top: 1px dotted #d3d3d3;
-	font-size: 14px;
-	}
+  border-top: 1px dotted #d3d3d3;
+  font-size: 14px;
+  }
 
 /* Circle images and Contributor elements */
 
 /* In Post layout*/
-.contributor-info{
-/*  margin: 150px 0 0 0;*/
+
+.contributor-info {
   position: fixed;
   }
 
 /* Image given by contributor must always be this height?*/
-.contributor-theme-image{
-	background: #e68b24;
-	height:400px;
-}
-.contributors{
+.contributor-theme-image {
+  background: #e68b24;
+  height:400px;
+  }
+
+.contributors {
   font-style:italic;
   color:#999999;
   }
 
 /*What's the difference between these two?*/
-.other-circle{
+.other-circle {
   width: 90px;
   height: 90px;
   background-size:90px;
@@ -523,15 +536,14 @@ footer {
   filter: alpha(opacity=0);
   }
 
-.article-circle{
+.article-circle {
   width: 75px;
   height: 75px;
   background-size: 60px;
-/*  border: none;*/
   }
 
 /*CSS for contributor circle*/
-.contrib-layout{
+.contrib-layout {
   position: absolute;
   top: 150px;
   left: 35%;
@@ -542,42 +554,35 @@ footer {
   }
 
 /*Can use for tags posted or anything of posts*/
-.page-excerpt{
+.page-excerpt {
   font-size:20px;
   padding:10px 0 10px 40px;
   }
 
-.publishedabove{
+.publishedabove {
   border-top: 1px solid #AFAFAF;
   }
-.publishedbelow{
+
+.publishedbelow {
   border-bottom: 1px solid #AFAFAF;
   margin-bottom: 20px;
-}  
+  }
 
-.small-words{
-	 font-size:11px;
-}
+.small-words {
+  font-size:11px;
+  }
 
-.article-title{
-	margin-top:20px;
-}
+.article-title {
+  margin-top:20px;
+  }
 
-.article-tagline{
-	font-size:25px;
-}
-/* NOT SURE WHERE THIS IS USED
-.post{
-  color:#333;
-  font-size: 20px;
-  padding: 10px;
-  margin:0;
-}
-*/
+.article-tagline {
+  font-size:25px;
+  }
 
 /* Header */
 
-.header-container{
+.header-container {
   color: #BFBEBE;
   font-weight: 800;
   background:#F9FAFA;
@@ -586,22 +591,26 @@ footer {
   position: fixed;
   z-index: 2;
   }
-.header-container a:hover{
+
+.header-container a:hover {
 	color:#e68b24;
 	text-decoration: none;
 }
-.header{
+
+.header {
   float: left;
   width: 16.6666%;
   }
-.logo{
+
+.logo {
   width: 175px;
   }
-.media-space{
+
+.media-space {
   width:100%;
   }
 
-.nav-action{
+.nav-action {
   margin: 13px 0 0 0;
   font-size: 18px;
   color: #BFBEBE;
@@ -858,31 +867,32 @@ table {
 .pad4c   { padding:40px; }
 .pad9    { padding:150px 0 0 20px; }
 
-.page-headline{
+.page-headline {
   padding-top: 120px !important;
   padding-bottom: 60px;
   }
   
-.page-title{
-	font-size:50px;
-	color:#fff;
+.page-title {
+  font-size:50px;
+  color:#fff;
   }
- .about-header{
- 	color:white; 
-	background:#BFBEBE;
-	padding-top:0;
- } 
- .about-category{
- 	color:white; 
-	margin-bottom: 25px;
- }
- 
- .post-content{
- 	padding: 130px 20px 20px 0;
- }
- .nodec{
- 	list-style-type:none;
- }
+.about-header {
+  color:white; 
+  background:#BFBEBE;
+  padding-top:0;
+  }
+ .about-category {
+  color:white; 
+  margin-bottom: 25px;
+  }
+
+.post-content {
+  padding: 130px 20px 20px 0;
+  }
+
+.nodec {
+  list-style-type:none;
+  }
 
 /* Additional Utility Classes
 ------------------------------------------------------- */
@@ -933,9 +943,6 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
   }
-  .tag h4 a {
-/*  max-width: 530px;*/
-  }
 
 /* Mobile Layout
 ------------------------------------------------------- */
@@ -982,69 +989,91 @@ Details: http://www.positioniseverything.net/easyclearing.html
     background-size:240px 240px;
     }
 /*  TRYING TO MAKE THINGS MORE MOBILE PRETTY*/
-  .contributor-theme-image img{
-  width: 100%;
-  height:auto;
-  }
+  .contributor-theme-image img {
+    width: 100%;
+    height:auto;
+    }
+
   .contributor-info{
     position:relative;
-  }
+    }
   
   #contributorcontent{
-	  position: relative;
-	  top: 4px !important;
+    position: relative;
+    top: 4px !important;
+    }
+
+  .alright {
+    text-align:left;
   }
-  
-  .alright{
-  	  text-align:left;
-  }
-  
+
   .contributor-name {
-  padding:50px 20px 0 40px;
-  }
+    padding:50px 20px 0 40px;
+    }
+
   .ad {
-  padding:80px 50px;
-  }
-/*  .ad-box{
-  margin-top: -50px;
-  }
-*/.header{
+    padding:80px 50px;
+    }
+
+  .header {
     float: left;
     width: 0;
-  }
+    }
+  
   .navbar-collapse {
     padding-top: 50px;
-  }
-  .logo{
+    }
+
+  .logo {
     width: 115px;
-  }
-  .tags{
+    }
+
+  .tags {
     padding-top: 70px;
-  }
-  .media.tag-color{
+    }
+
+  .media.tag-color {
    display: none;
-  }
-  .tag h4 a{
+   }
+
+  .tag h4 a {
     margin-bottom: 10px;
-/*	max-width: 240px;*/
-  }
-  .media h4 a{
+    }
+
+  .media h4 a {
     display: none;
     margin-bottom: 10px;
-  }
+    }
+
   .footer-logo {
-  	font-size: 30px;
-  }
-  .contributor-info{
-	  position:relative !important;
-  }
-  #myCarousel{
-	  display:none;
-  }
-  #nav-buttons{
-	  display:none;
-  }
-  .post-content{
-  	padding: 130px 20px 20px 20px;
-  }
+    font-size: 30px;
+    }
+
+  .contributor-info {
+    position:relative !important;
+    }
+
+  #myCarousel {
+    display:none;
+    }
+
+ #postcarousel {
+    display:block;
+    }
+
+  #nav-buttons {
+    display:none;
+    }
+
+  #nav-buttons-post {
+    display:block;
+    }
+
+  .item {
+    height: 315px;
+    }
+
+  .post-content {
+    padding: 130px 20px 20px 20px;
+    }
   

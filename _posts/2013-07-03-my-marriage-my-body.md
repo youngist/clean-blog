@@ -7,65 +7,65 @@ tagline: undefined
 maintitle: "My Body, My Marriage - {Young}ist!"
 excerpt: This text describes the article for the meta tag
 contributors:
-- Nic Quiazua
+- Nicolas Quiazua
 - Lily Hoffman
 featuredphoto: http://24.media.tumblr.com/a4d84465a6d0797e1965d27bb0fb5a59/tumblr_mpdilzxoKT1sp5io1o1_1280.jpg
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: undefined 
-contributorshortbio: undefined
-contributortwitter: undefined
+contributorshortbio: Photos on 4x3s, words on 8x11s
+contributortwitter: nicolasquiazua
 contributorage: undefined
 ---
 <p>
-	<div id='myCarousel' class='col12 carousel slide'>
+	<div id='postcarousel' class='col12 carousel slide'>
 	        <div class="carousel-inner">
-	          <div class="item active" style='height: 500px;' >
+	          <div class="item active" >
 	            <img src="http://24.media.tumblr.com/a4d84465a6d0797e1965d27bb0fb5a59/tumblr_mpdilzxoKT1sp5io1o1_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item" >
 	            <img src="http://24.media.tumblr.com/60a3e6b31615fdf359956b9a77b13295/tumblr_mpdilzxoKT1sp5io1o2_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item" >
 	            <img src="http://31.media.tumblr.com/b64ea2a8f1dbef05171a21cd6c996fc0/tumblr_mpdilzxoKT1sp5io1o3_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item"  >
 	            <img src="http://24.media.tumblr.com/f501e12e853f955d8c57118e6840c173/tumblr_mpdilzxoKT1sp5io1o4_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item"  >
 	            <img src="http://25.media.tumblr.com/c6176cd1cf5eb9ed1b8030bb58c91384/tumblr_mpdilzxoKT1sp5io1o5_1280.jpg" alt="" >
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item"  >
 	            <img src="http://31.media.tumblr.com/ac8d4b0081beec4f1b58c9d1e48c1495/tumblr_mpdilzxoKT1sp5io1o6_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item"  >
 	            <img src="http://31.media.tumblr.com/a98789c5eabeeaedead757509797858a/tumblr_mpdilzxoKT1sp5io1o7_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item"  >
 	            <img src="http://31.media.tumblr.com/ff96efc3f59f118a05b23674c8e8eb0c/tumblr_mpdilzxoKT1sp5io1o8_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item"  >
 	            <img src="http://24.media.tumblr.com/518d80b71ed7f1b066345d973f0904f2/tumblr_mpdilzxoKT1sp5io1o9_1280.jpg" alt="">
 	          </div>
-	          <div class="item" style='height: 500px;' >
+	          <div class="item"  >
 	            <img src="http://24.media.tumblr.com/14ceac2e07e66d685501d2ccec55279a/tumblr_mpdilzxoKT1sp5io1o12_r1_1280.jpg" alt="">
 	          </div>
 	        </div>
-	        <div id='nav-buttons'>
-	            <a class='left carousel-control' href='#myCarousel' data-slide='prev'><span class='pad4 prevslide'></span></a>
-	            <a class='right carousel-control' href='#myCarousel' data-slide='next'><span class='pad4 nextslide'></span></a>
+	        <div id='nav-buttons-post'>
+	            <a class='left carousel-control' href='#postcarousel' data-slide='prev'><span class='pad4 prevslide'></span></a>
+	            <a class='right carousel-control' href='#postcarousel' data-slide='next'><span class='pad4 nextslide'></span></a>
 	        </div>
 	        <ol class="carousel-indicators">
-	          <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="4" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="5" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="6" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="7" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="8" class=""></li>
-	          <li data-target="#carousel-example-generic" data-slide-to="9" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="0" class="active"></li>
+	          <li data-target="#postcarousel" data-slide-to="1" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="2" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="3" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="4" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="5" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="6" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="7" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="8" class=""></li>
+	          <li data-target="#postcarousel" data-slide-to="9" class=""></li>
 	        </ol>
 	      </div>
 </p>

@@ -208,7 +208,7 @@ for (var i = 0; i < nonduplicatelist.length; i++) {
             {% for post in site.categories.sound limit:3 %}
             {% if post.published == true %}
             <div class='col11' onclick="location.href='{{site.baseurl}}{{post.url}}';" style='cursor:pointer;'>
-			{% if {{post.featuredphoto}} != "undefined" %}<img class='media-space' src={{post.featuredphoto}} />{% endif%}<a href={{site.baseurl}}{{post.url}}></a>
+			{% if {{post.featuredphoto}} != "undefined" %}<img class='col10 media-space' src={{post.featuredphoto}} />{% endif%}<a href={{site.baseurl}}{{post.url}}></a>
             </div>
             <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h3>
             {% endif %}

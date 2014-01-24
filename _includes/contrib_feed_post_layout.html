@@ -25,17 +25,24 @@
              {% if post.published == true %}
              <div class="margin1 article">
                <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>
-			   {% include contrib_list.html %}
-   			{% if post.category != video or sound or gallery %}
-            <p>{{ post.content | markdownify | strip_html | truncatewords:40}}</p>
-   			{% else %}
-   			<p>{{ post.excerpt}}</p>
-   			{% endif %}
-		</div>
-   		     {% endif %}
-   		     {% endif %}
-   		     {% endif %}
-   		     {% endfor %}
-       	     {% endfor %}
-		</div>
-	</div>
+               {% include contrib_list.html %}
+			   <!-- {% assign end = false %}
+               {% for cat in post.categories %}
+               {% if cat == 'video' %}
+			   {% if end == false %}
+			   <p>{{ post.excerpt}}</p>
+			   {% assign end = true %}
+			   {% endif %}
+               {% elsif end == false %} -->
+			   <p>{{ post.content | markdownify | strip_html | truncatewords:40 }}</p>
+			   <!-- {% assign end = true %}
+			   {% endif %}
+			   {% endfor %} -->
+             </div>
+             {% endif %}
+             {% endif %}
+             {% endif %}
+             {% endfor %}
+             {% endfor %}
+      </div>
+</div>
