@@ -8,6 +8,7 @@ GIT
       rack (~> 1.5.0)
 
 GEM
+  remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
     blankslate (2.1.2.4)
