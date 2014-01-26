@@ -2,7 +2,7 @@
 layout: default
 exclude_from_search: true
 ---
-<div class='pad4 col12 container' style='color:white; padding-top:16.6666%; {% if page.tag != 'politics'%} background:chocolate; {% else %} background:url(https://www.lib.utexas.edu/maps/world_maps/txu-oclc-264266980-world_pol_2008-2.jpg); background-size:cover; {% endif %}'>
+<div class='pad4 col12 container page-headline' style='color:white; background:#e68b24;'>
     <h1 class='margin1' style='font-size: -webkit-xxx-large; {% if page.tag != 'politics'%} color:white; {% else %} color:chocolate; {% endif %}' >{{page.tag | downcase | replace:'-',' '  }}</h1>
 </div>
 {% for post in site.posts %}
@@ -13,7 +13,7 @@ exclude_from_search: true
     <div class='margin1 article'>
     <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>
     <!-- PUT IN LOGIC FOR ADDING 'ANDS' -->
-	{% include contrib_list.html %}
+	{% include contrib_list_tag.html %}
     <p>{{ post.content | markdownify | strip_html |  truncatewords:40}}</p>
     </div>
 </div>

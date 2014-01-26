@@ -25,7 +25,7 @@
              {% if post.published == true %}
              <div class="margin1 article">
                <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>
-               {% include contrib_list.html %}
+			   {% include contrib_list_tag.html %}
 			   <!-- {% assign end = false %}
                {% for cat in post.categories %}
                {% if cat == 'video' %}
