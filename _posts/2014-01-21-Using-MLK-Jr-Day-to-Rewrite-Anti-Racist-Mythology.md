@@ -51,4 +51,4 @@ The [famous photo](http://practicallyhistorical.net/2012/01/16/learn-about-marti
 
 This MLK day, I think we should all be looking at the picture a little more closely.
 
-Muna Mire is an organizer, writer and a Black girl from the future. A recent University of Toronto grad, she is a member of the editorial board of {Young}ist, a young people-powered media start up. You can find her freelance work at Bitch, Huffington Post, The Feminist Wire, and elsewhere. Her interests include progressive politics, movement building, postcolonial literature, feminisms and speaking back to The Man.
+<em>Muna Mire is an organizer, writer and a Black girl from the future. A recent University of Toronto grad, she is a member of the editorial board of {Young}ist, a young people-powered media start up. You can find her freelance work at Bitch, Huffington Post, The Feminist Wire, and elsewhere. Her interests include progressive politics, movement building, postcolonial literature, feminisms and speaking back to The Man.</em>
