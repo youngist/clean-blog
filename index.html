@@ -179,17 +179,16 @@ for (var i = 0; i < nonduplicatelist.length; i++) {
         {% for post in site.categories.video limit:2 %}
         {% if post.published == true %}
         {% if forloop.rindex != 1 %}
-        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
+        <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h3>
+        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer; margin-bottom:20px;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
             <img class='play' src='images/play.svg' width=150 /><a href={{site.baseurl}}{{post.url}}></a>
         </div>
-        <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h3>
         {% endif %}
         {% if forloop.rindex == 1 %}
-        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
+        <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline}}</a></h3>
+        <div class='col11' style='background:url({{post.featuredphoto}}) 91.6666%; background-size: cover; cursor:pointer; margin-bottom:20px;' onclick="location.href='{{site.baseurl}}{{post.url}}';">
             <img class='play' src='images/play.svg' width=150 /><a href={{site.baseurl}}{{post.url}}></a>
         </div>
-        <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline}}</a></h3>
-
         {% endif %}
         {% endif %}
         {% endfor %}
@@ -197,20 +196,21 @@ for (var i = 0; i < nonduplicatelist.length; i++) {
         <div class='titillium bold section-title'>Galleries</div>
         {% for post in site.categories.gallery limit:2 %}
         {% if post.published == true %}
-        <div class='col11' onclick="location.href='{{site.baseurl}}{{post.url}}';" style='cursor:pointer;'>
+        <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h3>
+        <div class='col11' onclick="location.href='{{site.baseurl}}{{post.url}}';" style='cursor:pointer; margin-bottom:20px;'>
             <img class='media-space' src={{post.featuredphoto}} />
             <a href={{site.baseurl}}{{post.url}}></a>
         </div>
-         <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h3>
             {% endif %}
             {% endfor %}
             <div class='titillium bold section-title'>Sounds</div>
             {% for post in site.categories.sound limit:3 %}
             {% if post.published == true %}
-            <div class='col11' onclick="location.href='{{site.baseurl}}{{post.url}}';" style='cursor:pointer;'>
-			{% if {{post.featuredphoto}} != "undefined" %}<img class='col10 media-space' src={{post.featuredphoto}} />{% endif%}<a href={{site.baseurl}}{{post.url}}></a>
-            </div>
             <h3 class='col11 article capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h3>
+            <div class='col11' onclick="location.href='{{site.baseurl}}{{post.url}}';" style='cursor:pointer; margin-bottom:20px;'>
+            {% if {{post.featuredphoto}} != "undefined" %}
+            <img class='col10 media-space' src={{post.featuredphoto}} />{% endif%}<a href={{site.baseurl}}{{post.url}}></a>
+            </div>
             {% endif %}
             {% endfor %}
 

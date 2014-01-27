@@ -12,7 +12,7 @@ category: page
 	{% if post.layout == "post" %}
 	    <div class='article'>
 	    <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>
-		{% include contrib_list.html %}
+		{% include contrib_list_tag.html %}
 	    <p>{{ post.content | markdownify  | strip_html |  truncatewords:40}}</p>
 	    </div>
 	{% endif %}
