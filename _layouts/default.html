@@ -114,7 +114,7 @@ top: 100px;}
             <li class='center nav-action'><a {% if page.class == "donate" %}class="active"{% endif %} href='{{base}}/donate'>DONATE</a></li>
             <li class='center nav-action'><a {% if page.class == "about" %}class="active"{% endif %} href='{{base}}/about'>ABOUT</a></li>
             <li class='center nav-action'><a {% if page.class == "pitch" %}class="active"{% endif %} href='{{base}}/pitch'>PITCH</a></li>
-            <li class='center nav-action'><a onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
+            <li class='center nav-action'><a style='cursor:pointer;' onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
         </ul>        </nav>
     </div>
 </div>
@@ -189,7 +189,7 @@ padding-bottom: 80px;'><div class='col7 margin2 ad-box'>AD</div></div> -->
             <li><a class='pad0' href='http://www.twitter.com/theyoungist/' target='_blank'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-twitter-footer.svg' alt='twitter logo' /></a></li>
             <li><a class='pad0' href='http://www.youngist.tumblr.org/' target='_blank'><img class='circular footer-social-logo' src='{{base}}/images/icon-social-tumblr-footer.svg' alt='tumblr logo' /></a></li>
         </ul>
-        <div class='pad0 fl col12 footer-button button-color' onclick='updatemodal()' style='cursor:pointer;'><a>Sign up for email updates</a></div>
+        <div class='pad0 fl col12 footer-button button-color' onclick='updatemodal()' style='cursor:pointer;'><a>Join our newsletter</a></div>
         <div class='pad0 fl col12 footer-button button-color' onclick="location.href='{{base}}/donate';" style='cursor:pointer;'><a href='{{base}}/donate'>Support youth media</a></div>
     </div>
 </div>
