@@ -32,58 +32,58 @@
 <meta property='og:image' content='{{ page.featuredphoto }}' />
 <meta property='og:url' content={{site.url}}{{page.url}} />
 <!-- Error when using markdownify due to nil values -->
-<meta property='og:description' content='{{ page.content | markdownify | strip_html |  truncatewords:20 }}' />
+<meta property='og:description' {% if page.class != 'home' %}content='{{ page.content | markdownify | strip_html |  truncatewords:20 }}'{% endif %} />
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{ background:#fff; border: chocolate 1px solid; clear:left; font:14px "Titillium Web",Arial,sans-serif; z-index:1; position: fixed;
+	#mc_embed_signup{ background:#fff; border: chocolate 1px solid; clear:l	eft; font:14px "Titillium Web",Arial,sans-serif; z-index:1; position: fixed;
 top: 100px;}
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 </head>
 <body {% if page.class %} class='{{page.class}}' {% endif %}>
-	<div id="fb-root"></div>
-	<script>
-	  window.fbAsyncInit = function() {
-	    // init the FB JS SDK
-	    FB.init({
-	      appId      : 'YOUR_APP_ID',                        // App ID from the app dashboard
-	      status     : true,                                 // Check Facebook Login status
-	      xfbml      : true                                  // Look for social plugins on the page
-	    });
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : 'YOUR_APP_ID',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
 
-	    // Additional initialization code such as adding Event Listeners goes here
-	  };
+    // Additional initialization code such as adding Event Listeners goes here
+  };
 
-	  // Load the SDK asynchronously
-	  (function(){
-	     // If we've already installed the SDK, we're done
-	     if (document.getElementById('facebook-jssdk')) {return;}
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
 
-	     // Get the first script element, which we'll use to find the parent node
-	     var firstScriptElement = document.getElementsByTagName('script')[0];
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
 
-	     // Create a new script element and set its id
-	     var facebookJS = document.createElement('script'); 
-	     facebookJS.id = 'facebook-jssdk';
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
 
-	     // Set the new script's source to the source of the Facebook JS SDK
-	     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
 
-	     // Insert the Facebook JS SDK into the DOM
-	     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
-	   }());
-	</script>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 <div class='col12 header-container clearfix'>
-        <!-- SOCIAL MEDIA -->
         <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
