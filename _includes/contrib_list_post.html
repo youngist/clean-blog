@@ -1,0 +1,24 @@
+<h5 class='col9 alright contributors margin-bottom'>
+{% for contributor in page.contributors %}
+{% assign contributorclear = contributor | replace: "'", '-' %}
+{% assign links = 'false' %}
+{% if contributor == "Queen Arsem-O'Malley" %}
+{% assign queen = 'true' %}
+{% else %}
+{% assign queen = 'false' %}
+{% endif %}
+{% for post in site.posts %}
+{% assign titlenameclear = page.titlename | replace: "'", '-' %}
+{% if page.titlename == contributor %}
+<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+{% assign links = 'true' %} 
+{% endif %}
+{% endfor %}
+{% if links == 'false' and queen == 'false' %}
+{{contributor}}
+{% endif %}
+{% if links == 'false' and queen == 'true' %}
+<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
+{% endif %} 
+{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}
+</h5>
