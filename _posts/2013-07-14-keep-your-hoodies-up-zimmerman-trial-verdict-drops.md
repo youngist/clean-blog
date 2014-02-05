@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Keep Your Hoodies Up: Zimmerman Trial Verdict Drops “Not Guilty”  - {Young}ist"
 headline: "Keep Your Hoodies Up: Zimmerman Trial Verdict Drops “Not Guilty” "
