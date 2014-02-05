@@ -5,17 +5,20 @@ headline: Columbia Students’ Fight Against Campus Sexual Violence— And For A
 tagline: "When universities cover up the extent of campus sexual violence, they marginalize the true gravity of the issue and those fighting back."
 maintitle: "Columbia Students’ Fight Against Campus Sexual Violence— And For Administrative Transparency - {young}ist"
 excerpt: "When universities cover up the extent of campus sexual violence, they marginalize the true gravity of the issue and those fighting back."
-contributors: 
+contributors:
   - George Joseph
-categories: 
+categories:
   - editors
-tags: 
+tags:
   - Sexual-Assault
+  - title-ix
+  - student-organizing
+  - columbia-university
 featuredphoto: https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg
 featuredphotoalttext: "Painting by someone who supports the cause."
 contributorphoto: undefined
 contributorshortbio: undefined
-contributortwitter: _George_Joseph_
+contributortwitter: GeorgeJoseph94
 contributorage: undefined
 ---
 

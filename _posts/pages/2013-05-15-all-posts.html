@@ -8,7 +8,7 @@ category: page
 	<p class='col6'></p>
 </div>
 <div class='pad4 col12 container' style='color:white; background: #F4F5F6;'>
-	{% for post in site.posts limit:50 %}
+	{% for post in site.posts limit:100 %}
 	{% if post.layout == "post" %}
 	    <div class='article'>
 	    <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>

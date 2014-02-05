@@ -15,6 +15,7 @@ contributorphoto: undefined
 tags:
 - dream-defenders
 - poetry
+- new-years
 ---
 
 For 364 days, at least, I found myself in a constant state of conflict.
