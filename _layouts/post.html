@@ -111,9 +111,8 @@ layout: default
             {% if page.contributorage != "undefined" %}
 			<script>
 			var birthdate = '{{page.contributorage}}';
-			var birthday = new Date(birthdate); //not turning into a proper date, needs to be a string toString()
+			var birthday = new Date(birthdate);
 			var today = new Date();
-			// var years = today.getFullYear() - birthday.getFullYear();
 			
 			// If the user's birthday has not occurred yet this year, subtract 1.
 			if (today < birthday)
