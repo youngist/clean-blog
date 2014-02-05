@@ -880,7 +880,12 @@ table {
 .post-content {
   padding: 130px 20px 20px 0;
   }
-
+#postcarousel {
+ display:block;
+ }
+ .carousel-inner {
+  height:500px;
+  }
 .nodec {
   list-style-type:none;
   }
@@ -978,7 +983,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .icon {
     background-image:url(img/sprite@2x.png);
     background-size:240px 240px;
-    }
+    }	
 /*  TRYING TO MAKE THINGS MORE MOBILE PRETTY*/
   .contributor-theme-image img {
     width: 100%;
@@ -1048,10 +1053,6 @@ Details: http://www.positioniseverything.net/easyclearing.html
     display:none;
     }
 
- #postcarousel {
-    display:block;
-    }
-
   #nav-buttons {
     display:none;
     }
@@ -1059,7 +1060,10 @@ Details: http://www.positioniseverything.net/easyclearing.html
   #nav-buttons-post {
     display:block;
     }
-
+/*  .carousel-inner {
+    height:0px;
+    }
+*/
   .item {
     height: 315px;
     }
