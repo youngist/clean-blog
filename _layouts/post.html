@@ -107,30 +107,20 @@ layout: default
             {% if page.contributorphoto != "undefined" %}
 			<div class='margin4 circular article-circle margin-bottom' style='background:url({{page.contributorphoto}}) no-repeat; background-size: cover;'></div>
 			{% endif %}
-            <h5 class='margin1 col9 alright contributors margin-bottom'>
-			{% for contributor in page.contributors %}
-			{% assign contributorclear = contributor | replace: "'", ' ' %}
-			{% assign links = 'false' %}
-			{% for post in site.posts %} 
-			{% if post.titlename == contributor %}<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-			{% assign links = 'true' %} 
-			{% endif %}
-			{% endfor %}
-			{% if links == 'false' %} {{contributor}}{% endif %}
-			{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h5>			
+			{% include contrib_list_post.html %}
             {% if page.contributorage != "undefined" %}
-			<h4 class='margin1 col9 i alright margin-bottom'>{{page.contributorage}} Years Old</h4>
+			<h4 class='col9 i alright margin-bottom'>{{page.contributorage}} Years Old</h4>
 			{% endif %}
             {% if page.contributorshortbio != "undefined" %}
-			<p class='margin1 col9 i alright small-words margin-bottom'>{{page.contributorshortbio}}</p>
+			<p class='col9 i alright small-words margin-bottom'>{{page.contributorshortbio}}</p>
 			{% endif %}
             {% if page.contributortwitter != "undefined" %}
-			<p class='margin1 col9 i alright small-words'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
+			<p class='col9 i alright small-words'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
 			{% endif %}
             {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | page.headline }}>{{ tag | downcase | replace: '-', ' ' }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove alright'>published</h4>
             <h4 class='margin2 col7 publishedbelow alright'>{{page.date | date: "%B %d, %Y" }}</h4>
-            <h4 class='fr marginr1 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
+            <h4 class='fr marginr2 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
             <!-- <h4 class='fr marginr1 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4> -->
             <h4 class='fr marginr1 tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>

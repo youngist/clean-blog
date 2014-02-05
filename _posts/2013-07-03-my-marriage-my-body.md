@@ -67,7 +67,7 @@ contributorage: undefined
 	          <li data-target="#postcarousel" data-slide-to="8" class=""></li>
 	          <li data-target="#postcarousel" data-slide-to="9" class=""></li>
 	        </ol>
-	      </div>
+    </div>
 </p>
 
 Menstrual fluid is socially taboo; the first time an adolescent menstruates, (she) is celebrated for having achieved ‘womanhood,’ and now being capable of procreation. During the rest of a woman’s life, menstruation is repressed. It is deemed the source of bitterness and other behaviours unacceptable to the male social order. The pathology and social construction of PMS is but one example.

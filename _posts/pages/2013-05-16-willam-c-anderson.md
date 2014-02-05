@@ -11,6 +11,6 @@ bio: "Something about Will"
 contributortwitter: williamcander
 age: 26
 contributors: 
-- William Anderson
+- William C. Anderson
 ---
 {% include contrib_feed_post_layout.html %}
