@@ -8,7 +8,7 @@ featuredphoto: "http://media.tumblr.com/db61a3505d7126b33daeddd9631f27b0/tumblr_
 featuredphotoalttext: "(Photo of the “Scottsboro Boys,” nine black teens falsely accused of raping two white women in 1931 Alabama whose case helped spark the Civil Rights movement)"
 videourl: undefined
 contributorphoto: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c0.0.180.180/s160x160/1424264_10151984679891726_511706797_a.jpg"
-contributorshortbio: undefined
+contributorshortbio: "Organizer, Writer, Black girl from the future."
 contributortwitter: Muna_Mire
 contributorage: undefined
 categories: 

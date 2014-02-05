@@ -8,7 +8,7 @@ featuredphoto: "http://media.tumblr.com/e3d493d9668a6209347d6b3650bfbc46/tumblr_
 featuredphotoalttext: photo of a young Trayvon Martin smiling at the camera
 videourl: undefined
 contributorphoto: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c0.0.180.180/s160x160/1424264_10151984679891726_511706797_a.jpg"
-contributorshortbio: undefined
+contributorshortbio: "Organizer, Writer, Black girl from the future."
 contributortwitter: Muna_Mire
 contributorage: undefined
 categories: 
