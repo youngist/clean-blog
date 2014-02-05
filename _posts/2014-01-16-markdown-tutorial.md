@@ -18,7 +18,7 @@ contributors:
 contributorphoto: "https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/30a5a903022d519cfbfad525904da6dd/tumblr_inline_mocar7RARS1rkj9dw.jpg"
 contributorshortbio: something witty
 contributortwitter: mayarichman
-contributorage: "22"
+contributorage: "1/17/1991"
 ---
 
 This is a basic post!

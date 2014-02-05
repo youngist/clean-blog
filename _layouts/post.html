@@ -109,7 +109,22 @@ layout: default
 			{% endif %}
 			{% include contrib_list_post.html %}
             {% if page.contributorage != "undefined" %}
-			<h4 class='col9 i alright margin-bottom'>{{page.contributorage}} Years Old</h4>
+			<script>
+			var birthdate = '{{page.contributorage}}';
+			var birthday = new Date(birthdate); //not turning into a proper date, needs to be a string toString()
+			var today = new Date();
+			// var years = today.getFullYear() - birthday.getFullYear();
+			
+			// If the user's birthday has not occurred yet this year, subtract 1.
+			if (today < birthday)
+			{
+				var years =  today.getFullYear() - birthday.getFullYear() - 1;
+			}
+			else{
+				var years =  today.getFullYear() - birthday.getFullYear();
+			}
+			document.write("<h4 class='col9 i alright margin-bottom age'>" + years + " Years Old</h4>");
+			</script>
 			{% endif %}
             {% if page.contributorshortbio != "undefined" %}
 			<p class='col9 i alright small-words margin-bottom'>{{page.contributorshortbio}}</p>
