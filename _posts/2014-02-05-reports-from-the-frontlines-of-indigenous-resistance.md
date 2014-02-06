@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "42 Stories of Frontline Indigenous Resistance You May Have Missed - {Young}ist"
 headline: 42 Stories of Frontline Indigenous Resistance You May Have Missed
