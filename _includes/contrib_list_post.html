@@ -1,4 +1,4 @@
-<h5 class='col9 alright contributors margin-bottom'>
+<h5 class='margin2 col7 contributors margin-bottom'>
 {% for contributor in page.contributors %}
 {% assign contributorclear = contributor | replace: "'", '-' %}
 {% assign links = 'false' %}
@@ -8,8 +8,8 @@
 {% assign queen = 'false' %}
 {% endif %}
 {% for post in site.posts %}
-{% assign titlenameclear = page.titlename | replace: "'", '-' %}
-{% if page.titlename == contributor %}
+{% assign titlenameclear = post.titlename | replace: "'", '-' %}
+{% if post.titlename == contributor %}
 <a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
 {% assign links = 'true' %} 
 {% endif %}
