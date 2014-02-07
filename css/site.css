@@ -218,22 +218,33 @@ ol {
 
 .orangeback{
   background: #e68b24;
+  height:200px;
   }
 
+.white {
+  color:#ffffff;
+  }
+.background-gray {
+  background:#BFBEBE
+  }
+.youngist-header {
+  background:url(https://s3.amazonaws.com/f.cl.ly/items/0i23190d1c3U0B0c3m2i/facebookbanner2.jpg) no-repeat;
+  background-size:cover;
+  }
+  
 /*Navigation*/
-
 .nav-action a {
   color:#bfbebe;
   }
 	.nav-action a.active {
 	  color:#e68b24;
 	  }
-	
+
 .search-box {
   width:20%;
   }
 
- .search {
+.search {
   padding:15px;
   }
 
@@ -241,17 +252,32 @@ ol {
   opacity:0.7;
   }
 
- .large-quote {
+.large-quote {
   color: #e68b24;
   font-size: 25px;
   font-style: italic;
   }
-.quotations{
+
+.quotations {
   color:gray; 
   font-size:35px;
   }
 
+.nomarginabove{
+  margin-top:0;
+  }
+
 /* Tags */
+
+.tag-header{
+ color:#ffffff;
+ background:#e68b24;
+ }
+
+.contrib-tag {
+  margin-top: 40px;
+  }
+
 .tag-box li a {
   float: left;
   width: 10%;
@@ -259,6 +285,7 @@ ol {
   line-height: 1px;
   color: white;
   }
+
 .tag h4 {
   margin-bottom: 10px;
   }
@@ -299,7 +326,14 @@ ol {
   color:#E68B24;
   }
 
+.menu-social img {
+  height: 30px;
+  }
 /* Carousel */
+
+#myCarousel {
+  padding-top: 50px;
+  }
 
 .prevslide {
   background:url(/clean-blog/images/arrow-l.png) no-repeat;
@@ -331,12 +365,27 @@ ol {
 .staff-title {
  font-size: 20px;
  }
+ 
+ /* Pitch Page */
+.pitch-image {
+  position: relative;
+  }
+
+.pitch-image img {
+  padding:0 0 20px 0;
+  }
+  
+.pitch-question{
+  position: absolute;
+  top: 80px;
+  margin-left: 25px;
+  }
 
 /* About Page */
 .about-list {
   font-size:20px;
   margin-top: 25px;
-  color:white;
+  color:#ffffff;
   margin-bottom: 0px;
   }
 
@@ -344,7 +393,7 @@ ol {
   font-weight: 600;
   font-family:'Titillium Web', sans-serif;
   font-style:italic;
-  color:#fff;
+  color:#ffffff;
   font-size:20px;
   }
 
@@ -356,6 +405,8 @@ ol {
 /* Donate */
 .donate-p {
   font-size: 17px;
+  color:#ffffff;
+  background:#BFBEBE;
   }
 
 /* Ads */
@@ -400,7 +451,9 @@ ol {
   padding-bottom:20px;
   font-size: 20px;
   }
-
+.media-margin{
+	margin-bottom:20px;
+  }
 .articles-section {
   background:#F4F5F6;
   color:#474546;
@@ -492,6 +545,45 @@ footer {
   }
 
 /* Circle images and Contributor elements */
+
+/* Action Page */
+
+.action-img-layout{
+ height:300px;
+ margin-top: 25px;
+ }
+
+.nopaddingtop{
+ padding-top:0;
+ }
+
+.action-logo {
+ padding-left: 40px;
+ padding-top: 40px;
+ height:100px;
+ }
+ 
+.action-title {
+ line-height: 2.25em;
+ color:#e68b24;
+ padding-top: 40px;
+ }
+
+ .action-posts{
+  margin-bottom: 40px;
+ }
+ 
+ .post-type{
+  margin-bottom:0;
+  }
+ 
+ .action-padding{
+  padding-top:70px;
+  }
+  
+ .action-fill{
+  background:#ffffff;
+  }
 
 /* In Post layout*/
 
@@ -709,7 +801,7 @@ input[type=text] {
   }
 textarea,
 input[type=text] {
-  background-color:#fff;
+  background-color:#ffffff;
   border:1px solid #ccc;
   -webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.1);
      -moz-box-shadow:1px 1px 2px rgba(0,0,0,0.1);
@@ -734,7 +826,7 @@ textarea {
 input[type=submit] {
   background-color:#00395D;
   cursor:pointer;
-  color:#fff;
+  color:#ffffff;
   font-weight:bold;
   text-transform:uppercase;
   border:none;
@@ -865,27 +957,35 @@ table {
   
 .page-title {
   font-size:50px;
-  color:#fff;
+  color:#ffffff;
   }
+
 .about-header {
-  color:white; 
+  color:#ffffff; 
   background:#BFBEBE;
   padding-top:0;
   }
  .about-category {
-  color:white; 
+  color:#ffffff; 
   margin-bottom: 25px;
   }
+
+.post-padding {
+ padding-bottom: 20px;
+ }
 
 .post-content {
   padding: 130px 20px 20px 0;
   }
 #postcarousel {
- display:block;
- }
- .carousel-inner {
-  height:500px;
+  display:block;
   }
+
+.carousel-inner {
+  height: 640px;
+  background-color: #F4F5F6;
+  }
+
 .nodec {
   list-style-type:none;
   }

@@ -3,18 +3,18 @@ layout: default
 class: action
 category: page
 ---
-<div class='col12 container' style='background: #F4F5F6; padding-top:70px;'>
-	<img src="/clean-blog/images/icon-action-page-active.svg" alt="action logo" style="padding-left: 40px; padding-top: 40px; height:100px;" class='fl'>	
-	<h2 style="line-height: 2.25em; color:#e68b24; padding-top: 40px;">TAKE ACTION</h2>
+<div class='col12 container fill-article action-padding'>
+	<img src="/clean-blog/images/icon-action-page-active.svg" alt="action logo" class='fl action-logo'>
+	<h2 class='action-title'>TAKE ACTION</h2>
 	<div class='pad4 container'>
 		<div class='col12 container'>
 {% for post in site.categories.action %}
 {% if post.layout != "post" %}
-	<div class='col4' style='margin-bottom: 40px;'>
-		<div class='col10 orangeback' style='{% if post.featuredphoto != "undefined" %} background:url({{post.featuredphoto}}); {% endif %} background-size:cover; height:200px;'/></div>
-		<div class='col10' style='background:white;'>
+	<div class='col4 action-posts'>
+		<div class='col10 orangeback' style='{% if post.featuredphoto != "undefined" %} background:url({{post.featuredphoto}}); {% endif %} background-size:cover;'/></div>
+		<div class='col10 action-fill'>
 			<h3 class='pad2 capitalize'><a href='{{site.baseurl}}{{post.url}}'>{{ post.headline}}</a></h3>
-			<p class='pad2' style='margin-bottom:0;'>{{post.type}}</p>
+			<p class='pad2 post-type'>{{post.type}}</p>
 		</div>
 	</div>
 {% endif %}
@@ -32,7 +32,7 @@ category: page
 		{% for post in site.posts %}
 		{% if post.titlename == contributor %}
 		<a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-		{% assign links = 'true' %} 
+		{% assign links = 'true' %}
 		{% endif %}
 		{% endfor %}
 		{% if links == 'false' %}{{contributor}}{% endif %}{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</p>

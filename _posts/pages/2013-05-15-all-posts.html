@@ -3,14 +3,14 @@ layout: default
 class: all
 category: page
 ---
-<div class='pad8 col12 container page-headline' style='background:url(https://s3.amazonaws.com/f.cl.ly/items/0i23190d1c3U0B0c3m2i/facebookbanner2.jpg) no-repeat; background-size:cover;'>
+<div class='pad8 col12 container page-headline youngist-header'>
     <h1 class='margin1 page-title'>Recent Posts</h1>
 	<p class='col6'></p>
 </div>
-<div class='pad4 col12 container' style='color:white; background: #F4F5F6;'>
+<div class='pad4 col12 container fill-article white'>
 	{% for post in site.posts limit:100 %}
 	{% if post.layout == "post" %}
-	    <div class='article'>
+	    <div class='pad2 article'>
 	    <h2 class='bold capitalize'><a href={{site.baseurl}}{{post.url}}>{{ post.headline }}</a></h2>
 		{% include contrib_list_tag.html %}
 	    <p>{{ post.content | markdownify  | strip_html |  truncatewords:40}}</p>

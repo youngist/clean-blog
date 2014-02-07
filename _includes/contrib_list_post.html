@@ -11,7 +11,7 @@
 {% assign titlenameclear = post.titlename | replace: "'", '-' %}
 {% if post.titlename == contributor %}
 <a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>
-{% assign links = 'true' %} 
+{% assign links = 'true' %}
 {% endif %}
 {% endfor %}
 {% if links == 'false' and queen == 'false' %}
