@@ -2,7 +2,7 @@
 published: true
 layout: post
 maintitle: "42 Stories of Frontline Indigenous Resistance You May Have Missed - {Young}ist"
-headline: 42 Stories of Frontline Indigenous Resistance You May Have Missed
+headline: "42 Stories of Frontline Indigenous Resistance You May Have Missed"
 tagline: undefined
 featuredphoto: "https://farm6.staticflickr.com/5535/12333137854_3f1a98d217.jpg"
 featuredphotoalttext: Members of Tahltan Nation

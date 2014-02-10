@@ -56,13 +56,13 @@ class: home
 <script type='text/javascript'>
 var tag = '';
 </script>
-    {% for post in site.posts limit: 4 %}
+    {% for post in site.posts limit: 6 %}
     {% if post.published == true %}
     <!-- MAKE SURE TAGS DON'T REPEAT Need logic if tag already exists, add tag to list and compare, if the same skip? -->
-    {% for tag in post.tags limit:1 %}
+    {% for thetag in post.tags limit: 1 %}
 <script type="text/javascript">
 {% unless forloop.rindex == 0 %}
-var tag = tag + ',' + {{post.tags | jsonify | downcase }} ;
+var tag = tag + ',' + '{{ thetag | jsonify | downcase }}';
 {% endunless %}
 </script>
 	{% endfor %}

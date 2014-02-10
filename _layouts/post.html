@@ -122,18 +122,18 @@ layout: default
 			else{
 				var years =  today.getFullYear() - birthday.getFullYear();
 			}
-			document.write("<h4 class='col9 i alright margin-bottom age'>" + years + " Years Old</h4>");
+			document.write("<h4 class='margin2 col9 i margin-bottom age'>" + years + " Years Old</h4>");
 			</script>
 			{% endif %}
             {% if page.contributorshortbio != "undefined" %}
-			<p class='col9 i alright small-words margin-bottom'>{{page.contributorshortbio}}</p>
+			<p class='margin2 col9 i small-words margin-bottom'>{{page.contributorshortbio}}</p>
 			{% endif %}
             {% if page.contributortwitter != "undefined" %}
-			<p class='col9 i alright small-words'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
+			<p class='margin2 col9 i small-words'>Catch up with me <a href='http://www.twitter.com/{{page.contributortwitter}}'>@{{page.contributortwitter}}</a>.</p>
 			{% endif %}
             {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | page.headline }}>{{ tag | downcase | replace: '-', ' ' }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove nomarginabove'>published</h4>
-            <h4 class='margin2 col7 publishedbelow alright'>{{page.date | date: "%B %d, %Y" }}</h4>
+            <h4 class='margin2 col7 publishedbelow'>{{page.date | date: "%B %d, %Y" }}</h4>
             <h4 class='margin2 col7 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
 </h4>
             <!-- <h4 class='fr marginr1 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4> -->

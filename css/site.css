@@ -637,6 +637,19 @@ footer {
   }
 
 /*Can use for tags posted or anything of posts*/
+
+.post-padding img {
+ max-width:100%;
+ }
+
+.post-padding ul {
+ margin:0 0 20px;
+ }
+
+.pad0.col12.fr.media.tag-color.button-color.button-color {
+ margin-bottom: 0px;
+ }
+
 .page-excerpt {
   font-size:20px;
   padding:10px 0 10px 40px;

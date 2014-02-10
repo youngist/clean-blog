@@ -2,22 +2,26 @@
 layout: post
 published: true
 headline: "CeCe McDonald, Transgender Women of Color, and Dreams Beyond the Prison Industrial Complex"
-tagline: ""
+tagline: undefined
 maintitle: "CeCe McDonald, Transgender Women of Color, and Dreams Beyond the Prison Industrial Complex - {young}ist"
-excerpt: "Something describing the article"
 contributors: 
   - Lexi Adsit
 categories: 
   - action
   - article
 tags: 
-  - queer
+  - girlslikeus 
+  - twoc
   - prisons
+  - queer
+  - prison-abolition
+  - CeCe-McDonald
 featuredphoto: "https://31.media.tumblr.com/b364e0a74e4d2ec05010f91a6548627a/tumblr_inline_mzetfhYSb21rkj9dw.jpg"
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+featuredphotoalttext: "Photo of CeCe McDonald smiling with a hand on her hip"
+contributorphoto: https://pbs.twimg.com/profile_images/378800000133153438/e968d20aef1c5fa48247b537d8c6ba72.jpeg
+contributorshortbio: "Scholar / Activist / Organizer / Visionary / #girlslikeus / #TWOC / #TransLatinas who #ruletheworld"
+contributortwitter: sistahmamaqueen
+contributorage: 01/11/1991
 ---
 I’ll be honest, I didn’t consistently follow [CeCe McDonald’s](http://abcnews.go.com/blogs/headlines/2014/01/transgender-activist-cece-mcdonald-released-early-from-prison/) story or read [her blog](http://supportcece.wordpress.com/category/ceces-blog/). Mostly because incarceration is a huge fear of mine and I’ve heard so many negative experiences of incarceration for transgender women of color, I prayed CeCe would not share that same experience. It breaks my heart to hear negative experiences of any transgender woman of color because I often feel absolutely helpless to be able to do anything about it and that these negative experiences are so commonplace. I also recognize the structural oppression that plays such a large role in conducting violence within our lives. Resisting and fighting structural violence often feels like boxing a ghost who doesn’t have any rules to follow.
 
@@ -33,7 +37,7 @@ So, it is with tears and so much joy to have seen [CeCe leave her prison earlier
 
 From my perspective one of the key factors in helping CeCe survive has definitely been the support of community. It was her Minneapolis community to draw this issue to our National attention. It was the community who put so much pressure on Michael Freeman, the Attorney who held the power throughout this process to drop all charges against CeCe. It is the community who wrote CeCe countless letters and bought her books.
 
-This community has showed up at a time when a queer movement and prison abolition movement need to work together hand-in-hand. We’ve seen books like Captive Genders, Normal Life, and Queer (In)Justice [all books I recommend, by the way] talk about prisons and incarceration for queer and trans* communities. We’ve seen projects like [Black and Pink](http://www.blackandpink.org/) and [Transgender, Gender-Variant, and Intersex Justice Project. We need to begin and continue to hold this analysis and center our experiences of incarcerated folks as we continue to work towards the freedom of all incarcerated people and ideally look for alternative routes to incarceration.
+This community has showed up at a time when a queer movement and prison abolition movement need to work together hand-in-hand. We’ve seen books like *Captive Genders, Normal Life, and Queer (In)Justice* [all books I recommend, by the way] talk about prisons and incarceration for queer and trans* communities. We’ve seen projects like [Black and Pink](http://www.blackandpink.org/) and [Transgender, Gender-Variant, and Intersex Justice Project. We need to begin and continue to hold this analysis and center our experiences of incarcerated folks as we continue to work towards the freedom of all incarcerated people and ideally look for alternative routes to incarceration.
 
 In my lifetime I have not seen so much support for an incarcerated transgender woman of color as I have seen for CeCe. Her case and reactions around it have refreshed my spirit and given me hope that a part of our community can and is willing to center trans women of color – and let us set the agenda for a movement that help us survive and combat incarceration, violence, and oppression.
 
