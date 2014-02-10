@@ -80,6 +80,7 @@ for (var i = 0; i < listtags.length; i++) {
 for (var i = 0; i < nonduplicatelist.length; i++) {
 	var tagname = nonduplicatelist[i];
 	var tagnametitle = tagname.replace("-", " ");
+	tagnametitle = tagname.replace("\"", " ");
 	var listtag = "<li class='col2' ><h4><a class='col10 pad0 tag-color button-color' href={{site.baseurl}}/tag/"+ tagname +">" + tagnametitle + "</a></h4></li>";
 
 	$('.trending').append(listtag);
