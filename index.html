@@ -79,9 +79,13 @@ for (var i = 0; i < listtags.length; i++) {
 <script type="text/javascript">
 for (var i = 0; i < nonduplicatelist.length; i++) {
 	var tagname = nonduplicatelist[i];
+	_.escape(tagname);
 	var tagnametitle = tagname.replace("-", " ");
-	tagnametitle = tagnametitle.replace("\"", " ");
-	tagname = tagname.replace("\"", " ");
+	tagnametitle = tagnametitle.replace("&quot;", " ");
+	tagname = tagname.replace("&quot;", " ");
+	// tagnametitle = tagnametitle.replace("\"", " ");
+	// This doesn't work because it looks for the backslash quotation and replaced nothing
+	// tagname = tagname.replace("\"", " ");
 	var listtag = "<li class='col2' ><h4><a class='col10 pad0 tag-color button-color' href={{site.baseurl}}/tag/"+ tagname +">" + tagnametitle + "</a></h4></li>";
 
 	$('.trending').append(listtag);
