@@ -15,11 +15,11 @@ tags:
   - student-organizing
   - columbia-university
 featuredphoto: https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg
-featuredphotoalttext: "Painting by someone who supports the cause."
+featuredphotoalttext: "Illustration of a person with "CASE 8" written across their mouth and a panel of people with their hands over their eyes"
 contributorphoto: undefined
-contributorshortbio: undefined
+contributorshortbio: Columbia U'16 Freelancer
 contributortwitter: GeorgeJoseph94
-contributorage: undefined
+contributorage: 6/1/1994
 ---
 
 Society’s historically racist template for what sexual violence looks like generally confines itself to the dark city alley in which a Black male stranger overpowers a young white girl. But for college students the reality is much closer to home. 57% of rapes occur on a date, 90% of college women know their rapist, and one in four college women have survived rape or attempted rape. In fact, according to a US Department of Justice policeguide, “College women are more at risk for rape and other forms of sexual assault than women the same age but not in college.” Furthermore, studies have shown that the fraternity experience makes men more likely to rape, and fraternity members committhree times more sexual assaults than non-fraternity members. In other words, at college, rapists and the culture that supports them are an integral part of campus. Yet nationwide, university administrations have not only refused to tackle this reality head on, but have actually done everything to cover it up, thereby isolating survivors and marginalizing those insisting on the severity of the situation. Because of this reprehensible state of affairs, in October the Columbia University Democrats released apetition, demanding the university release anonymous aggregate data on campus rape and its consequences; yet after two months of op-eds, meetings, and negotiations, the administration has continued to hide the numbers and with them the chillingly proximate nature of rape on our campus.

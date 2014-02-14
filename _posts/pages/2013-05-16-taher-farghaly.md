@@ -12,6 +12,6 @@ contributortwitter: tahermoataz
 age: 24
 coverphoto: 
 contributors: 
-- Maria Zepatou
+- Taher Farghaly
 ---
 {% include contrib_feed_post_layout.html %}

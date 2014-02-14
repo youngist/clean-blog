@@ -12,6 +12,7 @@ contributortwitter: undefined
 contributorage: undefined
 categories: 
   - featured
+  - sound
 tags: 
   - music
   - lgbtq

@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: https://pbs.twimg.com/profile_images/421051629790429184/YLFU6Ftz.jpeg
 contributorshortbio: "Columbia U'16 Freelancer"
 contributortwitter: GeorgeJoseph94
-contributorage: undefined
+contributorage: 6/1/1994
 tags: 
   - student-unions
   - student-movement

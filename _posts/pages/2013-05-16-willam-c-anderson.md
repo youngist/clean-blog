@@ -6,10 +6,10 @@ titlename: William C. Anderson
 class: contributor
 position: contributor
 excerpt: Southern organizer based in Brooklyn, NY
-image: https://si0.twimg.com/profile_images/2847043645/eecca92afe665898386d86f5ba0902e6.jpeg
+image: https://pbs.twimg.com/profile_images/413198913622249473/T8PAdsMG.jpeg
 bio: "Something about Will"
 contributortwitter: williamcander
-age: 26
+contributorage: 7/26/1989
 contributors: 
 - William C. Anderson
 ---

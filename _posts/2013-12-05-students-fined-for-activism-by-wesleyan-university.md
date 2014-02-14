@@ -12,6 +12,7 @@ contributors:
 - Ross Levin
 contributorphoto: undefined
 featuredphoto: http://media.tumblr.com/4708ddfc8ce1b7f745af2e3ec5648fa5/tumblr_inline_mx9a71RyHK1rkj9dw.jpg
+featuredphotoalttext: Symbols used to denote male and female restrooms
 contributorage: undefined
 contributortwitter: fake
 categories:

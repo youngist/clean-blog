@@ -9,9 +9,10 @@ maintitle: "Phillip Agnew -  “This is my tome to 2013; my poem to the year of 
 featuredphoto: https://31.media.tumblr.com/4044262fef186dae25fb629f9cd753a5/tumblr_inline_myqpyhhzm01rkj9dw.jpg
 featuredphotoalttext: "Phillip Agnew, Executive Director of the Dream Defenders, on bus bound for 50th Anniversary of the March on Washington. – Photo by Trymaine Lee/MSNBC"
 contributortwitter: PhilofDreams_
+contributorbio: Executive director of the Dream Defenders.
 contributors: Phillip Agnew
 contributorage: undefined
-contributorphoto: undefined
+contributorphoto: http://i.huffpost.com/gen/1327312/thumbs/o-PHILLIP-AGNEW-facebook.jpg
 tags:
 - dream-defenders
 - poetry

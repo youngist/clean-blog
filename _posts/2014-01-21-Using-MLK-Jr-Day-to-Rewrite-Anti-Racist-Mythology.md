@@ -7,10 +7,10 @@ tagline: undefined
 featuredphoto: "https://31.media.tumblr.com/061ea0ecb589f76de25360743d07a5f2/tumblr_inline_mzs8fgHq2a1rkj9dw.jpg"
 featuredphotoalttext: statue of MLK
 videourl: undefined
-contributorphoto: "https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/8cc8684d2bb3755277e5eacb94fc6d45/tumblr_inline_mmx4nrdROH1rkj9dw.jpg"
-contributorshortbio: "organizer, writer and a Black girl from the future"
+contributorphoto: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c0.0.180.180/s160x160/1424264_10151984679891726_511706797_a.jpg"
+contributorshortbio: "Organizer, Writer, Black girl from the future."
 contributortwitter: Muna_Mire
-contributorage: undefined
+contributorage: 7/1/1990
 categories: 
   - editors
 tags: 

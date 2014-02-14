@@ -5,17 +5,20 @@ categories: gallery
 headline: "My Body, My Marriage"
 tagline: undefined
 maintitle: "My Body, My Marriage - {Young}ist!"
-excerpt: This text describes the article for the meta tag
+excerpt: "My Body, My Marriage"
 contributors:
 - Nicolas Quiazua
 - Lily Hoffman
 featuredphoto: http://24.media.tumblr.com/a4d84465a6d0797e1965d27bb0fb5a59/tumblr_mpdilzxoKT1sp5io1o1_1280.jpg
 featuredphotoalttext: undefined
+tags:
+- art
+- queer
 videourl: undefined
 contributorphoto: undefined 
-contributorshortbio: Photos on 4x3s, words on 8x11s
+contributorshortbio: "Reporter. Words in print, and prints in pixels. Ancien Rédacteur en Chef du @DelitFrancais. Naat aliens but colonies."
 contributortwitter: nicolasquiazua
-contributorage: undefined
+contributorage: 4/26/1991
 ---
 <p class='hide-mobile'>
 	<div id='postcarousel' class='col12 carousel slide hide-mobile'>

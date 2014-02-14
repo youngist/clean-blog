@@ -16,7 +16,7 @@ contributors:
   - Reclaim Turtle Island
 tags: 
   - indigenous
-  - "environmental-rights"
+  - environmental-rights
 categories: 
   - featured
 ---

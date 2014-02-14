@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c0.0.180.180/s160x160/1424264_10151984679891726_511706797_a.jpg"
 contributorshortbio: "Organizer, Writer, Black girl from the future."
 contributortwitter: Muna_Mire
-contributorage: undefined
+contributorage: 7/1/1990
 categories: 
   - article
 tags: 

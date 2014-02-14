@@ -4,13 +4,13 @@ category: page
 maintitle: Katrina Casino
 titlename: Katrina Casino
 class: staff
-position: editor
+position: contributor
 excerpt: Grammar to the people
 image: http://www.autostraddle.com/wp-content/uploads/2012/05/85-Katrina-Casino.jpeg
-bio: ""
+bio: undefined
 contributortwitter: kcdanger
-age: 23
-coverphoto: 
+contributorage: 1/19/1989
+coverphoto: undefined
 contributors: 
 - Katrina Casino
 ---
