@@ -134,10 +134,30 @@ layout: default
             {% for tag in page.tags %}<h4> <a class='tag-color margin2 col7 pad0 margin-bottom' href={{site.baseurl}}/tag/{{ tag | downcase | page.headline }}>{{ tag | downcase | replace: '-', ' ' }}</a></h4>{% endfor %}
             <h4 class='margin2 col7 i publishedabove nomarginabove'>published</h4>
             <h4 class='margin2 col7 publishedbelow'>{{page.date | date: "%B %d, %Y" }}</h4>
-            <h4 class='margin2 col7 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
-</h4>
+			<!-- AddThis Button BEGIN -->
+			<div class="hide-mobile margin3 addthis_toolbox addthis_floating_style addthis_counter_style" style='position: initial;'>
+			<a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
+			<a class="addthis_button_tweet" tw:count="vertical"></a>
+			<a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
+			<a class="addthis_counter"></a>
+			</div>
+			<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52ffc9804152bb60"></script>
+			<!-- AddThis Button BEGIN -->
+			<div class="addthis_toolbox addthis_default_style show-mobile">
+			<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+			<a class="addthis_button_tweet"></a>
+			<a class="addthis_button_pinterest_pinit" pi:pinit:layout="horizontal"></a>
+			<a class="addthis_counter addthis_pill_style"></a>
+			</div>
+			<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52ffc9804152bb60"></script>
+			<!-- AddThis Button END -->
+			<!-- AddThis Button END -->
+            <!-- <h4 class='margin2 col7 tag'><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://youngist.github.io/clean-blog{{page.url}}" data-lang="en" data-size="large" data-count="none">Tweet</a>
+</h4> -->
             <!-- <h4 class='fr marginr1 tag'><div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div></h4> -->
-            <h4 class='margin2 col7 tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4>
+            <!-- <h4 class='margin2 col7 tag'><div class="fb-share-button" data-href="http://youngist.github.io/clean-blog{{page.url}}" data-width="25" data-height="63" data-type="button"></div></h4> -->
 	</div>
 	<script>
 		var postheight = $("#maincontent").height();
@@ -168,5 +188,5 @@ layout: default
 	    });
 	
 	</script>
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
+	<!-- // <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	 -->
 </div>
