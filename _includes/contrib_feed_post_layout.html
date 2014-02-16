@@ -3,19 +3,19 @@
 {% assign contributorname = {{page.contributors[0]}} %}
 <!-- This should be an include because it repeats for the feeds and contributors -->
 <div class='contributor-header'>
-    {% if page.coverphoto != undefined and page.coverphoto != '' %}<div class='col5 contributor-theme-image' style='background:url({{page.coverphoto}}) no-repeat; background-size: cover;'>
+    {% if page.coverphoto != 'undefined' %}<div class='col5 contributor-theme-image' style='background:url({{page.coverphoto}}) no-repeat; background-size: cover;'>
 		{% else %}
 		<div class='col5 contributor-theme-image'>
 		{% endif %}</div>
     <div class='contrib-layout circular' style='background:url({{page.image}}) no-repeat; background-size: cover;'></div>
     <div class='pad8h margin1 col5 contributor-details'>
         <h1 class='contributor-name'>{{contributorname}}</h1>
-        <div class='contributors titillium bold page-excerpt'>{{ page.excerpt }}</div>
+        <div class='contributors titillium bold page-excerpt'>    {% if page.excerpt != 'undefined' %}{{ page.excerpt }}{% endif %}</div>
     </div>
 </div>
 <div class='col11 contributor-content'>
         <div class='pad4 col4 contributor-bio'>
-			<div class='col12'>{{ page.bio }}</div>
+			<div class='col12'>{% if page.bio != 'undefined' %}{{ page.bio }}{% endif %}</div>
 			<ul class='col12 tag trending nodec contrib-tag' id='tag-box'>
 	 </ul>
 		

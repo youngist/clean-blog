@@ -14,7 +14,7 @@ class: home
             <h1 class='capitalize article'><a href='{{site.baseurl}}{{post.url}}'>{{post.headline }}</a></h1>
 {% include contrib_list_tag.html %}             
 <p>{{ post.content | markdownify | strip_html |  truncatewords:40}}</p>
-			<div class='col4 media tag container'>
+			<div class='col6 media tag container'>
             {% for tag in post.tags %}<h4 class='pad0 tag-color button-color'><a class='pad0' href={{site.baseurl}}/tag/{{ tag }}>{{ tag | downcase | replace: '-', ' ' }}</a></h4>{% endfor %}
         	</div>
 		</div>
@@ -29,7 +29,7 @@ class: home
                 <h1 class='capitalize article'><a href='{{site.baseurl}}{{post.url}}'>{{ post.headline}}</a></h1>
 				{% include contrib_list_tag.html %}
 					<p>{{ post.content | markdownify | strip_html |  truncatewords:40}}</p>
-				<div class='col4 media tag container'>
+				<div class='col6 media tag container'>
 	            {% for tag in post.tags %}<h4 class='pad0 tag-color button-color'><a class='pad0' href={{site.baseurl}}/tag/{{ tag }}>{{ tag | downcase | replace: '-', ' ' }}</a></h4>{% endfor %}
 	        	</div>
             </div>
