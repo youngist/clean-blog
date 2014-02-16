@@ -6211,7 +6211,8 @@ body.modal-open,
 }
 
 .hide {
-  display: none !important;
+/*  display: none !important;*/
+    display: none;
 }
 
 .show {

@@ -1,6 +1,7 @@
 <p class='contributors'>
 {% for contributor in post.contributors %}
 {% assign contributorclear = contributor | replace: "'", '-' %}
+{% assign contributorclear = contributor | replace: ".", '' %}
 {% assign links = 'false' %}
 {% if contributor == "Queen Arsem-O'Malley" %}
 {% assign queen = 'true' %}
