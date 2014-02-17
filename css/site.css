@@ -170,6 +170,7 @@ ol {
 .alright {
   text-align: right;
   }
+
 /* Content Section */
 
 /* General Utilities and Styles */
@@ -291,6 +292,10 @@ ol {
   text-align: center;
   }
 
+.alleft {
+  text-align: left;
+  }
+
 .tag h4 a{
   color: white;
   text-align: center;
@@ -404,6 +409,11 @@ ol {
   }
 
 /* Donate */
+
+.donate-blurb {
+  font-family: 'engel_light_ltdlight';
+}
+
 .donate-p {
   font-size: 17px;
   color:#ffffff;
@@ -630,7 +640,7 @@ footer {
 .contrib-layout {
   position: absolute;
   top: 150px;
-  left: 35%;
+  left: 20%;
   width: 150px;
   height: 150px;
   background-size: 150px;
@@ -991,9 +1001,6 @@ table {
 .post-content {
   padding: 130px 20px 20px 0;
   }
-#postcarousel {
-  display:block;
-  }
 
 .carousel-inner {
   height: 640px;
@@ -1053,10 +1060,13 @@ Details: http://www.positioniseverything.net/easyclearing.html
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
   }
-
+  
+/*  .carousel-inner {
+	  height:inherit;
+  }*/
 /* Mobile Layout
 ------------------------------------------------------- */
-@media only screen and (max-width:1030px) {
+@media only screen and (max-width:970px) {
   .col1,
   .col2,
   .col3,

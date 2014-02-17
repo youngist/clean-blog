@@ -23,6 +23,8 @@ contributorage: "1/17/1991"
 
 This is a basic post!
 
+<h3 class='donate-blurb'> Diggin' what you're reading? Then support this young writer by <a href='{{site.baseurl}}/donate'>donating</a> to Youngist now!</h3>
+
 <img src='../images/tumblrlogo.png' class='col12' />
 
 #### Strong and Emphasize 

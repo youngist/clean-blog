@@ -15,9 +15,9 @@ tags:
   - student-organizing
   - columbia-university
 featuredphoto: https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg
-featuredphotoalttext: "Illustration of a person with "CASE 8" written across their mouth and a panel of people with their hands over their eyes"
+featuredphotoalttext: "Illustration of a person with 'CASE 8' written across their mouth and a panel of people with their hands over their eyes"
 contributorphoto: undefined
-contributorshortbio: Columbia U'16 Freelancer
+contributorshortbio: "Columbia U'16 Freelancer"
 contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1994
 ---

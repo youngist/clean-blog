@@ -16,7 +16,6 @@ tags:
   - unions
   - labor
   - students
-  - global
 contributors: 
   - "Queen Arsem-O'Malley"
 ---

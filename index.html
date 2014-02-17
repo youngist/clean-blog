@@ -103,7 +103,7 @@ for (var i = 0; i < nonduplicatelist.length; i++) {
 			<div class='col2 media tag'>
 			{% endif %}
                 {% for tag in post.tags %}<h4 class='pad0 col12 fr media tag-color button-color'><a href='{{site.baseurl}}/tag/{{ tag | downcase | replace:' ','-' }}'>{{ tag | downcase | replace:'-',' '  }}</a></h4>{% endfor %}
-                <h4 class='pad0 col12 fr'>{{post.date || date: '%B %d, %Y' }}</h4>
+                <h4 class='pad0 col12 fr alleft'>{{post.date || date: '%B %d, %Y' }}</h4>
             </div>
             <div class='col9 margin0 article'>
                 <!-- ADD LOGIC If post has a picture! -->
@@ -135,7 +135,7 @@ for (var i = 0; i < nonduplicatelist.length; i++) {
                     {% for tag in post.tags %}
 					<h4 class='pad0 col12 fr media tag-color button-color button-color'><a href={{site.baseurl}}/tag/{{ tag }}>{{ tag | downcase | replace: '-', ' ' }}</a></h4>
 					{% endfor %}
-                    <h4 class='pad0 col12 fr'>{{post.date || date: '%B %d, %Y' }}</h4>
+                    <h4 class='pad0 col12 fr alleft'>{{post.date || date: '%B %d, %Y' }}</h4>
                 </div>
                 <div class='col9 margin0 article'>
                     {% if forloop.rindex == 1 %}
