@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "High School Cheerleaders Flaunt Racist Sign, Face Sanctions: But Who’s Really to Blame?"
 headline: "High School Cheerleaders Flaunt Racist Sign, Face Sanctions: But Who’s Really to Blame? - {Young}ist"
