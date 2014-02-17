@@ -7,6 +7,7 @@ class: contributor
 position: contributor
 excerpt: Southern organizer based in Brooklyn, NY
 image: https://pbs.twimg.com/profile_images/413198913622249473/T8PAdsMG.jpeg
+coverphoto: undefined
 bio: "Something about Will"
 contributortwitter: williamcander
 contributorage: 7/26/1989

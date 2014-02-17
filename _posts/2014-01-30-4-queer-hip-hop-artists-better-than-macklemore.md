@@ -11,7 +11,6 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - featured
   - sound
 tags: 
   - music
