@@ -1,3 +1,28 @@
+---
+published: true
+layout: post
+maintitle: "We Beliebe that Another World is Possible - {Young}ist"
+headline: "We Beliebe that Another World is Possible"
+tagline: "5 truths about immigration and criminalization that are more important than Bieber"
+featuredphoto: https://31.media.tumblr.com/0453992e0d44a4078f06f39fd6f8c07d/tumblr_inline_n09sdjoYGr1rkj9dw.jpg
+featuredphotoalttext: "Photo of a line of people facing a bus and blocking it"
+videourl: undefined
+contributorphoto: https://pbs.twimg.com/profile_images/428771285540167680/hWbx6Wly.jpeg
+contributorshortbio: "Transformation in the here, now, & ever after. Sister to a badass 3 year old. "
+contributortwitter: JennyMarkz
+contributorage: 7/22/1990
+contributors:
+  - Jenny Marks
+  - Isabelle Nastasia
+tags:
+  - undeportable
+  - immigration
+  - prisons
+  - queer
+  - undocumented-youth
+categories:
+  - featured
+---
 <p><span>Teen pop singer </span><a href="http://www.leegly.com/wp-content/uploads/2014/01/justin-bieber-the-key-perfume-650-430.jpg" target="_blank"><span>Justin Bieber</span></a><span> was arrested last week in Florida on charges of drunk driving and resisting arrest. Because he is living in the U.S. on an </span><a href="http://www.uscis.gov/working-united-states/temporary-workers/o-1-individuals-extraordinary-ability-or-achievement/o-1-visa-individuals-extraordinary-ability-or-achievement" target="_blank"><span>O-1B Work Visa</span></a><span>, many people reacted by demanding that he be deported. Given the American peoples’ affinity for organizing around inconsequential causes, it is no surprise that the “</span><a href="http://www.washingtontimes.com/news/2014/jan/29/deport-bieber-petition-succeeds-earns-votes-demand/" target="_blank"><span>Deport Bieber</span></a><span>” White House petition hit 100K signatures this week. </span></p>
 <p><span>While Bieber’s case has captured public attention, there are a few things that we could be paying attention to instead!</span><span> &nbsp;</span><span>In his </span><a href="http://www.cbsnews.com/news/obamas-2014-state-of-the-union-address-full-text/" target="_blank"><span>State of the Union address</span></a><span>, President Obama didn’t mention deportations once. He commented vaguely that we need to “get immigration reform done this year,” as he has said </span><a href="http://www.youtube.com/watch?v=4XO2NrMpJ5M&amp;feature=youtu.be" target="_blank"><span>every year</span></a><span> since he’s been in office. (The not-so-Comprehensive Immigration Reform bill, however, remains </span><a href="http://colorlines.com/archives/2013/12/whatever_happened_to_comprehensive_immigration_reform.html" target="_blank"><span>nowhere</span></a><span>.)</span></p>
 <p><span>While the White House has been working on “getting it done,” groups like </span><a href="http://theniya.org" target="_blank"><span>National Immigrant Youth Alliance</span></a><span> and </span><a href="http://unitedwedream.org" target="_blank"><span>United We Dream</span></a><span> threw down in 2013, orchestrating multiple </span><a href="http://youngist.org/post/62716092043/immigrant-youth-escalate-the-fight-to-end-deportations" target="_blank"><span>border-crossings of undocumented immigrants</span></a><span>, </span><a href="http://youngist.org/post/58984486446/breaking-immigrant-youth-block-deportation-bus-in" target="_blank"><span>blockades</span></a><span> of ICE bus routes, and </span><a href="http://youngist.org/post/56464570671/dream-9-refuse-food-spur-national-action-around" target="_blank"><span>hunger strikes</span></a><span>. These forms of direct action escalation are challenging the very existence of ICE, detention centers, and borders.</span></p>
