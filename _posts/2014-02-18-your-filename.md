@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "\"Something quoted: something gained\" - {Young}ist"
 headline: "\"Something quoted: something gained\""
@@ -27,6 +27,3 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 _This is my own picture_
 
 > We loved with a love that was more than love
-
-
-
