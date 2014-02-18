@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-maintitle: "Something quoted something gained - {Young}ist"
-headline: Something quoted something gained
+maintitle: " &#34; Something quoted &#58;  something gained &#34; - {Young}ist"
+headline: " &#34; Something quoted  &#58;  something gained &#34;"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
