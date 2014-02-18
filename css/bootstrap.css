@@ -4426,7 +4426,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #e68b24;
+  background-color: #EE8E3F;
 }
 
 .navbar-default .navbar-collapse,
@@ -5210,6 +5210,7 @@ a.thumbnail:focus {
 .media,
 .media .media {
   margin-top: 15px;
+  text-align:center;
 }
 
 .media:first-child {
@@ -6133,7 +6134,7 @@ body.modal-open,
 */  padding-left: 0;
 /*  margin-left: -30%;*/
   text-align: center;
-  background: #e68b24;
+  background: #EE8E3F;
   list-style: none;
 }
 

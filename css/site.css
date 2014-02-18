@@ -109,18 +109,18 @@ p {
   
 /* Links */
 a {
-  color:#e68b24;
+  color:#EE8E3F;
   text-decoration:none;
   }
   a:visited {
     color:rgb(179, 102, 16);
     }
   a:hover {
-    color:#e68b24;
+    color:#EE8E3F;
 	text-decoration:none;
     }
   a:active {
-    color:#e68b24;
+    color:#EE8E3F;
     }
 h1,
 h2,
@@ -206,7 +206,7 @@ ol {
  }
 
 .button-color:hover{
- background: #FF9A28;
+ background: #E49D44;
  }
 
 /* makes the article and media section the same off white*/
@@ -218,7 +218,7 @@ ol {
   }
 
 .orangeback{
-  background: #e68b24;
+  background: #EE8E3F;
   height:200px;
   }
 
@@ -238,7 +238,7 @@ ol {
   color:#bfbebe;
   }
 	.nav-action a.active {
-	  color:#e68b24;
+	  color:#EE8E3F;
 	  }
 
 .search-box {
@@ -254,7 +254,7 @@ ol {
   }
 
 .large-quote {
-  color: #e68b24;
+  color: #EE8E3F;
   font-size: 25px;
   font-style: italic;
   }
@@ -272,7 +272,7 @@ ol {
 
 .tag-header{
  color:#ffffff;
- background:#e68b24;
+ background:#EE8E3F;
  }
 
 .contrib-tag {
@@ -289,7 +289,6 @@ ol {
 
 .tag h4 {
   margin-bottom: 10px;
-  text-align: center;
   }
 
 .alleft {
@@ -304,7 +303,7 @@ ol {
   }
 
 .tag-color{
-  background: #e68b24;
+  background: #EE8E3F;
   }
 
 /*Taken from Mapbox.com menu*/
@@ -344,14 +343,14 @@ ol {
 .prevslide {
   background:url(/clean-blog/images/arrow-l.png) no-repeat;
   position: absolute;
-  top: 250px;
+  top: 340px;
   left:30px;
   }
 
 .nextslide {
   background:url(/clean-blog/images/arrow-r.png) no-repeat;
   position: absolute;
-  top: 250px;
+  top: 340px;
   right:0;
   }
 
@@ -475,8 +474,8 @@ ol {
   color:#ffffff;
   }
 
-.article{
-  margin-bottom:20px;
+.article {
+  margin-bottom:15px;
   line-height: 1.2em;
   }
 .article h2 {
@@ -489,13 +488,13 @@ ol {
   }
 
 .article a:hover {
-  color:#e68b24;
+  color:#EE8E3F;
   }
 
 /* Footer */
 .footer {
   background:rgb(53, 51, 51);
-  color: #e68b24;
+  color: #EE8E3F;
   }
 
 .footer-links {
@@ -511,7 +510,7 @@ ol {
 
 .footer-links li a:hover {
   text-decoration:none;
-  color:#e68b24;
+  color:#EE8E3F;
   }
 
 .footer-social {
@@ -534,7 +533,7 @@ ol {
   }
 
 .footer-button {
-  background: #e68b24;
+  background: #EE8E3F;
   margin-bottom: 15px;
   }
 
@@ -576,7 +575,7 @@ footer {
  
 .action-title {
  line-height: 2.25em;
- color:#e68b24;
+ color:#EE8E3F;
  padding-top: 40px;
  }
 
@@ -604,7 +603,7 @@ footer {
 
 /* Image given by contributor must always be this height?*/
 .contributor-theme-image {
-  background: #e68b24;
+  background: #EE8E3F;
   height:400px;
   }
 
@@ -700,7 +699,7 @@ footer {
   }
 
 .header-container a:hover {
-	color:#e68b24;
+	color:#EE8E3F;
 	text-decoration: none;
 }
 
@@ -891,12 +890,6 @@ table {
     color:#57594D;
     }
 
- blockquote {
-    border-left: 3px solid #fcddb3;
-    line-height: 1.3em;
-    margin-left: 15px;
-    }
-
 
 /* Read content styling */
 .prose ul {
@@ -1010,7 +1003,7 @@ table {
   }
 
 .carousel-inner {
-  height: 640px;
+  height: 580px;
   background-color: #F4F5F6;
   }
 
@@ -1063,12 +1056,12 @@ Details: http://www.positioniseverything.net/easyclearing.html
 
 /* Tablet Layout
 ------------------------------------------------------- */
-@media only screen and (max-width:1050px) {
+@media only screen and (max-width:1040px) {
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
 
   .carousel-inner {
-    height:inherit;
+    height:660px;
     }
 
   }
