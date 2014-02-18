@@ -21,11 +21,11 @@ tags:
   - racial-justice
   - Martin-Luther-King
 categories:
-  - article
+  - featured
 ---
 
-	"Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly."	
-	— Martin Luther King, Jr., “Letters from a Birmingham City Jail”
+<blockquote>"Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly."	
+	— Martin Luther King, Jr., “Letters from a Birmingham City Jail”</blockquote>
 
 This coming Monday marks Martin Luther King Day, the annual ode to a man credited with winning “the dream” for millions of African Americans. This year marked the fiftieth anniversary of King’s “I have a dream” speech, where on the steps of our nation’s capitol, a Black man dared to imagine an America where Black boys and girls live with dignity.
 

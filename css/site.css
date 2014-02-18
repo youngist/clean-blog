@@ -891,6 +891,13 @@ table {
     color:#57594D;
     }
 
+ blockquote {
+    border-left: 3px solid #fcddb3;
+    line-height: 1.3em;
+    margin-left: 15px;
+    }
+
+
 /* Read content styling */
 .prose ul {
   list-style:disc;
@@ -1059,11 +1066,13 @@ Details: http://www.positioniseverything.net/easyclearing.html
 @media only screen and (max-width:1050px) {
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
+
+  .carousel-inner {
+    height:inherit;
+    }
+
   }
-  
-/*  .carousel-inner {
-	  height:inherit;
-  }*/
+
 /* Mobile Layout
 ------------------------------------------------------- */
 @media only screen and (max-width:970px) {
