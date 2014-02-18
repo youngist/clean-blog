@@ -1,0 +1,37 @@
+---
+published: false
+layout: post
+maintitle: "The Real Movers and Shakers - {Young}ist"
+headline: The Real Movers and Shakers
+tagline: "Instead of electoral politics, we should be paying more attention to the community-based movement building happening nationwide"
+featuredphoto: "http://onlineathens.com/sites/default/files/imagecache/full/12041487.jpg"
+featuredphotoalttext: Photo of undocumented students wearing caps and gowns at a protest.
+videourl: undefined
+contributorphoto: "https://pbs.twimg.com/profile_images/412686866341580800/_QTo5onz.png"
+contributorshortbio: "Outside of my activism and academic scholarship, Erik enjoys loose-leaf tea, the &#34;West Wing,&#34; and vegetarian cooking."
+contributortwitter: eriklampmann
+contributorage: 4/21/1991
+categories: 
+  - article
+tags: 
+  - queer
+  - immigration
+  - organizing
+  - students
+contributors: 
+  - Erik Lampmann
+---
+
+<p>There are actions, policies, battles … and then there are&nbsp;<em>movements.</em></p>
+<p>Over the past few weeks I’ve grown increasingly concerned that episodic protests, press releases, and elections receive the lion’s share of our concern, while strategic movements to build strong, resilient communities are left by the wayside.</p>
+<p>Take, for instance, the media’s flirtation with Russell Brand’s ‘revolutionary politics.’ It seemed as though pundits were bending over backwards to support Brand’s calls for the fair distribution of wealth in the UK, heralding him a radical leftist. This isn’t the space to&nbsp;<a href="http://youngist.org/post/65427583436/the-revolution-will-not-be-russell-brand-ed" target="_blank">examine the authenticity of Brand’s claims to radical progressive politics</a>. It is worth noting, however, the power asymmetries of a media landscape that affords Brand unheard of attention for his politics while failing to ever address the work of undocumented, queer, youth, and student activists (sometimes together) across the country.</p>
+<p>Similarly, I’ve seen reductive partisan politics engrain themselves in my state, Virginia, through this most recent gubernatorial campaign, pitting a particularly bigoted conservative Attorney General against a Democrat with no previous experience as an elected official and an endless rolodex of IOUs to call in. I’m sad that my choice as a queer person boiled down to whether to vote for a candidate that would rather overturn&nbsp;<em>Lawrence v. Texas&nbsp;</em>or an eventually-successful corporate Democrat with no grounding in public service. With such distinct lack of vision to choose from, it almost seems as though one should have ironically followed Brand’s advice and&nbsp;<em>not&nbsp;</em>vote.</p>
+<p>This is not to undervalue the importance of electoral politics. Without federal legislation, programs as essential to the American social safety net as Social Security, Medicaid, Medicare, and SNAP would be impossible. However, focusing on electoral targets is a narrow lens through which to treat issues like community revitalization, green jobs campaigns, and food security. These issues are complex; they are, by their nature, multidimensional questions that require coalition-based solutions with stakeholders from advocacy groups, direct service organizations, and elected officials to make meaningful progress.</p>
+<p><!-- more -->The conversation should therefore shift to an analysis of whom we are leaving out of the discussion on movement-building. Let’s examine several community organizing wins from these past few weeks that weren’t covered in the mainstream media, amplified by elected officials or catalyzed by major national non-profits.</p>
+<ol><li>Undocumented youth in California successfully pressured former Secretary of Homeland Security and current University of California President Janet Napolitano&nbsp;<a href="http://www.dailycal.org/2013/10/30/napolitano-announces-new-initiative-undocumented-students-uc/" target="_blank">to invest $5 million in financial assistance for undocumented students.</a>&nbsp; Not only did these student activists succeed in securing much-needed financial support for their communities, they also compelled Napolitano to reverse her own immigration politics. The collective voice of these young people held an official from the administration with the highest number of deportations accountable to the needs of the communities she had previously helped marginalize.</li>
+<li><a href="http://america.aljazeera.com/watch/shows/the-stream/the-stream-officialblog/2013/11/1/chicago-studentsgozombietoprotestpublicschoolclosures.html" target="_blank">Youth in the Chicago Student Union launched a creative and strategic protest&nbsp;</a>&nbsp;during Halloween, dressing as zombies suffering the ‘death of public education.’ This youth-led action came after months of mobilizations of teachers, staff, students, and community members around Mayor Emmanuel’s attacks on the Chicago Teachers Union.</li>
+<li>Students at George Washington University – including members of the Roosevelt Institute | Campus Network chapter at that school – <a href="http://gwnotforprofit.weebly.com/" target="_blank">are mobilizing around revelations that their admissions department had been secretly screening students based on their ability to pay.</a>&nbsp;Despite marketing itself as a ‘need-blind’ institution, apparently GWU has used family wealth as a deciding factor in undergraduate admissions.</li>
+</ol><p>These struggles are not isolated, disconnected media headlines. Far from it. Instead, they represent the power of collective voices rising up to make demands on an establishment that has either attempted to quell their momentum, disenfranchise them, or otherwise push them to the margins of public discourse. They represent the power of&nbsp;<em>community organizing&nbsp;</em>to better our communities and create meaningful change at the grassroots level.</p>
+<p>We speak often of the democratic experiment of the United States – of the on-going process of ‘making’ a nation. Yet our attention span for truly transformational struggles is so often limited to flashpoints in undoubtedly richer, more nuanced movement histories. As I embark on a capstone project within the Roosevelt Institute | Campus Network to investigate best practices among fellow youth organizers, I’m taken by the importance of narratives that speak to the experience of those who devote their lives to movement work.</p>
+<p>This week is already devolving into an endless series of gubernatorial recaps without much substantive analysis of grassroots organizing or movements that influenced the electoral landscape. It’s important that we reject pundits’ reductive understanding of social change as electoral change and affirm a more grounded understanding of the ‘real movers and shakers’ of our political landscape. They aren’t the Terry McAuliffes of the world who come to govern through a litany of party fundraising jobs, favors, and corporate&nbsp;<em>savoir faire</em>; they are the disadvantaged communities forging a better tomorrow through many small wins, and occasional big wins, and united under the banner of one movement towards justice for all people. These movements toward change are much more deserving of our concern, respect, and honor.</p>
+<p><em>Erik Lampmann is the Roosevelt Institute | Campus Network Senior Fellow for Equal Justice. He studies political theory and French at the University of Richmond.&nbsp;</em></p>
