@@ -226,7 +226,7 @@ ol {
   color:#ffffff;
   }
 .background-gray {
-  background:#BFBEBE
+  background:#9E9E9E;
   }
 .youngist-header {
   background:url(https://s3.amazonaws.com/f.cl.ly/items/0i23190d1c3U0B0c3m2i/facebookbanner2.jpg) no-repeat;
@@ -416,7 +416,6 @@ ol {
 .donate-p {
   font-size: 17px;
   color:#ffffff;
-  background:#BFBEBE;
   }
 
 /* Ads */
@@ -986,7 +985,6 @@ table {
 
 .about-header {
   color:#ffffff; 
-  background:#BFBEBE;
   padding-top:0;
   }
  .about-category {
