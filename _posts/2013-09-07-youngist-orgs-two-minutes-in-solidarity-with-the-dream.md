@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-maintitle: "Youngist’s Two Minutes in Solidarity with the Dream Defenders and #OurMarch  - {Young}ist"
-headline: "Youngist’s Two Minutes in Solidarity with the Dream Defenders and #OurMarch "
+maintitle: "{Young}ist’s Two Minutes in Solidarity with the Dream Defenders and #OurMarch  - {Young}ist"
+headline: "{Young}ist’s Two Minutes in Solidarity with the Dream Defenders and #OurMarch "
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
@@ -44,7 +44,7 @@ In case you missed the whole ordeal, here are our top five favorite responses to
 
 **{Young}ist editorial board video transcript:**
 
-My name is Izzy. My name is Muna. My name is Queen. We are the editors of Youngist.org and we stand with the Dream Defenders. This is our two minutes.
+My name is Izzy. My name is Muna. My name is Queen. We are the editors of {Young}ist.org and we stand with the Dream Defenders. This is our two minutes.
 
 We are the youth of this generation, coming of age in a post-9/11 world—housed now in overcrowded apartments, prison cells, university dorms, ICE detention centers and our parents basements—looking uncomfortably at the world we inherit.
 

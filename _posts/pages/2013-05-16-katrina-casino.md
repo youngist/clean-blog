@@ -1,8 +1,8 @@
 ---
 layout: default
 category: page
-maintitle: Katrina Casino
-titlename: Katrina Casino
+maintitle: Katrina Casiño
+titlename: Katrina Casiño
 class: staff
 position: contributor
 excerpt: Grammar to the people
@@ -12,6 +12,6 @@ contributortwitter: kcdanger
 contributorage: 1/19/1989
 coverphoto: undefined
 contributors: 
-- Katrina Casino
+- Katrina Casiño
 ---
 {% include contrib_feed_post_layout.html %}

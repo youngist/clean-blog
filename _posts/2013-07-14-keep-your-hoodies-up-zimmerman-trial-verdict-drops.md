@@ -14,7 +14,7 @@ contributorage: undefined
 categories: 
   - article
 contributors: 
-  - Muna MIre
+  - Muna Mire
 tags: 
   - racism
   - youth

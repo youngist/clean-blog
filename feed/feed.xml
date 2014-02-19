@@ -4,10 +4,10 @@ layout: nil
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{young}ist</title>
+    <title>{Young}ist</title>
     <link>http://youngist.github.io/clean-blog/</link>
     <atom:link href="http://youngist.github.io/clean-blog/feed/feed.xml" rel="self" type="application/rss+xml" />
-    <description>{young}ist</description>
+    <description>{Young}ist</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
@@ -18,7 +18,7 @@ layout: nil
       <title>{{ post.title | xml_escape }}</title>
       <link>http://youngist.github.com/clean-blog{{post.url}}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>info@youngist.org ({young}ist)</author>
+      <author>info@youngist.org ({Young}ist)</author>
       <guid>http://youngist.github.io/clean-blog{{post.url}}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>

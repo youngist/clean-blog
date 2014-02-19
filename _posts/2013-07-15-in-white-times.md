@@ -21,7 +21,7 @@ contributors:
   - Hira Mahmood
   - Muna Mire
   - Isabelle Nastasia
-  - Katrina Casino
+  - Katrina Casiño
   - "Queen Arsem-O'Malley"
 ---
 

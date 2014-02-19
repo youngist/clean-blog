@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/428771285540167680/hWbx6Wly.jpeg"
 contributorshortbio: "Transformation in the here, now, & ever after. Sister to a badass 3 year old. "
 contributortwitter: JennyMarkz
-contributorage: 7/22/1990
+contributorage: 7/22/1992
 contributors: 
   - Jenny Marks
   - Isabelle Nastasia

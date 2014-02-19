@@ -15,7 +15,7 @@ tags:
 - art
 - queer
 videourl: undefined
-contributorphoto: undefined 
+contributorphoto: https://pbs.twimg.com/profile_images/3270541516/8c680f6ab653e070d6e8d1fbb9bd906a.jpeg
 contributorshortbio: "Reporter. Words in print, and prints in pixels. Ancien Rédacteur en Chef du @DelitFrancais. Naat aliens but colonies."
 contributortwitter: nicolasquiazua
 contributorage: 4/26/1991
