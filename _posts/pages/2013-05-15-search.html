@@ -3,9 +3,20 @@ layout: default
 category: page
 ---
 <div class='pad4 col12 page-headline'>Search results</div>
-<section id='search-results' style='display: none;' class='pad4 col12'>
-  <div class='pad4 entries'></div>
-  {% raw %}
+<section id='search-results' style='display: block;' class='pad4 col12'>
+  <div class='pad4 entries'>
+	  <ul class="posts">
+            {% for post in site.posts %}
+            <li id="{{ post.url }}" class="doc">
+              <span class="doc_date">{{ post.date | date_to_string }}</span>
+              &raquo; 
+              <a href="{{ site.baseurl }}{{ post.url }}" class="doc_title">{{ post.title }}</a>
+              <span class="hidden doc_content">{{ post.content }}</span>
+            </li>
+            {% endfor %}
+      </ul>
+</div>
+  <!-- {% raw %}
   <script id='search-results-template' type='text/mustache'>
     {{#entries}}
       <article>
@@ -16,8 +27,9 @@ category: page
       </article>
     {{/entries}}
   </script>
-  {% endraw %}
+  {% endraw %} -->
 </section>
+<!-- <script src="{{site.baseurl}}/js/search.min.js" type="text/javascript" charset="utf-8"></script>
 <script type='text/javascript'>
   $(function() {
     $('#search-query').lunrSearch({
@@ -27,4 +39,4 @@ category: page
       template: '#search-results-template'  // jQuery selector for the Mustache.js template
     });
   });
-</script>
+</script> -->

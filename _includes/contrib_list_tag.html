@@ -9,7 +9,6 @@
 {% assign queen = 'false' %}
 {% endif %}
 {% for post in site.posts %}
-	<!-- DOESN'T CLEAR APOSTROPHES -->
 {% assign titlenameclear = post.titlename | replace: "'", '-' %}
 {% if post.titlename == contributor %}
 <a href='{{site.baseurl}}/{{ contributorclear | downcase | replace:' ','-' }}'>{{contributor}}</a>

@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: https://31.media.tumblr.com/75679efcd0307bc1f882b659126ffc8e/tumblr_inline_mzczq6jFWE1rkj9dw.jpg
 featuredphotoalttext: "Photo of the exterior of a prison building"
 videourl: undefined
-contributorphoto: http://empathyeducates.org/wp-content/uploads/2013/09/SandraKhalifa-My2Mnts-540x272.png
+contributorphoto: http://seafoamgreenblog.files.wordpress.com/2012/05/536028_10150701440332016_559997015_9769390_1439996427_n.jpg
 contributorshortbio: "communications director of the Dream Defenders"
 contributortwitter: snkhalifa
 contributorage: undefined

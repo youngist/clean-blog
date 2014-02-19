@@ -54,7 +54,7 @@ module Jekyll
       end
 
       # Keep the search.json file from being cleaned by Jekyll
-      site.static_files << Jekyll::SearchIndexFile.new(site, site.dest, "/clean-blog/", filename)
+      site.static_files << Jekyll::SearchIndexFile.new(site, site.dest, "/", filename)
 
       puts ''
     end

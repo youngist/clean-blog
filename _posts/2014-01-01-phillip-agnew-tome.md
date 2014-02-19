@@ -12,7 +12,7 @@ contributortwitter: PhilofDreams_
 contributorbio: Executive director of the Dream Defenders.
 contributors: Phillip Agnew
 contributorage: undefined
-contributorphoto: http://i.huffpost.com/gen/1327312/thumbs/o-PHILLIP-AGNEW-facebook.jpg
+contributorphoto: http://media.vcstar.com/media/img/photos/2013/07/19/31d1041d40dc494b9af2acf32ffbdf0f-ecc7b5fefe044833ac428d39312994a4-0_t607.jpg
 tags:
 - dream-defenders
 - poetry
