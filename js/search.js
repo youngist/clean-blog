@@ -16,28 +16,41 @@ $(document).ready(function () {
 createIndex();
 loadData();
 
-// Bind search element on pressing go #search-button
+$(function() {
+  $("#search-button").click(function(e) {
+	  var query = $('#search').val();
+	  e.preventDefault();
+      displayResults(getResults(query));
+     });
+  $(search_elem).keypress(function(e) {
+    var query = $('#search').val();
+    if(e.which == 13) {
+      e.preventDefault();
+      displayResults(getResults(query));
+    }
+  });
+})
 
+// $('form').submit(function(event) {
+// 	var query = $('#search').val();
+// 	console.log("what is the query?");
+// 	console.log(query);
+// 	// if (query.length < 2) {
+// 	// 	return;
+// 	// }
+// 	// else {
+// 	displayResults(getResults(query));
+// 	console.log(query);
+// 		// $('#clear_search').show();
+// 	// }
+// 
+// });
 
-$(search_elem).on('keyup', function() {
-	var query = $(this).val();
-	console.log("what is the query?");
-	console.log(query);
-	if (query.length < 2) {
-		return;
-	}
-	else {
-		displayResults(getResults(query));
-		$('#clear_search').show();
-	}
-
-});
-
-$('#clear_search').click(function(e) {
-	displayResults(posts);
-	$(search_elem).val('');
-	$(this).hide();
-});
+// $('#clear_search').click(function(e) {
+// 	displayResults(posts);
+// 	$(search_elem).val('');
+// 	$(this).hide();
+// });
 
 function displayResults(docs) {
 	var li_s = [];

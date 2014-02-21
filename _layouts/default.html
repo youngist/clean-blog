@@ -5,6 +5,7 @@
 <meta charset='utf-8' />
 <title>{{page.maintitle}}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel='shortcut icon' type='image/x-icon' href='{{base}}/favicon.ico' />
 <link type="text/css" rel="stylesheet" href='{{base}}/css/carousel.css'>
 <link type="text/css" rel="stylesheet" href='{{base}}/css/bootstrap.css'> <!-- careful what gets changed to bootstrap -->
 <link rel="canonical" href={{base.url}}{{page.url}}>
@@ -106,9 +107,9 @@ top: 100px;}
             <li class=''><a class='pad0' href='http://www.youngist.org/' target='_blank'><img src='{{base}}/images/icon-social-tumblr.svg' alt='tumblr logo' /></a></li>
         </ul>
         <div>
-          <form action="{{site.baseurl}}/search" class='col2' method="get" >
-            <input type="text" class='col8' id="search" name="q" placeholder="Search" autocomplete="off" style='margin-top: 11px;
-margin-left: 9px;'><button id='search-button' class="col3 btn" style='margin-top: 10px;margin-left: 6px;'type="button">GO</button>
+          <form action="{{base}}/search?" onsubmit="alert('submit');" class='col2' method="get" >
+            <input id="search" type="search" class='col8' name="q" placeholder="Search" autocomplete="off" style='margin-top: 11px;
+margin-left: 9px;'><input type='submit' id='search-button'> <!-- <button id='search-button' class="col3 btn" style='margin-top: 10px;margin-left: 6px;'type="button">GO</button> -->
           </form>
         </div>
         <ul class='menu col5 nodec'>

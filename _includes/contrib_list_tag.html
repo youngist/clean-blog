@@ -2,6 +2,9 @@
 {% for contributor in post.contributors %}
 {% assign contributorclear = contributor | replace: "'", '-' %}
 {% assign contributorclear = contributorclear | replace: ".", '' %}
+{% if contributor == "Katrina Casiño" %}
+{% assign contributorclear = "Katrina Casino" %}
+{% endif %}
 {% assign links = 'false' %}
 {% if contributor == "Queen Arsem-O'Malley" %}
 {% assign queen = 'true' %}

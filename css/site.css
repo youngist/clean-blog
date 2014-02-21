@@ -809,7 +809,7 @@ textarea,
 input[type=text] {
   display:inline-block;
   height:30px;
-  width:95%;
+/*  width:95%;*/
   max-width:400px;
   margin-bottom:10px;
   font-size:13px;
