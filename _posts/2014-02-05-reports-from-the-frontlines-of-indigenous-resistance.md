@@ -2,7 +2,7 @@
 published: true
 layout: post
 maintitle: "42 Stories of Frontline Indigenous Resistance You May Have Missed - {Young}ist"
-headline: "42 Stories of Frontline Indigenous Resistance You May Have Missed"
+headline: 42 Stories of Frontline Indigenous Resistance You May Have Missed
 tagline: undefined
 featuredphoto: "https://farm6.staticflickr.com/5535/12333137854_3f1a98d217.jpg"
 featuredphotoalttext: Members of Tahltan Nation
@@ -16,12 +16,12 @@ contributors:
   - Reclaim Turtle Island
 tags: 
   - indigenous
-  - environmental-rights
+  - "environmental-rights"
 categories: 
   - featured
 ---
 
-All across Turtle Island and around the world Indigenous peoples are taking direct action to protect their lands by any means necessary. Together we are resisting colonialism by defeating corporate Imperialism, preventing resource extraction, asserting our sovereignty, and fighting White supremacy and legacies of racism. So much has happened and Indigenous peoples are rising up!
+All across **Turtle Island** and around the world Indigenous peoples are taking direct action to protect their lands by any means necessary. Together we are resisting colonialism by defeating corporate Imperialism, preventing resource extraction, asserting our sovereignty, and fighting White supremacy and legacies of racism. So much has happened and Indigenous peoples are rising up!
 
 Below is a brief synopsis of Land Defense and Sovereigntist struggles across Turtle Island that burned bright this 2013. It is in no particular order and by no means complete. From disrupting tar sands megaloads and pipelines infrastructure, to mining blockades, logging blockades, kicking out Nazis, rescuing our kidnapped children, continued Idle No More demonstrations and reclaiming territories, our spirits of survival and responsibility are so strong.
 
