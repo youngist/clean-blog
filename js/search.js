@@ -16,6 +16,11 @@ $(document).ready(function () {
 createIndex();
 loadData();
 
+document.getElementById('formsearch').onsubmit = function() {
+        window.location = 'http://107.170.53.200/search' + document.getElementById('search').value;
+        return false;
+    }
+
 $(function() {
   $("#search-button").click(function(e) {
 	  var query = $('#search').val();
