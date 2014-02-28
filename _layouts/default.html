@@ -107,12 +107,11 @@ top: 100px;}
             <li class=''><a class='pad0' href='http://www.youngist.org/' target='_blank'><img src='{{base}}/images/icon-social-tumblr.svg' alt='tumblr logo' /></a></li>
         </ul>
         <div>
-          <form action="{{base}}/search?" onsubmit="alert('submit');" class='col2' method="get" >
-            <input id="search" type="search" class='col8' name="q" placeholder="Search" autocomplete="off" style='margin-top: 11px;
-margin-left: 9px;'><input type='submit' id='search-button'> <!-- <button id='search-button' class="col3 btn" style='margin-top: 10px;margin-left: 6px;'type="button">GO</button> -->
+          <form action="{{base}}/search" class='col3' method="get" style='margin-top: 12px;' >
+            <input id="search" type="text" class='col8' name="q" placeholder="Search" autocomplete="off" onsubmit='' ><input type='submit' id='search-button' class='margin-left: 1px; width: 32%; padding:3px;'> <!-- <button id='search-button' class="col3 btn" style='margin-top: 10px;margin-left: 6px;'type="button">GO</button> -->
           </form>
         </div>
-        <ul class='menu col5 nodec'>
+        <ul class='menu col4 nodec'>
             <li class='center nav-action'><a {% if page.class == "donate" %}class="active"{% endif %} href='{{base}}/donate'>DONATE</a></li>
             <li class='center nav-action'><a {% if page.class == "about" %}class="active"{% endif %} href='{{base}}/about'>ABOUT</a></li>
             <li class='center nav-action'><a {% if page.class == "pitch" %}class="active"{% endif %} href='{{base}}/pitch'>PITCH</a></li>
