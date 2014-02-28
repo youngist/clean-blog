@@ -2,7 +2,7 @@ serve: true
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-baseurl: 
+baseurl:
 production_url : http://username.github.com/clean-blog
 permalink: :title
 name: "{Young}ist"

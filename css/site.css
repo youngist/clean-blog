@@ -171,6 +171,13 @@ ol {
   text-align: right;
   }
 
+.doc {
+	display:none;
+  }
+
+.entries {
+  font-size: 20px;
+  }
 /* Content Section */
 
 /* General Utilities and Styles */
@@ -341,14 +348,14 @@ ol {
   }
 
 .prevslide {
-  background:url(/clean-blog/images/arrow-l.png) no-repeat;
+  background:url(/images/arrow-l.png) no-repeat;
   position: absolute;
   top: 340px;
   left:30px;
   }
 
 .nextslide {
-  background:url(/clean-blog/images/arrow-r.png) no-repeat;
+  background:url(/images/arrow-r.png) no-repeat;
   position: absolute;
   top: 340px;
   right:0;

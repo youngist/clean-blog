@@ -16,19 +16,19 @@ $(document).ready(function () {
 createIndex();
 loadData();
 
-document.getElementById('formsearch').onsubmit = function() {
-        window.location = 'http://107.170.53.200/search' + document.getElementById('search').value;
-        return false;
-    }
+
+//	window.location='/search/';
 
 $(function() {
   $("#search-button").click(function(e) {
 	  var query = $('#search').val();
+	  console.log("I clicked the search button");
 	  e.preventDefault();
       displayResults(getResults(query));
      });
   $(search_elem).keypress(function(e) {
     var query = $('#search').val();
+	console.log("I pressed a key");
     if(e.which == 13) {
       e.preventDefault();
       displayResults(getResults(query));
@@ -63,6 +63,7 @@ function displayResults(docs) {
 		li_s.push(docTemplate(doc));
 	});
 	$('.posts').empty().append(li_s);
+	$('.doc').css("display", "block");
 }
 
 function getResults(query) {
