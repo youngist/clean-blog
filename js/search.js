@@ -1,5 +1,6 @@
 
 var index;
+var query;
 var posts = [];
 var search_elem = '#search';
 
@@ -17,21 +18,29 @@ createIndex();
 loadData();
 
 
-//	window.location='/search/';
+//http://api.jquery.com/change/ call change then trigger
+//window.location='/search/';
+//window.onload = 
 
 $(function() {
   $("#search-button").click(function(e) {
-	  var query = $('#search').val();
+	  query = $('#search').val();
 	  console.log("I clicked the search button");
 	  e.preventDefault();
+	  window.location='/search/';
+	  $( window ).load(function() {
       displayResults(getResults(query));
+	  });
      });
   $(search_elem).keypress(function(e) {
     var query = $('#search').val();
 	console.log("I pressed a key");
     if(e.which == 13) {
       e.preventDefault();
+	  window.location='/search/';
+	  $( window ).load(function() {
       displayResults(getResults(query));
+	  });
     }
   });
 })
