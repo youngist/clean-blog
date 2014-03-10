@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "What’s the Matter With California? Student Dispatches From Santa Cruz to the Border - {Young}ist"
 headline: "What’s the Matter With California? Student Dispatches From Santa Cruz to the Border"
