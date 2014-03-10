@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "We’re Tired of the Kids Table - {Young}ist"
 headline: We’re Tired of the Kids Table
