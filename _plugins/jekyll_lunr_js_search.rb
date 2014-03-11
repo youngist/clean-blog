@@ -52,7 +52,6 @@ module Jekyll
       end
       
       json = JSON.generate({:entries => index})
-      puts json
       
       # Create destination directory if it doesn't exist yet. Otherwise, we cannot write our file there.
       Dir::mkdir(site.dest) unless File.directory?(site.dest)
