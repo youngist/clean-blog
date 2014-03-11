@@ -161,6 +161,7 @@ ul {
 ol {
   list-style: decimal;
   list-style-position: inside;
+  margin:0 0 10px;
   }
   
 .i {
