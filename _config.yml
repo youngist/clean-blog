@@ -3,6 +3,9 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 baseurl:
+lunr_search:
+  stopwords: "stopwords.txt"
+  min_length: 3
 production_url : http://username.github.com/clean-blog
 permalink: :title
 name: "{Young}ist"
@@ -22,7 +25,7 @@ prose:
         field:
           element: "multiselect"
           label: "Post Category"
-          placeholder: "Create or choose"
+          placeholder: "Create"
           alterable: true
       - name: "maintitle"
         field:
@@ -70,7 +73,7 @@ prose:
         field:
           element: "multiselect"
           label: "Contributors"
-          placeholder: "Create or choose"
+          placeholder: "Create"
           alterable: true
       - name: "contributorphoto"
         field:
