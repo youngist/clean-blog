@@ -1017,7 +1017,11 @@ table {
   list-style-type:none;
   }
   
- #galleria{height:500px; margin-bottom:20px;}
+ #galleria{
+  width:770px;
+  height:500px;
+  margin-bottom:20px;
+ }
 
 /* Additional Utility Classes
 ------------------------------------------------------- */
