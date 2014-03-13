@@ -8,12 +8,20 @@
 <link rel='shortcut icon' type='image/x-icon' href='{{base}}/favicon.ico' />
 <link type="text/css" rel="stylesheet" href='{{base}}/css/carousel.css'>
 <link type="text/css" rel="stylesheet" href='{{base}}/css/bootstrap.css'> <!-- careful what gets changed to bootstrap -->
+<link type="text/css" rel="stylesheet" href='{{base}}/css/galleria.classic.css'>
 <link rel="canonical" href={{base.url}}{{page.url}}>
 <link type="text/css" rel="stylesheet" href='{{base}}/css/site.css'>
 <link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
 <script src="{{base}}/js/underscore.js"></script>
+<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<!-- load Galleria -->
+<script src="{{base}}/js/galleria-1.3.5.js"></script>
+<!-- load flickr plugin -->
+<script src="{{base}}/js/galleria.flickr.min.js"></script>
+<script src="{{base}}/js/galleria.classic.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -120,7 +128,6 @@ top: 100px;}
         </ul>        </nav>
     </div>
 </div>
-<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
 <script type='text/javascript'>
 function updatemodal(){
     el = document.getElementById("mc_embed_signup");
