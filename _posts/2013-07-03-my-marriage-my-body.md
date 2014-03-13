@@ -20,12 +20,17 @@ contributorshortbio: "Reporter. Words in print, and prints in pixels. Ancien Ré
 contributortwitter: nicolasquiazua
 contributorage: 4/26/1991
 ---
-<div id="galleria"></div>
+<div id="galleria" class='container'></div>
 <script>
 
 // Load the classic theme
 Galleria.loadTheme('{{base}}/js/galleria.classic.min.js');
 
+Galleria.configure({
+    transition: 'fade',
+    responsive: true,
+	height: 0.800
+});
 // Initialize Galleria
 Galleria.run('#galleria', {
  
@@ -33,6 +38,7 @@ Galleria.run('#galleria', {
  flickrOptions: {
  sort: 'date-posted-asc'
  }
+
 });
 </script>
 
