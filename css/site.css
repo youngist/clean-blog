@@ -1016,6 +1016,8 @@ table {
 .nodec {
   list-style-type:none;
   }
+  
+ #galleria{height:500px; margin-bottom:20px;}
 
 /* Additional Utility Classes
 ------------------------------------------------------- */

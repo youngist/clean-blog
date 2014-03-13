@@ -8,15 +8,13 @@ category: page
     <p class="col6"></p>
 </div>
 <section id='search-results' style='display: block;' class='pad4 col12'>
-<div class='pad4 entries'>
+<div class='pad4 entries container'>
   {% raw %}
   <script id='search-results-template' type='text/mustache'>
     {{#entries}}
-      <article>
-        <h3>
-          {{#date}}<small><time datetime='{{pubdate}}' pubdate>{{displaydate}}</time></small>{{/date}}
-          <a href='http://thewildcity.org{{url}}'>{{title}}</a>
-        </h3>
+      <article class='col12'>
+          {{#date}}<h3 class='col1'><small><time datetime='{{pubdate}}' pubdate>{{displaydate}}</time></small></h3>{{/date}}
+         <h3 class='col11'><a href='http://thewildcity.org{{url}}'>{{title}}</a></h3>
       </article>
     {{/entries}}
   </script>

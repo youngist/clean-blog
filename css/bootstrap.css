@@ -6133,6 +6133,7 @@ body.modal-open,
 /*  width: 60%;
 */  padding-left: 0;
 /*  margin-left: -30%;*/
+  margin: 0;
   text-align: center;
   background: #EE8E3F;
   list-style: none;
