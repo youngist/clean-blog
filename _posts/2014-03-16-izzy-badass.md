@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Headline of piece - {Young}ist"
 headline: Headline of piece
@@ -16,7 +16,7 @@ categories:
 contributors: 
   - "{Young}ist"
 tags: 
-  - badass
+  - "bad-ass"
 ---
 
 <div id='galleria'></div>
