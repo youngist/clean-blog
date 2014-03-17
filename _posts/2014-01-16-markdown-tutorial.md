@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 date: "2014-01-16"
 categories: 
   - article
