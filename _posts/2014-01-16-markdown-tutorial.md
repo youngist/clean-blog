@@ -25,9 +25,10 @@ This is a basic post!
 
 <h3 class='donate-blurb'> Diggin' what you're reading? Then support this young writer by <a href='{{site.baseurl}}/donate'>donating</a> to {Young}ist now!</h3>
 
+![image](../images/tumblrlogo.png)
 <img src='../images/tumblrlogo.png' class='col12' />
 
-#### Strong and Emphasize 
+#### Strong and Emphasize   
 
 **strong** 
 
@@ -82,30 +83,12 @@ Above line ended with 2 spaces.
 
 #### Headers
 
-Setext-style:
-
-This is H1
-==========
-
-This is H2
-----------
-
-atx-style:
-
 # This is H1
 ## This is H2
 ### This is H3
 #### This is H4
 ##### This is H5
 ###### This is H6
-
-#### Footnotes
-
-Footnotes work mostly like reference-style links. A footnote is made of two things: a marker in the text that will become a superscript number; a footnote definition that will be placed in a list of footnotes at the end of the document. A footnote looks like this:
-
-That's some text with a footnote.[^1]
-
-[^1]: And that's the footnote.
 
 
 #### Strikethrough
@@ -134,9 +117,3 @@ First Header | Second Header | Third Header
 Content Cell | Content Cell  | Content Cell
 Content Cell | Content Cell  | Content Cell
 
-Specify alignement for each column by adding colons to separator lines:
-
-First Header | Second Header | Third Header
-:----------- | :-----------: | -----------:
-Left         | Center        | Right
-Left         | Center        | Right
