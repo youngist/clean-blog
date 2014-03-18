@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Students of Color Continue to Target Napolitano, Demand Resignation - {Young}ist"
 categories: article
 photosize: large
