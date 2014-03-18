@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Students of Color Continue to Target Napolitano, Demand Resignation - {Young}ist"
 headline: "Students of Color Continue to Target Napolitano, Demand Resignation"
