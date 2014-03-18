@@ -12,7 +12,7 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - article
+  - featured
 tags: 
   - students of color
   - higher ed
