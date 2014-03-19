@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Stand Your Ground laws found “incompatible” with the “inherent right to life” by United Nations Human Rights Committee - {Young}ist"
 headline: Stand Your Ground laws found “incompatible” with the “inherent right to life” by United Nations Human Rights Committee
