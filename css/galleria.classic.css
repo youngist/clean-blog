@@ -26,7 +26,7 @@
     position: absolute;
     left: 10px;
     right: 10px;
-    z-index: 2;
+    z-index: 1;
 }
 .galleria-carousel .galleria-thumbnails-list {
     margin-left: 30px;
