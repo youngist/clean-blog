@@ -3,7 +3,7 @@ published: true
 layout: post
 maintitle: "Students of Color Continue to Target Napolitano, Demand Resignation - {Young}ist"
 headline: "Students of Color Continue to Target Napolitano, Demand Resignation"
-tagline: tagline of piece
+tagline: undefined
 featuredphoto: "https://31.media.tumblr.com/9d78c9a1f8eaea7475308779565ac083/tumblr_inline_n2kejpjJmk1rkj9dw.png"
 featuredphotoalttext: Students protest at the University of California
 videourl: undefined
