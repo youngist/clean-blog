@@ -9,7 +9,7 @@ featuredphotoalttext: A group of Dream Defenders chant and hold signs
 videourl: undefined
 contributorphoto: "http://empathyeducates.org/wp-content/uploads/2013/09/SandraKhalifa-My2Mnts-540x272.png"
 contributorshortbio: communications director of the Dream Defenders
-contributortwitter: "@snkhalifa"
+contributortwitter: snkhalifa
 contributorage: undefined
 categories: 
   - article
