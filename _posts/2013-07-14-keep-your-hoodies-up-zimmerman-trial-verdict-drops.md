@@ -17,7 +17,7 @@ contributors:
   - Muna Mire
 tags: 
   - race
-  - racial justice
+  - racial-justice
   - youth
 ---
 
