@@ -13,7 +13,7 @@ contributortwitter: undefined
 contributorage: undefined
 tags: 
   - youth
-  - racism
+  - race
   - organizing
   - media
 contributors: 
