@@ -13,8 +13,9 @@ contributorage: 7/24/1991
 categories: 
   - featured
 tags: 
-  - unions
+  - workers
   - labor
+  - higher education
   - students
 contributors: 
   - "Queen Arsem-O'Malley"
