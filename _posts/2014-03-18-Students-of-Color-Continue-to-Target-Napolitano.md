@@ -14,9 +14,10 @@ contributorage: undefined
 categories: 
   - editors
 tags: 
-  - higher education
+  - higher-education
   - organizing
   - students
+  - students-of-color
 contributors: 
   - The Student of Color Solidarity Coalition
 ---
