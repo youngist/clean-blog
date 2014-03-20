@@ -12,9 +12,10 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 tags: 
-  - sexual-assault
+  - sexual-violence
   - organizing
-  - campus
+  - higher-education
+  - students
 contributors:
   - Anna-Lisa Castle
 ---
