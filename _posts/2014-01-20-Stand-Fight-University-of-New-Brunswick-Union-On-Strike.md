@@ -5,9 +5,9 @@ maintitle: "Stand! Fight! University of New Brunswick Union On Strike - {Young}i
 headline: "Stand! Fight! University of New Brunswick Union On Strike"
 tagline: undefined
 featuredphoto: "https://31.media.tumblr.com/9f390e26bc0a2f829122614784a87688/tumblr_inline_mzpqy7pdvN1rkj9dw.jpg"
-featuredphotoalttext: "Photo of a picket line"
-contributorphoto: http://media.tumblr.com/7bbcd27eaf30ea382790b1e9a4ae4dc4/tumblr_inline_mmcri3kjAU1rkj9dw.jpg
-contributorshortbio: "once I was cited on wikipedia"
+featuredphotoalttext: Photo of a picket line
+contributorphoto: "http://media.tumblr.com/7bbcd27eaf30ea382790b1e9a4ae4dc4/tumblr_inline_mmcri3kjAU1rkj9dw.jpg"
+contributorshortbio: once I was cited on wikipedia
 contributortwitter: qaween
 contributorage: 7/24/1991
 categories: 
@@ -18,6 +18,7 @@ tags:
   - students
 contributors: 
   - "Queen Arsem-O'Malley"
+videourl: videourl
 ---
 
 Temperatures hovered just above freezing in New Brunswick last week, and yet a group of people at the Fredericton, Saint John and Moncton campuses of the University of New Brunswick spent days standing outside.
