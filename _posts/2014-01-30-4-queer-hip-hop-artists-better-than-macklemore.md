@@ -14,9 +14,8 @@ categories:
   - sound
 tags: 
   - music
-  - lgbtq
-  - macklemore
-  - hip-hop
+  - queer
+  - pop-culture
 contributors: 
   - "Asam Ahmad"
 ---
