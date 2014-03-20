@@ -10,12 +10,9 @@ categories:
   - action
   - article
 tags: 
-  - girlslikeus 
-  - twoc
+  - trans
   - prisons
   - queer
-  - prison-abolition
-  - CeCe-McDonald
 featuredphoto: "https://31.media.tumblr.com/b364e0a74e4d2ec05010f91a6548627a/tumblr_inline_mzetfhYSb21rkj9dw.jpg"
 featuredphotoalttext: "Photo of CeCe McDonald smiling with a hand on her hip"
 contributorphoto: https://pbs.twimg.com/profile_images/378800000133153438/e968d20aef1c5fa48247b537d8c6ba72.jpeg
