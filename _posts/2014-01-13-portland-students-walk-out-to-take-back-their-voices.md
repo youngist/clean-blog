@@ -12,9 +12,9 @@ contributorshortbio: "Columbia U'16 Freelancer"
 contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1994
 tags: 
-  - student-unions
-  - student-movement
-  - portland
+  - students
+  - movements
+  - teachers
   - labor
 contributors:
   - George Joseph
