@@ -18,6 +18,8 @@ tags:
   - higher ed
   - organizing
   - UC
+contributors: 
+  - The Student of Color Solidarity Coalition
 ---
 
 _“We have been waiting for Napolitano to come… and finally she is here, but she is hiding, she remains in one building and does not leave…where she says she is doing her “listening and learning tour” behind doors with only a certain number of students, but you know this is bullshit because she is hiding and for what? What does she have to hide from us? We must ask ourselves this because if she is hiding she is not hiding alone… the regents are behind her… they are not innocent either… they continue to violate student rights like Napolitano continues to violate human rights because even if she is not the head of homeland security department anymore what she has done continues to impact our lives today and this is something we will not forget no matter how hard Napolitano and the regents try…”_ –S. R.
