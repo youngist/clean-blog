@@ -14,9 +14,8 @@ contributors: Phillip Agnew
 contributorage: undefined
 contributorphoto: http://media.vcstar.com/media/img/photos/2013/07/19/31d1041d40dc494b9af2acf32ffbdf0f-ecc7b5fefe044833ac428d39312994a4-0_t607.jpg
 tags:
-- dream-defenders
-- poetry
-- new-years
+- race
+- art
 ---
 
 For 364 days, at least, I found myself in a constant state of conflict.

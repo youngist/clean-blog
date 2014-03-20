@@ -12,7 +12,6 @@ videourl: undefined
 tags: 
   - queer
   - organizing
-  - history
 contributors: 
   - Ngoc Loan Tran
 contributorphoto: "http://static.squarespace.com/static/527c877ee4b00ec916746401/t/527d82d9e4b0a13e700a2034/%3Fformat%3D500w"

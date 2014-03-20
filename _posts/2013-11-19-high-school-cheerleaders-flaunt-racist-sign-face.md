@@ -16,10 +16,9 @@ categories:
 contributors: 
   - Isabelle Nastasia
 tags: 
-  - native rights
-  - racism
-  - high school
-  - sports
+  - native-rights
+  - race
+  - high-school
 ---
 
 <p><span>In McCalla, Ala., the McAdory High School cheerleading team thought it was a good idea to construct a bust-thru sign (pictured above) that read, in big rainbow lettering: “Hey Indians, get ready to leave in a Trail of Tears Round 2.″</span></p>

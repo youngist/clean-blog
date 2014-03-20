@@ -14,8 +14,8 @@ contributorage: 7/1/1990
 categories: 
   - article
 tags: 
-  - racism
-  - "trayvon-martin"
+  - racial-justice
+  - race
   - youth
 contributors: 
   - Hira Mahmood
