@@ -14,10 +14,9 @@ contributorage: undefined
 categories: 
   - editors
 tags: 
-  - students of color
-  - higher ed
+  - higher education
   - organizing
-  - UC
+  - students
 contributors: 
   - The Student of Color Solidarity Coalition
 ---
