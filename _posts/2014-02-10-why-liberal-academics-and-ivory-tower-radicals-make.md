@@ -14,7 +14,6 @@ contributorage: 2/25/1991
 categories: 
   - featured
 tags: 
-  - academia
   - "higher-education"
 contributors: 
   - Nicole Ouimette
