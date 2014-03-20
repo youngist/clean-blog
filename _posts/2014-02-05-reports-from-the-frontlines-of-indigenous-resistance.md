@@ -15,8 +15,8 @@ contributors:
   - Staff Writers
   - Reclaim Turtle Island
 tags: 
-  - indigenous
-  - "environmental-rights"
+  - native-rights
+  - movements
 categories: 
   - featured
 ---

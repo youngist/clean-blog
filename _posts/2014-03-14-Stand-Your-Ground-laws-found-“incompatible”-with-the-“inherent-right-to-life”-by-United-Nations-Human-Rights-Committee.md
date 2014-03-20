@@ -14,7 +14,7 @@ contributorage: undefined
 categories: 
   - article
 tags: 
-  - stand your ground
+  - stand-your-ground
   - youth
   - race
   - organizing

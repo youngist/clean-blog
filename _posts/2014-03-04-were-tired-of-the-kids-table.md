@@ -15,7 +15,7 @@ categories:
   - editors
 tags: 
   - youth
-  - politics
+  - organizing
 contributors: 
   - Erik Lampmann
 ---
