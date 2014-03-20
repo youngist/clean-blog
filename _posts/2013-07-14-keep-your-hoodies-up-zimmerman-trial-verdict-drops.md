@@ -16,7 +16,8 @@ categories:
 contributors: 
   - Muna Mire
 tags: 
-  - racism
+  - race
+  - racial justice
   - youth
 ---
 
