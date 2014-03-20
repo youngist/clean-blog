@@ -16,10 +16,8 @@ categories:
 contributors: 
   - Molly Stuart
 tags: 
-  - mexico
-  - solidarity
-  - zapatistas
-  - social-movement
+  - students
+  - movements
 ---
 
 Laughter rolls out of the women around me and mixes with the smoke of the wood fire. The thread was all tangled again because I just dropped part of the loom on the dirt floor. The mother of the house, her daughter, and my guardian find it all very funny. My cheeks turn as red as the bag we are weaving. They hand me a tortilla fresh off the fire, perhaps hoping that some naturally grown corn would make me a little more nimble. Soon I feel the mother’s hands on my own, tracing the pathway for the next row of stitches, patient but firm. These hands are constructing autonomy daily. And the **Escuelita** has given us the chance to learn from them.

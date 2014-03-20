@@ -12,10 +12,9 @@ contributorshortbio: "communications director of the Dream Defenders"
 contributortwitter: snkhalifa
 contributorage: undefined
 tags: 
-  - Dream-Defenders
-  - youth-organizing
+  - organizing
   - prisons
-  - sexual-assault
+  - sexual-violence
 contributors:
   - Sandra Khalifa
 ---

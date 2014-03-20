@@ -13,10 +13,9 @@ contributorage: undefined
 categories: 
   - editors
 tags: 
-  - undocumented-youth
-  - undeportable
-  - justin-bieber
-  - deportation
+  - undocuyouth
+  - undocumented
+  - immigration
 contributors: 
   - Luis Moreno
 ---

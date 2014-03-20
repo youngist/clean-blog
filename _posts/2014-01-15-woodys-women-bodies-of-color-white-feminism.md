@@ -16,6 +16,7 @@ contributors:
 tags:
   - feminism
   - race
+  - pop-culture
 categories:
   - article
 ---

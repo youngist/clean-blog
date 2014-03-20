@@ -17,9 +17,8 @@ contributors:
 tags:
   - youth
   - prisons
-  - policing
+  - police
   - racial-justice
-  - Martin-Luther-King
 categories:
   - featured
 ---
