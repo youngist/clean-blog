@@ -117,15 +117,14 @@ top: 100px;}
         </ul>
         <div>
           <form action="{{base}}/search" class='col3' method="get" style='margin-top: 12px;' id='formsearch'>
-            <input id="search" type="search" class='col8' name="q" placeholder="Search" autocomplete="off" ><input type='submit' placeholder='GO' id='search-button' style='background: url({{base}}/images/search.svg) no-repeat;' class='margin-left: 1px; width: 32%; padding:3px;'>
-<!-- <button id='search-button' class="col3 btn" style='margin-top: 10px;margin-left: 6px;'type="button">GO</button> -->
+            <input type="search" class='col8 search-box' name="q" placeholder="Search" autocomplete="off" ><input value='GO' type='submit' class='search-button'>
           </form>
         </div>
         <ul class='menu col4 nodec'>
             <li class='center nav-action'><a {% if page.class == "donate" %}class="active"{% endif %} href='{{base}}/donate'>DONATE</a></li>
             <li class='center nav-action'><a {% if page.class == "about" %}class="active"{% endif %} href='{{base}}/about'>ABOUT</a></li>
             <li class='center nav-action'><a {% if page.class == "pitch" %}class="active"{% endif %} href='{{base}}/pitch'>PITCH</a></li>
-            <li class='center nav-action'><a style='cursor:pointer;' onclick='updatemodal()'>UPDATES</a></li>
+            <li class='center nav-action'><a style='cursor:pointer;' onclick='updatemodal()'>UPDATES</a></li> <!-- When #modal is clicked id mc_embed_signup div id is shown -->
         </ul>        </nav>
     </div>
 </div>

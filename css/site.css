@@ -249,14 +249,13 @@ ol {
 	  color:#EE8E3F;
 	  }
 
-.search-box {
-  width:20%;
-  }
-
-.search {
+ .search {
   padding:15px;
   }
-
+  
+.search-button{
+  background: url(../images/search.svg) no-repeat;
+  }
 .play {
   opacity:0.7;
   }
@@ -857,7 +856,7 @@ textarea {
   max-width:none;
   }
 input[type=submit] {
-  background-color:#00395D;
+  background-color:#474546;
   cursor:pointer;
   color:#ffffff;
   font-weight:bold;
@@ -869,7 +868,7 @@ input[type=submit] {
           box-shadow:2px 2px 4px rgba(0,0,0,0.1);
   }
   input[type=submit]:hover {
-    background-color:#002f4c;
+    background-color:#EE8E3F;
     }
   input[type=submit]:active {
     position:relative;
@@ -1200,15 +1199,19 @@ Details: http://www.positioniseverything.net/easyclearing.html
   #nav-buttons-post {
     display:block;
     }
-/*  .carousel-inner {
-    height:0px;
-    }
-*/
   .item {
     height: 315px;
     }
 
   .post-content {
     padding: 130px 20px 20px 20px;
+    }
+
+  .search-box{
+    width:84%;
+    margin-left:4%;
+    }
+  .search-button{
+	  width:12%;
     }
   

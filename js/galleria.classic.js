@@ -27,14 +27,14 @@ Galleria.addTheme({
         Galleria.requires(1.33, 'This version of Classic theme requires Galleria 1.3.3 or later');
 
         // add some elements
-        this.addElement('info-link','info-close');
-        this.append({
-            'info' : ['info-link','info-close']
-        });
+        // this.addElement('info-link','info-close');
+        // this.append({
+        //     'info' : ['info-link','info-close']
+        // });
 
         // cache some stuff
-        var info = this.$('info-link,info-close,info-text'),
-            touch = Galleria.TOUCH;
+		// info = this.$('info-link,info-close,info-text'),
+        var touch = Galleria.TOUCH;
 
         // show loader & counter with opacity
         this.$('loader,counter').show().css('opacity', 0.4);

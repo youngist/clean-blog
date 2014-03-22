@@ -65,7 +65,7 @@
     width: 50%;
     top: 15px;
     left: 15px;
-/*    z-index: 2;*/
+    z-index: 1;
     position: absolute;
 }
 .galleria-info-text {

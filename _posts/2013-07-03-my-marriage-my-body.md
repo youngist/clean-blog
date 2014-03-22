@@ -31,6 +31,8 @@ Galleria.loadTheme('{{base}}/js/galleria.classic.min.js');
 Galleria.configure({
     transition: 'fade',
     responsive: true,
+	lightbox: true,
+	showInfo: false,
 	height: 0.800
 });
 // Initialize Galleria
