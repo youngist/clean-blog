@@ -20,6 +20,13 @@ layout: nil
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>info@youngist.org ({Young}ist)</author>
       <guid>http://thewildcity.org{{post.url}}</guid>
+      {% if post.featuredphoto != 'undefined' %}
+      <image>
+      <url>{{post.featuredphoto}}</url> // *required! - the URL of the image
+      <title>{{post.featuredphotoalttext}}</title>   // *required! - the image alt attribute
+      <link>http://thewildcity.org</link>         // *required! - the URL of the website
+      </image>
+      {% endif %}
       <description>{{ post.content | xml_escape }}</description>
     </item>
 	{% endif %}
