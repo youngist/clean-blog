@@ -22,12 +22,18 @@ contributorage: undefined
 Young New York based artist and musician Mike Funk’s comic about the story behind the Stonewall Riots. The comic is based on a speech that activist Sylvia Rivera gave in 2001. 
 
 Check out the entire comic strip series here. 
-<div id="galleria"></div>
+
+<div id="galleria" class='container'></div>
 <script>
 
 // Load the classic theme
 Galleria.loadTheme('{{base}}/js/galleria.classic.min.js');
 
+Galleria.configure({
+    transition: 'fade',
+    responsive: true,
+	height: 0.800
+});
 // Initialize Galleria
 Galleria.run('#galleria', {
  
@@ -35,5 +41,6 @@ Galleria.run('#galleria', {
  flickrOptions: {
  sort: 'date-posted-asc'
  }
+
 });
 </script>
