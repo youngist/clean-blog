@@ -5,8 +5,8 @@ layout: nil
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{Young}ist</title>
-    <link>http://youngist.github.io/clean-blog/</link>
-    <atom:link href="http://youngist.github.io/clean-blog/feed/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://thewildcity.org/</link>
+    <atom:link href="http://thewildcity.org/feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>{Young}ist</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
@@ -16,10 +16,10 @@ layout: nil
 	<!-- Check if iri is url now -->
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <link>http://youngist.github.com/clean-blog{{post.url}}</link>
+      <link>http://thewildcity.org{{post.url}}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>info@youngist.org ({Young}ist)</author>
-      <guid>http://youngist.github.io/clean-blog{{post.url}}</guid>
+      <guid>http://thewildcity.org{{post.url}}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
 	{% endif %}
