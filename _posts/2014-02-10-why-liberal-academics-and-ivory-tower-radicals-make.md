@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "https://31.media.tumblr.com/4433fc917515848b5e5093915e69af54/tumblr_inline_n0sqpxYpTC1rkj9dw.jpg"
 featuredphotoalttext: Photo of white researcher sitting between 4 shirtless Black natives.
 videourl: undefined
-contributorphoto: "https://twitter.com/feministpraxis/status/426783907967959041/photo/1"
+contributorphoto: "https://pbs.twimg.com/media/Bew9s_rIQAAiU9H.jpg"
 contributorshortbio: Working Classy revolutionary with a penchant for ruthless criticism
 contributortwitter: feministpraxis
 contributorage: 2/25/1991

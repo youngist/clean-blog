@@ -24,26 +24,26 @@ prose:
       - name: "categories"
         field:
           element: "multiselect"
-          label: "Post Category"
+          label: "article"
           placeholder: "Create"
           alterable: true
       - name: "maintitle"
         field:
           element: "text"
           label: "Title of piece for SEO"
-          value: "Title of piece for SEO"
+          value: "{Young}ist"
           type: "text"
       - name: "headline"
         field:
           element: "text"
           label: "Headline"
-          value: "Headline of piece"
+          value: "undefined"
           type: "text"
       - name: "tagline"
         field:
           element: "text"
           label: "tagline"
-          value: "tagline of piece"
+          value: "undefined"
           type: "text"
       - name: "tags"
         field:
@@ -55,19 +55,19 @@ prose:
         field:
           element: "text"
           label: "Featured photo"
-          value: "Featured photo url"
+          value: "undefined"
           type: "text"
       - name: "featuredphotoalttext"
         field:
           element: "text"
           label: "Featured photo alt text"
-          value: "Featured photo alt text"
+          value: "undefined"
           type: "text"
       - name: "videourl"
         field:
           element: "text"
           label: "videourl"
-          value: "videourl"
+          value: "undefined"
           type: "text"
       - name: "contributors"
         field:
@@ -79,23 +79,23 @@ prose:
         field:
           element: "text"
           label: "Contributor photo"
-          value: "Contributor photo"
+          value: "undefined"
           type: "text"
       - name: "contributorshortbio"
         field:
           element: "text"
           label: "Contributor short bio"
-          value: "Contributor short bio"
+          value: "undefined"
           type: "text"
       - name: "contributortwitter"
         field:
           element: "text"
           label: "Contributor twitter"
-          value: "Contributor twitter"
+          value: "undefined"
           type: "text"
       - name: "contributorage"
         field:
           element: "text"
           label: "Contributor age"
-          value: "Contributor age"
+          value: "undefined"
           type: "text"
