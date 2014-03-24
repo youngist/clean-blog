@@ -676,11 +676,13 @@ footer {
 
 .publishedabove {
   border-top: 1px solid #AFAFAF;
+  font-size:13px;
   }
 
 .publishedbelow {
   border-bottom: 1px solid #AFAFAF;
   margin-bottom: 20px;
+  font-size:13px;
   }
 
 .small-words {
@@ -1018,11 +1020,22 @@ table {
 .nodec {
   list-style-type:none;
   }
-  
+
  #galleria{
   width: 100%;
   margin-bottom:20px;
  }
+
+ .page a{
+   color:#fff;
+   }
+
+ .page a:hover{
+    color:#EE8E3F;
+    background: white;
+    padding: 1px;
+    }
+
 
 /* Additional Utility Classes
 ------------------------------------------------------- */
