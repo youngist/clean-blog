@@ -67,9 +67,9 @@ She wrote:
 
 > Genuinely curious who decided that extended school days would be beneficial to anyone. With the education system in its current state I’m almost positive that extended days would actually have nothing but a detrimental affect on student’s learning. Perhaps if the extra time would be spent allowing students to actually explore their interests and creativity it would be beneficial, but as someone who spent over 120 hours in a district with extended hours last semester I feel confident (and sad) to say that obviously won’t be what the extra time is used for. The extra hour or two a day is spent for, what do you know, MORE TEST PREP. I spent 120 hours watching FIRST GRADE students spend their day focusing solely on math and english/language arts. There is no social studies curriculum and science is a second thought, “Maybe we’ll get to it,” essentially. These poor children walk in the building at 7:30AM and are already asking me if it’s time to go home; school is not somewhere for them to enjoy, it’s somewhere for them to work.
 
-	Christie described the proposal as a “key step to improve student outcomes, and boost our competitiveness.”
+> Christie described the proposal as a “key step to improve student outcomes, and boost our competitiveness.”
 
-	That is the sentence we need to focus on because what he is saying is that this is a step to improve student’s test scores. Not a step to improve student’s critical thinking, or student’s creativity, or student’s desire to learn. TEST SCORES. period.
+> That is the sentence we need to focus on because what he is saying is that this is a step to improve student’s test scores. Not a step to improve student’s critical thinking, or student’s creativity, or student’s desire to learn. TEST SCORES. period.
 
 And the number of critically conscious future educators I have come across does not end there. If you’d like me to connect you to them, I would be more than happy to do so.
 
