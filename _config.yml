@@ -31,7 +31,7 @@ prose:
         field:
           element: "text"
           label: "Title of piece for SEO"
-          value: "{Young}ist"
+          value: "- {Young}ist"
           type: "text"
       - name: "headline"
         field:
