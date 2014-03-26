@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-maintitle: "High School Cheerleaders Flaunt Racist Sign, Face Sanctions: But Who’s Really to Blame?"
-headline: "High School Cheerleaders Flaunt Racist Sign, Face Sanctions: But Who’s Really to Blame? - {Young}ist"
+maintitle: "High School Cheerleaders Flaunt Racist Sign, Face Sanctions: But Who’s Really to Blame? - {Young}ist"
+headline: "High School Cheerleaders Flaunt Racist Sign, Face Sanctions: But Who’s Really to Blame?"
 tagline: undefined
 featuredphoto: "http://media.tumblr.com/a5f6d32378a19df7d195d44114f37805/tumblr_inline_mwi6h4MZ4M1rkj9dw.jpg"
 featuredphotoalttext: "Banner reading \"Hey Indians, get ready to leave in a trail of tears round 2\" on a football field"
