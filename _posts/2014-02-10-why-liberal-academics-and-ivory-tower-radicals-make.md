@@ -12,7 +12,7 @@ contributorshortbio: Working Classy revolutionary with a penchant for ruthless c
 contributortwitter: feministpraxis
 contributorage: 2/25/1991
 categories: 
-  - featured
+  - article
 tags: 
   - "higher-education"
 contributors: 
