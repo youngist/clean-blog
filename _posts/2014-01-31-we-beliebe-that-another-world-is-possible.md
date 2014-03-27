@@ -20,7 +20,7 @@ tags:
   - queer
   - undocuyouth
 categories: 
-  - featured
+  - editors
 ---
 
 <p><span>Teen pop singer </span><a href="http://www.leegly.com/wp-content/uploads/2014/01/justin-bieber-the-key-perfume-650-430.jpg" target="_blank"><span>Justin Bieber</span></a><span> was arrested last week in Florida on charges of drunk driving and resisting arrest. Because he is living in the U.S. on an </span><a href="http://www.uscis.gov/working-united-states/temporary-workers/o-1-individuals-extraordinary-ability-or-achievement/o-1-visa-individuals-extraordinary-ability-or-achievement" target="_blank"><span>O-1B Work Visa</span></a><span>, many people reacted by demanding that he be deported. Given the American peoples’ affinity for organizing around inconsequential causes, it is no surprise that the “</span><a href="http://www.washingtontimes.com/news/2014/jan/29/deport-bieber-petition-succeeds-earns-votes-demand/" target="_blank"><span>Deport Bieber</span></a><span>” White House petition hit 100K signatures this week. </span></p>
