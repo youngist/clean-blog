@@ -44,3 +44,9 @@ Galleria.run('#galleria', {
 
 });
 </script>
+
+<p class="pad2"></p>
+<p class="pad2"></p>
+<p class="pad2"></p>
+<p class="pad2"></p>
+<h3 class='donate-blurb'> Diggin' what you're reading? Then support this young writer by <a href='{{site.baseurl}}/donate'>donating</a> to {Young}ist now!</h3>
