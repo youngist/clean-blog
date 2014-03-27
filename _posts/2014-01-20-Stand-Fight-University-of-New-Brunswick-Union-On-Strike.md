@@ -11,7 +11,7 @@ contributorshortbio: once I was cited on wikipedia
 contributortwitter: qaween
 contributorage: 7/24/1991
 categories: 
-  - featured
+  - article
 tags: 
   - workers
   - labor
