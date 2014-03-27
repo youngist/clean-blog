@@ -18,7 +18,7 @@ tags:
   - native-rights
   - movements
 categories: 
-  - featured
+  - article
 ---
 
 All across **Turtle Island** and around the world Indigenous peoples are taking direct action to protect their lands by any means necessary. Together we are resisting colonialism by defeating corporate Imperialism, preventing resource extraction, asserting our sovereignty, and fighting White supremacy and legacies of racism. So much has happened and Indigenous peoples are rising up!
