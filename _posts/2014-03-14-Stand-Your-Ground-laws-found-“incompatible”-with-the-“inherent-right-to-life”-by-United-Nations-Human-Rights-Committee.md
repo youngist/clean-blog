@@ -12,7 +12,7 @@ contributorshortbio: communications director of the Dream Defenders
 contributortwitter: snkhalifa
 contributorage: undefined
 categories: 
-  - article
+  - featured
 tags: 
   - stand-your-ground
   - youth
