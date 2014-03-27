@@ -20,7 +20,7 @@ tags:
   - police
   - racial-justice
 categories:
-  - featured
+  - article
 ---
 
 <blockquote>"Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly."	
