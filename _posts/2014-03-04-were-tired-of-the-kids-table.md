@@ -12,7 +12,7 @@ contributorshortbio: "Outside of my activism and academic scholarship, Erik enjo
 contributortwitter: eriklampmann
 contributorage: 4/21/1991
 categories: 
-  - editors
+  - featured
 tags: 
   - youth
   - organizing
