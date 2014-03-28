@@ -11,7 +11,8 @@ class: home
     <div class='item active'>
       <div class='pad2 container'>
         <div class='margin1 col4 carousel-caption tag'>
-            <h1 class='capitalize article'><a href='{{site.baseurl}}{{post.url}}'>{{post.headline }}</a></h1>
+            <h1 class='capitalize article' style="
+    font-size: 27px;"><a href='{{site.baseurl}}{{post.url}}'>{{post.headline }}</a></h1>
 {% include contrib_list_tag.html %}             
 <p>{{ post.content | markdownify | strip_html |  truncatewords:40}}</p>
 			<div class='col6 media tag container'>
