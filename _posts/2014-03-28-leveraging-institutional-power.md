@@ -19,7 +19,7 @@ contributors:
   - Kate Aronoff
   - "Stephen O'Hanlon"
 categories: 
-  - editors
+  - article
 ---
 
 As we look back on the last 150 years of Swarthmore, we might ask: what will Swarthmore look like in 150 years? At its sesquicentennial, Swarthmore can claim a long history of envisioning a better world. Founder Lucretia Mott envisioned a world without slavery. Alice Paul envisioned a world where women could vote. In working with the Student Nonviolent Coordinating Committee, Penny Patch and Judy Richardson envisioned a world free of Jim Crow. In facing uncertain times, we can challenge ourselves to imagine a world not only where vital campus programs are well-funded and education is accessible, but where everyone has access to clean water; where a job and a love for the environment are not mutually exclusive; where nutritious, locally-sourced food is affordable and widely available; where our energy grows out of resilient communities. As a privileged institution, we have a responsibility to be a leader in imagining not only a Swarthmore beyond fossil fuels, but also a just and sustainable world.
