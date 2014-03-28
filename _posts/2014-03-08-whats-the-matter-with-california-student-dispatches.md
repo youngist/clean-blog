@@ -4,6 +4,7 @@ layout: post
 maintitle: "What’s the Matter With California? Student Dispatches From Santa Cruz to the Border - {Young}ist"
 headline: "What’s the Matter With California? Student Dispatches From Santa Cruz to the Border"
 tagline: undefined
+categories: article
 featuredphoto: "https://31.media.tumblr.com/63034297134594279966b36ef99ffbea/tumblr_inline_n24spzOK4L1rkj9dw.jpg"
 featuredphotoalttext: "Students march to the SDSU president’s office. (Credit: Nadir Bouhmouch)"
 videourl: undefined
