@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: featured
 maintitle: "A Metadata Test - {Young}ist"
 headline: A Metadata Test
