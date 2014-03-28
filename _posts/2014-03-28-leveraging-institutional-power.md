@@ -4,8 +4,8 @@ layout: post
 maintitle: "Leveraging institutional power- {Young}ist"
 headline: Leveraging institutional power
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://ecowatch.com/wp-content/uploads/2013/01/divest.jpg"
+featuredphotoalttext: "Members of Swarthmore Mountain Justice gathered outside of an administrative building. Photo by Sachie Hopkins-Hayakawa."
 videourl: undefined
 contributorphoto: "https://scontent-a-iad.xx.fbcdn.net/hphotos-ash3/t1.0-9/553158_10200756563619851_1919643485_n.jpg"
 contributorshortbio: undefined
