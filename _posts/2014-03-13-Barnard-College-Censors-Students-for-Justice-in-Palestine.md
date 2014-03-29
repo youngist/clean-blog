@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "Columbia U'16 Freelancer"
 contributortwitter: GeorgeJoseph94
-contributorage: "1994-06-01"
+contributorage: "1995-06-01"
 categories: 
   - featured
 tags: 
