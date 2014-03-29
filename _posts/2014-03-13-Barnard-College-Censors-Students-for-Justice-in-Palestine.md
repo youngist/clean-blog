@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Barnard College Censors Students for Justice in Palestine - {Young}ist"
 headline: Barnard College Censors Students for Justice in Palestine
