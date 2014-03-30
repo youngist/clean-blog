@@ -14,7 +14,7 @@ tags:
   - higher-education
   - organizing
   - students
-featuredphoto: https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg
+featuredphoto: https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg
 featuredphotoalttext: "Illustration of a person with 'CASE 8' written across their mouth and a panel of people with their hands over their eyes"
 contributorphoto: undefined
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
