@@ -16,7 +16,7 @@ tags:
   - students
 featuredphoto: https://31.media.tumblr.com/910b9df14c0d7a783be4c223a2ac600f/tumblr_inline_mygbtqgS4r1rkj9dw.jpg
 featuredphotoalttext: "Illustration of a person with 'CASE 8' written across their mouth and a panel of people with their hands over their eyes"
-contributorphoto: undefined
+contributorphoto: https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
 contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1994
@@ -42,4 +42,3 @@ Judging by the conduct of Columbia thus far, it is obvious that the administrati
 
 When universities hide the true extent to which sexual violence afflicts campus, they isolate the voices of those that have survived such attacks and undermine our ability as a community to recognize the severity of the situation. This refusal reinforces our narrow and racialized perception of rape, in the process adding to our disgraceful inability to resolutely condemn rape regardless of the perpetrator. It is the responsibility of the university to broaden our vision and make us more sensitive to the chilling reality that rape, and the culture that perpetuates it, is a significant part of campus life. Releasing the numbers is the first step in this process, but if our administrators continue to remain complicit, covering up the true extent of campus rape, students must go it alone, shaming them every step of the way. As one survivor declared, “Whether they release the numbers or not, its going to be because of student initiative, not going because of people on some committee. If we make enough noise around campus and in the media, they will be forced to change.”
 
-Follow George on Twitter at [@_George_Joseph_](https://twitter.com/_George_Joseph_) !
