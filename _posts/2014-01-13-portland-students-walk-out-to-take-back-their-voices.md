@@ -4,7 +4,7 @@ layout: post
 maintitle: "Portland Students Walk Out to Take Back Their Voices - {Young}ist"
 headline: "Portland Students Walk Out to Take Back Their Voices"
 tagline: "In lieu of potential strike, students in the city of Portland stand up for their teachers and reclaim the education reform narrative in the process."
-featuredphoto: http://www.opb.org/images/upload/c_limit,h_730,q_90,w_940/dzjrjylj2t1m4jg05uye.jpg
+featuredphoto: https://31.media.tumblr.com/d07c8b4503ca515f4746fbcb5363330a/tumblr_inline_mzcufdNCF51rkj9dw.jpg
 featuredphotoalttext: "Photo of a young woman in front of a crowd of students holding banners and signs in support of better schools and in solidarity with teachers"
 videourl: undefined
 contributorphoto: https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg
