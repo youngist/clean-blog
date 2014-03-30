@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "https://31.media.tumblr.com/7b2bf5ae5e7b88458636b5e5b71972ca/tumblr_inline_n2ydn0UzTo1rkj9dw.png"
 featuredphotoalttext: A crowd gathers with signs
 videourl: undefined
-contributorphoto: "https://www.facebook.com/photo.php?fbid=10203580631701269&set=a.2673420239622.148043.1379654293&type=1&theater"
+contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration"
 contributortwitter: GeorgeJoseph94
 contributorage: "1994-06-01"
