@@ -8,7 +8,7 @@ featuredphoto: https://31.media.tumblr.com/d07c8b4503ca515f4746fbcb5363330a/tumb
 featuredphotoalttext: "Photo of a young woman in front of a crowd of students holding banners and signs in support of better schools and in solidarity with teachers"
 videourl: undefined
 contributorphoto: https://pbs.twimg.com/profile_images/421051629790429184/YLFU6Ftz.jpeg
-contributorshortbio: "Columbia U'16 Freelancer"
+contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration"
 contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1994
 tags: 
