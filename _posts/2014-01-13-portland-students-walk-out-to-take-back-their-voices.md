@@ -7,7 +7,7 @@ tagline: "In lieu of potential strike, students in the city of Portland stand up
 featuredphoto: https://31.media.tumblr.com/d07c8b4503ca515f4746fbcb5363330a/tumblr_inline_mzcufdNCF51rkj9dw.jpg
 featuredphotoalttext: "Photo of a young woman in front of a crowd of students holding banners and signs in support of better schools and in solidarity with teachers"
 videourl: undefined
-contributorphoto: https://pbs.twimg.com/profile_images/421051629790429184/YLFU6Ftz.jpeg
+contributorphoto: https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration"
 contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1994
