@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "https://31.media.tumblr.com/2cc0dc7b019663af417de2ea22d0cf68/tumblr_inline_n2fqgyrgtE1rkj9dw.jpg"
 featuredphotoalttext: A group of Dream Defenders chant and hold signs
 videourl: undefined
-contributorphoto: "http://empathyeducates.org/wp-content/uploads/2013/09/SandraKhalifa-My2Mnts-540x272.png"
+contributorphoto: "http://seafoamgreenblog.files.wordpress.com/2012/05/536028_10150701440332016_559997015_9769390_1439996427_n.jpg"
 contributorshortbio: communications director of the Dream Defenders
 contributortwitter: snkhalifa
 contributorage: undefined
