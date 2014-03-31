@@ -4,7 +4,7 @@ layout: post
 maintitle: "Why I Will Never Be 'Ready for Hillary' - {Young}ist"
 headline: "Why I Will Never Be 'Ready for Hillary' "
 tagline: undefined
-featuredphoto: "http://poplicks.com/2008_01_01_poplicks_archive.html"
+featuredphoto: "http://poplicks.com/images/black-girl-sees-through-Hillary.jpg"
 featuredphotoalttext: A young Black girl looks skeptically at Hillary Clinton
 videourl: undefined
 contributorphoto: "https://si0.twimg.com/profile_images/2847043645/eecca92afe665898386d86f5ba0902e6.jpeg"
