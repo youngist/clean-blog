@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "http://poplicks.com/images/black-girl-sees-through-Hillary.jpg"
 featuredphotoalttext: A young Black girl looks skeptically at Hillary Clinton
 videourl: undefined
-contributorphoto: "https://si0.twimg.com/profile_images/2847043645/eecca92afe665898386d86f5ba0902e6.jpeg"
+contributorphoto: "https://pbs.twimg.com/profile_images/450413139247366145/opzocHNq.jpeg"
 contributorshortbio: Organizer and writer based in Brooklyn.
 contributortwitter: williamcander
 contributorage: undefined
