@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "https://si0.twimg.com/profile_images/2847043645/eecca92afe665898386d86f5ba0902e6.jpeg"
 contributorshortbio: Organizer and writer based in Brooklyn.
 contributortwitter: williamcander
-contributorage: ""
+contributorage: undefined
 tags: 
   - organizing
   - elections
