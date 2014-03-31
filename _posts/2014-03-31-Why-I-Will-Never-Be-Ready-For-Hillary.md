@@ -1,16 +1,23 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Why I Will Never Be 'Ready for Hillary' - {Young}ist"
+headline: "Why I Will Never Be 'Ready for Hillary' "
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://poplicks.com/2008_01_01_poplicks_archive.html"
+featuredphotoalttext: A young Black girl looks skeptically at Hillary Clinton
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "https://si0.twimg.com/profile_images/2847043645/eecca92afe665898386d86f5ba0902e6.jpeg"
+contributorshortbio: "Southern organizer based in Brooklyn, NY"
+contributortwitter: williamcander
+contributorage: "1989-07-26"
+tags: 
+  - organizing
+  - elections
+categories: 
+  - editors
+contributors: 
+  - William C. Anderson
 ---
 
 If you have kept up with the US political cycle, you noticed potential prospects for the next President touted after President Barack Obama’s re-election. Elizabeth Warren, Marco Rubio, and Chris Christie are familiar names for many of us – even if this happened without our consent. Among the political ranks of the Democratic Party, one name has remained present at the forefront of liberal political imaginations – Hillary Clinton. I will not vote for her. I have learned too much about her to do so with good conscience.
