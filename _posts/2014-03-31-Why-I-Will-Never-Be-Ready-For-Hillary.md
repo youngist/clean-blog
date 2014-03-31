@@ -8,9 +8,9 @@ featuredphoto: "http://poplicks.com/images/black-girl-sees-through-Hillary.jpg"
 featuredphotoalttext: A young Black girl looks skeptically at Hillary Clinton
 videourl: undefined
 contributorphoto: "https://si0.twimg.com/profile_images/2847043645/eecca92afe665898386d86f5ba0902e6.jpeg"
-contributorshortbio: "Southern organizer based in Brooklyn, NY"
+contributorshortbio: Organizer and writer based in Brooklyn.
 contributortwitter: williamcander
-contributorage: "1989-07-26"
+contributorage: ""
 tags: 
   - organizing
   - elections
