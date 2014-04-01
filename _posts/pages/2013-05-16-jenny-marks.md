@@ -10,7 +10,7 @@ image: https://pbs.twimg.com/profile_images/449637196362809345/foXCJ9ug.jpeg
 bio: undefined
 contributortwitter: JennyMarkz
 contributorage: 7/22/1992
-coverphoto: undefined
+coverphoto: https://scontent-a-iad.xx.fbcdn.net/hphotos-prn2/t1.0-9/1958417_2146810913760_1065872380_n.jpg
 contributors: 
 - Jenny Marks
 ---
