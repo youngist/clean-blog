@@ -4,8 +4,8 @@ layout: post
 maintitle: "Dear Harvard: You Win - {Young}ist"
 headline: "Dear Harvard: You Win"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Massachusetts_Hall%2C_Harvard_University.JPG/1200px-Massachusetts_Hall%2C_Harvard_University.JPG"
+featuredphotoalttext: A building at Harvard University. Photo courtesy of Daderot.
 videourl: undefined
 contributorphoto: undefined
 contributorshortbio: undefined
