@@ -12,9 +12,9 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 tags: 
-  - higher education
-  - sexual violence
-  - mental health
+  - "sexual-violence"
+  - "mental-health"
+  - "higher-education"
 categories: 
   - article
 contributors: 
