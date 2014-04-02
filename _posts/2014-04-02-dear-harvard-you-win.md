@@ -1,8 +1,8 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Dear Harvard: You Win - {Young}ist"
+headline: "Dear Harvard: You Win"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
@@ -11,6 +11,14 @@ contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
+tags: 
+  - higher education
+  - sexual violence
+  - mental health
+categories: 
+  - article
+contributors: 
+  - Anonymous
 ---
 
 Trigger warning: This article contains graphic description of sexual assault.
@@ -29,7 +37,7 @@ This morning, as I swallowed my three blue pills of Sertraline and tried to forg
 
 Dear Harvard: I am writing to let you know that I give up. I will be moving out of my House next semester, if only—quite literally—to save my life. You will no longer receive emails from me, asking for something to be done, pleading for someone to hear me, explaining how my grades are melting and how I have developed a mental illness as a result of your inaction. My assailant will remain unpunished, and life on this campus will continue its course as if nothing had happened. Today, Harvard, I am writing to let you know that you have won.
 
-***
+///
 
 He was a friend of mine and I trusted him. It was a freezing Friday night when I stumbled into his dorm room after too many drinks. He took my shirt off and started biting the skin on my neck and breast. I pushed back on his chest and asked him to stop kissing me aggressively. He laughed. He said that I should “just wear a scarf” to cover the marks. He continued to abuse my body, hurting my breast and vagina. He asked me to use my mouth. I said no. I was intoxicated, I was in pain, I was trapped between him and the wall, and I was scared to death that he would continue to ignore what I said. I stopped everything and turned my back to him, praying he would leave me alone. He started getting impatient. “Are you only going to make me hard, or are you going to make me come?” he said in a demanding tone.
 
@@ -51,7 +59,7 @@ There had to be other options for me out there, I thought. I got the school to i
 
 But no one really did. Confidentiality rules prevent me from revealing most of what was—or was not—done to respond to my report. Ironically, if I were to reveal this information, I could risk getting disciplined. What I can say, however, is that in my opinion, the school’s limited response amounted to the equivalent of a slap on the hand for my assailant. After unsuccessfully suggesting a number of interventions that could have helped me better live with my situation, I eventually got the persistent impression that my House staff believed I was fussing over nothing.
 
-***
+///
 
 There are few things more disempowering than being sexually assaulted. You suddenly and unexpectedly find yourself in a situation where someone else—perhaps someone you trusted or loved—claims absolute authority over your body. You are desperately trying to have your voice heard and to assert control over what is being done to you, but are systematically shut down until you are forced to simply wait for it to be over. In that context, being practically denied the right to decide what you want to do with your story, being told that something with the potential to be as empowering as prosecuting your assailant is unlikely to result in any action, being denied several requests that you think will help you heal—those things truly make you feel hopeless, powerless, betrayed, and worthless.
 
