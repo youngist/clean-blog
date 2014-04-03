@@ -5,7 +5,7 @@ maintitle: "Transgender Student Harassed on Campus - {Young}ist"
 headline: Transgender Student Harassed on Campus
 tagline: undefined
 featuredphoto: "http://i.kinja-img.com/gawker-media/image/upload/s--UQ67FFz5--/c_fit,fl_progressive,w_636/cwmeqtmlc5bobnkozeql.jpg"
-featuredphotoalttext: "Andraya Williams, a 22-year-old student at Central Piedmont Community College."
+featuredphotoalttext: "Andraya Williams, a 22-year-old student at Central Piedmont Community College. Photo by Sarah Demarest."
 videourl: undefined
 contributorphoto: undefined
 contributorshortbio: undefined
