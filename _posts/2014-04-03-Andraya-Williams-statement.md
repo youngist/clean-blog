@@ -21,8 +21,6 @@ contributors:
   - Andraya Williams
 ---
 
-by Andraya J. Williams
-
 On March 19th, 2014 I was publicly humiliated and harassed by a female security officer on [Central Piedmont Community College] CPCC's campus. In attempting to file a complaint about the incident, I was turned away and intimidated. 
 
 On March 19th at about 5:30 p.m. I was on my way to the library from the Overcash 
