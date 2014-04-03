@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Transgender Student Harassed on Campus - {Young}ist"
 headline: Transgender Student Harassed on Campus
@@ -20,7 +20,6 @@ tags:
 contributors: 
   - Andraya Williams
 ---
-
 
 by Andraya J. Williams
 
