@@ -9,7 +9,7 @@ excerpt: undefined
 image: http://media.tumblr.com/1a13d5a8d4444881125328419e9a3c91/tumblr_inline_mmcrmzTOTm1rkj9dw.png
 bio: "Brittney is a junior and public policy major at the College of William and Mary. She likes black coffee, cats, and smashing the white supremacist patriarchy."
 contributortwitter: undefined
-coverphoto: 
+coverphoto: undefined
 contributors: 
 - Brittney Harrington
 ---
