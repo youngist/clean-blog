@@ -85,7 +85,7 @@ layout: default
 				{% if links == 'false' %} {{contributor}}{% endif %}
 				{% if forloop.rindex == 2 and forloop.length > 1 %} and {% endif %}{% if forloop.rindex >  2 %},{% endif %}{% endfor %}</h3>
 
-    <div class='col11 post-padding'>{{ content }}</div>
+    <div class='col11 post-padding'><img src="{{page.featuredphoto}}" alt="{{page.featuredphotoalttext}}" style="display:none"/>{{ content }}</div>
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
