@@ -1,9 +1,17 @@
 ---
 layout: default
 exclude_from_search: true
+class: tag
 ---
-<div class='pad4 col12 container page-headline tag-header'>
-    <h1 class='margin1' style='font-size: -webkit-xxx-large; {% if page.tag != 'politics'%} color:white; {% else %} color:chocolate; {% endif %}' >{{page.tag | downcase | replace:'-',' '  }}</h1>
+<div class='pad4 col12 container page-headline tag-header' style='
+{% if page.tag == 'education'%} background:url(http://www.thenation.com/sites/default/files/user/216443/Copper-Union.jpg) no-repeat; background-size: cover; {% endif %} 
+{% if page.tag == 'capitalism'%} background:url(http://media.salon.com/2013/04/fast_food_sign.jpg) no-repeat; background-size: cover; {% endif %}
+{% if page.tag == 'incarceration'%} background:url(http://www.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2012/06/18/Interactivity/Images/Stop_and_Frisk_March-060c0.jpg) no-repeat; background-size: cover; {% endif %}
+{% if page.tag == 'racial-justice'%} background:url(http://thegrio.files.wordpress.com/2013/07/dream-defenders-16x91.jpg) no-repeat; background-size: cover; {% endif %}
+{% if page.tag == 'organizing'%} background:url(http://www.usstudents.org/wp-content/uploads/2012/04/grow.png) no-repeat; background-size: cover; {% endif %} 
+{% if page.tag == 'divestment'%} background:url(http://middleburycampus.com/wp-content/uploads/2013/03/Divestment-PaulGerard-Color-1-of-2-600x375.jpg) no-repeat; background-size: cover; {% endif %} 
+'>
+ <h1 class='margin1' style='font-size: -webkit-xxx-large; {% if page.tag != 'education'%} color:white; {% else %} color:white; {% endif %}' >{{page.tag | downcase | replace:'-',' '  }}</h1>
 </div>
 {% for post in site.posts %}
 {% if post.published == true %}
