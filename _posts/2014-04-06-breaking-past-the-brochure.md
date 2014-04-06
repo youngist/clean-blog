@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Breaking Past the Brochure - {Young}ist"
 headline: "Breaking Past the Brochure "
