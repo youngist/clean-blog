@@ -1,0 +1,16 @@
+---
+layout: default
+category: page
+maintitle: Biola Jeje
+titlname: Biola Jeje
+class: contributor
+position: contributor
+excerpt: Organizer, Playwright, Actress
+image: http://media.tumblr.com/1a13d5a8d4444881125328419e9a3c91/tumblr_inline_mmcrmzTOTm1rkj9dw.png
+bio: "Biola Jeje, 21, currently serves as the Regional Organizer for New York Students Rising (NYSR), a statewide network of students dedicated to defending public higher education. She is a Political Science major at Brooklyn College graduating this spring where she has been a student organizer for the past 4 years. She worked for 3 years with All Stars, a national acclaimed youth theater project. She has been published in Alternet, Salon, and the Nation, in addition to blogging regularly for NYSR. You can find Biola on twitter <a href='https://twitter.com/biolajeje'>@biolajeje</a>."
+contributortwitter: biolajeje
+coverphoto: http://i275.photobucket.com/albums/jj303/brazenambition/32208032.jpg
+contributors: 
+- Biola Jeje
+---
+{% include contrib_feed_post_layout.html %}
