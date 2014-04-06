@@ -32,4 +32,4 @@ While we are coming together to tell the story of a generation that has been dis
 
 With our new website launch, {Young}ist will officially begin its journey and continue to generate and support content provided by a network of activists, organizers, journalists, writers, artists and collaborators that are already doing this work on the ground. The new site will make it possible for {Young}ist to continue to grow as a hub for independent media, thought, politics and culture that matters to young people. Our project aims to bring young people to the table who recognize the injustice in their lives and are taking on vibrant, participatory alternatives to make the lives of young people,collectively, more livable. If that sounds good to you, we ask you to check out our new website, now officially live at [www.youngist.org](youngist.org).
 
-This article was originally posted on [StudentNation](http://www.thenation.com/blog/179028/youngist-reclaims-millennial-narrative).
+This article was originally published on [StudentNation](http://www.thenation.com/blog/179028/youngist-reclaims-millennial-narrative) and is reposted here with permission.
