@@ -3,7 +3,7 @@ published: false
 layout: post
 maintitle: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center - {Young}ist"
 headline: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center"
-tagline: undefined
+tagline: "\"Queer Detainee Empowerment Project organizes for the #Not1More day of action"
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
@@ -13,24 +13,18 @@ contributortwitter: undefined
 contributorage: undefined
 categories: 
   - featured
+tags: 
+  - queer
+  - immigration
+  - prisons
 ---
 
 ---
 published: true
 layout: post
 date: April 5th, 2014
-categories: featured
-excerpt: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center"
-title: " From #Not1More Queer Detainee to #Not1More Immigrant Detention Center - {Young}ist"
-headline: From #Not1More Queer Detainee to #Not1More Immigrant Detention Center
-tagline: "Queer Detainee Empowerment Project organizes for the #Not1More day of action"
 featuredphoto: "https://scontent-b-iad.xx.fbcdn.net/hphotos-ash3/t31.0-8/10001230_10102392785815080_765225999_o.jpg"
 featuredphotoalttext: "Queer Detainee Empowerment Project (QDEP) works towards alternatives to the immigrant detention system, provides direct services to queer and trans* detainees"
-tags: 
-- queer
-- immigration
-- prison
-- organizing
 contributors: 
 - Janani Balasubramanian
 - Jamilah Hammami
