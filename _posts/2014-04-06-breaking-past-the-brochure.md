@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: April 6th, 2014
-categories: editors
+categories: featured
 excerpt: "Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault"
 title: "Breaking Past the Brochure - {Young}ist"
 headline: "Breaking Past the Brochure"
@@ -16,7 +16,7 @@ tags:
 - organizing
 contributor:
 - George Joseph
-contributorphoto: https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg
+contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
 contributorage: 6/1/1995
 contributortwitter: georgejoseph94
@@ -39,3 +39,4 @@ contributortwitter: georgejoseph94
 <p><span><span><span></span></span></span></p>
 <p><span> &ldquo;We heard another student tell someone, that this was inappropriate because it gives a false image of what Columbia is. But we&rsquo;re here to say that our experience is part of Columbia too, and its time to change that.&rdquo;</span></p>
 <p><span>&nbsp;</span></p>
+---
