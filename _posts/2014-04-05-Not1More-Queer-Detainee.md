@@ -1,8 +1,8 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center - {Young}ist"
+headline: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
@@ -11,6 +11,8 @@ contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
+categories: 
+  - featured
 ---
 
 ---
