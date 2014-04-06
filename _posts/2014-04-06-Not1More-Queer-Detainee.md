@@ -3,13 +3,13 @@ published: true
 layout: post
 maintitle: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center - {Young}ist"
 headline: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center"
-tagline: "Queer Detainee Empowerment Project organizes for the #Not1More day of action"
+tagline: "A New York-based alternative-to-detention project emerges to provide services to LGBTQ and HIV-positive immigrant detainees"
 featuredphoto: https://scontent-b-iad.xx.fbcdn.net/hphotos-ash3/t31.0-8/10001230_10102392785815080_765225999_o.jpg
 featuredphotoalttext: "Queer Detainee Empowerment Project (QDEP) works towards alternatives to the immigrant detention system, provides direct services to queer and trans* detainees"
 videourl: undefined
 contributorphoto: "http://www.orstudents.org/wp-content/uploads/2013/10/janani-new1.jpg"
 contributorshortbio: "Janani Balasubramanian is a South Asian artivist based in Brooklyn. Their work deals broadly with themes of empire, desire, microflora, apocalypse, ancestry, and the Future. "
-contributortwitter: "@queerdep"
+contributortwitter: "queerdep"
 contributorage: undefined
 categories: 
   - featured
