@@ -5,11 +5,11 @@ maintitle: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Cente
 headline: "From #Not1More Queer Detainee to #Not1More Immigrant Detention Center"
 tagline: "\"Queer Detainee Empowerment Project organizes for the #Not1More day of action"
 featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphotoalttext: "Queer Detainee Empowerment Project (QDEP) works towards alternatives to the immigrant detention system, provides direct services to queer and trans* detainees"
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
+contributorphoto: "http://www.orstudents.org/wp-content/uploads/2013/10/janani-new1.jpg"
+contributorshortbio: "Janani Balasubramanian is a South Asian artivist based in Brooklyn. Their work deals broadly with themes of empire, desire, microflora, apocalypse, ancestry, and the Future. "
+contributortwitter: "@queerdep"
 contributorage: undefined
 categories: 
   - featured
@@ -17,22 +17,11 @@ tags:
   - queer
   - immigration
   - prisons
+contributors: 
+  - Janani Balasubramanian
+  - Jamilah Hammami
 ---
 
----
-published: true
-layout: post
-date: April 5th, 2014
-featuredphoto: "https://scontent-b-iad.xx.fbcdn.net/hphotos-ash3/t31.0-8/10001230_10102392785815080_765225999_o.jpg"
-featuredphotoalttext: "Queer Detainee Empowerment Project (QDEP) works towards alternatives to the immigrant detention system, provides direct services to queer and trans* detainees"
-contributors: 
-- Janani Balasubramanian
-- Jamilah Hammami
-contributorphoto: http://www.orstudents.org/wp-content/uploads/2013/10/janani-new1.jpg
-contributorshortbio: Janani Balasubramanian is a South Asian artivist based in Brooklyn. Their work deals broadly with themes of empire, desire, microflora, apocalypse, ancestry, and the Future. 
-contributortwitter: @queerdep
-contributorage: undefined
---
 <p><span>When immigrants&mdash;often those who have faced situations of extreme violence and torture&mdash;arrive at the U.S. border without papers or otherwise in violation of immigration law, they are placed in mandatory detention. Cages are the U.S. government&rsquo;s answer to multiply marginalized people who arrive at its borders. In 2012, the Department of Homeland Security detained 400,000 people in immigration custody, at a cost of $1.7 billion. The </span><a href="http://www.detentionwatchnetwork.org/resources"><span>average cost of detaining an immigrant is $164 per day</span></a><span>, compared to about $12 per day for community-based alternatives. Private carceration corporations are lining their pockets with immigrants&rsquo; freedom.</span></p>
 <p><span><span><span></span></span></span></p>
 <p><span>Today is the </span><a href="https://twitter.com/search?q=%23not1more&amp;src=typd&amp;f=realtime"><span>#Not1More</span></a><span> day of action. The #Not1More campaign is aimed at bringing attention to and demanding administrative relief for the hundreds of thousands of immigrants the United States government deports each year. We support this mission&mdash;&lsquo;we&rsquo; being the </span><a href="http://qdep.org/"><span>Queer Detainee Empowerment Project </span></a><span>(QDEP). QDEP is an </span><a href="http://www.detentionwatchnetwork.org/atd"><span>alternative-to-detention</span></a><span> program for LGBTQ and HIV-positive detainees and asylum seekers located in New York City. Alternative-to-detention programs are a means of ensuring compliance with immigration proceedings without detention. Overall, these programs vary in the amount of both restriction and support they provide to immigrant detainees. However, QDEP is the first and currently the only alternative-to-detention program specific to LGBTQ and HIV-positive people in the U.S. Our clients come from all over the country to access our services. We offer support for housing, food, travel, education, employment, arts programming, know-your-rights trainings, and organizing. We also advocate around the structural barriers our clients face&mdash;as detainees and asylees and as predominantly queer, trans* and HIV-positive people of color. In other words, we are committed to assisting folks in building lives outside of the detention system, and to queering the dialogue on immigration justice.</span></p>
