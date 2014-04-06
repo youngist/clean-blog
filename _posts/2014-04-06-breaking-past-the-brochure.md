@@ -1,26 +1,26 @@
 ---
-published: true
+published: false
 layout: post
-date: April 6th, 2014
-categories: featured
-excerpt: "Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault"
-title: "Breaking Past the Brochure - {Young}ist"
-headline: "Breaking Past the Brochure"
-tagline: "Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault""
-featuredphoto: https://31.media.tumblr.com/ae7c6b84b8d5807085d4131778fbb5e5/tumblr_inline_n3mln0M4WP1rkj9dw.jpg
-featurephotoalttext: Students are physically blocked from speaking with Prospies about cases of sexual assault on campus by Columbia security guards - Photo credit: George Joseph
-tags:
-- higher-education
-- sexual-violence
-- gender
-- organizing
-contributor:
-- George Joseph
+maintitle: "Breaking Past the Brochure - {Young}ist"
+headline: "Breaking Past the Brochure "
+tagline: " Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault"
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
+contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1995
-contributortwitter: georgejoseph94
+categories: 
+  - article
+tags: 
+  - "sexual-violence"
+  - students
+  - "higher-education"
+contributors: 
+  - George Joseph
 ---
+
 <p><span>Note: Names have been changed to protect students from further administrative reprisal. </span><span><br /><br />Members of </span><a href="https://twitter.com/NoRedTapeCU"><span>No Red Tape</span></a><span>, &nbsp;a Columbia students&rsquo; group, attempted a silent action today at a gathering for prospective students. Following the </span><a href="http://thinkprogress.org/health/2013/04/27/1930821/dartmouth-board-of-trustees-chair-equates-protests-with-rape-threats/"><span>example of Dartmouth students</span></a><span> last year, No Red Tape members felt it important to reach out to &ldquo;prospies&rdquo; and their families to make sure they knew what they were getting themselves into by choosing to attend Columbia. Nonetheless, to ensure that students and parents would actually hear about the issue, the activists planned a relatively modest action. <br /> </span></p>
 <p><span>&ldquo;Going into this action, we had a very simple plan: wear red tape on our mouths, distribute our flyer, and engage prospective students with this issue as on college campuses everywhere,&rdquo; said Rebecca Hannover, a Barnard College first year. &ldquo;As indicated by the flyer, all we did was urge students to take action and reveal the silencing that takes place at Columbia and other universities. Parents were eager to take flyers, sometimes going out of their way to grab one.&rdquo; Ironically, in what is surely being discussed as a bad decision in a bleak communications office somewhere, Columbia administrators chose to silence a silent protest about the silencing of campus survivors. <br /> </span></p>
 <p><span>Before the nine students could even walk in, admissions officers and guards immediately, as if expecting the action, pushed students back, closing off all the doors to the auditorium.</span></p>
