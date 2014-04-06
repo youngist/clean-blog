@@ -37,6 +37,6 @@ contributors:
 <p><span>Velasquez noted, &ldquo;The whole registration process is just a way to filter us out in the first place. Just because students are not part of a &lsquo;legitimate&rsquo; campus group, which requires a formal bureaucratic process, they act as if our voices cannot represent our own community.&rdquo;</span></p>
 <p><span> &ldquo;What I hope people see from this is not just what we did, but also how quickly and aggressively the administration reacted to this,&rdquo; Velasquez. While the event may not seem like a huge deal, the force used to put down the students reflects the larger social pressure exerted on students everyday to cover up and normalize sexual violence.</span></p>
 <p><span><span><span></span></span></span></p>
-<p><span> &ldquo;We heard another student tell someone, that this was inappropriate because it gives a false image of what Columbia is. But we&rsquo;re here to say that our experience is part of Columbia too, and its time to change that.&rdquo;</span></p>
+<p><span> &ldquo;We heard another student tell someone that this was inappropriate because it gives a false image of what Columbia is. But we&rsquo;re here to say that our experience is part of Columbia too, and it's time to change that.&rdquo;</span></p>
 <p><span>&nbsp;</span></p>
 ---
