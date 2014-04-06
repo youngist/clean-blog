@@ -1,3 +1,4 @@
+---
 layout: default
 category: page
 maintitle: Janani Balasubramanian
@@ -11,3 +12,5 @@ contributortwitter: queerdarkrage
 coverphoto: undefined
 contributors:
 - Janani Balasubramanian
+---
+{% include contrib_feed_post_layout.html %}
