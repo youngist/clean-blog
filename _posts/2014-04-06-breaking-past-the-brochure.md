@@ -4,8 +4,8 @@ layout: post
 maintitle: "Breaking Past the Brochure - {Young}ist"
 headline: "Breaking Past the Brochure "
 tagline: " Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault"
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: https://scontent-b-lga.xx.fbcdn.net/hphotos-prn2/v/t34.0-12/10151653_10203637600005441_573844338_n.jpg?oh=2183038335fdd0dcfe3214a4225e3839&oe=5344035C
+featuredphotoalttext: Students were physically blocked from speaking with prospies about sexual assault by campus security early today. 
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
