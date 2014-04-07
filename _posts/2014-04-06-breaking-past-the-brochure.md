@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+categories: featured
 maintitle: "Breaking Past the Brochure - {Young}ist"
 headline: "Breaking Past the Brochure "
 tagline: " Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault"
