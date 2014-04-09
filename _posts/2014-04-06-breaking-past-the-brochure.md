@@ -1,19 +1,18 @@
 ---
 published: true
 layout: post
-categories: featured
+categories: 
+  - article
 maintitle: "Breaking Past the Brochure - {Young}ist"
 headline: "Breaking Past the Brochure "
 tagline: " Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault"
-featuredphoto: https://scontent-b-lga.xx.fbcdn.net/hphotos-prn2/v/t34.0-12/10151653_10203637600005441_573844338_n.jpg?oh=2183038335fdd0dcfe3214a4225e3839&oe=5344035C
-featuredphotoalttext: Students were physically blocked from speaking with prospies about sexual assault by campus security early today. 
+featuredphoto: "https://scontent-b-lga.xx.fbcdn.net/hphotos-prn2/v/t34.0-12/10151653_10203637600005441_573844338_n.jpg?oh=2183038335fdd0dcfe3214a4225e3839&oe=5344035C"
+featuredphotoalttext: Students were physically blocked from speaking with prospies about sexual assault by campus security early today.
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
 contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1995
-categories: 
-  - article
 tags: 
   - "sexual-violence"
   - students
@@ -22,7 +21,7 @@ contributors:
   - George Joseph
 ---
 
-<p><span>(Note: Names have been changed to protect students from further administrative reprisal.) </span><span><br /><br />Members of </span><a href="https://twitter.com/NoRedTapeCU"><span>No Red Tape</span></a><span>, &nbsp;a Columbia University students&rsquo; group, attempted a silent action today at a gathering for prospective students. Following the </span><a href="http://thinkprogress.org/health/2013/04/27/1930821/dartmouth-board-of-trustees-chair-equates-protests-with-rape-threats/"><span>example of Dartmouth students</span></a><span> last year, No Red Tape members felt it important to reach out to &ldquo;prospies&rdquo; and their families to make sure they knew what they were getting themselves into by choosing to attend Columbia. Nonetheless, to ensure that students and parents would actually hear about the issue, the activists planned a relatively modest action. <br /> </span></p>
+<p><span>(Note: Names have been changed to protect students from further administrative reprisal.) </span><span><br /><br />Members of </span><a href="https://twitter.com/NoRedTapeCU"><span>No Red Tape</span></a><span>, &nbsp;a Columbia University students&rsquo; group, [attempted a silent action today](https://m.youtube.com/watch?v=LHmCfdP0e-s&feature=youtu.be) at a gathering for prospective students. Following the </span><a href="http://thinkprogress.org/health/2013/04/27/1930821/dartmouth-board-of-trustees-chair-equates-protests-with-rape-threats/"><span>example of Dartmouth students</span></a><span> last year, No Red Tape members felt it important to reach out to &ldquo;prospies&rdquo; and their families to make sure they knew what they were getting themselves into by choosing to attend Columbia. Nonetheless, to ensure that students and parents would actually hear about the issue, the activists planned a relatively modest action. <br /> </span></p>
 <p><span>&ldquo;Going into this action, we had a very simple plan: wear red tape on our mouths, distribute our flyer, and engage prospective students with this issue as on college campuses everywhere,&rdquo; said Rebecca Hannover, a Barnard College first year. &ldquo;As indicated by the flyer, all we did was urge students to take action and reveal the silencing that takes place at Columbia and other universities. Parents were eager to take flyers, sometimes going out of their way to grab one.&rdquo; Ironically, in what is surely being discussed as a bad decision in a bleak communications office somewhere, Columbia administrators chose to silence a silent protest about the silencing of campus survivors. <br /> </span></p>
 <p><span>Before the nine students could even walk in, admissions officers and guards immediately, as if expecting the action, pushed students back, closing off all the doors to the auditorium.</span></p>
 <p><span><span><span></span></span></span></p>
