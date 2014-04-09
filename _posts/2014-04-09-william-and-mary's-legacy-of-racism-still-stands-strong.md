@@ -51,6 +51,6 @@ To exist in a space that was built on the subjugation of my ancestors creates a 
 
 I am not a member of this tribe. I was never intended to be.
 
-* I am by no means speaking for all students of color.
+*I am by no means speaking for all students of color.
 
 To further educate yourself on the College's ties with slavery, colonialism, and racial violence, check out [The Lemon Project](http://www.wm.edu/sites/lemonproject/?svr=web) and [Swem Special Collections](Swem Special Collections).
