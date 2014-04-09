@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "William and Mary's Legacy of Racism Still Stands Strong - {Young}ist"
 headline: "William and Mary's Legacy of Racism Still Stands Strong"
