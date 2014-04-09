@@ -5,7 +5,7 @@ maintitle: "William and Mary's Legacy of Racism Still Stands Strong - {Young}ist
 headline: "William and Mary's Legacy of Racism Still Stands Strong"
 tagline: undefined
 featuredphoto: "http://upload.wikimedia.org/wikipedia/commons/c/c9/College_of_William_and_Mary_Wren1_Williamsburg.jpg"
-featuredphotoalttext: A photo of the campus of William and Mary University.
+featuredphotoalttext: A photo of the campus of the College of William and Mary.
 videourl: undefined
 contributorphoto: "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/1234769_10203330660049879_190417952_n.jpg"
 contributorshortbio: "Brittney is a junior and public policy major at the College of William and Mary. She likes black coffee, cats, and smashing the white supremacist patriarchy."
