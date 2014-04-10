@@ -41,7 +41,7 @@ But here's the thing: this Overheard post does not represent a lapse in communit
 
 I read the above post, ‘The True Meaning of Diversity’, while sitting in the basement of a building that was built by slaves. The feeling it triggered in me is something that I and other Black students on this campus do not deserve to feel. The power dynamics and solo status that exist as a result of a history that William and Mary is so hesitant to even apologize for creates a space that feels unwelcoming for many* students of color on this campus. On the rare occasion that race is discussed in a setting that isn't race or diversity-focused, it gets framed as a non-issue that is at most an undertone.
 
-Race permeates every brick on this campus and seeps through in past chancellors who supported Apartheid and grandiose celebrations of a charter that expressly includes as a [purpose of William and Mary](http://web.wm.edu/hermajesty/charter.php?svr=www)(http://web.wm.edu/hermajesty/charter.php?svr=www) "the Christian faith… be[ing] propagated amongst the Western Indians".
+Race permeates every brick on this campus and seeps through in past chancellors who supported Apartheid and grandiose celebrations of a charter that expressly includes as a [purpose of William and Mary](http://web.wm.edu/hermajesty/charter.php?svr=www) "the Christian faith… be[ing] propagated amongst the Western Indians".
 
 This isn't about looking for something to be offended about. This is about each of us deserving to learn in an institution that respects our histories and acknowledges the role it plays in our continued oppression.
 
