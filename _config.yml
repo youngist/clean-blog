@@ -6,11 +6,11 @@ baseurl:
 lunr_search:
   stopwords: "stopwords.txt"
   min_length: 3
-production_url : http://username.github.com/clean-blog
+production_url : http://www.youngist.org
 permalink: :title
 name: "{Young}ist"
 description: "Your source for independent, youth-led political and cultural news analysis, digital storytelling, and creative intervention."
-url: http://www.youngist.github.io/clean-blog
+url: http://www.youngist.org
 prose:
   rooturl: '_posts'
   media: 'images'
