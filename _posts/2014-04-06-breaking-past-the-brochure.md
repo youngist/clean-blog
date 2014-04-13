@@ -6,7 +6,7 @@ categories:
 maintitle: "Breaking Past the Brochure - {Young}ist"
 headline: "Breaking Past the Brochure "
 tagline: " Columbia Admissions Officers Blockade Students from Talking to Prospies about Sexual Assault"
-featuredphoto: "https://scontent-b-lga.xx.fbcdn.net/hphotos-prn2/v/t34.0-12/10151653_10203637600005441_573844338_n.jpg?oh=2183038335fdd0dcfe3214a4225e3839&oe=5344035C"
+featuredphoto: "https://31.media.tumblr.com/ae7c6b84b8d5807085d4131778fbb5e5/tumblr_inline_n3xyrhMyoH1r7ixte.jpg"
 featuredphotoalttext: Students were physically blocked from speaking with prospies about sexual assault by campus security early today.
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
