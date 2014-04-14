@@ -1,18 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
+maintitle: "The Era of the Permatemp - {Young}ist"
 headline: undefined
-tagline: undefined
+tagline: "Blame the economy, not workers"
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
+contributorphoto: " https://scontent-b.xx.fbcdn.net/hphotos-prn1/t1.0-9/189671_10150126163746870_636942_n.jpg"
+contributorshortbio: "Andy Fitzgerald is a writer and editor living in Brooklyn. His work has appeared in The Guardian and The Christian Science Monitor. "
+contributortwitter: AndyAFitz
 contributorage: undefined
 contributors: 
   - Andy Fitzgerald
+categories: 
+  - editors
+tags: 
+  - capitalism
+  - labor
+  - workers
 ---
 
 Underneath the employment figures that are released and hotly debated every month lurks a troubling reality: the ballooning contingent labor force. 
