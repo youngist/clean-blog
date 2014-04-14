@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Why I Walked Out - {Young}ist"
 headline: Why I Walked Out
