@@ -15,14 +15,11 @@ contributors:
   - Andy Fitzgerald
 ---
 
-waiting on title
-Andy Fitzgerald
-
 Underneath the employment figures that are released and hotly debated every month lurks a troubling reality: the ballooning contingent labor force. 
 
 Its ranks include seasonal employees, temporary contractors, freelancers, and interns, none of whom can expect their job to be “permanent”. For millions of Americans, this is the new normal – no job security, no benefits: it’s where the devaluation of labor actively meets exploitation.
 
-Recruiting firm MBO Partners is projecting that the contingent workforce will grow from 17 million to 23 million by 2017. I am one of these 17 million, and part of the millennial cohort that increasingly makes up this portion of the workforce. 
+Recruiting firm [MBO Partners](http://www.cbsnews.com/news/temp-work-raises-long-term-questions-for-economy/) is projecting that the contingent workforce will grow from 17 million to 23 million by 2017. I am one of these 17 million, and part of the millennial cohort that increasingly makes up this portion of the workforce. 
 
 Financially, being a contingent laborer means lower wages (or, even if the wage is higher, a lower earned income because of shorter hours), and a lack of employer-supported benefits.  Many who are just entering the workforce – saddled with record levels of student debt – are forced to fill these roles or be unemployed. These workers are neither saving, nor spending at levels that many economists and economic observers claim creates more (and allegedly better) jobs.
 
