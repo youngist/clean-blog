@@ -2,7 +2,7 @@
 published: false
 layout: post
 maintitle: "The Era of the Permatemp - {Young}ist"
-headline: undefined
+headline: The End of the Permatemp
 tagline: "Blame the economy, not workers"
 featuredphoto: undefined
 featuredphotoalttext: undefined
