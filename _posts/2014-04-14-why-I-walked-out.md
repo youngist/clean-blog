@@ -17,8 +17,7 @@ tags:
   - "higher-education"
   - palestine
   - divestment
-contributors: 
-  - undefined
+contributors: ""
 ---
 
 By Anna-Lisa Castle
