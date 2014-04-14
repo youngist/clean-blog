@@ -17,10 +17,9 @@ tags:
   - "higher-education"
   - palestine
   - divestment
-contributors: ""
+contributors: 
+- Anna-Lisa Castle
 ---
-
-By Anna-Lisa Castle
 
 On Thursday, I was one of the hundreds of people who showed up to the Student Assembly meeting to talk about the possibility of talking about [Resolution 72](https://assembly.cornell.edu/staffing/motions/311), which calls for divestment from six companies that profit from the Israeli occupation of Palestine. A point of clarification that I don’t think has been publicly made: This is not consistent with the [Boycott Divest Sanction movement](http://www.bdsmovement.net/call), which calls for boycotting all Israeli companies until the state complies with international law, [Universal Declaration of Human Rights](http://www.un.org/en/documents/udhr/), hundreds of United Nations resolutions that have gone ignored and near-unanimous internationally agreed upon pre-1967 borders. Again, I repeat, Resolution 72 does not call to boycott Israeli companies, it simply names six companies that benefit from the occupation, only one of which is Israeli. This point might have been made if the resolution had been allowed to be presented, but it wasn’t.
 
