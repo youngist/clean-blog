@@ -4,7 +4,7 @@ layout: post
 maintitle: "The Era of the Permatemp - {Young}ist"
 headline: The End of the Permatemp
 tagline: "Blame the economy, not workers"
-featuredphoto: undefined
+featuredphoto: "http://upload.wikimedia.org/wikipedia/commons/7/7f/Scriptorium-monk-at-work.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: " https://scontent-b.xx.fbcdn.net/hphotos-prn1/t1.0-9/189671_10150126163746870_636942_n.jpg"
