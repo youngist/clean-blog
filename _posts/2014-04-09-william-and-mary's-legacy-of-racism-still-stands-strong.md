@@ -12,7 +12,7 @@ contributorshortbio: "Brittney is a junior and public policy major at the Colleg
 contributortwitter: musingsofzami
 contributorage: 1993/02/06
 categories: 
-  - editors
+  - featured
 tags: 
   - "higher-education"
   - students
