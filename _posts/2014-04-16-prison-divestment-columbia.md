@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Columbia Students Talk Prison Divestment - {Young}ist"
 headline: Columbia Students Talk Prison Divestment
