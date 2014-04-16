@@ -1,0 +1,17 @@
+---
+layout: default
+category: page
+maintitle: Zoe Pepper-Cunningham
+titlename: Zoe Pepper-Cunningham
+class: contributor
+position: contributor
+excerpt: undefined
+image: https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1463915_2704522012627_85970789_n.jpg
+contributorage: 8/27/1992
+contributortwitter: undefined
+bio: Zoe is an anti-multinational extractivisism enthusiast and currently based in Colombia.
+coverphoto: undefined
+contributors: 
+- Zoe Pepper-Cunningham
+---
+{% include contrib_feed_post_layout.html %}
