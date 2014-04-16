@@ -4,7 +4,7 @@ layout: post
 maintitle: "Columbia Students Talk Prison Divestment - {Young}ist"
 headline: Columbia Students Talk Prison Divestment
 tagline: undefined
-featuredphoto: "https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=lh-X39noW4CCqM&tbnid=NCgxkuyGsw5bMM:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.facebook.com%2Fcolumbiaprisondivest&ei=2YVOU7ntH4Wi2gXM14H4CA&bvm=bv.64764171,d.b2I&psig=AFQjCNFUaRMho2U05fB8f-wDnPvQ-4Z6qA&ust=1397741398956890"
+featuredphoto: "http://24.media.tumblr.com/c11c295dc738c0f53cf83e3802f170d8/tumblr_n0srtcQG4m1rl1z5xo1_500.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
