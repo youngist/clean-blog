@@ -4,7 +4,7 @@ layout: post
 maintitle: "Popular Agrarian Summit Calls for Strike in Colombia - {Young}ist"
 headline: Popular Agrarian Summit Calls for Strike
 tagline: undefined
-featuredphoto: "<a href=\"https://www.flickr.com/photos/116523228@N03/13900530711\" title=\"paro agrario photo by Youngist Photos, on Flickr\"><img src=\"https://farm4.staticflickr.com/3665/13900530711_f5d7bed8f9.jpg\" width=\"320\" height=\"240\" alt=\"paro agrario photo\"></a>"
+featuredphoto: "https://farm4.staticflickr.com/3665/13900530711_f5d7bed8f9.jpg"
 featuredphotoalttext: Campesinos in Nariño march during the August Agrarian strike.
 videourl: undefined
 contributorphoto: "https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1463915_2704522012627_85970789_n.jpg"
