@@ -25,6 +25,27 @@ A national strike in Colombia – involving groups of indigenous peoples, Afro-C
 
 The strike was declared during the Popular Agrarian Summit, held from March 15-17 in Bogotá. Over 4,000 delegates, activists, and leaders from different departments, sectors, and organizations in Colombia converged in the capital to discuss issues facing the agrarian and popular sectors. 
 
+<div id='galleria'></div>
+<script>
+// Load the classic theme
+Galleria.loadTheme('/js/galleria.classic.min.js');
+
+Galleria.configure({
+    transition: 'fade',
+    responsive: true,
+    height: 0.800
+});
+// Initialize Galleria
+Galleria.run('#galleria', {
+
+ flickr: 'set:72157644066457922',
+ flickrOptions: {
+ sort: 'date-posted-asc'
+ }
+
+});
+</script>
+
 For some delegations, this meant traveling 30 hours on a bus, or facing threats and intimidation during their journeys. For example, on the night of March 13, three armed masked men [attacked](http://prensarural.org/spip/spip.php?article13631) a bus carrying a delegation from the southern department of Nariño on the Pan-American Highway. The armed subjects fired their guns several times inside of the bus, injured the bus driver, and proceeded to [threaten and rob](http://remapvalle.blogspot.ca/2014/03/a-diez-minutos-de-puesto-de-policia.html) the passengers. Despite these challenges, people arrived at the summit energized and ready to participate in this historic moment of social and political organizing.
 
 The summit is part of an ongoing attempt by Colombia’s social organizations to provide space for people to articulate the problems they are facing and to collectively create solutions for a new order in the country. This process was constructed after the agrarian strikes in 2013, when campesinos took to the streets and demanded an end to displacements, exploitation of labor, land and resource expropriation by multinational corporations and the government, international free trade agreements, and a right to a dignified life.
