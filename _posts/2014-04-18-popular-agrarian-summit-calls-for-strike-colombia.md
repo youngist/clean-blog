@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Popular Agrarian Summit Calls for Strike in Colombia - {Young}ist"
+headline: Popular Agrarian Summit Calls for Strike
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
+contributorphoto: "https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1463915_2704522012627_85970789_n.jpg"
+contributorshortbio: "Zoe is an anti-multinational extractivisism enthusiast and currently based in Colombia."
 contributortwitter: undefined
-contributorage: undefined
+contributorage: "1992-08-27"
+categories: 
+  - gallery
+tags: 
+  - "direct-action"
+  - workers
+  - "economic-justice"
+contributors: 
+  - "Zoe Pepper-Cunningham"
 ---
 
 A national strike in Colombia – involving groups of indigenous peoples, Afro-Colombians, students, women, small miners, petroleum workers, and campesinos [farmers] – is planned to begin on May 1st.
