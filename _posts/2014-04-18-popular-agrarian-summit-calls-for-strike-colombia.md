@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Popular Agrarian Summit Calls for Strike in Colombia - {Young}ist"
 headline: Popular Agrarian Summit Calls for Strike
