@@ -23,11 +23,11 @@ tags:
 
 _Trigger Warning: The following content discusses specific cases of sexual assault_
 
-“I don’t trust the University to take my experience or my safety more seriously than they take their own public image."_- Anonymous complainant_
+“I don’t trust the University to take my experience or my safety more seriously than they take their own public image."_- Cami Quarta, Columbia survivor and complainant_
 
 This morning, 23 Columbia students filed a federal complaint, more than a hundred pages long, alleging violations of Title IX, Title II, and Clery Act, against their university. If found in violation, under the Clery Act the school will have to pay $35,000 per violation. If found in violation of Title IX and Title II, regarding Columbia's response to campus sexual assault and mental health respectively, the university will be subject to federal review and could lose federal funding. 
  
-The issue of campus sexual violence has come to national light after a wave of students from UNC, Occidental, UConn, UC Berkeley, and Dartmouth decided to file Title IX allegations, prompting a White House task force on the issue as well as [vocal support](http://newyork.cbslocal.com/2014/04/07/sen-kirsten-gillibrand-seeks-funds-to-fight-college-campus-sex-assaults/) from national political figures like California Congressmen Jackie Speier and New York Senator Kirsten Gillibrand.
+The issue of campus sexual violence has come to national light after a wave of students from UNC, Occidental, UConn, UC Berkeley, and Dartmouth decided to file Title IX allegations, prompting a White House task force on the issue as well as [vocal support](http://newyork.cbslocal.com/2014/04/07/sen-kirsten-gillibrand-seeks-funds-to-fight-college-campus-sex-assaults/) from national political figures like California Congresswoman Jackie Speier and New York Senator Kirsten Gillibrand.
  
 While the Columbia students’ decision follows this growing trend, they separate themselves by taking administrators to task for their inappropriate response, not only to survivors’ initial violent experience but also to their subsequent mental health trauma - as reflected in their decision to file an additional Title II complaint. “Sexual violence and mental health are inextricably linked,” said Zoe Ridolfi-Starr, a lead complainant in the filing. She continued, “By ignoring, denying, and discriminating against survivors who express mental health care needs, we cannot fully support them.”
  
@@ -35,7 +35,7 @@ The group alleges numerous violations of Title IX, Title II, and the Clery Act, 
  
 In one of the complaints, a survivor, who had been placed on disciplinary and academic probation because the school considered her a mental health liability, did not seek school counseling and health services after her incident because she didn't want to risk her graduation. She was also denied accommodations on the basis of her mental health disabilities and threatened with expulsion, a clear Title II violation. 
  
-In another complaint, one survivor focused on the daily terror she felt due to the continued presence of her perpetrator on campus, ended up receiving incompletes in half of her classes and was forced to withdraw from another. “Because of Columbia’s incompetence,” she writes, “I was not able to pursue a just outcome on my own terms, and I continue to be triggered by my rapist’s presence on a weekly basis.” Other complaints detail specific administrative intimidation.
+In another complaint, one survivor focused on the daily terror she felt due to the continued presence of her perpetrator on campus, causing her to receive ended up receiving incompletes in half of her classes and was forced to withdraw from another. “Because of Columbia’s incompetence,” she wroteites, “I was not able to pursue a just outcome on my own terms, and I continue to be triggered by my rapist’s presence on a weekly basis.” Other complaints detail specific administrative intimidation.
  
 Another queer trans survivor filed against the university’s refusal to make academic accommodations they were entitled to under Title IX, doubting and devaluing their story on the basis of their gender identity. They wrote, “general ignorance and hostility towards my gender identity...even [the] dismissal of my rape because it didn’t fit the normative ‘boy-rapes-girl’ narrative.” 
  
