@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Free Jane: Young Trans Woman Imprisoned Without Charges - {Young}ist"
+headline: "Free Jane: Young Trans Woman Imprisoned Without Charges"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "https://pbs.twimg.com/profile_images/1772120294/image.jpg"
+contributorshortbio: Sophomore Wesleyan University capitalism kills
+contributortwitter: MariamaEversley
+contributorage: 3/4/1992
+categories: 
+  - audio
+tags: 
+  - transgender
+  - youth
+  - prisons
+contributors: 
+  - Mariama Eversley
 ---
 
 On this episode we speak with 3 guests — Chris Garaffa and Al Riccio from the Party for Socialism and Liberation and Aaron Romano the attorney of a 16-year-old trans girl who is currently incarcerated in a woman’s prison and held on no charges in Hartford, CT. A survivor of numerous instances of violence and abuse, Jane Doe is now being held in solitary confinement for 22-23 hours per day, without access to education or contact with peers her own age.
