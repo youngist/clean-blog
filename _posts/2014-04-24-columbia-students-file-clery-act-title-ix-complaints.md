@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "23 Columbia Students File Clery Act and Title IX & II Complaints Against University - {Young}ist"
 headline: "23 Columbia Students File Clery Act and Title IX & II Complaints Against University"
