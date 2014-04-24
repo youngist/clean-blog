@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
-tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+maintitle: "23 Columbia Students File Clery Act and Title IX & II Complaints Against University - {Young}ist"
+headline: "23 Columbia Students File Clery Act and Title IX & II Complaints Against University"
+tagline: Students demand right to safety from sexual violence and access to mental health resources
+featuredphoto: "http://31.media.tumblr.com/badfd3339c2ee1194eb684afa5126804/tumblr_n4jgzqLv4x1rq2ndso1_1280.jpg"
+featuredphotoalttext: "Activists use red tape to symbolize the administrative attempt to silence survivors. Picture taken at Low Library, the seat of the Columbia University. - Photo credit: George Joseph"
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
+contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
+contributortwitter: GeorgeJoseph94
+contributorage: 6/1/1994
+contributors: 
+  - George Joseph
+categories: 
+  - featured
+tags: 
+  - "sexual-violence"
+  - "higher-education"
+  - students
 ---
 
 _Trigger Warning: The following content discusses specific cases of sexual assault_
