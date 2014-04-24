@@ -12,7 +12,7 @@ contributorshortbio: Sophomore Wesleyan University capitalism kills
 contributortwitter: MariamaEversley
 contributorage: 3/4/1992
 categories: 
-  - audio
+  - sound
 tags: 
   - transgender
   - youth
