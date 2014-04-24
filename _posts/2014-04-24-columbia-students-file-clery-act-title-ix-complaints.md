@@ -5,7 +5,7 @@ maintitle: "23 Columbia Students File Clery Act and Title IX & II Complaints Aga
 headline: "23 Columbia Students File Clery Act and Title IX & II Complaints Against University"
 tagline: Students demand right to safety from sexual violence and access to mental health resources
 featuredphoto: "http://31.media.tumblr.com/badfd3339c2ee1194eb684afa5126804/tumblr_n4jgzqLv4x1rq2ndso1_1280.jpg"
-featuredphotoalttext: "Activists use red tape to symbolize the administrative attempt to silence survivors. Picture taken at Low Library, the seat of the Columbia University. - Photo credit: George Joseph"
+featuredphotoalttext: "Activists use red tape to symbolize the administrative attempt to silence survivors. Picture taken at Low Library, the seat of the Columbia University administration. - Photo credit: George Joseph"
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
