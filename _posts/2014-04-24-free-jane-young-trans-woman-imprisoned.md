@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Free Jane: Young Trans Woman Imprisoned Without Charges - {Young}ist"
 headline: "Free Jane: Young Trans Woman Imprisoned Without Charges"
