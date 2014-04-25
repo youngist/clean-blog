@@ -4,8 +4,8 @@ layout: post
 maintitle: "Free Jane: Young Trans Woman Imprisoned Without Charges - {Young}ist"
 headline: "Free Jane: Young Trans Woman Imprisoned Without Charges"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://www.iacenter.org/img/TransJustice_070513.jpg"
+featuredphotoalttext: "People hold a banner that reads \"TransJustice Now\""
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/1772120294/image.jpg"
 contributorshortbio: Sophomore Wesleyan University capitalism kills
