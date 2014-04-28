@@ -7,16 +7,18 @@ tagline: undefined
 featuredphoto: "https://www.suny.edu/media/suny/content-assets/images/banner/campuses/stonybrook_class_outside-1056x384.jpg"
 featuredphotoalttext: A class is taught outside as part of Free University of Stony Brook in 2013.
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "https://www.facebook.com/photo.php?fbid=10201702751594479&set=t.1350810108&type=3&theater"
+contributorshortbio: "Organizer / Artist / Social Movement Enthusiast "
+contributortwitter: "chry_synth_emum "
+contributorage: 11/27/1990
 categories: 
   - article
 tags: 
   - "higher-education"
   - students
   - workers
+contributors: 
+  - Jess Rybak
 ---
 
 It’s ironic, insulting, and revealing of the true nature of SUNY. SUNY – the statewide public university system of New York – is currently masquerading as an institution that offers something it does not: an environment for accessible public education. And it’s using a photo of a campus protest to do so.
