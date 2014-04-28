@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "SUNY Website Highlights Hypocrisy - {Young}ist"
 headline: SUNY Website Highlights Hypocrisy
