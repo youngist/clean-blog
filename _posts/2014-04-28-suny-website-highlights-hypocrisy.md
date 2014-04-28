@@ -5,7 +5,7 @@ maintitle: "SUNY Website Highlights Hypocrisy - {Young}ist"
 headline: SUNY Website Highlights Hypocrisy
 tagline: undefined
 featuredphoto: "https://www.suny.edu/media/suny/content-assets/images/banner/campuses/stonybrook_class_outside-1056x384.jpg"
-featuredphotoalttext: A class is taught outside as part of Stony Brook Free University 2013.
+featuredphotoalttext: A class is taught outside as part of Free University of Stony Brook in 2013.
 videourl: undefined
 contributorphoto: undefined
 contributorshortbio: undefined
