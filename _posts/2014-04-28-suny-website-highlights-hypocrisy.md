@@ -12,7 +12,7 @@ contributorshortbio: "Organizer / Artist / Social Movement Enthusiast "
 contributortwitter: "chry_synth_emum "
 contributorage: 11/27/1990
 categories: 
-  - article
+  - editors
 tags: 
   - "higher-education"
   - students
