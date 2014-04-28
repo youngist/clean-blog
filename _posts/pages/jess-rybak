@@ -1,0 +1,26 @@
+---
+layout: default
+category: page
+maintitle: Jess Rybak
+titlname: Jess Rybak
+class: contributor
+position: contributor
+excerpt: Organizer / Artist / Social Movement Enthusiast 
+image: "https://www.facebook.com/photo.php?fbid=10201702751594479&set=t.1350810108&type=3&theater"
+bio: "Jessica studied women's and gender studies, english, and art at a SUNY, and loved public education so much that she spent most of her undergrad time organizing to fight it's privatization. She's currently organizing where students' and workers' rights merge, with graduate student teaching and research assistant employees at SUNY Stony Brook. She's an artist and creative writer on feminist/queer/social justice stuff, so maybe google her and be inspired, or maybe message her to teach her a thing or two."
+contributortwitter: chry_synth_emum 
+coverphoto: undefined
+contributors: 
+  - Jess Rybak
+published: true
+headline: undefined
+tagline: undefined
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
+contributorphoto: undefined
+contributorshortbio: undefined
+contributorage: undefined
+---
+
+{% include contrib_feed_post_layout.html %}
