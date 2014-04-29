@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "https://www.suny.edu/media/suny/content-assets/images/banner/campuses/stonybrook_class_outside-1056x384.jpg"
 featuredphotoalttext: A class is taught outside as part of Free University of Stony Brook in 2013.
 videourl: undefined
-contributorphoto: "https://www.facebook.com/photo.php?fbid=10201702751594479&set=t.1350810108&type=3&theater"
+contributorphoto: "http://cdn.totalcomputersusa.com/uploads/sbstatesman.com/2011/03/Jessica-Rybak.jpg"
 contributorshortbio: "Organizer / Artist / Social Movement Enthusiast "
 contributortwitter: "chry_synth_emum "
 contributorage: 11/27/1990
