@@ -6,6 +6,7 @@ excerpt: "Youngist is Hiring"
 maintitle: "Youngist is Hiring: Multimedia and Arts Editor - {Young}ist"
 headline: "Youngist is Hiring: Multimedia and Arts Editor"
 tagline: undefined
+featuredphoto: "http://31.media.tumblr.com/8a4ccb77f38c3d2ba92ea51d185daf27/tumblr_n4tnosN9QV1rq2ndso1_1280.jpg"
 videourl: undefined
 tags:
 - jobs
