@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "WSA Adopts Resolution Supporting Divestment From Israeli Military Occupation of Palestine - {Young}ist"
 headline: WSA Adopts Resolution Supporting Divestment From Israeli Military Occupation of Palestine
