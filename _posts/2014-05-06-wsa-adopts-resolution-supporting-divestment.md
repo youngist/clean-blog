@@ -1,12 +1,14 @@
 ---
 published: true
 layout: post
-maintitle: "WSA Adopts Resolution Supporting Divestment From Israeli Military Occupation of Palestine - {Young}ist"
+maintitle: "Wesleyan Student Association Adopts Resolution Supporting Divestment From Israeli Military Occupation of Palestine - {Young}ist"
 headline: WSA Adopts Resolution Supporting Divestment From Israeli Military Occupation of Palestine
 tagline: undefined
 featuredphoto: "http://www.imemc.org/attachments/may2014/wesleyanwall.jpg"
 featuredphotoalttext: A display on campus for Israeli Apartheid Week 2014.
 videourl: undefined
+contributor: 
+- Courtney Laermer
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
@@ -19,7 +21,6 @@ tags:
   - students
 ---
 
-By Courtney Laermer, Assistant News Editor
 
 At Sunday’s meeting, the Wesleyan Student Assembly (WSA) voted to adopt Resolution 11.35, which calls for the University and the WSA to divest from companies that profit from the occupation of the Gaza Strip, the West Bank, and East Jerusalem.
 
