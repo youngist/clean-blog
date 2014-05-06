@@ -13,7 +13,13 @@ contributortwitter: undefined
 contributorage: undefined
 categories: 
   - editors
+tags: 
+  - divestment
+  - palestine
+  - students
 ---
+
+By Courtney Laermer, Assistant News Editor
 
 At Sunday’s meeting, the Wesleyan Student Assembly (WSA) voted to adopt Resolution 11.35, which calls for the University and the WSA to divest from companies that profit from the occupation of the Gaza Strip, the West Bank, and East Jerusalem.
 
