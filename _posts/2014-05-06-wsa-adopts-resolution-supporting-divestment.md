@@ -4,8 +4,8 @@ layout: post
 maintitle: "WSA Adopts Resolution Supporting Divestment From Israeli Military Occupation of Palestine - {Young}ist"
 headline: WSA Adopts Resolution Supporting Divestment From Israeli Military Occupation of Palestine
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://upload.wikimedia.org/wikipedia/commons/d/d5/Wesleyan_University_Middletown_CT.jpg"
+featuredphotoalttext: Wesleyan Student Association voted to divest from companies that profit from occupied territories in Palestine.
 videourl: undefined
 contributorphoto: undefined
 contributorshortbio: undefined
