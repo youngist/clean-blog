@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: featured
+categories: editors
 excerpt: "Northeastern University’s Definition of Consent Allowed Assailant to Transfer"
 maintitle: "Northeastern University’s Definition of Consent Allowed Assailant to Transfer - {Young}ist"
 headline: "Northeastern University’s Definition of Consent Allowed Assailant to Transfer"
