@@ -19,7 +19,8 @@ contributorshortbio: "Labor/ed writer/organizer. Student editor @thenation. Frie
 contributortwitter: Cersonsky
 contributorage: undefined
 ---
-<P><b>
+<b> <i> This post, which was curated by Youngist contributor James Cersonsky, originally appeared at StudentNation, and is republished here with permission. </b> </i> <P><b>
+
 
 1. On May Day, California Students and Workers Unleash
 
