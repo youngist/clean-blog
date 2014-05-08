@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: article
+categories: featured
 excerpt: "As the School Year Ends, Students Force Out Condoleezza Rice, Walk Out on Fee Hikes and Stage a Sit-In for Divestment"
 maintitle: "As the School Year Ends, Students Force Out Condoleezza Rice, Walk Out on Fee Hikes and Stage a Sit-In for Divestment - {Young}ist"
 headline: "As the School Year Ends, Students Force Out Condoleezza Rice, Walk Out on Fee Hikes and Stage a Sit-In for Divestment"
