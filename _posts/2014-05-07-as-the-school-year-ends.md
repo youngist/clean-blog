@@ -14,7 +14,7 @@ tags:
 - organizing
 contributors:
 - James Cersonsky
-contributorphoto: http://static.squarespace.com/static/527c877ee4b00ec916746401/t/527d82d9e4b0a13e700a2034/%3Fformat%3D500w
+contributorphoto: "https://pbs.twimg.com/profile_images/443033790714478592/z54uV3iV.jpeg"
 contributorshortbio: "Labor/ed writer/organizer. Student editor @thenation. Friends: @NYCoRE3000, @Allied_Media. Frenemies: nice guys, 24 year olds. Tips: jcersonsky at gmail."
 contributortwitter: Cersonsky
 contributorage: undefined
