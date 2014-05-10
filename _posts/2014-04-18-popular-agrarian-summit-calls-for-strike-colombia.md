@@ -12,7 +12,7 @@ contributorshortbio: "Zoe is an anti-multinational extractivisism enthusiast and
 contributortwitter: undefined
 contributorage: "1992-08-27"
 categories: 
-  - featured
+  - articles
   - gallery
 tags: 
   - "direct-action"
