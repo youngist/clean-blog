@@ -14,7 +14,7 @@ contributorage: undefined
 contributors: 
   - Andy Fitzgerald
 categories: 
-  - featured
+  - article
 tags: 
   - capitalism
   - labor
