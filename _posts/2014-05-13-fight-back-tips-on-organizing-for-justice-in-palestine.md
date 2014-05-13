@@ -44,19 +44,19 @@ By observing the two SJPs uncompromising and proactive stances, I’ve compiled 
 - SJP’s in particular can utilize the services of the [Palestinian Solidarity Legal Support Group](http://palestinelegalsupport.org/).
 
 2. Seek allies on campus and beyond
-By reaching out to the public, NYU SJP managed to gather over 1000 signatures supporting their right to free speech 
-NYU SJP also gathered signatures from nearly 100 professors on campus 
-Find organizations on and off campus that have similar goals. Students will realize that they’re not alone in the challenges they face for supporting controversial issues. 
-Student organizations can benefit from keeping in touch with organization alumni as well. Past members are invaluable resources for advice based on their past experiences with administration. 
+- By reaching out to the public, NYU SJP managed to gather [over 1000 signatures](http://www.change.org/petitions/nyu-community-and-beyond-stand-in-solidarity-with-nyu-sjp?utm_source=share_petition&utm_medium=facebook&utm_campaign=share_facebook_mobile&recruiter=90720792) supporting their right to free speech.
+- NYU SJP also gathered signatures from [nearly 100 professors](http://nyusjp.wordpress.com/2014/04/28/nyu-faculty/) on campus 
+- Find organizations on and off campus that have similar goals. Students will realize that they’re not alone in the challenges they face for supporting controversial issues. 
+- Student organizations can benefit from keeping in touch with organization alumni as well. Past members are invaluable resources for advice based on their past experiences with administration. 
 
 3. Keep track of all incidents 
-It’s important for SJPs and other groups to track when the organization is treated unjustly or members are harassed for their viewpoints.
+- It’s important for SJPs and other groups to track when the organization is treated unjustly or members are harassed for their viewpoints.
 
 4. Broadcast your story in the media
-The media’s narrative about the “Israeli-Palestinian Conflict,” as well as other controversial political issues, is often limited and misguiding. Work diligently to address false information and change the narrative. 
-Write op-eds on campus, in the local community and globally. Social media provides the unique power to document and share information that media outlets are hesitant to broadcast. 
+- The media’s narrative about the “Israeli-Palestinian Conflict,” as well as other controversial political issues, is often limited and misguiding. Work diligently to address false information and change the narrative. 
+- Write op-eds on campus, in the local community and globally. Social media provides the unique power to document and share information that media outlets are hesitant to broadcast. 
 
-Although SJPs don’t operate as one national organization, different chapters are united in educating students about the Israeli occupation. The First Amendment provides students in SJP or otherwise with a license to express themselves and illuminate silenced realities. Effective advocacy must grab the attention of students in the midst of their daily hustle- a difficult challenge that Northeastern and NYU SJPs accomplished.  Despite negative feedback and intimidation, these groups prevailed with the support of organizations and individuals that stand in solidarity with the Palestinian people.
+Although SJPs don’t operate as one national organization, different chapters are united in educating students about the Israeli occupation. The First Amendment provides students in SJP or otherwise with a license to express themselves and illuminate silenced realities. Effective advocacy must grab the attention of students in the midst of their daily hustle- a difficult challenge that Northeastern and NYU SJPs accomplished. Despite negative feedback and intimidation, these groups prevailed with the support of organizations and individuals that stand in solidarity with the Palestinian people.
 
 “Power concedes nothing without a demand.” - Frederick Douglass 
  
