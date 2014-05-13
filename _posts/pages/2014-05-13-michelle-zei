@@ -1,0 +1,26 @@
+---
+layout: default
+category: page
+maintitle: Michelle Zei
+titlname: Michelle Zei
+class: contributor
+position: contributor
+excerpt: Michelle Zei is a freelance journalist, flexing the power of the pen.
+image: "http://truthfetish.files.wordpress.com/2014/05/me1.jpg"
+bio: "Michelle Zei is a freelance multimedia journalist. As a student at Temple University, she developed a passion for grassroots organizing and community media. Her interests include HIV/AIDS, the Palestinian-Israeli conflict and immigration.She believes in the power of the pen and the web to educate and unify communities."
+contributortwitter: michellezei
+coverphoto: http://truthfetish.wordpress.com/2014/05/12/jerusalem/
+contributors: 
+  - Michelle Zei
+published: true
+headline: undefined
+tagline: undefined
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
+contributorphoto: undefined
+contributorshortbio: undefined
+contributorage: undefined
+---
+
+{% include contrib_feed_post_layout.html %}
