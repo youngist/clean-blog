@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Fight Back: Tips on Organizing for Justice in Palestine - {Young}ist"
+headline: "Fight Back: Tips on Organizing for Justice in Palestine"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://www.bdsmovement.net/files/2012/12/BDS_Logo.jpg"
+featuredphotoalttext: The logo for the BDS movement
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "http://truthfetish.files.wordpress.com/2014/05/me1.jpg"
+contributorshortbio: "Michelle Zei is a freelance journalist, flexing the power of the pen."
+contributortwitter: michellezei
+contributorage: 3/25/1991
+categories: 
+  - editors
+contributors: 
+  - Michelle Zei
+tags: 
+  - movements
+  - divestment
+  - palestine
 ---
 
 There’s much more to campus life than classes and parties: college is a fundamental time to question beliefs and develop social consciousness. The college campus has always been an incubator for change and a battleground for political debate. Students exceptionally passionate about socio-political issues may take the route of college activism; that is, four years full of lectures, protests, documentary screenings - and yes - bake sales.
