@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Fight Back: Tips on Organizing for Justice in Palestine - {Young}ist"
 headline: "Fight Back: Tips on Organizing for Justice in Palestine"
