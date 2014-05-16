@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "I Might Have Been Chelsea Manning - {Young}ist"
 headline: I Might Have Been Chelsea Manning
