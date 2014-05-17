@@ -4,7 +4,7 @@ layout: post
 maintitle: "Abroad at Home: Accounts of the Invisible - {Young}ist"
 headline: "Abroad at Home: Accounts of the Invisible"
 tagline: undefined
-featuredphoto: "http://tinypic.com/r/24cslsk/8"
+featuredphoto: "http://i60.tinypic.com/24cslsk.jpg"
 featuredphotoalttext: A student interviewed for the film
 videourl: "http://vimeo.com/95435773"
 contributorphoto: undefined
