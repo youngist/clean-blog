@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Abroad at Home: Accounts of the Invisible - {Young}ist"
+headline: "Abroad at Home: Accounts of the Invisible"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
-videourl: undefined
+featuredphoto: "http://tinypic.com/r/24cslsk/8"
+featuredphotoalttext: A student interviewed for the film
+videourl: "http://vimeo.com/95435773"
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
+tags: 
+  - students
+  - "higher-education"
+  - "students-of-color"
+categories: 
+  - video
+contributors: 
+  - Timothy Garcia
 ---
 
 "Abroad at Home: Accounts of the Invisible" is a short documentary that takes a look into student life at Middlebury college by exploring experiences of Students of Color. The aim of the project is to examine the various narratives that exist rather than sticking to the single narrative that usually exists when discussing the "racial experience" at Middlebury and at College in general. By incorporating multiple voices and faces, this project attempts to allow these wide range of experiences stand on their own. In addition, "Abroad at Home" wants to be critical of Middlebury college and present voices that tend to be unheard or worse tokenized. There were 37 interviews completed for this project.
