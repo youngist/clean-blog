@@ -4,9 +4,9 @@ layout: post
 maintitle: "Abroad at Home: Accounts of the Invisible - {Young}ist"
 headline: "Abroad at Home: Accounts of the Invisible"
 tagline: undefined
-featuredphoto: "http://37.media.tumblr.com/e5f002093b561ca6e3c346c2e0550033/tumblr_n5qu7iBgQv1rq2ndso1_1280.png"
+featuredphoto: http://37.media.tumblr.com/e5f002093b561ca6e3c346c2e0550033/tumblr_n5qu7iBgQv1rq2ndso1_1280.png
 featuredphotoalttext: A student interviewed for the film
-videourl: "http://vimeo.com/95435773"
+videourl: http://vimeo.com/95435773
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
