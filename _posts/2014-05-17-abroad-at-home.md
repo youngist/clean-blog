@@ -29,7 +29,7 @@ Created and Directed by - Timothy Garcia '14
 Block Party Images by - Daniel Andrada and Sasha Schell
 Music - "Ain't Hard to Tell" Instrumental
 
-Special Thanks
+Special Thanks:
 Middlebury College Department of Film and Media Culture
 FMMC0700B
 Ethan Murphy
