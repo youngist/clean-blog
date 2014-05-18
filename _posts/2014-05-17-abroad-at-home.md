@@ -12,7 +12,7 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 tags: 
-  - students
+  - race
   - "higher-education"
   - "students-of-color"
 categories: 
