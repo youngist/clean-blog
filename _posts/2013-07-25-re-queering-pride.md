@@ -5,7 +5,7 @@ categories: article
 excerpt: "Re-Queering Pride"
 maintitle: "Re-Queering Pride - {Young}ist"
 headline: "Re-Queering Pride"
-tagline: "Re-Queering Pride"
+tagline: "How can we get back to the radical roots of our LGBTQ movement?"
 featuredphoto: "http://media.tumblr.com/40848126c4234fb6775cb3407de991e6/tumblr_inline_mqhct25cfT1qz4rgp.jpg"
 featuredphotoalttext: "illustration of people yelling at police with the words 'Stonewall was a police riot'"
 videourl: undefined
