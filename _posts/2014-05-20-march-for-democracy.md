@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "California March for Democracy - {Young}ist"
 headline: California March for Democracy
