@@ -7,12 +7,11 @@ tagline: undefined
 featuredphoto: "http://37.media.tumblr.com/2d74b7fa3da78f065049d6a98e354b38/tumblr_n5qvb2tEXH1rq2ndso1_1280.png"
 featuredphotoalttext: undefined
 videourl: //player.vimeo.com/video/95350368
-contributor: 
-- Alex Stevens
+contributor: Alex Stevens
 contributorphoto: "https://pbs.twimg.com/profile_images/2473766939/uvibvys4gbo50601ngdm.jpeg"
 contributorshortbio: "Poet-Machiavel, Playful Radical, Organizer @NationBuilder, tweeting dissident-political flotsam & cyber-cultural jetsam. Opinions thine"
 contributortwitter: Alexstevens
-contributorage: 01/04/1988
+contributorage: 01/04/1989
 categories: 
   - video
 tags: 
