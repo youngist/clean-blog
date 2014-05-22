@@ -4,7 +4,9 @@ layout: post
 maintitle: "You are more than your trans self: Ryka Aoki's He Mele A Hilo - {Young}ist"
 headline: "You are more than your trans self: Ryka Aoki's He Mele A Hilo"
 tagline: undefined
-categories: editors
+categories: 
+  - featured
+  - editors
 featuredphoto: "http://alinemagazine.files.wordpress.com/2012"
 featuredphotoalttext: Trans author and activist Ryka Aoki
 videourl: undefined
