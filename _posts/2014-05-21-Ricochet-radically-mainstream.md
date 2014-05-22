@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "http://ricochetmedia.ca/img/logo/logo-md-padding-bottom.png"
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: "https://twitter.com/mickleemurph"
+contributorphoto: "https://pbs.twimg.com/profile_images/2069397429/ScannedImage-60.jpg"
 contributorshortbio: Reporter. A furious return to basics. Right hands as referees.
 contributortwitter: Mickleemurph
 contributorage: undefined
