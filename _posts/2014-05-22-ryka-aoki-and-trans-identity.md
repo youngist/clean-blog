@@ -6,11 +6,11 @@ headline: "You are more than your trans self: Ryka Aoki's He Mele A Hilo"
 tagline: undefined
 categories: 
   - featured
-  - editors
 featuredphoto: "http://alinemagazine.files.wordpress.com/2012/04/dsc9037.jpg"
-featuredphotoalttext: Trans author and activist Ryka Aoki
+featuredphotoalttext: undefined
 videourl: undefined
-contributor: emma caterine
+contributor: 
+- emma caterine
 contributorphoto: "https://pbs.twimg.com/profile_images/433085590729277441/fIyODboS.jpeg"
 contributorshortbio: "Though Emma spends most of her time community organizing with Red Umbrella Project and writing non-fiction about police brutality and prison abolitionism, she also pens the occasional sci-fi story, memoir piece, or not-so-subtle mockery of Buzzfeed style articles (see Maximum RocknRoll #368)."
 contributortwitter: emmacaterine
