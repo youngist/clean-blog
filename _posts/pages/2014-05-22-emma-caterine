@@ -2,17 +2,25 @@
 layout: default
 category: page
 maintitle: Emma Caterine
-titlename: Emma Caterine
+titlname: Emma Caterine
 class: contributor
 position: contributor
-contributorage: undefined
 excerpt: Emma Caterine is a sell-out who has gotten kinda desperate for affirmation from younger trans women that she’s still cool (she’s not). Though she spends most of her time community organizing with Red Umbrella Project and writing non-fiction about police brutality and prison abolitionism, she also pens the occasional sci-fi story, memoir piece, or not-so-subtle mockery of Buzzfeed style articles (see Maximum RocknRoll #368).
-image: https://pbs.twimg.com/profile_images/433085590729277441/fIyODboS.jpeg
+image: "https://pbs.twimg.com/profile_images/433085590729277441/fIyODboS.jpeg"
 bio: undefined
-contributorage: undefined
-coverphoto: undefined
 contributortwitter: emmacaterine
+coverphoto: undefined
 contributors: 
-- Emma Caterine
+  - Emma Caterine
+published: true
+headline: undefined
+tagline: undefined
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
+contributorphoto: undefined
+contributorshortbio: undefined
+contributorage: undefined
 ---
+
 {% include contrib_feed_post_layout.html %}
