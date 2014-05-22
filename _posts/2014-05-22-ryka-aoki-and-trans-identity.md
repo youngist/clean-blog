@@ -7,7 +7,7 @@ tagline: undefined
 categories: 
   - featured
 featuredphoto: "http://alinemagazine.files.wordpress.com/2012/04/dsc9037.jpg"
-featuredphotoalttext: undefined
+featuredphotoalttext: Author Ryka Aoki reading her work
 videourl: undefined
 contributor: 
   - emma caterine
