@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "You are more than your trans self: Ryka Aoki's He Mele A Hilo - {Young}ist"
 headline: "You are more than your trans self: Ryka Aoki's He Mele A Hilo"
