@@ -15,6 +15,12 @@ contributorphoto: "https://pbs.twimg.com/profile_images/433085590729277441/fIyOD
 contributorshortbio: "Though Emma spends most of her time community organizing with Red Umbrella Project and writing non-fiction about police brutality and prison abolitionism, she also pens the occasional sci-fi story, memoir piece, or not-so-subtle mockery of Buzzfeed style articles (see Maximum RocknRoll #368)."
 contributortwitter: emmacaterine
 contributorage: undefined
+contributors: 
+  - Emma Caterine
+tags: 
+  - trans
+  - culture
+  - media
 ---
 
 As the confetti falls, lights fade on JUNIOR and the sound of typing. FAITH, in a white laced Filipiniana Wedding gown, enters to introduce the members of HER wedding party. 
