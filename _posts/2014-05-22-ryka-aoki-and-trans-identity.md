@@ -7,7 +7,7 @@ tagline: undefined
 categories: 
   - featured
   - editors
-featuredphoto: "http://alinemagazine.files.wordpress.com/2012"
+featuredphoto: "http://alinemagazine.files.wordpress.com/2012/04/dsc9037.jpg"
 featuredphotoalttext: Trans author and activist Ryka Aoki
 videourl: undefined
 contributor: emma caterine
