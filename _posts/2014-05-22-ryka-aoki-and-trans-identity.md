@@ -17,7 +17,7 @@ contributortwitter: emmacaterine
 contributorage: undefined
 ---
 
-_As the confetti falls, lights fade on JUNIOR and the sound of typing. FAITH, in a white laced Filipiniana Wedding gown, enters to introduce the members of HER wedding party. 
+As the confetti falls, lights fade on JUNIOR and the sound of typing. FAITH, in a white laced Filipiniana Wedding gown, enters to introduce the members of HER wedding party. 
 FAITH: I am Faith Sia-Lippin, born the day bombs fell on Manila and Pearl Harbor.
 -“When the Purple Settles” by Francis Tanglao-Aguas
 
