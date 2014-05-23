@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Leaving Trans Organizers in the Dust - {Young}ist"
 headline: Leaving Trans Organizers in the Dust
