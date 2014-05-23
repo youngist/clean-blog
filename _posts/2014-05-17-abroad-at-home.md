@@ -16,7 +16,7 @@ tags:
   - "higher-education"
   - "students-of-color"
 categories: 
-  - video
+  - featured
 contributors: 
   - Timothy Garcia
 ---
