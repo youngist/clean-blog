@@ -20,7 +20,7 @@ featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: undefined
 contributorshortbio: undefined
-contributorage: undefined
+contributorage: 1990-09-21
 ---
 
 {% include contrib_feed_post_layout.html %}
