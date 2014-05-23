@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "These Students Put Their Faith in Organizing, You Won't Believe What Happened Next - {Young}ist"
 headline: "These Students Put Their Faith in Organizing, You Won't Believe What Happened Next"
