@@ -17,6 +17,8 @@ tags:
   - workers
   - trans
   - labor
+categories: 
+  - featured
 ---
 
 Emily Augusta began her transition in September 2012. Underemployed and without healthcare, she started taking illegal hormones she purchased on the street. She had moved to DC from Connecticut in the height of the Occupy movement, where she had gotten involved with the DC encampment’s labor committee. Augusta came from a poor, working class family in Connecticut, where she lost her mother at a young age. By the time she was 20, she was working full time to support herself. “I remember working in this sweatshop in Seymour, Connecticut,” she said. “It was so hot in some areas that the boss had a nail behind the thermometer so that the needle never moved past 120 degrees even though it got way hotter than 120 degrees.”
