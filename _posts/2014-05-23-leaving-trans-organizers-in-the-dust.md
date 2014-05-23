@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/2876015526/836573847cf1209392334de3cf462717.png"
 contributorshortbio: "un-ironically saying yolo since 2012."
 contributortwitter: rynseid
-contributorage: 7/25/1995
+contributorage: 7/25/1996
 contributors: 
   - Kathryn Seidewitz
 tags: 
