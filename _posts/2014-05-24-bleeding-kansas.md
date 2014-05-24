@@ -4,7 +4,7 @@ layout: post
 maintitle: "Bleeding Kansas: 60 years of Brown v Board of Education - {Young}ist"
 headline: Bleeding Kansas
 tagline: undefined
-featuredphoto: "https://flic.kr/p/nHFYtR"
+featuredphoto: "https://www.flickr.com/photos/116523228@N03/14071969600/in/set-72157644865828713/player/"
 featuredphotoalttext: Students attend the rally in Topeka for the 60th anniversary of Brown v Board of Education
 videourl: undefined
 contributorphoto: "https://scontent-a-lga.xx.fbcdn.net/hphotos-ash3/t1.0-9/578131_10150930536646726_815231653_n.jpg"
