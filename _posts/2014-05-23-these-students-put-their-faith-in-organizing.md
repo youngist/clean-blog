@@ -7,6 +7,8 @@ tagline: undefined
 featuredphoto: "https://flic.kr/p/nr7CY6"
 featuredphotoalttext: "Students in LA deliver 4,000 petitions"
 videourl: //www.youtube.com/embed/6F3Nq0XcyDE
+contributor: 
+- Alberto Retana, Community Coalition
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
