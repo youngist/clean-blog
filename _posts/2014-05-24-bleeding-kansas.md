@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Bleeding Kansas: 60 years of Brown v Board of Education - {Young}ist"
 headline: Bleeding Kansas
@@ -95,7 +95,4 @@ Talbert told {Young}ist that “the tax cuts are starting to impact the ability 
 
 When asked what she thought of _Brown_’s legacy given the situation in Kansas today, Talbert did not mince words. 
 
-“What it means is that we have taken our eyes off the ball, so to speak, and we have yet to realize my grandmother's dream of equitable educational opportunities for all children regardless of race or income or economic circumstances.” 
-
-   
-
+“What it means is that we have taken our eyes off the ball, so to speak, and we have yet to realize my grandmother's dream of equitable educational opportunities for all children regardless of race or income or economic circumstances.”
