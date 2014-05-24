@@ -5,7 +5,7 @@ maintitle: "You are more than your trans self: Ryka Aoki's He Mele A Hilo - {You
 headline: "You are more than your trans self: Ryka Aoki's He Mele A Hilo"
 tagline: undefined
 categories: 
-  - featured
+  - editors
 featuredphoto: "http://alinemagazine.files.wordpress.com/2012/04/dsc9037.jpg"
 featuredphotoalttext: Author Ryka Aoki reading her work
 videourl: undefined
