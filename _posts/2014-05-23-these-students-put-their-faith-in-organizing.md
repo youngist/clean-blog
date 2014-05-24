@@ -4,7 +4,7 @@ layout: post
 maintitle: "These Students Put Their Faith in Organizing, You Won't Believe What Happened Next - {Young}ist"
 headline: "These Students Put Their Faith in Organizing, You Won't Believe What Happened Next"
 tagline: undefined
-featuredphoto: "https://flic.kr/p/nr7CY6"
+featuredphoto: "http://37.media.tumblr.com/5f3628de5f0de0d14243fcb797a46459/tumblr_n625hiZfnB1rq2ndso1_1280.png"
 featuredphotoalttext: "Students in LA deliver 4,000 petitions"
 videourl: //www.youtube.com/embed/6F3Nq0XcyDE
 contributor: 
