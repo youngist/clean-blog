@@ -2,10 +2,10 @@
 published: true
 layout: post
 categories: article
-maintitle: "How Capitalism used boredom to destroy a generation’s imagination - {Young}ist"
-headline: How Capitalism used boredom to destroy a generation’s imagination
-tagline: undefined
-featuredphoto: "“http://www.uiaa.org/careers/blog/viewphoto.asp?id=444”"
+maintitle: "The Revolution Should Not Be Boring - {Young}ist"
+headline: The Revolution Should Not Be Boring
+tagline: "How Capitalism used boredom to destroy a generation’s imagination"
+featuredphoto: "http://www.uiaa.org/careers/blog/viewphoto.asp?id=444”"
 featuredphotoalttext: undefined
 videourl: undefined
 tags: 
@@ -13,8 +13,8 @@ tags:
   - organizing
   - youth
 contributors: 
-  - "h kapp-klote"
-contributorphoto: "“http://37.media.tumblr.com/8a6c3fa02dd8ae1702ce336d6f8ba264/tumblr_n6068t9ZVj1rq2ndso1_500.jpg”"
+  - "H Kapp-Klote"
+contributorphoto: “http://37.media.tumblr.com/8a6c3fa02dd8ae1702ce336d6f8ba264/tumblr_n6068t9ZVj1rq2ndso1_500.jpg”"
 contributorshortbio: "Poet-Machiavel, Playful Radical, Organizer @99Rise, Engagement Ed. @theyoungist, tweeting dissident-political flotsam & cyber-cultural jetsam. Opinions thine."
 contributortwitter: hannahkk
 contributorage: 10/08/1990
@@ -22,7 +22,7 @@ contributorage: 10/08/1990
 
 Say what you will about advanced capitalism, it's definitely lively. The ecosystem is being destroyed, there is a fundamental disconnect between those in power and those they are supposed to represent, and white supremacy, heteropatriarchy, and neoliberalism are all consuming. These are enormous problems, but despite their disastrous manifestations, workers, students, etc. continuously feel bored". 
 
-Actually, people are bored everywhere. Cubicle workers [describe themselves](http://www.managementtoday.co.uk/news/1187016/three-quarters-regret-career-choice-third-bored-work-says-survey/)as "bored" of their work. Surveys show that boredom is one of the most common and damaging problems in [immigration detention centers](http://www.cvt.org/sites/cvt.org/files/Report_TorturedAndDetained_Nov2013.pdf). We millennials, a punchline of a generation, are lambasted for our supposed propensity to be "bored" by office jobs. Homeless folks often face challenges in securing a living situation not only because of the instability of their living situation each day, but also because of chronic boredom. 
+Actually, people are bored everywhere. Cubicle workers [describe themselves](http://www.managementtoday.co.uk/news/1187016/three-quarters-regret-career-choice-third-bored-work-says-survey/) as "bored" of their work. Surveys show that boredom is one of the most common and damaging problems in [immigration detention centers](http://www.cvt.org/sites/cvt.org/files/Report_TorturedAndDetained_Nov2013.pdf). We millennials, a punchline of a generation, are lambasted for our supposed propensity to be "bored" by office jobs. Homeless folks often face challenges in securing a living situation not only because of the instability of their living situation each day, but also because of chronic boredom. 
 
 We don't see this boredom as systemic because boredom is characterized by the dominant culture as an individual problem to be solved – fleeting, a personal failing to appreciate life's complexities. Boredom, simply put, is your own fault.
 
