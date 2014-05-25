@@ -15,7 +15,7 @@ contributorage: 10/08/1990
 categories: 
   - editors
 tags: 
- - capitalism
+  - capitalism
   - youth
   - organizing
 contributors: 
