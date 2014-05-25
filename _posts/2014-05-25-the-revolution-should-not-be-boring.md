@@ -3,13 +3,13 @@
 published: true
 layout: post
 maintitle: "The Revolution Should Not Be Boring - {Young}ist"
-headline: The Revolution Should Not Be Boring
+headline: "The Revolution Should Not Be Boring"
 tagline: How Capitalism used boredom to crush a generation's imagination
 featuredphoto: “http://www.wildriverrogues.com/wp-content/uploads/2012/04/office-with-cubicles.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: “http://24.media.tumblr.com/417d7e1eae2be9a86444a77238bfc90d/tumblr_n64xvrfjQF1rq2ndso1_250.png”
-contributorshortbio: “H is a Kansas native trapped next to a coast.  They think about power, organizing, and pizza in Washington DC.”
+contributorshortbio: "H is a Kansas native trapped next to a coast.  They think about power, organizing, and pizza in Washington DC"
 contributortwitter: hannahkk
 contributorage: 10/08/1990
 categories: 
