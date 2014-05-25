@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: article
 maintitle: "How Capitalism used boredom to destroy a generation’s imagination - {Young}ist"
@@ -30,18 +30,18 @@ But in reality, boredom is really a symptom of late capitalism: the dark mirror 
 
 If there is boredom everywhere, how have we missed the connection to capitalism?  Partially, it's because there is an individualist streak in characterizations of boredom: a sort of Randian indictment of the bored. The first recorded use of "boredom" is in Charles Dickens' Bleak House: on the first page, a wealthy lord asks his wife if it is still raining and she responds: "Yes, my love. And I am bored to death with it. Bored to death with this place. Bored to death with my life. Bored to death with myself". From its origin, boredom was serious business – and focused on the self.  
 
-The perpetual rhetoric device of my fourth grade teacher ("Are you bored, or are you boring?") reflects the same intolerance for the bored as Louie C.K. when he rails,
-“I’m bored,” is a useless thing to say. I mean, you live in a great, big, vast world that you’ve seen none percent of. Even the inside of your own mind is endless: it goes on forever, inwardly, do you understand? The fact that you’re alive is amazing, so you don’t get to say, “I’m bored.”  
+The perpetual rhetoric device of my fourth grade teacher ("Are you bored, or are you boring?") reflects the same intolerance for the bored as Louie C.K. when [he rails](https://www.youtube.com/watch?v=DLxeYDl0H6Q),
+> “I’m bored,” is a useless thing to say. I mean, you live in a great, big, vast world that you’ve seen none percent of. Even the inside of your own mind is endless: it goes on forever, inwardly, do you understand? The fact that you’re alive is amazing, so you don’t get to say, “I’m bored.”  
 
-Not everyone who combats boredom is so derisive: the active citizenry of Yahoo Answers are meticulous in their responses to questions like “I'm bored at home. very bored” creating detailed catalogs of ways to alleviate boredom.  
+Not everyone who combats boredom is so derisive: the active citizenry of Yahoo Answers are meticulous in their responses to questions like “[I'm bored at home. very bored](https://answers.yahoo.com/question/index?qid=20130602222816AA0kj6I)" creating detailed catalogs of ways to alleviate boredom.  
 
 The inescapable paradox of boredom is that there are a number of reasons why one shouldn't be bored. And yet the feeling persists: boredom's seeming impossibility are also what makes it powerful. In our never unplugged, 3D video game world, the fact that one can still be bored in the presence of near constant stimuli is remarkable.  Boredom prevails not because of an individual's failing, or because of a lack of options to alleviate it, but because it is systemic. 
 
-Plan C, in "We Are All Very Anxious," connects persistent emotions of an era to its social structures, seeing boredom as only a former underpinning emotion of society, part of the emotional numbness and tedium of the industrial era. Boredom, as Plan C sees it, was eroded by mass surveillance, constant technological stimuli and economic insecurity, giving way to anxiety- characteristic of precarity and hopelessness.  
+Plan C, in "[We Are All Very Anxious](http://www.weareplanc.org/we-are-all-very-anxious#.U2LAwVVdUj9)," connects persistent emotions of an era to its social structures, seeing boredom as only a former underpinning emotion of society, part of the emotional numbness and tedium of the industrial era. Boredom, as Plan C sees it, was eroded by mass surveillance, constant technological stimuli and economic insecurity, giving way to anxiety- characteristic of precarity and hopelessness.  
 
 But boredom is anxiety, just a type of anxiety that keeps us immobile – staring at the ceiling, looking at the wall – and more importantly, powerless. The only difference is that we pathologize anxiety – we disdain boredom.  
 
-Yet, bored people are bored because it is structural in nature: it is tied to and constrained by our material reality. Homeless Voices for Justice, a homeless-led advocacy group in Maine, often discusses how once you're homeless, your world shrinks to the few blocks between the day shelter, the bed, and the soup kitchen. Juliette Hough describes this in her study of homeless women's boredom in hostels, quoting a woman who notices that:
+Yet, bored people are bored because it is structural in nature: it is tied to and constrained by our material reality. [Homeless Voices for Justice](http://www.preblestreet.org/homeless_voices.php), a homeless-led advocacy group in Maine, often discusses how once you're homeless, your world shrinks to the few blocks between the day shelter, the bed, and the soup kitchen. Juliette Hough describes this in her study of homeless women's boredom in hostels, quoting a woman who notices that:
 
 "‘It all boils down to money, having money isn’t it? If we didn’t need money in this world, we could do things without money, it would be much easier […] And boredom then sets in then cos you think well you can’t, I can’t afford to go out because how am I going to live the next day?’"   
 
@@ -51,8 +51,8 @@ And the cycle continues, as Hough describes:
 
 How can one be anything but bored when our physical and material constraints limit our ability to make even everyday change? Suddenly, the Millennial generation’s supposed apathy makes sense – in a privatized, stratified, world, options for change in one’s own world are limited.  As access and autonomy is increasingly limited by one's options, whether one is incarcerated or homeless, or without income or deeply in debt, how quickly does one's imagination of even small changes erode? Boredom eradicates possibility, and thus eliminates imagination. 
 
-And it is because of this that some of the best methods of creating change in the current era come out of imagination – people who are willing to look outside what previously seemed possible. Prison abolition is grounded in imagining new ways to bring justice into peoples’ lives than our current racist system of mass incarceration. Debt strikes are built on finding new ways to dismantle corporate dominion. Cooperatives of every kind – for workers, for consumers – create a new way of relating to others, ourselves, and even to material and physical constraints. Resisting capitalism takes imagination, so reclaiming our imagination –  is key to reclaiming power.  
+And it is because of this that some of the best methods of creating change in the current era come out of imagination – people who are willing to look outside what previously seemed possible. Prison abolition is grounded in imagining new ways to bring justice into peoples’ lives than our current racist system of mass incarceration. [Debt strikes](http://strikedebt.org/) are built on finding new ways to dismantle corporate dominion. Cooperatives of every kind – for [workers](http://shiftchange.org/), for [consumers](http://detroitblackfoodsecurity.org/co_op.html) – create a new way of relating to others, ourselves, and even to material and physical constraints. Resisting capitalism takes imagination, so reclaiming our imagination –  is key to reclaiming power.  
 
 Fighting boredom is key to fighting the oppressive structures that create it: you cannot build an alternative system until you can imagine it. To fight back, redistribute power, and solve the colossal problems of our lively world, we will first have to take back our imaginations.  
-
+---
 
