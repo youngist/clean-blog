@@ -5,7 +5,7 @@ categories: editors
 maintitle: "The Revolution Should Not Be Boring - {Young}ist"
 headline: The Revolution Should Not Be Boring
 tagline: "How Capitalism used boredom to destroy a generation’s imagination"
-featuredphoto: "http://www.uiaa.org/careers/blog/viewphoto.asp?id=444”
+featuredphoto: "http://24.media.tumblr.com/da623978fbe270857925e1e7d44074f1/tumblr_n64w0w9jEE1rq2ndso1_1280.jpg”
 featuredphotoalttext: undefined
 videourl: undefined
 tags: 
