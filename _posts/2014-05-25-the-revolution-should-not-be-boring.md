@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: editors
+categories: article
 maintitle: "The Revolution Should Not Be Boring - {Young}ist"
 headline: "The Revolution Should Not Be Boring"
 tagline: "How Capitalism used boredom to destroy a generation’s imagination"
@@ -54,5 +54,5 @@ How can one be anything but bored when our physical and material constraints lim
 And it is because of this that some of the best methods of creating change in the current era come out of imagination – people who are willing to look outside what previously seemed possible. Prison abolition is grounded in imagining new ways to bring justice into peoples’ lives than our current racist system of mass incarceration. [Debt strikes](http://strikedebt.org/) are built on finding new ways to dismantle corporate dominion. Cooperatives of every kind – for [workers](http://shiftchange.org/), for [consumers](http://detroitblackfoodsecurity.org/co_op.html) – create a new way of relating to others, ourselves, and even to material and physical constraints. Resisting capitalism takes imagination, so reclaiming our imagination –  is key to reclaiming power.  
 
 Fighting boredom is key to fighting the oppressive structures that create it: you cannot build an alternative system until you can imagine it. To fight back, redistribute power, and solve the colossal problems of our lively world, we will first have to take back our imaginations.  
----
+
 
