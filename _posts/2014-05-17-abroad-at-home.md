@@ -6,7 +6,7 @@ headline: "Abroad at Home: Accounts of the Invisible"
 tagline: Middlebury College students discuss racism and tokenism at the Vermont college
 featuredphoto: "http://37.media.tumblr.com/e5f002093b561ca6e3c346c2e0550033/tumblr_n5qu7iBgQv1rq2ndso1_1280.png"
 featuredphotoalttext: A student interviewed for the film
-videourl: "//player.vimeo.com/video/95435773"
+videourl: //player.vimeo.com/video/95435773
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
@@ -17,6 +17,7 @@ tags:
   - "students-of-color"
 categories: 
   - featured
+  - video
 contributors: 
   - Timothy Garcia
 ---
