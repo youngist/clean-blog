@@ -43,6 +43,9 @@ The withdrawal of Lagarde has sparked major backlash. Students, administration, 
 In response to McCartney’s email, Smith students wrote [an open letter](https://docs.google.com/a/youngist.org/document/d/1x6cpavh570kZ-Iqb9816_wHgehrj4DmKPNcwByd1WP4/edit) that was distributed across campus and signed by 215 students, as of May 19. The document, though unchanging in content, is being continuously updated to include the signatures of students who endorse the message but could not sign it prior to it being sent out. 
 
 
+
+> About us:
+
 Originally from El Paso, Texas, Alyssa has been an activist from a very young age. Passionate about evoking change, she began attending protests and demonstrations while living in San Diego with her mother at the age of 7. She continues to do so as she enters her third year at Smith College, where she is majoring in the Study of Women and Gender.
 
 Coming from Carmel, New York, Kym knew at a young age that the conservative nature of their small town was not for them when feminist rants on the playground were not appreciated by students or teachers. Though politically engaged, Kym had little outlet outside of the internet for their activism until starting school at Smith College in 2012. Kym is now majoring in the Study of Women and Gender as well as studying Government and Archives.
