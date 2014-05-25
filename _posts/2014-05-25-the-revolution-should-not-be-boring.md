@@ -5,7 +5,7 @@ layout: post
 maintitle: "The Revolution Should Not Be Boring - {Young}ist"
 headline: The Revolution Should Not Be Boring
 tagline: How Capitalism used boredom to crush a generation's imagination
-featuredphoto: “http://24.media.tumblr.com/da623978fbe270857925e1e7d44074f1/tumblr_n64w0w9jEE1rq2ndso1_1280.jpg"
+featuredphoto: “http://www.wildriverrogues.com/wp-content/uploads/2012/04/office-with-cubicles.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: “http://37.media.tumblr.com/8a6c3fa02dd8ae1702ce336d6f8ba264/tumblr_n6068t9ZVj1rq2ndso1_500.jpg”
