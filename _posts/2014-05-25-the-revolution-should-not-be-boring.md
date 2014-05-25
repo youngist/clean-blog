@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: article
+categories: editors
 maintitle: "The Revolution Should Not Be Boring - {Young}ist"
 headline: The Revolution Should Not Be Boring
 tagline: "How Capitalism used boredom to destroy a generation’s imagination"
