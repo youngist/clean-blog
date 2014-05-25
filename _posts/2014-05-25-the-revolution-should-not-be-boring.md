@@ -35,7 +35,7 @@ If there is boredom everywhere, how have we missed the connection to capitalism?
 
 The perpetual rhetoric device of my fourth grade teacher ("Are you bored, or are you boring?") reflects the same intolerance for the bored as Louie C.K. when he rails,
 
-“I’m bored,” is a useless thing to say. I mean, you live in a great, big, vast world that you’ve seen none percent of. Even the inside of your own mind is endless: it goes on forever, inwardly, do you understand? The fact that you’re alive is amazing, so you don’t get to say, “I’m bored.”  
+> “I’m bored,” is a useless thing to say. I mean, you live in a great, big, vast world that you’ve seen none percent of. Even the inside of your own mind is endless: it goes on forever, inwardly, do you understand? The fact that you’re alive is amazing, so you don’t get to say, “I’m bored.”  
 
 Not everyone who combats boredom is so derisive: the active citizenry of Yahoo Answers are meticulous in their responses to questions like “[I'm bored at home. very bored](https://answers.yahoo.com/question/index?qid=20130602222816AA0kj6I)” creating detailed catalogs of ways to alleviate boredom.  
 
