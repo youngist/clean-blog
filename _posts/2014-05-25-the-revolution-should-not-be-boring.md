@@ -1,4 +1,3 @@
-i
 ---
 
 published: true
