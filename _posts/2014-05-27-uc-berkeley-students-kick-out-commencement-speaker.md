@@ -23,8 +23,6 @@ contributors:
   
 ---
 
-Since when does free speech require students stay quiet?                                                                 
-
 Since former University of California, Berkeley Chancellor Robert Birgeneau declined to receive an honorary degree from my very own Haverford College, commentators have decried the intolerance of the protesters who criticized his invitation to commencement. Student speech obstructed Birgeneau’s right to free speech, they say—as if its legitimate exercise requires the conferral of an honorary degree and a perch on a podium.
  
 Haverford President Daniel H. Weiss echoed such sentiments, if more diplomatically, in a May 20 [editorial](http://www.haverford.edu/news/stories/78507/51) for the Philadelphia Inquirer: “When an individual is invited to speak at an institution that holds freedom of expression as a core value, and then for whatever reason does not attend, the cause of free speech has inevitably suffered.”
