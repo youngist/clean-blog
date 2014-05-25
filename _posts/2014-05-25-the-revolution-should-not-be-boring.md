@@ -8,7 +8,7 @@ tagline: How Capitalism used boredom to crush a generation's imagination
 featuredphoto: “http://www.wildriverrogues.com/wp-content/uploads/2012/04/office-with-cubicles.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: “http://37.media.tumblr.com/8a6c3fa02dd8ae1702ce336d6f8ba264/tumblr_n6068t9ZVj1rq2ndso1_500.jpg”
+contributorphoto: “http://24.media.tumblr.com/417d7e1eae2be9a86444a77238bfc90d/tumblr_n64xvrfjQF1rq2ndso1_250.png”
 contributorshortbio: “H is a Kansas native trapped next to a coast.  They think about power, organizing, and pizza in Washington DC.”
 contributortwitter: hannahkk
 contributorage: 10/08/1990
