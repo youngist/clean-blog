@@ -15,8 +15,8 @@ contributorage: 10/08/1990
 categories: 
   - editors
 tags: 
+ - capitalism
   - youth
-  - capitalism
   - organizing
 contributors: 
   - "H Kapp-Klote"
