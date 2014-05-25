@@ -43,7 +43,7 @@ But boredom is anxiety, just a type of anxiety that keeps us immobile – starin
 
 Yet, bored people are bored because it is structural in nature: it is tied to and constrained by our material reality. [Homeless Voices for Justice](http://www.preblestreet.org/homeless_voices.php), a homeless-led advocacy group in Maine, often discusses how once you're homeless, your world shrinks to the few blocks between the day shelter, the bed, and the soup kitchen. Juliette Hough describes this in her study of homeless women's boredom in hostels, quoting a woman who notices that:
 
-"‘It all boils down to money, having money isn’t it? If we didn’t need money in this world, we could do things without money, it would be much easier […] And boredom then sets in then cos you think well you can’t, I can’t afford to go out because how am I going to live the next day?’"   
+> ‘It all boils down to money, having money isn’t it? If we didn’t need money in this world, we could do things without money, it would be much easier […] And boredom then sets in then cos you think well you can’t, I can’t afford to go out because how am I going to live the next day?’   
 
 And the cycle continues, as Hough describes: 
 
