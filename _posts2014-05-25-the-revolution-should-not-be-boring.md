@@ -1,3 +1,5 @@
+---
+
 published: true
 layout: post
 maintitle: "The Revolution Should Not Be Boring - {Young}ist"
@@ -18,7 +20,9 @@ tags:
   - organizing
 contributors: 
   - "H Kapp-Klote"
+  
 ---
+
 Say what you will about advanced capitalism, it's definitely lively.  The ecosystem is being destroyed, there is a fundamental disconnect between those in power and those they are supposed to represent, and white supremacy, heteropatriarchy, and neoliberalism are all consuming.  These are enormous problems, but despite their disastrous manifestations, workers, students, etc. continuously feel bored". 
 
 Actually, people are bored everywhere. Cubicle workers [describe themselves](http://www.managementtoday.co.uk/news/1187016/three-quarters-regret-career-choice-third-bored-work-says-survey/) as "bored" of their work. Surveys show that boredom is one of the most common and damaging problems in [immigration detention centers](http://www.cvt.org/sites/cvt.org/files/Report_TorturedAndDetained_Nov2013.pdf). We millennials, a punchline of a generation, are [lambasted ](http://www.huffingtonpost.ca/mary-donohue/millennials-_b_5239628.html) or our supposed propensity to be "bored" by office jobs.  Homeless folks often face challenges in securing a living situation not only because of the instability of their living situation each day, but also because of chronic boredom. 
