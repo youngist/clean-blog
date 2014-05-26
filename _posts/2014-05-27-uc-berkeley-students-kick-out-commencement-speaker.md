@@ -3,7 +3,7 @@
 published: true
 layout: post
 maintitle: "Since when does free speech require students stay quiet? - {Young}ist"
-headline: "Since when does free speech require students stay quiet?"
+headline: Since when does free speech require students stay quiet?
 tagline: This year, students are standing up against unjust commencement speakers. UC Berkeley joins the fight.
 featuredphoto: https://www.flickr.com/photos/107162793@N07/14074673507/in/set-72157644829942674 
 featuredphotoalttext: Photo credit: Joe Seiler (The Haverford Clerk)
