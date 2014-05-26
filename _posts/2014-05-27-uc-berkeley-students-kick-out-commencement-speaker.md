@@ -6,12 +6,12 @@ maintitle: "Since when does free speech require students stay quiet? - {Young}is
 headline: Since when does free speech require students stay quiet?
 tagline: This year, students are standing up against unjust commencement speakers. UC Berkeley joins the fight.
 featuredphoto: https://www.flickr.com/photos/107162793@N07/14074673507/in/set-72157644829942674 
-featuredphotoalttext: Photo credit: Joe Seiler (The Haverford Clerk)
+featuredphotoalttext: "Photo credit: Joe Seiler (The Haverford Clerk)"
 videourl: undefined
 contributorphoto: http://37.media.tumblr.com/b7fe4f52d709b01c4f3457b777399428/tumblr_n627oaProE1rq2ndso1_1280.jpg
 contributortwitter: undefined
 contributorage: 03/29/1994
-contributorshortbio: Sam Warren is from northern California and attends Haverford College in Pennsylvania.
+contributorshortbio: "Sam Warren is from northern California and attends Haverford College in Pennsylvania."
 categories: 
   - featured
 tags: 
