@@ -8,7 +8,7 @@ tagline: This year, students are standing up against unjust commencement speaker
 featuredphoto: http://31.media.tumblr.com/804ab131d5fc816a12c42d3196bf27ec/tumblr_n65zgxmYkr1rq2ndso1_1280.png
 featuredphotoalttext: "Photo credit: Joe Seiler (The Haverford Clerk)"
 videourl: undefined
-contributorphoto: http://37.media.tumblr.com/b7fe4f52d709b01c4f3457b777399428/tumblr_n627oaProE1rq2ndso1_1280.jpg
+contributorphoto: http://24.media.tumblr.com/f650fe83790e522964499cca64b1df53/tumblr_n65zj2gp1P1rq2ndso1_400.png
 contributortwitter: undefined
 contributorage: 03/29/1994
 contributorshortbio: "Sam Warren is from northern California and attends Haverford College in Pennsylvania."
