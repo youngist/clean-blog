@@ -1,6 +1,6 @@
 ---
 
-published: false
+published: true
 layout: post
 maintitle: "Since when does free speech require students stay quiet? - {Young}ist"
 headline: "Since when does free speech require students stay quiet?"
