@@ -4,7 +4,7 @@ layout: post
 maintitle: "The Fisk Takeover - {Young}ist"
 headline: "The Fisk Takeover: Wesleyan student's recreate 1969 occupation in short film"
 tagline: undefined
-featuredphoto: "http://postimg.org/image/snffgxk1p/"
+featuredphoto: "http://s14.postimg.org/oeapergsh/fisk.png"
 featuredphotoalttext: A still from the film
 videourl: //www.youtube.com/embed/t1g5DQSOYUg
 contributorphoto: undefined
