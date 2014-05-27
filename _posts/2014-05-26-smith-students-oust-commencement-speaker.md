@@ -3,9 +3,9 @@
 published: true
 layout: post
 maintitle: "Smith Students Stand Up, Lagarde Backs Down - {Young}ist"
-headline: "Smith Students Oust IMF Speaker From Commencement"
+headline: "Smith Students Stand Up, Lagarde Backs Down"
 tagline: undefined
-featuredphoto: http://www.wildriverrogues.com/wp-content/uploads/2012/04/office-with-cubicles.jpg
+featuredphoto: http://i.telegraph.co.uk/multimedia/archive/02694/lagarde_2694139b.jpg
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: http://37.media.tumblr.com/57d7a5e66480519f0145bb8d46a54460/tumblr_n627wbrcdX1rq2ndso1_1280.jpg
