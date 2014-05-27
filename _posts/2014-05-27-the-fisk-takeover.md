@@ -6,7 +6,7 @@ headline: "The Fisk Takeover: Wesleyan student's recreate 1969 occupation in sho
 tagline: undefined
 featuredphoto: "http://postimg.org/image/snffgxk1p/"
 featuredphotoalttext: A still from the film
-videourl: "\"//www.youtube.com/embed/t1g5DQSOYUg\""
+videourl: //www.youtube.com/embed/t1g5DQSOYUg
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
