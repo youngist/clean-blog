@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "The Fisk Takeover - {Young}ist"
 headline: "The Fisk Takeover: Wesleyan student's recreate 1969 occupation in short film"
