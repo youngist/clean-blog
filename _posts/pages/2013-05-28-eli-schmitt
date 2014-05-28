@@ -1,0 +1,26 @@
+---
+layout: default
+category: page
+maintitle: Eli Schmitt
+titlname: Eli Schmitt
+class: contributor
+position: contributor
+excerpt: Eli Schmitt is an activist and educator based in New York City.
+image: "http://37.media.tumblr.com/61e134e6cd52574cb57e122b3efbd574/tumblr_n6060bZ3uy1rq2ndso1_1280.jpg"
+bio: undefined
+contributortwitter: eli_schmitt
+coverphoto: undefined
+contributors: 
+  - Eli Schmitt
+published: true
+headline: undefined
+tagline: undefined
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
+contributorphoto: undefined
+contributorshortbio: undefined
+contributorage: 7/12/1988
+---
+
+{% include contrib_feed_post_layout.html %}
