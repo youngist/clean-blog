@@ -17,6 +17,8 @@ tags:
   - "graduation-strikes-back"
   - organizing
   - capitalism
+contributors: 
+  - Eli Schmitt
 ---
 
 When I graduated from college and moved to New York City, I learned a lot about social justice movements, and how young people do or don’t fit into them. Some of what I learned was told to me by other people, some of it I noticed watching myself and my peers, and most of it I wished I had known sooner. I am writing this to you, social-change-oriented college graduates, college graduates to be, or just any young people living in capitalism, in the hopes that it might help you feel better and do more effective work sooner. 
