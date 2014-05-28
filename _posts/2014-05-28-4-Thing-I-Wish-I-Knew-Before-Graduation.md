@@ -5,7 +5,7 @@ maintitle: "4 Things I Wish I Knew Before Graduation About Working For Social Ch
 headline: 4 Things I Wish I Knew Before Graduation About Working For Social Change
 tagline: undefined
 featuredphoto: "http://www.carryoutcafe.com/wp-content/uploads/2012/05/bsa2.jpg"
-featuredphotoalttext: undefined
+featuredphotoalttext: Students toss their caps at graduation
 videourl: undefined
 contributorphoto: "http://37.media.tumblr.com/61e134e6cd52574cb57e122b3efbd574/tumblr_n6060bZ3uy1rq2ndso1_1280.jpg"
 contributorshortbio: Eli Schmitt is an activist and educator based in New York City.
