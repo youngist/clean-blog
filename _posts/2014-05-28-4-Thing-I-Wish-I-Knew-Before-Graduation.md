@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "4 Things I Wish I Knew Before Graduation About Working For Social Change - {Young}ist"
 headline: 4 Things I Wish I Knew Before Graduation About Working For Social Change
