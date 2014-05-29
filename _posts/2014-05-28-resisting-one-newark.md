@@ -1,13 +1,13 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Resisting One Newark - {Young}ist"
 headline: "Resisting One Newark "
 tagline: "Now with their own union, Newark students are resisting neoliberal reforms in their city. What can we expect from these powerful young people next?"
-featuredphoto: undefined
+featuredphoto: http://24.media.tumblr.com/96c1ec36768ed92d63fe578197f5440b/tumblr_n6bko7WhV01rq2ndso1_1280.jpg
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: "http://ravenrakia.files.wordpress.com/2011/09/dsc_0172.jpg"
+contributorphoto: http://ravenrakia.files.wordpress.com/2011/09/dsc_0172.jpg
 contributorshortbio: "freelance journalist. filmmaker: @kimanifilm, @1181documentary. #witchbloc nappy hair, never cared."
 contributortwitter: aintacrow
 contributorage: undefined
@@ -15,6 +15,7 @@ categories:
   - featured
 tags: 
   - students
+  - "graduation-strikes-back"
   - "high-school"
 contributors: 
   - Raven Rakia
