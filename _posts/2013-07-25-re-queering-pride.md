@@ -83,6 +83,5 @@ I refuse to believe that this is it. Not when time and time again, our experienc
 
 I write this in honor of the queer and trans* folks who lit the torch, setting my belly on fire and pushing me to stay critical. I write this in honor of queer and trans* folks who are still out there doing the work of liberation. I write this in honor of those queer and trans* folks for whom Pride comes like a gift from heaven. I write this in honor of all the different ways queers are making it in this world, and I write this with hope for all the ways we can do better by each other and ourselves.
 
-![](http://media.tumblr.com/e9e7429fb75ca944d0a6215320314378/tumblr_inline_mqhcviNqgo1qz4rgp.jpg)
 
 **You can follow Loan on Twitter @NTranLoan.**
