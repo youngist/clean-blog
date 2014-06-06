@@ -21,7 +21,7 @@ contributors:
   - James Cersonsky
 ---
 
-This post, which was curated by Youngist contributor James Cersonsky, originally appeared at StudentNation, and is republished here with permission.
+This post, which was curated by Youngist contributor James Cersonsky, originally appeared at [StudentNation](http://www.thenation.com/blog/180056/students-blockade-trans-justice-dish-18000-red-squares-and-push-california-divest-guns), and is republished here with permission.
 
 1. As Deportations Rage, Five Blockade for Queer and Trans Justice
 
