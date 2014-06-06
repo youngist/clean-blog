@@ -9,7 +9,7 @@ featuredphotoalttext: "Wagatwe Wanjuki, a former student at Tufts University, ad
 videourl: undefined
 contributorphoto: "http://i1.wp.com/www.blackgirldangerous.org/wp-content/uploads/2014/01/Hannah-Giorgis.jpg"
 contributorshortbio: "Ethiopian-American writer, organizer, artist, and awkward black girl trying to make sense of diaspora."
-contributortwitter: habeshafemme
+contributortwitter: ethiopennesays
 contributorage: 4/15/1991
 categories: 
   - featured
