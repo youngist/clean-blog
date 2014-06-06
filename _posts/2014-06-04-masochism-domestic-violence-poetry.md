@@ -2,11 +2,11 @@
 published: true
 layout: post
 categories: article
-excerpt: "Resisting Tropes: On Poetry, Masochism, & Domestic Violence"
-maintitle: "Resisting Tropes: On Poetry, Masochism, & Domestic Violence - {Young}ist"
-headline: Resisting Tropes: On Poetry, Masochism, & Domestic Violence
+excerpt: "Resisting Tropes: On Poetry, Masochism, and Domestic Violence"
+maintitle: "Resisting Tropes: On Poetry, Masochism, and Domestic Violence - {Young}ist"
+headline: Resisting Tropes: On Poetry, Masochism, and Domestic Violence
 tagline: undefined
-featuredphoto: "http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg"
+featuredphoto: http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg
 featuredphotoalttext: undefined
 categories: editors
 tags:
@@ -14,12 +14,13 @@ tags:
 - violence
 - queer
 contributors:
-- Christopher "Loma" Soto
-contributorphoto: "http://www.vidaweb.org/wp-content/uploads/2014/06/LomaPic.jpg"
+- Christopher Soto
+contributorphoto: http://www.vidaweb.org/wp-content/uploads/2014/06/LomaPic.jpg
 contributorshortbio: "Christopher Soto (aka Loma) is a queer latin@ punk poet who is concerned with dismantling patriarchy and white supremacy. They are currently curating Nepantla, an e-journal dedicated to queer poets of color, in collaboration with The Lambda Literary Foundation. They have work published in Columbia: A Journal, Acentos Review, Anti-, and more. They are an MFA candidate in Poetry at NYU."
 contributortwitter: undefined
 contributorage: undefined
 ---
+
 _PART I_
 At dinner she asked why I write such sad poems. And I told her, “my poems are not sad, they are masochistic.” My poems like a good choking, a good spanking. They want to be bound and gagged and told what to do. There is a pleasure that my poems derive from being under such control; from having trauma recalled and then stripped of its agency.
 
