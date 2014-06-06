@@ -2,7 +2,6 @@
 published: true
 layout: post
 categories: article
-excerpt: Resisting Tropes: On Poetry, Masochism, and Domestic Violence"
 maintitle: "Resisting Tropes: On Poetry, Masochism, and Domestic Violence - {Young}ist"
 headline: Resisting Tropes: On Poetry, Masochism, and Domestic Violence
 tagline: undefined
@@ -51,3 +50,4 @@ In a conversation with Audre Lorde, James Baldwin said, “Now you know it is no
 After twenty-five years, my father is still yelling at my mother. She is crying in the passenger seat. And the scene is so damn cliché, I can’t even write about it anymore… I finish a stanza, I read it aloud. I hate the sound of his name in my mouth. I delete it. He is all over the whitespace.
 
 _This piece was [originally featured](http://www.vidaweb.org/resisting-tropes-on-poetry-masochism-domestic-violence/) on VidaWeb._
+---
