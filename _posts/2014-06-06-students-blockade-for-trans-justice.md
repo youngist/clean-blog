@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Students Blockade for Trans Justice, Dish 18,000 Red Squares and Push California to Divest From Guns - {Young}ist"
 headline: "Students Blockade for Trans Justice, Dish 18,000 Red Squares and Push California to Divest From Guns"
