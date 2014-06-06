@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: " My Body Is More Than a Crime Scene: #WhyIDidntReport and What I Learned from Talking About It - {Young}ist"
 headline: "My Body Is More Than a Crime Scene: #WhyIDidntReport and What I Learned from Talking About It"
@@ -57,9 +57,4 @@ For the entirety of April, which was Sexual Assault Awareness Month, anti-violen
 
 #DecolonizeSAAM and other movements remind us that the way we hold one another even in the context of anti-violence work is hierarchical; it does not weight all survivors’ narratives equally. If we tell ourselves this doesn’t contribute to folks feeling unsafe when sharing their stories, we are lying. There is no universal victim narrative or survivor story. Indeed, women of color are [disproportionately affected by sexual violence](http://www.huffingtonpost.com/anahvia-taiyib/jezebel-pocahottie-mami-a_b_5113462.html)—and less likely to be believed when talking about it.
 
-What would a world in which all people felt empowered and supported to share the tyrannies we swallow every day even look like? What would it look like to envision [justice outside the prison-industrial complex](http://www.feministe.us/blog/archives/2012/01/30/some-transformative-justice-links/)? I don’t have those answers yet, but I do know that we won’t get there until we commit to hearing the voices of people who know sexual violence most intimately. We won’t shape any meaningful policy or practice unless we center the needs and wants of the person whose life is affected most. We won’t get anywhere in this movement unless victims and survivors can chart their own paths toward healing—on their own terms and in their own words. 
-
-
- 
-
-
+What would a world in which all people felt empowered and supported to share the tyrannies we swallow every day even look like? What would it look like to envision [justice outside the prison-industrial complex](http://www.feministe.us/blog/archives/2012/01/30/some-transformative-justice-links/)? I don’t have those answers yet, but I do know that we won’t get there until we commit to hearing the voices of people who know sexual violence most intimately. We won’t shape any meaningful policy or practice unless we center the needs and wants of the person whose life is affected most. We won’t get anywhere in this movement unless victims and survivors can chart their own paths toward healing—on their own terms and in their own words.
