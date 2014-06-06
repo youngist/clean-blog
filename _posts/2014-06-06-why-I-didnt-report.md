@@ -21,6 +21,8 @@ tags:
   - "online-organizing"
 ---
 
+_Trigger warning: Discussion of sexual violence and sexual assault_
+
 Years ago, I returned home from a regular day of high school with my mother and three siblings. We approached our front door and my mom felt instantly that something was wrong. I remember fear hanging thick in the air we breathed, the five of us unsure whether the person who had broken into our home was still there. And so my mother did what almost 30 years of living in the US told her was best: she called the police. Over an hour after she called, they finally came. And I didn’t feel any safer.
 
 I walk around New York City now, a 23-year-old Black woman, and the police still do not comfort me. I am a subject of suspicion, a walking target, one of many who are more likely to be assaulted rather than helped by the police—even and especially if we find ourselves in the face of violence. 
