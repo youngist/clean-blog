@@ -4,7 +4,7 @@ layout: post
 maintitle: "Resisting Tropes: On Poetry, Masochism, and Domestic Violence - {Young}ist"
 headline: Resisting Tropes: On Poetry, Masochism, and Domestic Violence
 tagline: undefined
-featuredphoto: http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg
+featuredphoto: "http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg"
 featuredphotoalttext: undefined
 categories: 
 - editors
@@ -14,7 +14,7 @@ tags:
 - queer
 contributors:
 - Christopher Soto
-contributorphoto: http://www.vidaweb.org/wp-content/uploads/2014/06/LomaPic.jpg
+contributorphoto: "http://www.vidaweb.org/wp-content/uploads/2014/06/LomaPic.jpg"
 contributorshortbio: Christopher Soto (aka Loma) is a queer latin@ punk poet who is concerned with dismantling patriarchy and white supremacy. They are currently curating Nepantla, an e-journal dedicated to queer poets of color, in collaboration with The Lambda Literary Foundation. 
 contributortwitter: undefined
 contributorage: undefined
