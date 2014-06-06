@@ -19,7 +19,6 @@ contributorphoto: "http://www.vidaweb.org/wp-content/uploads/2014/06/LomaPic.jpg
 contributorshortbio: Christopher Soto (aka Loma) is a queer latin@ punk poet who is concerned with dismantling patriarchy and white supremacy. They are currently curating Nepantla, an e-journal dedicated to queer poets of color, in collaboration with The Lambda Literary Foundation. 
 contributortwitter: undefined
 contributorage: undefined
-
 ---
 
 *_PART I_*
@@ -50,4 +49,4 @@ In a conversation with Audre Lorde, James Baldwin said, “Now you know it is no
 After twenty-five years, my father is still yelling at my mother. She is crying in the passenger seat. And the scene is so damn cliché, I can’t even write about it anymore… I finish a stanza, I read it aloud. I hate the sound of his name in my mouth. I delete it. He is all over the whitespace.
 
 _This piece was [originally featured](http://www.vidaweb.org/resisting-tropes-on-poetry-masochism-domestic-violence/) on VidaWeb._
----
+
