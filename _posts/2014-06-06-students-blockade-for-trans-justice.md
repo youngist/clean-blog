@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Students Blockade for Trans Justice, Dish 18,000 Red Squares and Push California to Divest From Guns - {Young}ist"
+headline: "Students Blockade for Trans Justice, Dish 18,000 Red Squares and Push California to Divest From Guns"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://www.thenation.com/sites/default/files/imagecache/main_node_view_image/rsz_nqtla_protest.jpg"
+featuredphotoalttext: "Five block the intersection outside the Santa Ana City Jail. (Photo: NQTLA)"
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "https://scontent-b-iad.xx.fbcdn.net/hphotos-prn1/t1.0-9/74031_10151499049836607_1066064015_n.jpg"
+contributorshortbio: "writer, organizer, counter-tourist."
+contributortwitter: cersonsky
+contributorage: "24"
+categories: 
+  - editors
+tags: 
+  - students
+  - organizing
+  - incarceration
+contributors: 
+  - James Cersonsky
 ---
 
 This post, which was curated by Youngist contributor James Cersonsky, originally appeared at StudentNation, and is republished here with permission.
