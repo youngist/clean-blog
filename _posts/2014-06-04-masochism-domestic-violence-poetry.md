@@ -8,6 +8,7 @@ headline: Resisting Tropes: On Poetry, Masochism, & Domestic Violence
 tagline: undefined
 featuredphoto: "http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg"
 featuredphotoalttext: undefined
+categories: editors
 tags:
 - family
 - violence
