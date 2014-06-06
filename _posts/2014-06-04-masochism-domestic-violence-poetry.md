@@ -2,13 +2,12 @@
 published: true
 layout: post
 categories: article
-excerpt: Resisting Tropes: On Poetry, Masochism, & Domestic Violence
-maintitle: Resisting Tropes: On Poetry, Masochism, & Domestic Violence - {Young}ist
+excerpt: "Resisting Tropes: On Poetry, Masochism, & Domestic Violence"
+maintitle: "Resisting Tropes: On Poetry, Masochism, & Domestic Violence - {Young}ist"
 headline: Resisting Tropes: On Poetry, Masochism, & Domestic Violence
 tagline: undefined
 featuredphoto: http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg
 featuredphotoalttext: undefined
-ined
 tags:
 - family
 - violence
