@@ -2,7 +2,7 @@
 published: true
 layout: post
 maintitle: "Resisting Tropes: On Poetry, Masochism, and Domestic Violence - {Young}ist"
-headline: Resisting Tropes: On Poetry, Masochism, and Domestic Violence
+headline: "Resisting Tropes: On Poetry, Masochism, and Domestic Violence"
 tagline: undefined
 featuredphoto: "http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg"
 featuredphotoalttext: undefined
