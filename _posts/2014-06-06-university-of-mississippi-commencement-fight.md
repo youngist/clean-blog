@@ -1,0 +1,36 @@
+---
+published: true
+maintitle: "Mississippi Studets Come Up Against Their Governor in Commencement Fight - {Young}ist"
+headline: Mississippi Studets Come Up Against Their Governor in Commencement Fight 
+featuredphoto: "http://media.nola.com/business_impact/photo/phil-bryant-horizontal-closejpg-37ada2fee6145bb0.jpg"
+category:
+- race
+- queer
+- "graduation-strikes-back"
+contributor:
+- Patricia Tortora
+contributorphoto: undefined
+contributortwitter: undefined
+contributorbio: "21
+Mississippian
+Unpaid Intern
+Masters Student
+Social Worker"
+contributorage: 3/9/1993
+---
+
+
+The [University of Mississippi Creed](http://www.olemiss.edu/info/creed.html) states that all those involved with the University are to “Believe in the respect for the dignity of each person.” Mississippi Governor Phil Bryant’s selection as commencement speaker misrepresents and dishonors this creed.
+
+Bryant recently signed [the Mississippi Religious Freedom Restoration Act](http://www.washingtonpost.com/blogs/govbeat/wp/2014/04/01/mississippi-passes-arizona-style-religious-freedom-bill/), which allows privately owned businesses to refuse service to same-sex couples in the name of religious freedom and is set to become law on July 1st. Supporters claim this bill mirrors federal Religious Freedom Restoration Act signed into law by president Bill Clinton to protect religious freedoms, and will do nothing but continue to enforce the first amendment. Although the bill is vague and does not specifically target a certain population group, critics fear the bill will allow for legal discrimination of Mississippian minorities, including the LGBTQ community, people of color, and individuals with non-Christian religious beliefs. Discrimination has not died in the state of Mississippi since the civil rights movement; it continues to plague our state socially. With the approval of this bill, discrimination is now legal and protected in a state notorious for its dark history of mistreatment. 
+
+On May 10, students attending graduation ceremonies adorned their caps and gowns with positive signs of equality [in protest against Bryant’s speech](http://www.clarionledger.com/story/news/politics/2014/05/09/ole-miss-graduation-protest-bryant/8895253/). More than 1,000 anti-discriminatory stickers were distributed to students, faculty, and families. One hundred individuals and distinguished members of the graduation platform wore honors cords signifying equality. Some graduates and their families boycotted the commencement speech entirely, for they felt that attending the commencement speech would show support for Bryant. 
+
+The creed is a living and breathing part of being a student at the University of Mississippi. Previous commencement speakers include civil rights activists such as [John Lewis](http://johnlewis.house.gov/) and [Myrlie Evers-Williams](http://www.biography.com/people/myrlie-evers-williams-205624), representatives of a progressive Mississippi and the university creed. Protecting the creed was particularly important for us this year, as we faced [various racist incidents](http://www.cnn.com/2014/02/21/us/mississippi-meredith-statue/) that brought national media and federal attention. A select few individuals from a predominantly white fraternity desecrated a statue of our school’s beloved civil rights leader James Meredith; others were caught shouting racial slurs and throwing alcohol on an African- American woman as she was walking near the campus. These events threatened the student body and called into question the values of university. As such, it was important for us to send out a positive message of acceptance, equality, and justice during graduation and represent Mississippians about to leave campus and enter society in a positive manner. 
+
+Since the announcement of Phil Bryant’s speech in April, [The William Winter Institute for Racial Reconciliation](https://www.facebook.com/pages/William-Winter-Institute-for-Racial-Reconciliation/295860466710) and [The Sarah Isom Center for Women and Gender Studies](https://www.facebook.com/SarahIsomCenter) have offered stickers displaying equal signs and rainbow Mississippi icons addressed with quoted text of the creed, along with lavender honors cords. [Equality Mississippi](http://www.equalitymississippi.org/) provided 4-inch stickers stating, “I am Mississippi, I Don’t Discriminate” around an equal sign. Various departments across campus supplied stickers for students at their physical location. Student volunteers from the [Pride Network](https://www.facebook.com/pages/UM-Pride-Network/454534167961147) organization helped pass out stickers to those waiting in line to pick up graduation supplies during the last week of finals. Social media was instrumental in spreading the word about sticker pick-up, pass out times and locations; an event page entitle [Stand for Equality](https://www.facebook.com/events/621535234591863/) was created to gain support for the commencement protest. Word of mouth within departments also helped, as students took extra stickers for faculty as well as peers. On graduation morning, students from the social work department passed out stickers to faculty, staff, and administrators, hiding the supplies under our gowns as we walked to receive our diplomas.
+
+Some students showed disgust for the protest with political slurs, eye-rolls, rude remarks, scoffing, and destroying stickers. On social media, alumni compared the protest to the Westboro Baptist Church’s theatrics at funerals. Far from being disrespectful and disruptive, we wore these symbols as a peaceful expression of solidarity with all those that the bill discriminates against. Giving Governor Phil Bryant any negative attention over his decision would be futile, for our cries and uproar about the bill were ignored before it became law. Showing the community that we can create a safe space for future and present LGBTQ students would create not only a more welcoming environment at the university, but also within the state.
+
+Various businesses across Mississippi are participating in a larger and more ongoing display of opposition. Storefronts and restaurants are being supplied stickers that state, “If You’re Buying, I’m Selling” to show that this locally owned business does not discriminate. Nationally acclaimed chef John Currence and others that hold a strong presence in Mississippi  [recently had a protest dinner](http://www.nytimes.com/2014/05/07/dining/mississippi-chefs-to-protest-state-law-on-the-eve-of-annual-picnic.html?_r=1) in New York City entitled, The Big Gay Mississippi Welcome Table. Proceeds from the event went to gay and lesbian student organizations on Mississippi college campuses. The governor's office refused to comment on the event. We cannot determine what will come from this bill, but if history is the best predictor of the future behavior, nothing well is expected.  Since this student protest organized quickly, I can fully expect that the first discriminatory incident to occur after this law becomes enacted will immediately have the necessary tools from the community provided to challenge the law to the supreme court. 
+
