@@ -2,12 +2,12 @@
 published: true
 layout: post
 categories: article
-excerpt: "Resisting Tropes: On Poetry, Masochism, & Domestic Violence"
-maintitle: "Resisting Tropes: On Poetry, Masochism, & Domestic Violence - {Young}ist"
-headline: "Resisting Tropes: On Poetry, Masochism, & Domestic Violence"
+excerpt: Resisting Tropes: On Poetry, Masochism, & Domestic Violence
+maintitle: Resisting Tropes: On Poetry, Masochism, & Domestic Violence - {Young}ist
+headline: Resisting Tropes: On Poetry, Masochism, & Domestic Violence
 tagline: undefined
-featuredphoto: http://media.tumblr.com/dbf3f28b77012c29e3f6bd3efada7882/tumblr_inline_mp2f5zwh0A1qz4rgp.jpg
-featuredphotoalttext: "A man with tape in the shape of an X over his mouth holds a sign that reads, 'Imagine if the BBC was shut down. This is happening in Greece. #ERT'"
+featuredphoto: http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg
+featuredphotoalttext: undefined
 ined
 tags:
 - family
