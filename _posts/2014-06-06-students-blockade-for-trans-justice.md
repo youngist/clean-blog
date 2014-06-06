@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "https://scontent-b-iad.xx.fbcdn.net/hphotos-prn1/t1.0-9/74031_10151499049836607_1066064015_n.jpg"
 contributorshortbio: "writer, organizer, counter-tourist."
 contributortwitter: cersonsky
-contributorage: "24"
+contributorage: undefined
 categories: 
   - editors
 tags: 
