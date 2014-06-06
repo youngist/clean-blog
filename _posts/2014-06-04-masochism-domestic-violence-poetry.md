@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-categories: article
 maintitle: "Resisting Tropes: On Poetry, Masochism, and Domestic Violence - {Young}ist"
 headline: Resisting Tropes: On Poetry, Masochism, and Domestic Violence
 tagline: undefined
