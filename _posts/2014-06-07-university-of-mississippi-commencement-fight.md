@@ -11,11 +11,7 @@ contributor:
 - Patricia Tortora
 contributorphoto: undefined
 contributortwitter: undefined
-contributorbio: "21
-Mississippian
-Unpaid Intern
-Masters Student
-Social Worker"
+contributorbio: "21/Mississippian/Unpaid Intern/Masters Student/Social Worker"
 contributorage: 3/9/1993
 ---
 
