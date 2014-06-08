@@ -10,7 +10,7 @@ tags:
 - race
 - queer
 - "graduation-strikes-back"
-contributor:
+contributors:
 - Patricia Tortora
 contributorphoto: undefined
 contributortwitter: undefined
