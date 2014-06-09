@@ -115,12 +115,19 @@ layout: default
 			var today = new Date();
 			
 			// If the user's birthday has not occurred yet this year, subtract 1.
-			if (today < birthday)
-			{
+			if(today.getMonth() > birthday.getMonth()){
+				var years =  today.getFullYear() - birthday.getFullYear();
+			}
+			if(today.getMonth() < birthday.getMonth()){
 				var years =  today.getFullYear() - birthday.getFullYear() - 1;
 			}
-			else{
-				var years =  today.getFullYear() - birthday.getFullYear();
+			if(today.getMonth() == birthday.getMonth()){
+				if( today.getDay() < birthday.getDay()){
+					var years =  today.getFullYear() - birthday.getFullYear() - 1;
+				}
+				else{
+					var years =  today.getFullYear() - birthday.getFullYear();
+				}
 			}
 			document.write("<h4 class='margin2 col9 i margin-bottom age' style='text-align:left;'>" + years + " Years Old</h4>");
 			</script>
