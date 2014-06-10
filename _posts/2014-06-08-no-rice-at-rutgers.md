@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Kicking Out Condi: No Rice at Rutgers - {Young}ist"
 headline: "Kicking Out Condi: No Rice at Rutgers - {Young}ist"
