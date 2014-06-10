@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "No Rice at Rutgers - {Young}ist"
+headline: No Rice at Rutgers
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "https://flic.kr/p/nU8fSA"
+featuredphotoalttext: A poster protesting Rice's involvement as commencement speaker
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
+contributorphoto: https://scontent-a-ord.xx.fbcdn.net/hphotos-xaf1/t1.0-9/1800452_702352646453505_1700309917_n.jpg
+contributorshortbio: Organizer, musician, student and writer. Simply trying to find a balance between them all while staying focused on the issues that matter most to me.
 contributortwitter: undefined
-contributorage: undefined
+contributorage: 7/29/1993
+categories: 
+  - editors
+tags: 
+  - students
+  - "graduation-strikes-back"
+  - organizing
+contributors: 
+  - David Bedford
 ---
 
 After Rutgers students sat-in to protest Condoleezza Rice’s selection as commencement speaker, media outlets from across the country, ranging from [USA Today](http://www.usatoday.com/story/opinion/2014/05/05/condoleeza-rice-rutgers-free-speech-editorials-and-debates/8721095/) to [Fox News](http://www.foxnews.com/opinion/2014/05/08/rutgers-commencement-controversy-condoleezza-rice-should-have-stood-firm/) to the [Daily Beast] (http://www.thedailybeast.com/articles/2014/05/05/rutgers-s-silly-condoleezza-rice-protest.html), tried their best to shoot us down. They accused us of silencing Rice’s right to free speech, of disrespecting our university, and of misunderstanding the nature of commencement ceremonies. But truly it is they who do not understand. 
