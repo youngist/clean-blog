@@ -2,7 +2,7 @@
 published: true
 layout: post
 maintitle: "Kicking Out Condi: No Rice at Rutgers - {Young}ist"
-headline: "Kicking Out Condi: No Rice at Rutgers - {Young}ist"
+headline: "Kicking Out Condi: No Rice at Rutgers"
 tagline: undefined
 featuredphoto: "https://flic.kr/p/nU8fSA"
 featuredphotoalttext: "A poster protesting Rice's involvement as commencement speaker"
