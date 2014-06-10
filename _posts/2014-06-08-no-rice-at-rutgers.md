@@ -1,14 +1,14 @@
 ---
-published: true
+published: false
 layout: post
 maintitle: "Kicking Out Condi: No Rice at Rutgers - {Young}ist"
-headline: Kicking Out Condi: No Rice at Rutgers
+headline: "Kicking Out Condi: No Rice at Rutgers - {Young}ist"
 tagline: undefined
 featuredphoto: "https://flic.kr/p/nU8fSA"
-featuredphotoalttext: A poster protesting Rice's involvement as commencement speaker
+featuredphotoalttext: "A poster protesting Rice's involvement as commencement speaker"
 videourl: undefined
-contributorphoto: https://scontent-a-ord.xx.fbcdn.net/hphotos-xaf1/t1.0-9/1800452_702352646453505_1700309917_n.jpg
-contributorshortbio: Organizer, musician, student and writer. Simply trying to find a balance between them all while staying focused on the issues that matter most to me.
+contributorphoto: "https://scontent-a-ord.xx.fbcdn.net/hphotos-xaf1/t1.0-9/1800452_702352646453505_1700309917_n.jpg"
+contributorshortbio: "Organizer, musician, student and writer. Simply trying to find a balance between them all while staying focused on the issues that matter most to me."
 contributortwitter: undefined
 contributorage: 7/29/1993
 categories: 
@@ -57,4 +57,4 @@ On May 2nd, at the Senate meeting, roughly 100 students gathered to express thei
  
 The next day, on May 3rd, Condoleezza Rice backed out from her position as commencement speaker. We were all elated. We were confident in our abilities to achieve our demands, but I believe most of us were surprised to achieve them so quickly. It had taken less than a week since the sit-in to build enough power to pressure Rice out of commencement.
  
-Kicking Condoleezza Rice out of Rutgers was a great victory, but there is still much more work to be done. And so even after Rice announced she was backing out, we continued to meet everyday, in the same fashion as before with full democratic participation. We intend to cultivate a movement that allows all who have been silenced by people like Condoleezza Rice to speak, and eventually brings their crimes into question before a large majority of the people. 
+Kicking Condoleezza Rice out of Rutgers was a great victory, but there is still much more work to be done. And so even after Rice announced she was backing out, we continued to meet everyday, in the same fashion as before with full democratic participation. We intend to cultivate a movement that allows all who have been silenced by people like Condoleezza Rice to speak, and eventually brings their crimes into question before a large majority of the people.
