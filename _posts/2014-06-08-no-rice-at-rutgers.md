@@ -4,8 +4,8 @@ layout: post
 maintitle: "Kicking Out Condi: No Rice at Rutgers - {Young}ist"
 headline: "Kicking Out Condi: No Rice at Rutgers"
 tagline: undefined
-featuredphoto: "https://farm6.staticflickr.com/5534/14373365734_8aa7f352e8_s.jpg"
-featuredphotoalttext: "A poster protesting Rice's involvement as commencement speaker"
+featuredphoto: "https://farm3.staticflickr.com/2914/14374299415_815c147d18_s.jpg"
+featuredphotoalttext: "Students protest Rutgers' choice of Rice as commencement speaker"
 videourl: undefined
 contributorphoto: "https://scontent-a-ord.xx.fbcdn.net/hphotos-xaf1/t1.0-9/1800452_702352646453505_1700309917_n.jpg"
 contributorshortbio: "Organizer, musician, student and writer. Simply trying to find a balance between them all while staying focused on the issues that matter most to me."
