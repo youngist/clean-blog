@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "No Rice at Rutgers - {Young}ist"
 headline: No Rice at Rutgers
