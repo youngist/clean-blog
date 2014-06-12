@@ -7,8 +7,6 @@ tagline: undefined
 featuredphoto: "https://c2.staticflickr.com/8/7184/7018538909_ea6f16aea9_z.jpg"
 featuredphotoalttext: "Students are borrowers were met with a heavy police presence at the Sallie Mae shareholders’ meeting in Newark, Delaware, in May 2013."
 videourl: undefined
-contributor:
-- Beth Huang
 contributorphoto: "https://pbs.twimg.com/profile_images/1903842099/IMG_0442.jpg"
 contributorshortbio: "@StudentLabor Action Project Coordinator @JwJNational & @USStudents. #WIunion progressive. Hate jelly fish, enjoy cardigans. All thoughts my own."
 contributortwitter: jwj_beth
@@ -18,6 +16,8 @@ categories:
 tags: 
   - students
   - organizing
+contributors:
+- Beth Huang
 ---
 
 For more than year, the [Student Labor Action Project](http://www.studentlabor.org/) (SLAP) – alongside coalition partners, including the American Federation of Teachers, National Education Association, and U.S. Student Association – has been calling for the Department of Education to cancel its $100 million annual contract with Sallie Mae. But the Department has claimed that no “wholesale” violation occurred that would justify ending the contract.
