@@ -4,7 +4,7 @@ layout: post
 maintitle: "It’s Time for the Department of Education to Dump Sallie Mae - {Young}ist"
 headline: It’s Time for the Department of Education to Dump Sallie Mae
 tagline: undefined
-featuredphoto: undefined
+featuredphoto: "https://c2.staticflickr.com/8/7184/7018538909_ea6f16aea9_z.jpg"
 featuredphotoalttext: "Students are borrowers were met with a heavy police presence at the Sallie Mae shareholders’ meeting in Newark, Delaware, in May 2013."
 videourl: undefined
 contributorphoto: undefined
