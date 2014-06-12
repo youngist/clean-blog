@@ -7,9 +7,11 @@ tagline: undefined
 featuredphoto: "https://c2.staticflickr.com/8/7184/7018538909_ea6f16aea9_z.jpg"
 featuredphotoalttext: "Students are borrowers were met with a heavy police presence at the Sallie Mae shareholders’ meeting in Newark, Delaware, in May 2013."
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
+contributor:
+- Beth Huang
+contributorphoto: "https://pbs.twimg.com/profile_images/1903842099/IMG_0442.jpg"
+contributorshortbio: "@StudentLabor Action Project Coordinator @JwJNational & @USStudents. #WIunion progressive. Hate jelly fish, enjoy cardigans. All thoughts my own."
+contributortwitter: jwj_beth
 contributorage: undefined
 categories: 
   - editors
