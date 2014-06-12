@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "It’s Time for the Department of Education to Dump Sallie Mae - {Young}ist"
 headline: It’s Time for the Department of Education to Dump Sallie Mae
