@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-maintitle: "Youth Continue to Fight Queer and Trans Homelessness - {Young}ist"
+maintitle: "At the Frontlines, Youth Continue to Fight Queer and Trans Homelessness - {Young}ist"
 headline: "Youth Continue to Fight Queer and Trans Homelessness "
 tagline: undefined
 featuredphoto: "http://31.media.tumblr.com/2aed470a6466d3025ed620b793e03438/tumblr_n710nkq2PX1rq2ndso1_1280.jpg"
