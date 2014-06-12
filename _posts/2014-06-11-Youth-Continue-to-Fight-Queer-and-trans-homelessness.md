@@ -8,13 +8,13 @@ featuredphoto: "http://31.media.tumblr.com/2aed470a6466d3025ed620b793e03438/tumb
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
-contributorshortbio: "Hannah K. Gold writes on social justice and literature for publication, and composes bad poetry and erotica for herself. Follow her @togglecoat."
+contributorshortbio: "Hannah K. Gold writes on social justice and literature for publication, and composes bad poetry and erotica for herself."
 contributortwitter: togglecoat
 contributorage: undefined
 categories: 
   - editors
 contributors: 
-  - Hannah Gold
+  - Hannah K. Gold
 tags: 
   - youth
   - queer
