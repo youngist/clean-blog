@@ -4,6 +4,8 @@ layout: post
 maintitle: "To My Comrades Still Navigating Higher Education - {Young}ist"
 headline: To My Comrades Still Navigating Higher Education
 tagline: undefined
+categories: 
+  - editors
 featuredphoto: "https://rustbeltradical.files.wordpress.com/2010/03/img_3891.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
@@ -11,8 +13,6 @@ contributorphoto: "http://37.media.tumblr.com/f7f4b692580a184f8a6464663727cedf/t
 contributorshortbio: "Alex Ngo is an Asian American educator, writer, poet, and organizer with a healing heart and lots of feels."
 contributortwitter:  alexrichardngo
 contributorage: undefined
-categories: 
-  - editors
 tags: 
   - "graduation-strikes-back"
   - students
