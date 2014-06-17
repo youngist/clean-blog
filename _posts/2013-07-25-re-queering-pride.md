@@ -10,6 +10,7 @@ featuredphoto: "http://media.tumblr.com/40848126c4234fb6775cb3407de991e6/tumblr_
 featuredphotoalttext: "illustration of people yelling at police with the words 'Stonewall was a police riot'"
 videourl: undefined
 tags: 
+  - pride
   - queer
   - organizing
 contributors: 
