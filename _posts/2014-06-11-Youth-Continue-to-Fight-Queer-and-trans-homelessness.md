@@ -16,6 +16,7 @@ categories:
 contributors: 
   - Hannah K. Gold
 tags: 
+  - "whose-pride-is-it-anyway?"
   - youth
   - queer
   - trans
