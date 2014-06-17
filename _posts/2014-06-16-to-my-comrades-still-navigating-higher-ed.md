@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "https://rustbeltradical.files.wordpress.com/2010/03/img_3891.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: "http://24.media.tumblr.com/45a6380bf6c5c73d57210f4aa95ec510/tumblr_n7aflhsYzi1rq2ndso1_1280.jpg"
+contributorphoto: "http://37.media.tumblr.com/f7f4b692580a184f8a6464663727cedf/tumblr_n7aiymrWkQ1rq2ndso1_1280.jpg"
 contributorshortbio: "Alex Ngo is an Asian American educator, writer, poet, and organizer with a healing heart and lots of feels."
 contributortwitter:  alexrichardngo
 contributorage: undefined
