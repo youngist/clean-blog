@@ -10,7 +10,7 @@ featuredphoto: https://31.media.tumblr.com/c0cffcbabfcfb3b68d49780a7d8db44d/tumb
 featuredphotoalttext: ""
 videourl: undefined
 tags:
-- "whose-pride-is-it-anyway?"
+- pride
 - queer
 - health
 - transgender
