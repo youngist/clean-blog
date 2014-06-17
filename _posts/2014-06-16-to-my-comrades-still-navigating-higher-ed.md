@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "To My Comrades Still Navigating Higher Education - {Young}ist"
 headline: To My Comrades Still Navigating Higher Education
@@ -19,8 +19,6 @@ tags:
   - organizing
 contributors:
 - Alex Ngo
-
-
 ---
 I am a recent college graduate inspired to write this as a thank you to my comrades for the times they picked up one of my fallen stars, embraced me, withered and weak, and lifted me back up. As I leave college with a degree and my dreams tucked behind my ribcage, I humbly offer these reflections and lessons to other (queer) people of color still navigating institutions of higher education.
 
