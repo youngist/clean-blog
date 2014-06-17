@@ -12,7 +12,7 @@ contributorshortbio: "Alex Ngo is an Asian American educator, writer, poet, and 
 contributortwitter:  alexrichardngo
 contributorage: undefined
 categories: 
-  - featured
+  - editors
 tags: 
   - "graduation-strikes-back"
   - students
