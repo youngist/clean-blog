@@ -10,6 +10,7 @@ featuredphotoalttext: undefined
 videourl: undefined
 tags:
 - art
+- pride
 - queer
 - organizing
 contributors:
