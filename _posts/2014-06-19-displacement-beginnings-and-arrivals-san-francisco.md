@@ -13,6 +13,11 @@ contributortwitter: undefined
 contributorage: "1991-09-18"
 contributors: 
   - "Andrew Szeto "
+categories: 
+  - editors
+tags: 
+  - gentrification
+  - capitalism
 ---
 
 Home, again.
