@@ -7,7 +7,7 @@ tagline: 5 truths about immigration and criminalization that are more important 
 featuredphoto: "https://31.media.tumblr.com/0453992e0d44a4078f06f39fd6f8c07d/tumblr_inline_n09sdjoYGr1rkj9dw.jpg"
 featuredphotoalttext: Photo of a line of people facing a bus and blocking it
 videourl: undefined
-contributorphoto: "https://pbs.twimg.com/profile_images/449637196362809345/foXCJ9ug.jpeg"
+contributorphoto: "https://pbs.twimg.com/profile_images/477917746395500546/9rLsZgUA.jpeg"
 contributorshortbio: "Transformation in the here, now, & ever after. Sister to a badass 3 year old. "
 contributortwitter: JennyMarkz
 contributorage: 7/22/1993
