@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-maintitle: "- {Young}ist"
+maintitle: "DIY in the Digital Age- {Young}ist"
 headline: "Do-It-Yourself in the Digital Age"
 tagline: undefined
 featuredphoto: undefined
