@@ -4,8 +4,8 @@ layout: post
 maintitle: "DIY in the Digital Age- {Young}ist"
 headline: "Do-It-Yourself in the Digital Age"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: http://37.media.tumblr.com/b5e863f8ad2a547db476fc67ab32b994/tumblr_n7aqfaDF6u1rq2ndso1_1280.jpg
+featuredphotoalttext: Photo by Thomas Fine
 videourl: undefined
 contributorphoto: undefined
 contributorshortbio: "Hira Mahmood is another peon with a literature degree, now pursuing an M.A. in Women's, Gender, and Sexuality Studies in Atlanta, GA. Her humble writing background includes publications in Atlanta arts magazine BURNAWAY, Electronic Intifada, and the murky corners of the internet. She has lived in many places and as a product of the diaspora reluctantly recognizes her displacement via colonization. When she is not tutoring, working with Youngist, or organizing, she enjoys analyzing the crumbling of higher education, diaspora and migration, and subversive art in the age of late capitalism. For her >140 character poetics, follow her @HiraMahmood5."
@@ -22,8 +22,6 @@ tags:
 
 _by Hira Mahmood_
 
-<img src="http://37.media.tumblr.com/b5e863f8ad2a547db476fc67ab32b994/tumblr_n7aqfaDF6u1rq2ndso1_1280.jpg"/>
-_Photo by Thomas Fine_
 
 The Atlanta Zine Fest is an annual conference celebrating DIY and handmade media. The first Atlanta Zine Fest,  held in 2013, garnered over 300 participants, 25 vendors, and 21 speakers/workshop facilitators. AZF holds events and programs year-round, culminating in a one-day exhibition. This year, AZF has a variety of speakers discussing a range of topics such as "Deep Topics for Small Pockets: Using Zines to Discuss Death and Dying," "Intersectionality and Urban Culture," and "Disability and DIY Spaces." 
 
