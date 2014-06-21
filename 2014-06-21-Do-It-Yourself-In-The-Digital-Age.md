@@ -4,7 +4,7 @@ layout: post
 maintitle: "DIY in the Digital Age- {Young}ist"
 headline: "Do-It-Yourself in the Digital Age"
 tagline: undefined
-featuredphoto: http://37.media.tumblr.com/b5e863f8ad2a547db476fc67ab32b994/tumblr_n7aqfaDF6u1rq2ndso1_1280.jpg
+featuredphoto: "http://37.media.tumblr.com/b5e863f8ad2a547db476fc67ab32b994/tumblr_n7aqfaDF6u1rq2ndso1_1280.jpg"
 featuredphotoalttext: Photo by Thomas Fine
 videourl: undefined
 contributorphoto: undefined
