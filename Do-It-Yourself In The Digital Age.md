@@ -7,12 +7,14 @@ tagline: undefined
 featuredphoto: http://37.media.tumblr.com/b5e863f8ad2a547db476fc67ab32b994/tumblr_n7aqfaDF6u1rq2ndso1_1280.jpg
 featuredphotoalttext: Photo by Thomas Fine
 videourl: undefined
-contributor: 
-  - Hira Mahmood
 contributorphoto: undefined
 contributorshortbio: "Hira Mahmood is another peon with a literature degree, now pursuing an M.A. in Women's, Gender, and Sexuality Studies in Atlanta, GA. Her humble writing background includes publications in Atlanta arts magazine BURNAWAY, Electronic Intifada, and the murky corners of the internet. She has lived in many places and as a product of the diaspora reluctantly recognizes her displacement via colonization. When she is not tutoring, working with Youngist, or organizing, she enjoys analyzing the crumbling of higher education, diaspora and migration, and subversive art in the age of late capitalism. For her >140 character poetics, follow her @HiraMahmood5."
 contributortwitter: undefined
 contributorage: undefined
+contributor: 
+  - Hira Mahmood
+categories: 
+  - editors
 tags: 
   - capitalism
   - art
