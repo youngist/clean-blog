@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "- {Young}ist"
 headline: "Do-It-Yourself in the Digital Age"
@@ -81,4 +81,3 @@ So it would be easy to say that the internet has defeated a "pure aesthetic" and
 Let's move forward - like the working class bohemian youth culture, the nascent intelligentsia that has accumulated $865 billion in debt after attaining a degree, the off-the-grid anarchist, queer insurrectionist, worker, artist, and inject meaning into our work, our daily interactions, and ultimately, ourselves. 
 
 <h3 class='donate-blurb'> Diggin' what you're reading? Then support this young writer by <a href='{{site.baseurl}}/donate'>donating</a> to {Young}ist now!</h3>
-
