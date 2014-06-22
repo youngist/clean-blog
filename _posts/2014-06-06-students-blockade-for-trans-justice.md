@@ -12,7 +12,7 @@ contributorshortbio: "writer, organizer, counter-tourist."
 contributortwitter: cersonsky
 contributorage: undefined
 categories: 
-  - editors
+  - article
 tags: 
   - students
   - organizing
