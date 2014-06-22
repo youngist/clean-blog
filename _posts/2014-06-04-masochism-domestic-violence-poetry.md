@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "http://weddingmapper.s3.amazonaws.com/assets/photos/6/29/154033_l.jpg"
 featuredphotoalttext: undefined
 categories: 
-- editors
+- article
 tags:
 - family
 - violence
