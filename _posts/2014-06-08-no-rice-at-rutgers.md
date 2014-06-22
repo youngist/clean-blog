@@ -12,7 +12,7 @@ contributorshortbio: "Organizer, musician, student and writer. Simply trying to 
 contributortwitter: undefined
 contributorage: 7/29/1993
 categories: 
-  - editors
+  - article
 tags: 
   - students
   - "graduation-strikes-back"
