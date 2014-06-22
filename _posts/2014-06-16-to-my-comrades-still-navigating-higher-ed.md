@@ -5,7 +5,7 @@ maintitle: "To My Comrades Still Navigating Higher Education - {Young}ist"
 headline: To My Comrades Still Navigating Higher Education
 tagline: undefined
 categories: 
-  - editors
+  - article
 featuredphoto: "https://rustbeltradical.files.wordpress.com/2010/03/img_3891.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
