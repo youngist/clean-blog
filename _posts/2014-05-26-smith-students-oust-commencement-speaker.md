@@ -12,7 +12,7 @@ contributorphoto: http://37.media.tumblr.com/57d7a5e66480519f0145bb8d46a54460/tu
 contributortwitter: undefined
 contributorage: 01/23/1993
 categories: 
-  - editors
+  - article
 tags: 
   - "graduation-strikes-back"
   - "higher-education"
