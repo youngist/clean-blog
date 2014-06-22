@@ -12,7 +12,7 @@ contributorshortbio: "@StudentLabor Action Project Coordinator @JwJNational & @U
 contributortwitter: jwj_beth
 contributorage: undefined
 categories: 
-  - editors
+  - article
 tags: 
   - students
   - organizing
