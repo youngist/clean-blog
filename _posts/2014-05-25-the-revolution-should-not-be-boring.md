@@ -13,7 +13,7 @@ contributorshortbio: "H is a Kansas native trapped next to a coast.  They think 
 contributortwitter: hannahkk
 contributorage: 10/08/1990
 categories: 
-  - editors
+  - article
 tags: 
   - capitalism
   - youth
