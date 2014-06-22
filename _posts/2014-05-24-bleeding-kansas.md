@@ -12,7 +12,7 @@ contributorshortbio: "Organizer, Writer, Black girl from the future."
 contributortwitter: Muna_Mire
 contributorage: 7/1/1990
 categories: 
-  - featured
+  - article
 tags: 
   - students
   - education
