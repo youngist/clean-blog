@@ -12,7 +12,7 @@ contributorshortbio: "Hannah K. Gold writes on social justice and literature for
 contributortwitter: togglecoat
 contributorage: undefined
 categories: 
-  - editors
+  - article
 contributors: 
   - Hannah K. Gold
 tags: 
