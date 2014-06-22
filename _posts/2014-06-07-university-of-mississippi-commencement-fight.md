@@ -5,7 +5,7 @@ maintitle: "Mississippi Studets Come Up Against Their Governor in Commencement F
 headline: Mississippi Students Come Up Against Their Governor in Commencement Fight 
 featuredphoto: "http://media.nola.com/business_impact/photo/phil-bryant-horizontal-closejpg-37ada2fee6145bb0.jpg"
 categories:
-  - editors
+  - article
 tags:
 - race
 - queer
