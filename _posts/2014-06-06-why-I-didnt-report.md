@@ -12,7 +12,7 @@ contributorshortbio: "Ethiopian-American writer, organizer, artist, and awkward 
 contributortwitter: ethiopennesays
 contributorage: 4/15/1991
 categories: 
-  - featured
+  - article
 contributors: 
   - Hannah Giorgis
 tags: 
