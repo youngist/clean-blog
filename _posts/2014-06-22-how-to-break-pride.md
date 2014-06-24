@@ -16,11 +16,10 @@ tags:
 - trans
 contributors:
 - Emma Caterine
-contributorphoto: http://37.media.tumblr.com/d1ecdc6746d6ad7dad25dbf640d3a8f3/tumblr_n7nnmzxfi61rq2ndso1_1280.jpg
+contributorphoto: "http://37.media.tumblr.com/d1ecdc6746d6ad7dad25dbf640d3a8f3/tumblr_n7nnmzxfi61rq2ndso1_1280.jpg"
 contributorshortbio: "Emma Caterine is a sell-out who has gotten kinda desperate for affirmation from younger trans women that she's still cool (she's not). Though she spends most of her time community organizing with Red Umbrella Project and writing non-fiction about police brutality and prison abolitionism, she also pens the occasional sci-fi story, memoir piece, or not-so-subtle mockery of Buzzfeed style articles (see Maximum RocknRoll #368)."
 contributortwitter: emmacaterine
 contributorage: undefined
----
 ---
 
 Pride in and of itself is worthless. Not only worthless, but a dangerous complex of invulnerability to criticism or even review. Pride is held by all tyrants and key to control in oppressive systems. Whether you want to call it [pinkwashing] (http://www.haaretz.com/travel-in-israel/gay-tel-aviv/1.576146/), [Gay Inc.] (http://www.hrc.org/apps/buyersguide/profile.php?orgid=1184/), or homonormativity [homonormativity] (http://instinctmagazine.com/post/lgbt-activist-says-bath-houses-should-be-shut-down-because-theyre-holding-gay-rights-back/), the LGBTQ community has grown divided as some have attained assimilation through economic and racial privilege. The trans community, once at least somewhat united in opposition against the gay and lesbian communities that left them behind, has grown increasingly in conflict with one another over issues like language, military assimilation, hate crime legislation, and what the role of trans people is in a broader LGBTQ community in general. And while I’ve said the attempts that have been made to define these as “generational issues” is [fallacious] (/http://sassysyndicalist.tumblr.com/post/84398680452/much-as-i-often-brag-about-having-listened-to/), it is undeniable that the conflicts revolve around wealthy middle age people with a strong leans towards the white and cisgender. 
