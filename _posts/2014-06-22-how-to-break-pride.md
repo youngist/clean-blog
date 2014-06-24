@@ -6,7 +6,7 @@ excerpt: "How to Break Pride: A Guide for the LGBTQ Movement"
 maintitle: "How to Break Pride: A Guide for the LGBTQ Movement - {Young}ist"
 headline: "How to Break Pride: A Guide for the LGBTQ Movement"
 tagline: undefined
-featuredphoto: "http://www.kaybarrett.net/wp-content/uploads/2013/04/246449_690067616843_1421114669_n.jpg
+featuredphoto: "http://www.kaybarrett.net/wp-content/uploads/2013/04/246449_690067616843_1421114669_n.jpg"
 featuredphotoalttext: "June marks the anniversary of the Stonewall Riots of 1969. Activists celebrate the trans day of action."
 videourl: undefined
 tags:
