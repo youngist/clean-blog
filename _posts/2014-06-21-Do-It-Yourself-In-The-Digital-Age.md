@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: "http://37.media.tumblr.com/b5e863f8ad2a547db476fc67ab32b994/tumblr_n7aqfaDF6u1rq2ndso1_1280.jpg"
 featuredphotoalttext: Photo by Thomas Fine
 videourl: undefined
-contributorphoto: undefined
+contributorphoto: "http://38.media.tumblr.com/5d2a54a35305a7ef6e2229efbff872eb/tumblr_n7bjcvkzOl1rq2ndso1_500.jpg"
 contributorshortbio: "Hira Mahmood is another peon with a literature degree, now pursuing an M.A. in Women's, Gender, and Sexuality Studies in Atlanta, GA."
 contributortwitter: HiraMahmood5
 contributorage: undefined
