@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: article
+categories: featured
 excerpt: "How to Break Pride: A Guide for the LGBTQ Movement"
 maintitle: "How to Break Pride: A Guide for the LGBTQ Movement - {Young}ist"
 headline: "How to Break Pride: A Guide for the LGBTQ Movement"
