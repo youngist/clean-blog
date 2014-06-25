@@ -4,8 +4,8 @@ layout: post
 maintitle: "LGBTQ histories didn’t begin with Stonewall and end with Windsor - {Young}ist"
 headline: LGBTQ histories didn’t begin with Stonewall and end with Windsor
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5FafDdjk61HG6Xz6K0LR1gGKqxfjfELuFTPzWqhWsZHiINjZEQ"
+featuredphotoalttext: The front of the Stonewall Inn
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/412686866341580800/_QTo5onz.png"
 contributorshortbio: "Outside of my activism and academic scholarship, Erik enjoys loose-leaf tea, the “West Wing,” and vegetarian cooking."
