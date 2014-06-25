@@ -21,7 +21,7 @@ contributors:
   - Erik Lampmann
 ---
 
-As I celebrate Pride this month I continue to identify mainstream narratives that situate the LGBTQ movement in the past, treat the expansion of same-sex marriage as a fait accompli, and fail to name the shared struggles for immediate survival, safety, and security that continue to drive many arms of the movement for queer liberation.
+As I celebrate Pride this month I continue to identify mainstream narratives that situate the LGBTQ movement in the past, treat the expansion of same-sex marriage as a _fait accompli_, and fail to name the shared struggles for immediate survival, safety, and security that continue to drive many arms of the movement for queer liberation.
 
 In the past several weeks we’ve witnessed a veritable explosion of mainstream discourses on ‘gay identity’ and the LGBTQ movement (broadly construed). The media chronicled the much-hyped HBO release of Larry Kramer’s autobiographical screenplay _The Normal Heart_. Other pundits clamored to comment on the Department of the Interior’s announcement of a new theme study of the LGBTQ movement [a new theme study of the LGBTQ movement](https://www.youtube.com/watch?v=SQKlMO05sjM/) staged in front of the Stonewall Inn. 
 
@@ -31,7 +31,7 @@ I’d argue that the examples highlighted above represent only two recent cases 
 
 In compartmentalizing the struggle of LGBTQ people in the past, we risk rendering invisible queer folks’ day-by-day effort to survive – to carve out spaces of meaning for themselves and to build networks of support for their chosen families. 
 
-While potentially helpful, LGBTQ people know that wins for the same-sex marriage movement do not translate to queer liberation or assurances of safety for ourselves or our loved ones. Rather, the subjugation of queer folks continues unchecked in so many ways. Yes, our government denies many of us access to  the benefits of state-sanctioned monogamy. Yet, at a far more basic level, we lack necessities: the chance to make a living for ourselves; affordable and accessible healthcare services; safety from physical and verbal violence at the hands of strangers and the police; immigration policies that value our humanity and 
+While potentially helpful, LGBTQ people know that wins for the same-sex marriage movement do not translate to queer liberation or assurances of safety for ourselves or our loved ones. Rather, the subjugation of queer folks continues unchecked in so many ways. Yes, our government denies many of us access to  the benefits of state-sanctioned monogamy. Yet, at a far more basic level, we lack necessities: the chance to make a living for ourselves; affordable and accessible healthcare services; safety from physical and verbal violence at the hands of strangers and the police; immigration policies that value our humanity. 
 
 No matter the force of judicial rulings testifying to our citizenship and humanity, we find ourselves suffering in very real, immediate ways at the hand of a society that is unwilling or unable to embrace our queer family – particularly our queer people of color, trans*, *gender non-conforming, and undocumented siblings. To name a few of our immediate concerns:
 
