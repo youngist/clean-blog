@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "LGBTQ histories didn’t begin with Stonewall and end with Windsor - {Young}ist"
 headline: LGBTQ histories didn’t begin with Stonewall and end with Windsor
