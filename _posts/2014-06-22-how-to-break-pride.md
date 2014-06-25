@@ -7,8 +7,7 @@ maintitle: "How to Break Pride: A Guide for the LGBTQ Movement - {Young}ist"
 headline: "How to Break Pride: A Guide for the LGBTQ Movement"
 tagline: undefined
 featuredphoto: "http://www.kaybarrett.net/wp-content/uploads/2013/04/246449_690067616843_1421114669_n.jpg"
-featuredphotoalttext: "June marks the anniversary of the Stonewall Riots of 1969. Activists, Kay Ulanday Barrett, LL Gimeno, and Stephanie Maria celebrate the 2012 Trans Day of Action. (Photo: www.kaybarrett.net)"
-videourl: undefined
+featuredphotoalttext: "June marks the anniversary of the Stonewall Riots of 1969. Activists, Kay Ulanday Barrett, LL Gimeno, and Stephanie Maria celebrate the 2012 Trans Day of Action. (Photo: Sabelo Narasimhan)"
 tags:
 - pride
 - organizing
