@@ -15,7 +15,7 @@ tags:
 - health
 - transgender
 contributors:
-- Chrys Jackson
+- Chrysten Jackson
 contributorphoto: http://24.media.tumblr.com/f45d8d0cd69829e19a53a541c498cae3/tumblr_n5672rSEVk1rq2ndso1_1280.jpg
 contributorshortbio: "Buffalo, N.Y. based artist and trans activist, CHRYSALISAMIDST."
 contributortwitter: undefined
