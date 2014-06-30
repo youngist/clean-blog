@@ -73,5 +73,5 @@ When people who have been documented and shown to be harmful to trans* people, e
 When multiple trans* people have spoken up about this place as an 'anti-trans* organization' and nothing has been done;
 
 
-#WhosePRIDEisitanyway?
+ Whose PRIDE is it anyway?
 ---
