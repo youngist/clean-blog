@@ -4,7 +4,7 @@ layout: post
 maintitle: "Whose Pride Is It, Anyway? - {Young}ist"
 headline: Whose Pride Is It, Anyway?
 tagline: undefined
-featuredphoto: https://31.media.tumblr.com/c0cffcbabfcfb3b68d49780a7d8db44d/tumblr_inline_n564v7k2f21r4k2ut.jpg
+featuredphoto: http://38.media.tumblr.com/7487becd439794dc091ea7e538be19b6/tumblr_n7ylg7vAXl1rq2ndso1_1280.jpg
 videourl: undefined
 tags:
 - pride
