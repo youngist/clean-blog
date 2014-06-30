@@ -6,6 +6,11 @@ headline: Whose Pride Is It, Anyway?
 tagline: undefined
 featuredphoto: https://31.media.tumblr.com/c0cffcbabfcfb3b68d49780a7d8db44d/tumblr_inline_n564v7k2f21r4k2ut.jpg
 videourl: undefined
+tags:
+- pride
+- queer
+- trans
+- health
 categories: 
   - editors
 contributors:
