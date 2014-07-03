@@ -19,7 +19,7 @@ tags:
   - capitalism
   - art
   - youth
-  - zines
+  - "do-it-yourself"
 ---
 
 The Atlanta Zine Fest is an annual conference celebrating DIY and handmade media. The first Atlanta Zine Fest,  held in 2013, garnered over 300 participants, 25 vendors, and 21 speakers/workshop facilitators. AZF holds events and programs year-round, culminating in a one-day exhibition. This year, AZF has a variety of speakers discussing a range of topics such as "Deep Topics for Small Pockets: Using Zines to Discuss Death and Dying," "Intersectionality and Urban Culture," and "Disability and DIY Spaces." 
