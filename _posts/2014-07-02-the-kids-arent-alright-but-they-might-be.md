@@ -7,12 +7,18 @@ tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
+contributorphoto: "http://31.media.tumblr.com/7173738f8953181ccd0ceb78242f35ab/tumblr_n75zg9TlTV1qh6qf1o1_250.png"
+contributorshortbio: "writer, blogger, punk aficionada"
 contributortwitter: undefined
-contributorage: undefined
+contributorage: "1991-01-28"
 categories: 
   - editors
+tags: 
+  - youth
+  - media
+  - music
+contributors: 
+  - Alice Lesperance
 ---
 
 Two questions I’m constantly asked on [my blog](http://shakespeareandpunk.tumblr.com/) are some variation of, “Why do you care so much about the Millennial generation?” and “Why is punk important?” In fact, this week I was specifically asked “Why is Millennial punk so important?”
@@ -47,4 +53,4 @@ Punk hasn’t died (I’m skating around a very trite and overused adage, you kn
 
 We’re an angry generation, we need an angry movement. In a culture right now that would keep us quiet and deny our identity and our self-esteem - a culture maintained by baby boomers and vestiges of those who spat in punk’s face forty years ago, the message is clear: we. must. fight. back. Punk is more accessible and widespread than ever, let’s destroy arguments that it has become watered down or overly-aestheticized. Instead I propose that punk has hit the peak of its four decade long evolution - it has finally been allowed to become the inclusive, representative ideology it set out to be. 
 
-<h3 class='donate-blurb'> Diggin' what you're reading? Then support this young writer by <a href='{{site.baseurl}}/donate'>donating</a> to {Young}ist now!</h3> 
+<h3 class='donate-blurb'> Diggin' what you're reading? Then support this young writer by <a href='{{site.baseurl}}/donate'>donating</a> to {Young}ist now!</h3>
