@@ -14,8 +14,8 @@ contributorage: "1991-01-28"
 categories: 
   - editors
 tags: 
+  - do-it-yourself
   - youth
-  - media
   - music
 contributors: 
   - Alice Lesperance
@@ -26,8 +26,6 @@ Two questions I’m constantly asked on [my blog](http://shakespeareandpunk.tumb
 While ultimately more succinct, my response essentially boiled down to: we’re an angry generation, we need an angry movement. 
 
 Punk as both an aesthetic and a genre developed in the midst of an angry youth culture. Many remember the original 1970’s punk scene as a largely political movement, and surely it was, but it would be a disservice to the genre to forget that it was, more than anything, a youth movement.  In 1975, Johnny Rotten auditioned for The Sex Pistols with a cover of Alice Cooper’s “[I’m Eighteen](https://www.youtube.com/watch?v=jXZcJojTucg)” - a song about the feelings of directionlessness that accompany youth that has since been deemed a proto-punk classic. A year later, The Runaways would release their debut album, a collection of songs about teenage angst and the thrall of rock music. 
-
-[Image of a 1977 The Runaways/The Ramones tour poster](http://media-cache-ec0.pinimg.com/236x/19/ec/ec/19ecec891af98dbf45032e72b6132939.jpg). 
 
 Musically, early punk bands responded to what they considered to be the highly technical and watered-down sounds of early 70’s rock and roll: the goal was to achieve a completely innovative modern strain of rock music that disobeyed rules and required little to no formal technique and training. They didn’t care if their music was particularly good by any institutional standard - just that it was fast, loud, and angry. 
 
@@ -45,7 +43,7 @@ In addition to serving as a political platform, punk music has become an outlet 
 
 Two subjects on which teenagers and young adults frequently find themselves either criticized or actively dismissed for discussing - politics and mental health - are not only being discussed within punk, but sung loudly. Gone are the apathetic and directionless days of punk music; today’s punk is no less angry than it was forty years ago but it is perhaps a more constructive anger. These bands have taken those feelings of restlessness and abandonment already prominent in the genre and identified them as legitimate symptoms of larger problems - whether those problems are of the political or psychological variety.  But punk bands still pay homage to their predecessors; in The Hold Steady’s “Constructive Summer”, Craig Finn sings “raise a toast to Saint Joe Strummer / I think he might have been our only decent teacher”. The song, in addition to canonizing punk founding fathers, combines the familiar feelings of teenage isolation with refreshing messages of optimism - making it an excellent example of how punk has evolved in our generation.  
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/dyMal2onfuM" frameborder="0" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="//www.youtube.com/embed/dyMal2onfuM" frameborder="0" allowfullscreen></iframe>
 
 Punk hasn’t died (I’m skating around a very trite and overused adage, you know how it goes),if anything, it’s been reborn, repurposed, and reaffirmed. We are once again seeing the rise of weaponized music and fashion, as well as a resurgence of Do-It-Yourself culture. 
 
