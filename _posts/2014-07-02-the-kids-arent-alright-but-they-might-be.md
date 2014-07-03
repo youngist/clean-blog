@@ -4,8 +4,8 @@ layout: post
 maintitle: "The Kids Aren't Alright - But They Might Be - {Young}ist"
 headline: "The Kids Aren't Alright - But They Might Be "
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://37.media.tumblr.com/41fe6442d68b9d45e67b343cfa135bd8/tumblr_n7zl1hbwLe1rq2ndso1_1280.png"
+featuredphotoalttext: "Shady Hawkins, a Brooklyn-based Millennial feminist revengecore band. (Art by cartoonist and Shady Hawkins drummer, Mike Funk)"
 videourl: undefined
 contributorphoto: "http://31.media.tumblr.com/7173738f8953181ccd0ceb78242f35ab/tumblr_n75zg9TlTV1qh6qf1o1_250.png"
 contributorshortbio: "writer, blogger, punk aficionada"
