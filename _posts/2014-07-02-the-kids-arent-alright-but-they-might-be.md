@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "The Kids Aren't Alright - But They Might Be - {Young}ist"
 headline: "The Kids Aren't Alright - But They Might Be "
