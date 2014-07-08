@@ -5,7 +5,7 @@ maintitle: "Greek Cleaners Become Symbols of Resistance - {Young}ist"
 headline: "Greek Cleaners Become Symbols of Resistance "
 tagline: undefined
 featuredphoto: "http://2.bp.blogspot.com/-8xkKG3tcIKk/U48jyMSZFGI/AAAAAAAAE-U/kQLxzaXHs1c/s1600/10174809_714016018655409_2722718608965787676_n.jpg"
-featuredphotoalttext: ""
+featuredphotoalttext: A toy figure of a cleaner battles with a toy figure of a police officer.
 videourl: undefined
 contributorphoto: "http://static.tumblr.com/kg9owro/xBDmq3ht1/edinburgh_castle__59___1_.jpg"
 contributorshortbio: "Writer, traveller, lost earrings detective"
@@ -26,6 +26,8 @@ In May 2014, the court of Areios Pagos ruled that the women, who used to clean t
 The Supreme Court that accepted the government’s request for an appeal issued the reasoning behind this decision, stating that “ensuring the continuation of the state’s financial policies (...) is linked with the general public interest, as opposed to the personal interest of each cleaner.”  Setting aside the disturbing idea that the government’s austerity policies that have caused a [steady rise in suicides](http://www.theguardian.com/world/2014/apr/21/austerity-greece-male-suicides-spending-cuts/) and an unprecedented humanitarian crisis are “public interest”, could it be that these women simply cost too much to the state?
 
 Numbers tell a different story. The Finance Ministry has hired private contractors to replace the redundant workers, even after the court decision ruling the women’s immediate re-hiring. This means that until the end of August, when the cleaners’ employment contracts expire, the state pays both the contractors and the cleaners - giving the latter 75% of their regular salary. This looks less like good logistics and more like a favor to those private cleaning companies - which, not surprisingly, were chosen using entirely opaque criteria.
+
+!["We are humans, not numbers”, says the woman’s shirt. Image: M. Lolos ](/https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10321663_10201103256982520_3406110153189437069_o.jpg)
 
 As for the cleaners, there are no favors for them. 50 to 60 years old, many of them are single mothers, have slim chances of finding another job, do not qualify for a pension and will not be getting a compensation after being fired next month. It seems they have quite a lot on their plates. On top of that, they are viciously attacked by riot police on a regular basis. As a result, one of them now walks with the help of crutches, and another was [hit on the head](https://www.youtube.com/watch?v=MBFjsNxWbYU/) and caught on a video that went viral. 
 
