@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Greek Cleaners Become Symbols of Resistance - {Young}ist"
 headline: "Greek Cleaners Become Symbols of Resistance "
