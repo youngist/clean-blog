@@ -1,10 +1,10 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Greek Cleaners Become Symbols of Resistance - {Young}ist"
+headline: "Greek Cleaners Become Symbols of Resistance "
 tagline: undefined
-featuredphoto: ""
+featuredphoto: "http://2.bp.blogspot.com/-8xkKG3tcIKk/U48jyMSZFGI/AAAAAAAAE-U/kQLxzaXHs1c/s1600/10174809_714016018655409_2722718608965787676_n.jpg"
 featuredphotoalttext: ""
 videourl: undefined
 contributorphoto: "http://static.tumblr.com/kg9owro/xBDmq3ht1/edinburgh_castle__59___1_.jpg"
@@ -13,6 +13,10 @@ contributortwitter: mrzpt
 contributorage: "1991-08-19"
 contributors: 
   - Maria Zepatou
+tags: 
+  - labor
+  - capitalism
+  - workers
 ---
 
 It took nine months for the 396 cleaners that had been made redundant by the Greek Finance Ministry to gain their victory. Since September 2013, they have been on strike, selling T-shirts to survive and pay for banners and other activism materials, and facing police brutality. 
