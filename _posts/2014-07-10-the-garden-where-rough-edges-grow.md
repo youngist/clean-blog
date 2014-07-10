@@ -1,16 +1,22 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "The Garden Where Rough Edges Grow - {Young}ist"
+headline: "The Garden Where Rough Edges Grow "
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
+contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
 contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributortwitter: togglecoat
+contributorage: 21/05/1991
+categories: 
+  - editors
+tags: 
+  - capitalism
+contributors: 
+  - Hannah Gold
 ---
 
 Every young generation, as it comes of age, is told it’s special, that everyone else’s hopes and dreams live through it, and, simultaneously, that it is already not living up to these expectations. With this in mind, I — a 23-year-old who’d never spent a weekend at a conference before — placed a starchy blue shirt and a shift dress in my backpack and took a bus to Boston. 
