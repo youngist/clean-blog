@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
 contributorshortbio: undefined
 contributortwitter: togglecoat
-contributorage: 21/05/1991
+contributorage: 12/05/1991
 categories: 
   - editors
 tags: 
