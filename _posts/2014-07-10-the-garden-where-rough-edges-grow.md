@@ -4,8 +4,8 @@ layout: post
 maintitle: "The Garden Where Rough Edges Grow - {Young}ist"
 headline: "The Garden Where Rough Edges Grow"
 tagline: undefined
-featuredphoto: "http://www.extraenvironmentalist.com/wp-content/themes/Yen/timthumb.php?src=http://www.extraenvironmentalist.com/wp-content/uploads/2013/07/financing2.jpg&w=580&zc=1"
-featuredphotoalttext: undefined
+featuredphoto: "http://31.media.tumblr.com/f1b6a5d6e8a3ea0c320b6304c2b74f8c/tumblr_n8pnf8Yk7l1rgxu3ho1_1280.jpg"
+featuredphotoalttext: "Climbing PoeTree performing at Common Bound Conference at Northeastern University (Common Bound Facebook)"
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
 contributorshortbio: undefined
