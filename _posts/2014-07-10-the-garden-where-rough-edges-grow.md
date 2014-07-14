@@ -2,7 +2,7 @@
 published: true
 layout: post
 maintitle: "The Garden Where Rough Edges Grow - {Young}ist"
-headline: "The Garden Where Rough Edges Grow "
+headline: "The Garden Where Rough Edges Grow"
 tagline: undefined
 featuredphoto: "http://www.extraenvironmentalist.com/wp-content/themes/Yen/timthumb.php?src=http://www.extraenvironmentalist.com/wp-content/uploads/2013/07/financing2.jpg&w=580&zc=1"
 featuredphotoalttext: undefined
@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
 contributorshortbio: undefined
 contributortwitter: togglecoat
-contributorage: 12/05/1991
+contributorage: 07/14/1991
 categories: 
   - editors
 tags: 
@@ -21,7 +21,7 @@ contributors:
 
 Every young generation, as it comes of age, is told it’s special, that everyone else’s hopes and dreams live through it, and, simultaneously, that it is already not living up to these expectations. With this in mind, I — a 23-year-old who’d never spent a weekend at a conference before — placed a starchy blue shirt and a shift dress in my backpack and took a bus to Boston. 
 
-The weekend before last, I attended CommonBound, a gathering of more than 650 people, most of them activists, academics, and students, organized by the New Economy Coalition. In the classrooms, gyms, and corridors of Northeastern University, we came together to discuss what the “new economy” is and share whatever projects we had been working on to further its realization. I spoke with and learned a great deal from leaders at Demos, the Responsible Endowments Coalition, the Center for American Progress, Black Mesa Water Coalition, and the National Domestic Workers Alliance. 
+Last month, I attended CommonBound, a gathering of more than 650 people, most of them activists, academics, and students, organized by the New Economy Coalition. In the classrooms, gyms, and corridors of Northeastern University, we came together to discuss what the “new economy” is and share whatever projects we had been working on to further its realization. I spoke with and learned a great deal from leaders at Demos, the Responsible Endowments Coalition, the Center for American Progress, Black Mesa Water Coalition, and the National Domestic Workers Alliance. 
 
 According to an article by Gar Alperovitz, one of the keynote speakers at the conference and a leader in new economics, the movement is founded on the belief, “that the entire economic system must be radically reconstructed if critical social and environmental goals are to be met.” Everyone at the conference seemed to agree that this means establishing an economy that prioritizes communal values over individual ones. The emphasis was placed on climate, labor, and racial justice. We came up with more than 650 versions of a world we all had to win. 
 
