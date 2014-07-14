@@ -17,6 +17,8 @@ tags:
   - labor
   - capitalism
   - workers
+categories: 
+  - editors
 ---
 
 It took nine months for the 396 cleaners that had been made redundant by the Greek Finance Ministry to gain their victory. Since September 2013, they have been on strike, selling T-shirts to survive and pay for banners and other activism materials, and facing police brutality. 
