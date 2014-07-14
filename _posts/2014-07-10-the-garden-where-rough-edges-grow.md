@@ -5,7 +5,7 @@ maintitle: "The Garden Where Rough Edges Grow - {Young}ist"
 headline: "The Garden Where Rough Edges Grow"
 tagline: undefined
 featuredphoto: "http://31.media.tumblr.com/f1b6a5d6e8a3ea0c320b6304c2b74f8c/tumblr_n8pnf8Yk7l1rgxu3ho1_1280.jpg"
-featuredphotoalttext: "Climbing PoeTree performing at Common Bound Conference at Northeastern University (Common Bound Facebook)"
+featuredphotoalttext: "Climbing PoeTree performing at Common Bound Conference at Northeastern University (New Economy Coalition)"
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
 contributorshortbio: undefined
