@@ -4,7 +4,7 @@ layout: post
 maintitle: "The Garden Where Rough Edges Grow - {Young}ist"
 headline: "The Garden Where Rough Edges Grow "
 tagline: undefined
-featuredphoto: undefined
+featuredphoto: "http://www.extraenvironmentalist.com/wp-content/themes/Yen/timthumb.php?src=http://www.extraenvironmentalist.com/wp-content/uploads/2013/07/financing2.jpg&w=580&zc=1"
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
