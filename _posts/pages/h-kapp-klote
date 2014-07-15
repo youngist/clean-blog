@@ -1,0 +1,16 @@
+-
+layout: default
+category: page
+maintitle: H Kapp-Klote
+titlename: H Kapp-Klote
+class: contributor
+position: contributor
+excerpt: undefined
+coverphoto: undefined
+image: https://pbs.twimg.com/profile_images/455826295008399360/6SmtAkBY.jpeg
+bio: "H is a Kansas native trapped next to a coast. They think about power, organizing, and pizza in Washington DC."
+contributortwitter: pizza4justice
+contributors: 
+- H Kapp-Klote
+---
+{% include contrib_feed_post_layout.html %}
