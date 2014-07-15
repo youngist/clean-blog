@@ -4,8 +4,8 @@ layout: post
 maintitle: "pride Without 'Pride': Power in Shared Spaces- {Young}ist"
 headline: "pride Without 'Pride': Power in Shared Spaces- {Young}ist"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://upload.wikimedia.org/wikipedia/commons/8/87/Belfast_Pride_Parade,_July_2013_(23).JPG"
+featuredphotoalttext: People march under a rainbow of balloons at the Belfast Pride parade.
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/455826295008399360/6SmtAkBY.jpeg"
 contributorshortbio: "H is a Kansas native trapped next to a coast. They think about power, organizing, and pizza in Washington DC."
