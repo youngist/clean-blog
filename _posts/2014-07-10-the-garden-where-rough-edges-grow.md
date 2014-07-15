@@ -8,7 +8,7 @@ featuredphoto: "http://31.media.tumblr.com/f1b6a5d6e8a3ea0c320b6304c2b74f8c/tumb
 featuredphotoalttext: "Climbing PoeTree performing at Common Bound Conference at Northeastern University (New Economy Coalition)"
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
-contributorshortbio: undefined
+contributorshortbio: "Hannah K. Gold writes on social justice and literature for publication, and composes bad poetry and erotica for herself."
 contributortwitter: togglecoat
 contributorage: 07/14/1991
 categories: 
