@@ -1,8 +1,8 @@
 ---
 published: false
 layout: post
-maintitle: "pride Without 'Pride': Power in Shared Spaces- {Young}ist"
-headline: "pride Without 'Pride': Power in Shared Spaces- {Young}ist"
+maintitle: "Pride Without 'Pride': Power in Shared Spaces- {Young}ist"
+headline: "Pride Without 'Pride': Power in Shared Spaces- {Young}ist"
 tagline: undefined
 featuredphoto: "http://upload.wikimedia.org/wikipedia/commons/8/87/Belfast_Pride_Parade,_July_2013_(23).JPG"
 featuredphotoalttext: People march under a rainbow of balloons at the Belfast Pride parade.
@@ -20,7 +20,7 @@ categories:
   - editors
 ---
 
-What could possibly be left to say about Pride?  Everyone, it seems, queer and straight, has an opinion on pride. JD Samson thinks we should get off the internet and, somehow relatedly, that trans women should be nicer. Colorlines thinks it might be just for [white people](http://colorlines.com/archives/2014/06/is_gay_pride_just_for_white_people.html). A guy that I passed on the street at DC Pride (who identified as straight loudly and often, covered in glitter and rainbow beads) thinks Pride is the “BEST DAY EVER”. 
+What could possibly be left to say about Pride?  Everyone, it seems, queer and straight, has an opinion on pride. JD Samson thinks we should get off the internet and, somehow relatedly, that trans women should be nicer. _Colorlines_ thinks it might be just for [white people](http://colorlines.com/archives/2014/06/is_gay_pride_just_for_white_people.html). A guy that I passed on the street at DC Pride (who identified as straight loudly and often, covered in glitter and rainbow beads) thinks Pride is the “BEST DAY EVER”. 
 
 Every time we cycle through to June on the lunar calendar, everyone and their mother has a substantive opinion on Pride, or critique of Pride, or a critique of a critique of Pride, or a critique of a critique of a critique of Pride, until the whole mass of what Pride may or may not entail, perpetuate, or remind us of, is lost in a sea of thinkpieces and tweets. Pride is a [corporate neoliberal project](http://socialistworker.org/2014/06/11/no-pride-in-pinkwashing) of excess wearing a rainbow flag: bad. Pride is a space where [queer youth](http://www.thedccenter.org/pride_youth.html) can gather: good. Pride is very important to [Mormons](http://news360.com/article/242787318): mixed bag.  
 
