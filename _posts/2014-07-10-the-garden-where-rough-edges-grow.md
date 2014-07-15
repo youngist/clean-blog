@@ -16,7 +16,7 @@ categories:
 tags: 
   - capitalism
 contributors: 
-  - Hannah Gold
+  - Hannah K. Gold
 ---
 
 Every young generation, as it comes of age, is told it’s special, that everyone else’s hopes and dreams live through it, and, simultaneously, that it is already not living up to these expectations. With this in mind, I — a 23-year-old who’d never spent a weekend at a conference before — placed a starchy blue shirt and a shift dress in my backpack and took a bus to Boston. 
