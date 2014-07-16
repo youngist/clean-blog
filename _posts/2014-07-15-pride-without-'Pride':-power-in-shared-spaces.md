@@ -13,11 +13,11 @@ contributortwitter: pizza4justice
 contributorage: undefined
 tags: 
   - queer
-  - "pride-strikes-back"
+  - pride
 contributors: 
   - "H Kapp-Klote"
 categories: 
-  - editors
+  - feautured
 ---
 
 What could possibly be left to say about Pride?  Everyone, it seems, queer and straight, has an opinion on pride. JD Samson thinks we should get off the internet and, somehow relatedly, that trans women should be nicer. _Colorlines_ thinks it might be just for [white people](http://colorlines.com/archives/2014/06/is_gay_pride_just_for_white_people.html). A guy that I passed on the street at DC Pride (who identified as straight loudly and often, covered in glitter and rainbow beads) thinks Pride is the “BEST DAY EVER”. 
