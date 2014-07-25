@@ -1,0 +1,17 @@
+---
+layout: default
+category: page
+maintitle: Alexander Abbasi
+titlename: Alexander Abbasi
+class: contributor
+position: contributor
+excerpt: Alex is a Palestine solidarity activist who dreams of a map without borders.
+image: undefined
+bio: Alex is a Palestine solidarity activist and Masters student at Harvard Divinity School. He dreams of a map without borders. A history that unshadows the underside. And a place where people find themselves through community, seeking to create more socially justice worlds. As the poet Mahmoud Darwish once said, “I am the Adam of two Edens, lost to me twice, expel me slowly, kill me slowly, with Garcia Lorca, under my olive tree.” 
+contributortwitter: undefined
+contributorage: undefined
+coverphoto: undefined
+contributors: 
+- Alexander Abbasi
+---
+{% include contrib_feed_post_layout.html
