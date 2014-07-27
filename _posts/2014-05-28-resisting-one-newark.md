@@ -12,7 +12,7 @@ contributorshortbio: "freelance journalist. filmmaker: @kimanifilm, @1181documen
 contributortwitter: aintacrow
 contributorage: undefined
 categories: 
-  - featured
+  - editors
 tags: 
   - students
   - "graduation-strikes-back"
