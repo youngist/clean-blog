@@ -20,6 +20,7 @@ tags:
 contributors: 
   - Alexander Abbasi
 ---
+
 On July 16th, four Palestinian boys aged 9-12 from the Bakr family, were playing soccer on a Gazan beach. In one moment they were escaping the horrific reality of experiencing the fourth, fifth, or sixth war in their lives by kicking around a soccer ball. The next moment an Israeli missile [bombed them](http://online.wsj.com/articles/palestinians-mourn-four-boys-killed-on-gaza-beach-by-israel-missiles-1405616076) and robbed them of their breath and bodies. Israel claimed they “mistook” them for terrorists. Nevertheless, Israel has illegally reintroduced [chemical weapons](https://www.middleeastmonitor.com/news/middle-east/12881-medical-sources-israel-using-unfamiliar-toxic-gas-against-palestinians-in-gaza) and [lethal flechett shell darts](http://www.theguardian.com/world/2014/jul/20/israel-using-flechette-shells-in-gaza) into its arsenal, and has committed a Sabra/Shatila-esque massacre in the [town of Shujaiya](http://electronicintifada.net/blogs/ali-abunimah/massacre-shujaiya-dozens-killed-israel-shells-eastern-gaza-city-photos) with almost 100 Palestinian lives [stolen](http://www.thenation.com/article/180728/massacre-shejaiya) from one sunrise to the next. Once again, Israel is proving to show no mercy for innocent and precious Palestinian human life.
 
 
