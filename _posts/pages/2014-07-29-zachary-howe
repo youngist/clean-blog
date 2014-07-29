@@ -1,0 +1,26 @@
+---
+layout: default
+category: page
+maintitle: Zachary Howe
+titlname: Zachary Howe
+class: contributor
+position: contributor
+excerpt: Writes for the revolution and works for money
+image: "https://scontent-b.xx.fbcdn.net/hphotos-prn1/t1.0-9/189671_10150126163746870_636942_n.jpg"
+bio: undefined
+contributortwitter: undefined
+coverphoto: undefined
+contributors: 
+  - Zachary Howe
+published: true
+headline: undefined
+tagline: undefined
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
+contributorphoto: undefined
+contributorshortbio: undefined
+contributorage: 1989-08-28
+---
+
+{% include contrib_feed_post_layout.html %}
