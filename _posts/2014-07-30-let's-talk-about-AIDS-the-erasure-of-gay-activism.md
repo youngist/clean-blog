@@ -10,7 +10,7 @@ videourl: undefined
 contributorphoto: 
 contributorshortbio: undefined
 contributortwitter: undefined
-contributorage: 
+contributorage: 1989-08-28
 categories: 
   - editors
 tags: 
