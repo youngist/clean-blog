@@ -4,19 +4,21 @@ layout: post
 maintitle: "Let's Talk About AIDS: The Erasure of Gay Activism - {Young}ist"
 headline: "Let's Talk About AIDS: The Erasure of Gay Activism"
 tagline: undefined
-featuredphoto: 
-featuredphotoalttext: 
+featuredphoto: http://4.bp.blogspot.com/-sGvIXM9v750/USKMDDwdPZI/AAAAAAAAAWU/hvzYA4mkpJo/s1600/HIVNotCrimepicDC.JPG
+featuredphotoalttext: AIDS activism lives on: Queerocracy at a march
 videourl: undefined
 contributorphoto: 
-contributorshortbio: 
+contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: 
 categories: 
   - editors
 tags: 
-  - 
+  - queer
+  - sex
+  - health
 contributors: 
-  - 
+  - Zachary Howe
 ---
 The scariest thing about gay politics these days is not the ongoing stupidity of [extremist Christian homophobia](http://www.queerty.com/the-religious-right-insists-on-comparing-marriage-equality-with-slavery-20140424) or setbacks in the march towards marriage “equality.” The scariest thing about gay politics is _still_ AIDS.
 
