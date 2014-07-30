@@ -11,14 +11,14 @@ contributorphoto: http://38.media.tumblr.com/960551e6864d83330ac13c48aa71b7ca/tu
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: 1989-08-28
-categories: 
-  - editors
 tags: 
   - queer
   - sex
   - health
 contributors: 
   - Zachary Howe
+categories: 
+  - editors
 ---
 
 The scariest thing about gay politics these days is not the ongoing stupidity of [extremist Christian homophobia](http://www.queerty.com/the-religious-right-insists-on-comparing-marriage-equality-with-slavery-20140424) or setbacks in the march towards marriage “equality.” The scariest thing about gay politics is _still_ AIDS.
