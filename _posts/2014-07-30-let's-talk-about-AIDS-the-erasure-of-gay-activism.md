@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Let's Talk About AIDS: The Erasure of Gay Activism - {Young}ist"
 headline: "Let's Talk About AIDS: The Erasure of Gay Activism"
