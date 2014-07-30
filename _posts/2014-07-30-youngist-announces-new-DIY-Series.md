@@ -16,7 +16,7 @@ tags:
   - "do-it-yourself"
   - "DIY"
 contributors: 
-  - "Victor C Valle"
+  - Victor C. Valle
 categories: 
   - featured
 ---
