@@ -7,7 +7,7 @@ tagline: undefined
 featuredphoto: http://4.bp.blogspot.com/-sGvIXM9v750/USKMDDwdPZI/AAAAAAAAAWU/hvzYA4mkpJo/s1600/HIVNotCrimepicDC.JPG
 featuredphotoalttext: AIDS activism lives on: Queerocracy at a march
 videourl: undefined
-contributorphoto: 
+contributorphoto: http://38.media.tumblr.com/960551e6864d83330ac13c48aa71b7ca/tumblr_n9jdxgeYqz1rq2ndso1_250.jpg
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: 1989-08-28
