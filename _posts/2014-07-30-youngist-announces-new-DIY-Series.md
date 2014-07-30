@@ -4,7 +4,7 @@ layout: post
 maintitle: "Youngist announces new DIY Series - {Young}ist"
 headline: "Youngist announces new DIY Series"
 tagline: undefined
-featuredphoto: "https://pbs.twimg.com/media/Btzv_cPCYAANQSt.png"
+featuredphoto: "https://31.media.tumblr.com/c899592ab2a9dbd8e3a5e1f94d8c3bb2/tumblr_n9jgbcagFU1sm7wrao1_500.jpg"
 featuredphotoalttext: Youngist announces new DIY Series
 videourl: //www.youtube.com/embed/KLtgFil07jY
 contributorphoto: "https://pbs.twimg.com/profile_images/492422057821360128/qiRep23h.jpeg"
