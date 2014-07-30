@@ -20,6 +20,7 @@ tags:
 contributors: 
   - Zachary Howe
 ---
+
 The scariest thing about gay politics these days is not the ongoing stupidity of [extremist Christian homophobia](http://www.queerty.com/the-religious-right-insists-on-comparing-marriage-equality-with-slavery-20140424) or setbacks in the march towards marriage “equality.” The scariest thing about gay politics is _still_ AIDS.
 
 Yes, people continue to die from AIDS-related causes. In 2012, [2.3 million people worldwide contracted HIV and 1.6 million people died](http://www.amfar.org/about-hiv-and-aids/facts-and-stats/statistics--worldwide/) of HIV-related causes. But rates of infection have slowed, especially in some of the countries with the highest prevalence rate. In the United States, too, the rate of the disease’s spread and its mortality rate have dropped tremendously since the ’80s and mid ’90s, and this is cause for celebration.
