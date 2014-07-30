@@ -4,7 +4,7 @@ layout: post
 maintitle: "Youngist announces new DIY Series - {Young}ist"
 headline: "Youngist announces new DIY Series"
 tagline: undefined
-featuredphoto: "https://31.media.tumblr.com/c899592ab2a9dbd8e3a5e1f94d8c3bb2/tumblr_n9jgbcagFU1sm7wrao1_500.jpg"
+featuredphoto: "http://31.media.tumblr.com/25dd144dffe67da17f84093e442deb74/tumblr_n9jgbcagFU1sm7wrao1_r1_1280.jpg"
 featuredphotoalttext: Youngist announces new DIY Series
 videourl: //www.youtube.com/embed/KLtgFil07jY
 contributorphoto: "https://pbs.twimg.com/profile_images/492422057821360128/qiRep23h.jpeg"
@@ -16,7 +16,7 @@ tags:
   - "do-it-yourself"
   - "DIY"
 contributors: 
-  - "Victor C. Valle"
+  - "Victor Casillas Valle"
 categories: 
   - featured
 ---
