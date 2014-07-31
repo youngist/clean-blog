@@ -4,8 +4,8 @@ layout: post
 maintitle: "Youngist announces new DIY Series - {Young}ist"
 headline: "Youngist announces new DIY Series"
 tagline: undefined
-featuredphoto: "http://31.media.tumblr.com/25dd144dffe67da17f84093e442deb74/tumblr_n9jgbcagFU1sm7wrao1_r1_1280.jpg"
-featuredphotoalttext: Youngist announces new DIY Series
+featuredphoto: undefined
+featuredphotoalttext: undefined
 videourl: //www.youtube.com/embed/KLtgFil07jY
 contributorphoto: "https://pbs.twimg.com/profile_images/492422057821360128/qiRep23h.jpeg"
 contributorshortbio: "Victor Casillas Valle is a Chican@ writer, multimedia journalist, radio host, editor, poet, musician, and music industry professional." 
