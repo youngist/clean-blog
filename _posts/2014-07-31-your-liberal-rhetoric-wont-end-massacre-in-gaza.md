@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Your Liberal Rhetoric Won't End the Massacre in Gaza - {Young}ist"
 headline: "Your Liberal Rhetoric Won't End the Massacre in Gaza"
