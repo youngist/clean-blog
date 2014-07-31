@@ -1,12 +1,30 @@
 ---
-
+published: false
+layout: post
+maintitle: "Reflections From Behind the Brick Wall - {Young}ist"
+headline: "Reflections From Behind the Brick Wall"
+tagline: undefined
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
+contributorphoto: undefined
+contributorshortbio: undefined
+contributortwitter: undefined
+contributorage: undefined
+categories: 
+  - editors
+tags: 
+  - higher-education
+  - organizing
+contributors: 
+  - undefined
 ---
 
 _“SCHOLARSHIP IS ART AND WE ARE ARTISTS. THIS IS IN ALL CAPS TO BE HEARD OVER THE NUMBING SILENCE AND CACOPHONIUS BLABBER OF THE ACADEMY. ARTISTS AND CREATORS AND LIFE-GIVERS ARE NOT APPRECIATED HERE. THERE IS NO BODILY INTEGRITY. NO REFLECTIVE QUIETNESS. NO TENDER TOUCH. ONLY THE CRUDE NECESSITY TO SELL AND CONSUME UNTIL YOU BECOME A CANNIBAL OF YOURSELF.”_
 
 I’m writing this as a way to process the four years I spent in school, but I am not sure where to start. I could plunge into a critique of the academic industrial complex and the corporatization of higher education, but my memory is working in snapshots right now. Crying in professor’s offices, in corners of the library, embarrassingly often. Looking at the ceiling and doodling during class in boredom and frustration. Feeling a murky cloud of self-doubt settling over me. I still feel silly and self-indulgent writing this. It’s not something I want to talk about, but I feel like I have to get it out of my head. 
 
-I spent a lot of time wandering campus and feeling cynical and somewhat horrified by my surroundings. The thing about getting a critical education is that it will invert your gaze upon yourself in a self-destructive way. Not everyone carries the analysis of the world that they learn through gender theory, critical race studies or postcolonial studies far enough, but those of us that do realize that we are being given the tools to unravel the institution we find ourselves in _from within that institution_. It is a hugely unsettling paradox that can provoke a lot of rage [that has nowhere to go]. We see what is wrong with not just the broader world, but with our immediate world - the university - a place that thrives off all sorts of material and psychological violence. And it is then that we come upon a painful realization that this place does not want to change, and will not. It may teach you what is wrong with the world, but it is divested from engaging in how to change it. What good is a “reading room in a prison”? 
+I spent a lot of time wandering campus and feeling cynical and somewhat horrified by my surroundings. The thing about getting a critical education is that it will invert your gaze upon yourself in a self-destructive way. Not everyone carries the analysis of the world that they learn through gender theory, critical race studies or postcolonial studies far enough, but those of us that do realize that we are being given the tools to unravel the institution we find ourselves in _from within that institution_. It is a hugely unsettling paradox that can provoke a lot of rage (that has nowhere to go). We see what is wrong with not just the broader world, but with our immediate world - the university - a place that thrives off all sorts of material and psychological violence. And it is then that we come upon a painful realization that this place does not want to change, and will not. It may teach you what is wrong with the world, but it is divested from engaging in how to change it. What good is a “reading room in a prison”?
 
 I discovered the limits of supposedly “radical” spaces in the university too quickly. I remember sitting in my senior feminist studies seminar, becoming aggravated with a classroom that was more interested in discussing whether Beyonce was a feminist, rather than talking about neoliberalism was claiming feminism, more interested in reading Tina Fey than Marxist feminists, more inclined to read Audre Lorde’s poetry as “pretty words” than an clear articulation of a pain that necessitates action. _Is this really the next generation of feminists?_ I would ask myself with frustration. I found out later that this was symptomatic of a focus on postmodernist feminism, one heavily invested in language and representation rather than material realities. In an age where the university was becoming increasingly ruled by capitalist interests, an article about the revolutionary potential of Rihanna’s pussy pat would sell more than writing that actually elaborates the grim realities of capitalist patriarchal exploitation. So even the “feminist" classroom was deeply disappointing; radical theory was far removed from radical action, coupled instead with the glittery status of “sounding” radical without being threatening to the status quo.
 
