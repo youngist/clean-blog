@@ -1,0 +1,17 @@
+---
+layout: default
+category: page
+maintitle: Reem Suleiman
+titlename: Reem Suleiman
+class: contributor
+position: contributor
+excerpt: Reem is a recent UCLA graduate and Palestine solidarity activist. 
+coverphoto: http://i59.tinypic.com/2vlwm6t.jpg
+image: http://i57.tinypic.com/wvsupl.png
+bio: "Reem Suleiman is a recent UCLA graduate with a degree in Comparative Literature and a minor in Middle East and North African Studies. An active member of Students for Justice in Palestine, Reem campaigned for UCLA Divest which demanded the university divest from companies profiting off of the illegal Israeli occupation. Follow her on Twitter @ReemTIFADA."
+contributortwitter: ReemTIFADA
+contributorage: 1992-01-15
+contributors: 
+- Reem Suleiman
+---
+{% include contrib_feed_post_layout.html %}
