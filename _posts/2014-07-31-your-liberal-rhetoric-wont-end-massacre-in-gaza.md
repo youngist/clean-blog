@@ -4,8 +4,8 @@ layout: post
 maintitle: "Your Liberal Rhetoric Won't End the Massacre in Gaza - {Young}ist"
 headline: "Your Liberal Rhetoric Won't End the Massacre in Gaza"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: http://fc04.deviantart.net/fs22/i/2008/024/c/9/Free_Palestine_Now_by_kartix.jpg
+featuredphotoalttext: A face is pictured in a Palestinian flag that reads "Free Palestine Now"! Photo source | deviantart.net
 videourl: undefined
 contributorphoto: http://i57.tinypic.com/wvsupl.png
 contributorshortbio: Reem is a recent UCLA graduate and Palestine solidarity activist.
