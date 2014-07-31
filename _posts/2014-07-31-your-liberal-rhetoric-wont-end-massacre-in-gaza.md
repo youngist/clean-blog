@@ -7,10 +7,10 @@ tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: http://i57.tinypic.com/wvsupl.png
+contributorshortbio: Reem is a recent UCLA graduate and Palestine solidarity activist.
+contributortwitter: ReemTIFADA
+contributorage: 1992-01-15
 categories: 
   - editors
 tags: 
