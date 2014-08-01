@@ -12,12 +12,12 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - editors
+  - article
 tags: 
   - higher-education
   - organizing
 contributors: 
-  - undefined
+  - Bakri R
 ---
 
 _“SCHOLARSHIP IS ART AND WE ARE ARTISTS. THIS IS IN ALL CAPS TO BE HEARD OVER THE NUMBING SILENCE AND CACOPHONIUS BLABBER OF THE ACADEMY. ARTISTS AND CREATORS AND LIFE-GIVERS ARE NOT APPRECIATED HERE. THERE IS NO BODILY INTEGRITY. NO REFLECTIVE QUIETNESS. NO TENDER TOUCH. ONLY THE CRUDE NECESSITY TO SELL AND CONSUME UNTIL YOU BECOME A CANNIBAL OF YOURSELF.”_
