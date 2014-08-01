@@ -4,7 +4,7 @@ layout: post
 maintitle: "Reflections From Behind the Brick Wall - {Young}ist"
 headline: "Reflections From Behind the Brick Wall"
 tagline: undefined
-featuredphoto: undefined
+featuredphoto: http://www.francoissoulignac.com/blog/wp-content/Francois-Soulignac_Boston-Architecture_Ivy-on-the-Walls_06.jpg
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: undefined
