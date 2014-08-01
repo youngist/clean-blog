@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Reflections From Behind the Brick Wall - {Young}ist"
 headline: "Reflections From Behind the Brick Wall"
