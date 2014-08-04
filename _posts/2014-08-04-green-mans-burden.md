@@ -2,7 +2,7 @@
 published: false
 layout: post
 maintitle: "The Green Man's Burden - {Young}ist"
-headline: "Pride Without 'Pride': Power in Shared Spaces"
+headline: "The Green Man's Burden"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
