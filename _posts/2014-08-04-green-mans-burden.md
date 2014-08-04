@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 maintitle: "Pride Without 'Pride': Power in Shared Spaces- {Young}ist"
 headline: "Pride Without 'Pride': Power in Shared Spaces"
