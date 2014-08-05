@@ -26,7 +26,7 @@ The movement is, to its great credit, changing. We’ve come a long way from the
 
 Take Paul Kingsnorth, a British journalist who recently declared his rejection of environmental activism, was profiled in April in the [_New York Times_](http://www.nytimes.com/2014/04/20/magazine/its-the-end-of-the-world-as-we-know-it-and-he-feels-fine.html). The _Times_ looks at him as a sort of Cassandra, grim but clear-eyed. Kingsnorth frames his retreat in terms of the encroaching reality of climate change, the resulting hopelessness of environmental activism, and his desire to refocus on his artistic inclinations. He had joined the early ’90s protests against road construction at Twyford Down while a student at Oxford, launching a decade of involvement in worldwide protests and anti-globalization journalism. Now he is the founder and figurehead of the Dark Mountain project, a UK-based project to create an artistic response to the ‘age of ecocide’ – our current era of human-caused mass extinction.
 
-<h1>Sustainability’s Precipice</h1>
+<h4>Sustainability’s Precipice</h4>
 
 Kingsnorth’s [essay](http://www.orionmagazine.org/index.php/articles/article/6599/) details two reasons for his retreat; parallel processes which have driven from him the will to continue. The first reason is the success of sustainability, and the second, environmentalism’s growing allegiance to social justice.
 
@@ -40,7 +40,7 @@ _“To [cut emissions] will require the large-scale harvesting of the planet’s
 
 His point here stems from a more basic critique of the whole concept of industrial civilization – any society which requires the large-scale harvesting of energy is therefore doing unacceptable damage to the environment. This perspective is most clearly articulated by anarcho-primitivist scholars like [John Zerzan](http://www.johnzerzan.net/), and, unfortunately, the Unabomber. (You can read Kingsnorth ponder the Unabomber in [this essay](http://paulkingsnorth.net/journalism/dark-ecology/).) It goes almost without saying that the ability to ponder dismantling society with clinical detachment requires a certain amount of empowerment. 
 
-<h1>Shaky Foundations</h1>
+<h4>Shaky Foundations</h4>
 
 In the Dark Mountain project’s [Manifesto](http://dark-mountain.net/about/manifesto/), Kingsnorth attacks the very idea of organized human society, which he sees as the fundamental delusion at fault for our species’ ecologically destructive expansion. Sustainability fails to challenge that delusion  – so Kingsnorth sees it as equally toxic. In a [debate](http://thoreaufarm.org/2012/04/hope-in-the-age-of-collapse/) with Wen Stephenson, he elaborates:
 
@@ -64,7 +64,7 @@ The idea of a ‘managed retreat’ continually reappears in Kingsnorth’s writ
 
 The reality is that human societies have experienced ‘managed retreats’ from social boundaries several times over the past two centuries. In fact, it was the official policy of Western imperialism to create these crises, repeatedly and intentionally, arguably until the present day. And these occurred as a direct response to the resource shortages Western society faced.
 
-<h1>The Retreat Managers</h1>
+<h4>The Retreat Managers</h4>
 
 When European industry faced a rubber shortage that threatened to attenuate the newborn Industrial Revolution, the Belgian crown crushed the myriad societies of the Congo basin and met demand. When Soviet industrialization, intended to put society on par with the West, required increased agricultural exports, wheat was withheld from the Ukraine and millions starved or were forced into cannibalism and murder. Just a few years later, when the UK faced food shortages threatening its ability to fight a world war, it stole that grain from India, and an estimated 4.3 million people died. And a few years after that, when the accumulated dissension threatened to overturn British colonial domination, they simply pulled up stakes and fled, cleaving families, towns, and whole cultures in two and pitting them against each other with a poorly drawn partition agreement that resulted in near-instantaneous warfare and long-lasting resentment.
 
@@ -82,7 +82,7 @@ _“Suddenly, sustaining a global human population of ten billion people was not
 
 As it so happens, the ‘real issue’ actually is fat cats and bankers and cap’lism. And the real victims aren’t middle-aged white Westerners who can afford to withdraw to the bucolic countryside and teach their children to scythe. Climate change and ecocide are consequences of Western imperial overreach, and like all consequences of Western overreach, they will be unceremoniously dumped on the shores of the global south like so many used T-shirts. Perhaps the Western social system will collapse afterwards, as well. But only _afterwards_.
 
-<h1>Clouded Visions</h1>
+<h4>Clouded Visions</h4>
 
 Kingsnorth’s reasoning is contorted because he scrupulously avoids honestly reckoning with the social consequences of the environment – even going as far as to denounce the entire concept of ‘social consequences,’ as in the above passages. His gaze passes resolutely over the heads of those who see climate change as an existential threat, rather than an inconvenience that might knock out their Twitter. The billions whose corpses will pave the way to his ‘saner world’ are quite literally beneath his notice, irrelevant to his “occasional sneaking desire to see it all crashing down.” Like Mountbatten in India, he is only marginally conscious of the devastation contained within the phrase, “managed retreat.”
 
@@ -90,7 +90,7 @@ In a way, this myopia makes his argument perhaps more palatable than some earlie
 
 There are important differences between Hardin’s and CAPS’ callous subordination of the interests of people of color and Kingsnorth’s greeting of those interests with studied silence. But both serve to contract the boundaries of environmentalism, restricting its appeal to a minority of a minority. Both oversimplify the true nature of climate change, engaging in the [delusion](http://www.theguardian.com/environment/georgemonbiot/2012/feb/13/protecting-environment-social-justice) that all humans are equally at fault, and will share equally in the consequences. They are both complicit in depriving environmentalism of its largest and most directly interested support base – the young and poor who bear the burdens of ecocide. They both alienate possible supporters with their hostility or indifference to their interests or agency. Both spring out of a kind of imperial mindset, seeing environmental protection as the privileged domain of elite activists, magnanimously safeguarding the wonders of nature from the savage, unappreciative masses.
 
-<h1>Millennial Opportunities</h1>
+<h4>Millennial Opportunities</h4>
 
 So it’s no accident that [large majorities](http://www.nytimes.com/2014/05/07/upshot/americans-are-outliers-in-views-on-climate-change.html?_r=0) of people outside the Anglosphere are clued into the threat of climate change. It should also be unsurprising that members of our generation are [less likely](http://www.pewsocialtrends.org/2014/03/07/millennials-in-adulthood/) to see themselves as environmentalists, yet increasingly [concerned](http://www.theatlantic.com/politics/archive/2014/05/everything-you-need-to-know-about-millennials-political-views/371053/) about actual environmental issues. We no longer have patience for the seized-up identity politics of green and deeper green. And we have even less patience for grandiose, indiscriminate denunciations of all society. Instead, we can see that racial and environmental justice are, as [Mychal Denzel Smith says](http://www.thenation.com/blog/179471/racial-and-environmental-justice-are-two-sides-same-coin), two sides of the same coin.
 
