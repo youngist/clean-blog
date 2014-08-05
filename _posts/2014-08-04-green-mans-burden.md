@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "The Green Man's Burden - {Young}ist"
 headline: "The Green Man's Burden"
-tagline: undefined
-featuredphoto: undefined
+tagline: Jack Swallow investigates the intersection of climate change, capitalism, and race
+featuredphoto: https://lh3.googleusercontent.com/-MrSCYKmj8Mc/U98nX6BpQGI/AAAAAAAAAGM/DG3nvMA5siQ/w566-h423-no/IMG_0655.JPG
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: "https://lh5.googleusercontent.com/-kDzIxfz-PWs/UipL8JxMzOI/AAAAAAAAAD0/cVaLS8eenBY/w231-h232-no/945545_10201311471409212_1181464773_n.jpg"
