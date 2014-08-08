@@ -1,14 +1,14 @@
 ---
-published: false
+published: true
 layout: post
-maintitle: "chile - {Young}ist"
-headline: "Chile"
+maintitle: "Arriba Lxs Que Luchan: Chilean Students Struggling to Win - {Young}ist"
+headline: "Arriba Lxs Que Luchan: Chilean Students Struggling to Win"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: http://fuckyeahjamaicaplain.tumblr.com/image/94193341636
+featuredphotoalttext: Credit: El Piño Comunicaciones
 videourl: undefined
 contributorphoto: undefined
-contributorshortbio: "undefined"
+contributorshortbio: "Alexi S is a student and organizer at CUNY Hunter College"
 contributortwitter: undefined
 contributorage: undefined
 tags: 
