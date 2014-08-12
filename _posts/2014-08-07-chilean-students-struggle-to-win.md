@@ -5,7 +5,7 @@ maintitle: "Arriba Lxs Que Luchan: Chilean Students Struggling to Win - {Young}i
 headline: "Arriba Lxs Que Luchan: Chilean Students Struggling to Win"
 tagline: undefined
 featuredphoto: http://fuckyeahjamaicaplain.tumblr.com/image/94193341636
-featuredphotoalttext: Credit: El Piño Comunicaciones
+featuredphotoalttext: Credit|El Piño Comunicaciones
 videourl: undefined
 contributorphoto: undefined
 contributorshortbio: "Alexi S is a student and organizer at CUNY Hunter College"
