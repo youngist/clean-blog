@@ -4,7 +4,7 @@ layout: post
 maintitle: "Arriba Lxs Que Luchan: Chilean Students Struggling to Win - {Young}ist"
 headline: "Arriba Lxs Que Luchan: Chilean Students Struggling to Win"
 tagline: undefined
-featuredphoto: http://fuckyeahjamaicaplain.tumblr.com/image/94193341636
+featuredphoto: http://31.media.tumblr.com/40f6ca2b2b9141217f49ce8fc5e61c50/tumblr_na0ecvYmR11ql60owo1_1280.jpg
 featuredphotoalttext: Credit|El Piño Comunicaciones
 videourl: undefined
 contributorphoto: undefined
