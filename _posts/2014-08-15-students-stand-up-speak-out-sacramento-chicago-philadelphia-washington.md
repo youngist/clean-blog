@@ -24,14 +24,14 @@ contributors:
 This post, curated by {Young}ist contributor James Cersonsky, was originally published at StudentNation and is reprinted here with permission.
 
 
-1. At 11, Not One More
+1) At 11, Not One More
 
 On August 2, more than [2,000 people marched on Washington, DC](http://www.nytimes.com/video/multimedia/100000003036182/whose-streets-our-streets-chant-pro-immigration-advocates-in-dc.html), to pressure President Obama to stop deportations and expand deferred action for all. The mobilization, organized by the National Day Laborer Organizing Network, was led by undocumented individuals and families affected by the [president’s policy on deportations](http://www.notonemoredeportation.com/2012/12/18/2-million-timeline/). Day laborers, members of the LGBTQ community and children were among the speakers at the march—illustrating how deportations impact many communities. Starting at the National Mall, we took over the streets en route to Border Patrol, where we stopped briefly to hear from families affected by the crisis at the border. From there, we continued to Freedom Plaza, where we [dropped banners](https://www.facebook.com/media/set/?set=a.886170588077916.1073741861.109002312461418&type=3&uploaded=7) reading “Not1More Deportation” and “DACA4All.” Our last stop was at the White House, where we announced ongoing local action to pressure the president.
 
 —Reyna Wences
 
 
-2. At 12:30, Free Palestine
+2) At 12:30, Free Palestine
 
 On August 2, some 20,000 people [marched](https://www.youtube.com/watch?v=cuDLx02IQ_o#t=15) from the White House to _The Washington Post_ in a display of anger over Israel’s most recent onslaught against the Palestinians. Before the march, [supporters rallied](https://twitter.com/KhaledBeydoun/status/495645118826024961/photo/1) in Lafayette Square to listen to a variety of speakers, ranging from Cornel West to local student activists. As a [sea of Palestinian flags](https://twitter.com/hashtag/DC4Gaza?src=hash) flooded the streets, traffic came to a halt. Once the march reached the Post, activists began to stack coffins against the windows. The protest was more than a cathartic experience; it was an opportunity for activists of all ages to reunite or meet for the first time—and share ideas for future action, including ramping up [BDS work](http://www.bdsmovement.net/call) across the country.
 
