@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: Students Stand Up and Speak Out in Sacramento, Chicago, Philadelphia and Washington, DC - {Young}ist"
 headline: "Students Stand Up and Speak Out in Sacramento, Chicago, Philadelphia and Washington, DC"
@@ -12,7 +12,7 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - featured
+  - editors
 tags: 
   - organizing
   - students
