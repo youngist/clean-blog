@@ -8,9 +8,11 @@ featuredphoto: http://38.media.tumblr.com/7e3901fe24ffdd6154cf6281fd51854b/tumbl
 featuredphotoalttext: Hillary Thompson
 videourl: //www.youtube.com/embed/yq_92PprR4g
 contributorphoto: "https://pbs.twimg.com/profile_images/497805340239360000/Munp5VCa.jpeg"
-contributorshortbio: undefined 
-contributortwitter: undefined
+contributorshortbio: "Victor Casillas Valle is a Chican@ writer, multimedia journalist, radio host, editor, poet, musician, and music industry professional." 
+contributortwitter: VictorCValle
 contributorage: undefined
+contributors: 
+  - "Victor Casillas Valle"
 tags: 
   - "LGBTQ"
   - "do-it-yourself"
