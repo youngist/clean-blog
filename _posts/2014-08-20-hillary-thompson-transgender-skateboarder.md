@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-maintitle: "Hillary Thompson treads forefront as first openly transgender skateboarder- {Young}ist"
-headline: "Hillary Thompson treads forefront as first openly transgender skateboarder"
+maintitle: "Hillary Thompson forefronts as first openly transgender skateboarder- {Young}ist"
+headline: "Hillary Thompson forefronts as first openly transgender skateboarder"
 tagline: undefined
 featuredphoto: http://38.media.tumblr.com/7e3901fe24ffdd6154cf6281fd51854b/tumblr_namkz5Gi0z1sm7wrao1_1280.png
 featuredphotoalttext: Hillary Thompson
