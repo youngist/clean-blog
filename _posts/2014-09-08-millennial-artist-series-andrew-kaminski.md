@@ -12,7 +12,8 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - "Millennial Artist Series: Andrew Kaminski"
+  - feature
+  - video
 tags: 
   - Millennial Artist Series
   - Youth Culture
