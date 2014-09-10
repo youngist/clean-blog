@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Millennial Artist Series: Andrew Kaminski - {Young}ist"
 headline: "Millennial Artist Series: Andrew Kaminski"
@@ -7,10 +7,10 @@ tagline: undefined
 featuredphoto: "https://github.com/youngist/clean-blog/blob/gh-pages/_posts/PHOTO%205.jpg"
 featuredphotoalttext: Andrew Kaminski
 videourl: "//www.youtube.com/embed/3l-96KyxD4Y"
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: https://imageshack.com/i/eyyDnMJpj
+contributorshortbio: multimedia journalist and visual artist
+contributortwitter: rainembuscado
+contributorage: October 26, 1991
 categories: 
   - feature
   - video
@@ -18,6 +18,8 @@ tags:
   - Millennial Artist Series
   - Youth Culture
   - Youth Artists
+contributor:
+  - Rain Embuscado
 ---
 
 ![Andrew Kaminski](/_posts/PHOTO 1.jpg)
