@@ -3,21 +3,20 @@ published: true
 layout: post
 maintitle: "Millennial Artist Series: Andrew Kaminski - {Young}ist"
 headline: "Millennial Artist Series: Andrew Kaminski"
-tagline: undefined
+tagline: Rain Embuscado interview Millennial artist, Andrew Kaminski.
 featuredphoto: "https://github.com/youngist/clean-blog/blob/gh-pages/_posts/PHOTO%205.jpg"
 featuredphotoalttext: Andrew Kaminski
 videourl: "//www.youtube.com/embed/3l-96KyxD4Y"
 contributorphoto: https://imageshack.com/i/eyyDnMJpj
 contributorshortbio: multimedia journalist and visual artist
 contributortwitter: rainembuscado
-contributorage: October 26, 1991
+contributorage: 1991-10-26
 categories: 
-  - feature
-  - video
+  - featured
 tags: 
-  - Millennial Artist Series
-  - Youth Culture
-  - Youth Artists
+  - millennial
+  - artists
+  - youth culture
 contributor:
   - Rain Embuscado
 ---
@@ -69,6 +68,6 @@ Like most artists, the horizon always looms closer for Kaminski. And as his MFA 
 
 _Kaminski is slated for a show in New York City at 86 Orchard Street from **September 25th - 29th**._
 
-_To learn more about Kaminski, head on over to his [official website](http://www.andrewkaminskiart.com/). But before you do, be sure to watch the video of his live art below._
+_To learn more about Kaminski, head on over to his [official website](http://www.andrewkaminskiart.com/)
 
 
