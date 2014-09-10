@@ -4,9 +4,9 @@ layout: post
 maintitle: "Millennial Artist Series: Andrew Kaminski - {Young}ist"
 headline: "Millennial Artist Series: Andrew Kaminski"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
-videourl: undefined
+featuredphoto: "https://github.com/youngist/clean-blog/blob/gh-pages/_posts/PHOTO%205.jpg"
+featuredphotoalttext: Andrew Kaminski
+videourl: "//www.youtube.com/embed/3l-96KyxD4Y"
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
