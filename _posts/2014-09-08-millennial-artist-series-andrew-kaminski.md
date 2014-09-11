@@ -3,7 +3,7 @@ published: true
 layout: post
 maintitle: "Millennial Artist Series: Andrew Kaminski - {Young}ist"
 headline: "Millennial Artist Series: Andrew Kaminski"
-tagline: Rain Embuscado interview Millennial artist, Andrew Kaminski.
+tagline: Rain Embuscado interviews Millennial artist, Andrew Kaminski.
 featuredphoto: "https://raw.githubusercontent.com/youngist/clean-blog/gh-pages/_posts/PHOTO%201.jpg"
 featuredphotoalttext: Andrew Kaminski
 videourl: "//www.youtube.com/embed/3l-96KyxD4Y"
@@ -20,7 +20,6 @@ tags:
 contributors:
   - Rain Embuscado
 ---
-
 Our morning started with a hunt for acetate.
 
 It was warm for late December, and as Kaminski pointed out, the whole of Harlem seemed excited by the winter heat wave. He opted to enjoy the weather with a tank: Keith Haring. 
