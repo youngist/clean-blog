@@ -18,7 +18,7 @@ tags:
   - artists
   - youth culture
 contributors:
-  - "Rain Embuscado"
+  - Rain Embuscado
 ---
 
 Our morning started with a hunt for acetate.
