@@ -17,8 +17,8 @@ tags:
   - millennial
   - artists
   - youth culture
-contributor:
-  - Rain Embuscado
+contributors:
+  - "Rain Embuscado"
 ---
 
 ![Andrew Kaminski](https://raw.githubusercontent.com/youngist/clean-blog/gh-pages/_posts/PHOTO%201.jpg)
