@@ -4,7 +4,7 @@ layout: post
 maintitle: "Millennial Artist Series: Andrew Kaminski - {Young}ist"
 headline: "Millennial Artist Series: Andrew Kaminski"
 tagline: Rain Embuscado interview Millennial artist, Andrew Kaminski.
-featuredphoto: "https://raw.githubusercontent.com/youngist/clean-blog/gh-pages/_posts/PHOTO%203.jpg"
+featuredphoto: "https://raw.githubusercontent.com/youngist/clean-blog/gh-pages/_posts/PHOTO%201.jpg"
 featuredphotoalttext: Andrew Kaminski
 videourl: "//www.youtube.com/embed/3l-96KyxD4Y"
 contributorphoto: https://imagizer.imageshack.us/v2/735x490q90/538/yDnMJp.jpg
@@ -21,8 +21,7 @@ contributors:
   - "Rain Embuscado"
 ---
 
-![Andrew Kaminski](https://raw.githubusercontent.com/youngist/clean-blog/gh-pages/_posts/PHOTO%201.jpg)
-_Our morning started with a hunt for acetate._
+Our morning started with a hunt for acetate.
 
 It was warm for late December, and as Kaminski pointed out, the whole of Harlem seemed excited by the winter heat wave. He opted to enjoy the weather with a tank: Keith Haring. 
 
