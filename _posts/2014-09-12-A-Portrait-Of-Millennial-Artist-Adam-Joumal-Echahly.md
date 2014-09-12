@@ -12,7 +12,7 @@ contributorshortbio: multimedia journalist and visual artist
 contributortwitter: rainembuscado
 contributorage: 1991-10-26
 categories: 
-  - featured
+  - editors
 tags: 
   - culture creators
   - artists
