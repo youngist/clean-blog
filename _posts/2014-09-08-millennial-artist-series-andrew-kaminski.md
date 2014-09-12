@@ -14,9 +14,9 @@ contributorage: 1991-10-26
 categories: 
   - featured
 tags: 
-  - millennial
+  - culture creators
   - artists
-  - youth culture
+  - "do-it-yourself"
 contributors:
   - Rain Embuscado
 ---
