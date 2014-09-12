@@ -14,7 +14,6 @@ contributorage: undefined
 contributors: 
   - "Victor Casillas Valle"
 tags: 
-  - "LGBTQ"
   - "do-it-yourself"
   - "DIY"
   - "Youngist"
