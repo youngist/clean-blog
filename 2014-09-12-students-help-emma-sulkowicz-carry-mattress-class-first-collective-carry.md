@@ -5,7 +5,7 @@ maintitle: "Columbia students help Emma Sulkowicz carry mattress to class - {You
 headline: "Students help Emma Sulkowicz carry mattress to class in first collective carry"
 tagline: After reporting being rape to Columbia administrators only to be met with inaction, Emma Sulowicz has been carrying her mattress around campus in an act of activism and performance art until her rapist is held accountable.
 featuredphoto: "http://38.media.tumblr.com/36ed3f98003e99b21aea5915d742fdc4/tumblr_nbt1rn7Akh1rq2ndso1_1280.png"
-featuredphotoalttext: Echahly in his South Slope studio
+featuredphotoalttext: Emma Sulkowicz's performance art-activism has become a group project. (Photo: Kiera Wood)
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
