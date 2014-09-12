@@ -1,16 +1,25 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other - {Young}ist"
+headline: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "http://vivalaluna.com/wp-content/uploads/2014/04/IMG_0414.jpg"
+contributorshortbio: A bruja creature writing and residing in Central California.
+contributortwitter: "@LunaMerbruja"
+contributorage: "1993-09-23"
+categories: 
+  - editors
+tags: 
+  - race
+  - artists
+  - queer
+  - "culture-creatives"
+contributors: 
+  - Luna Merbruja
 ---
 
 I met Nia King when she asked to interview me for her podcast, _We Want the Airwaves_, a podcast highlighting queer and trans artists of color and the work they are doing. When figuring out a quiet place to meet, I suggested UC Santa Cruz’s library, which was the university I was attending at the time, and it happened to be Finals Week. We took over an empty study room (guerrilla style, fuck yeah!) for an hour before we were kicked out by some white dude (go figure, and you can also hear it on the podcast).
