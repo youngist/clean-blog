@@ -5,7 +5,7 @@ maintitle: "Columbia students help Emma Sulkowicz carry mattress to class - {You
 headline: "Columbia tudents help Emma Sulkowicz carry mattress to class in first collective carry"
 tagline: undefined
 featuredphoto: "http://38.media.tumblr.com/36ed3f98003e99b21aea5915d742fdc4/tumblr_nbt1rn7Akh1rq2ndso1_1280.png"
-featuredphotoalttext: Columbia student, Emma Sulkowicz's performance art demanding accountability from her rapist has become a group project. (Photo: Kiera Wood/Columbia Spectator)
+featuredphotoalttext: "Columbia student, Emma Sulkowicz's performance art demanding accountability from her rapist has become a group project. (Photo: Kiera Wood/Columbia Spectator)"
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
