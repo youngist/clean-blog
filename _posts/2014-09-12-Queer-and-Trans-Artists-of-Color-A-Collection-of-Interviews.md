@@ -4,8 +4,8 @@ layout: post
 maintitle: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other - {Young}ist"
 headline: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other"
 tagline: undefined
-featuredphoto: "http://static.squarespace.com/static/5147da9ae4b0d224b441f50f/t/53f4cd21e4b065aa8160ee47/1408552234706/"
-featuredphotoalttext: "The cover of Nia King's book of interviews."
+featuredphoto: "http://fuckyeahjamaicaplain.tumblr.com/image/97319893391"
+featuredphotoalttext: Photo by Myles L.
 videourl: undefined
 contributorphoto: "http://vivalaluna.com/wp-content/uploads/2014/04/IMG_0414.jpg"
 contributorshortbio: A bruja creature writing and residing in Central California.
