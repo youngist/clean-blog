@@ -19,7 +19,6 @@ tags:
 contributors:
   - Rain Embuscado
 ---
-
 It’s a little past 3AM on a Thursday morning.
 
 We’re sitting across each other in his sparsely furnished South Slope studio. Around us: quasi-floor-to-ceiling paintings on gessoed wooden panels — two unfinished, all looming overhead like a congregation of sacred idols. It’s been years since he’s touched them.
