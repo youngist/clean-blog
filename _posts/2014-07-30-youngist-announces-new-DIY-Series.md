@@ -19,7 +19,6 @@ tags:
 contributors: 
   - "Victor Casillas Valle"
 categories: 
-  - featured
   - video
 ---
 
