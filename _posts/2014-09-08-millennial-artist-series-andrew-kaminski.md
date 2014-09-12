@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-maintitle: "Millennial Artist Series: Andrew Kaminski - {Young}ist"
-headline: "Millennial Artist Series: Andrew Kaminski"
+maintitle: "Culture Creators Series: Andrew Kaminski - {Young}ist"
+headline: "Culture Creators Series: Andrew Kaminski"
 tagline: Rain Embuscado interviews Millennial artist, Andrew Kaminski.
 featuredphoto: "https://raw.githubusercontent.com/youngist/clean-blog/gh-pages/_posts/PHOTO%201.jpg"
 featuredphotoalttext: Andrew Kaminski
