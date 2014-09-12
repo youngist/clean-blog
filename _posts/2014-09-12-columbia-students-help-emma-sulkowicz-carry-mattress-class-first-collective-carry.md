@@ -16,9 +16,8 @@ tags:
   - "culture-creatives"
   - artists
   - "sexual-assault"
-  - "high-education"
 contributors:
-  -  "Elizabeth Sedran" 
+  -  Elizabeth Sedran
   -  Samantha Cooney
 ---
 At 1:45 p.m. on Wednesday, a group of students helped Emma Sulkowicz, CC '15, carry a mattress from the East Campus courtyard to her class in Schermerhorn Hall. The collective carry event was in support of Sulkowicz's visual arts senior thesis project, in which [she'll carry a mattress](http://columbiaspectator.com/news/2014/09/02/emma-sulkowiczs-performance-art-draws-support-campus-activists) everywhere she goes for as long as her alleged rapist attends Columbia. According to the rules of her performance art piece, Sulkowicz is not allowed to ask for help to carry the mattress, though she can accept help if someone offers it to her.
