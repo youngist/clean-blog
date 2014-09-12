@@ -2,11 +2,11 @@
 published: true
 layout: post
 maintitle: "Millennial Culture Creators Series: Adam Joumal Echahly - {Young}ist"
-headline: A Portrait Of Millennial Artist Adam Joumal Echahly
+headline: A Portrait Of Millennial Artist: Adam Joumal Echahly
 tagline: undefined
 featuredphoto: "http://38.media.tumblr.com/d61cd8a10f18e8cfb02ac8f29193a341/tumblr_nbstjiZ0k91rq2ndso1_1280.jpg"
 featuredphotoalttext: Echahly in his South Slope studio
-videourl: //http://youtu.be/CRcrUJdLNGs
+videourl: "//http://youtu.be/CRcrUJdLNGs"
 contributorphoto: https://imagizer.imageshack.us/v2/735x490q90/538/yDnMJp.jpg
 contributorshortbio: multimedia journalist and visual artist
 contributortwitter: rainembuscado
