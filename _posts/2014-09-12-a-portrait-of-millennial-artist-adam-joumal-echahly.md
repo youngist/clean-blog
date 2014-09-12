@@ -6,7 +6,7 @@ headline: A Portrait Of Millennial Artist: Adam Joumal Echahly
 tagline: undefined
 featuredphoto: "http://38.media.tumblr.com/d61cd8a10f18e8cfb02ac8f29193a341/tumblr_nbstjiZ0k91rq2ndso1_1280.jpg"
 featuredphotoalttext: Echahly in his South Slope studio
-contributorphoto: https://imagizer.imageshack.us/v2/735x490q90/538/yDnMJp.jpg
+contributorphoto: "https://imagizer.imageshack.us/v2/735x490q90/538/yDnMJp.jpg"
 contributorshortbio: multimedia journalist and visual artist
 contributortwitter: rainembuscado
 contributorage: 1991-10-26
@@ -15,7 +15,6 @@ categories:
 tags: 
   - culture creators
   - artists
-  - "do-it-yourself"
 contributors:
   - Rain Embuscado
 ---
