@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-maintitle: "A Portrait Of Millennial Artist Adam Joumal Echahly - {Young}ist"
+maintitle: "Culture Creators Series: Adam Joumal Echahly - {Young}ist"
 headline: A Portrait Of Millennial Artist Adam Joumal Echahly
 tagline: undefined
 featuredphoto: "http://imagizer.imageshack.us/a/img703/9584/zr9k.jpg"
@@ -13,7 +13,8 @@ contributortwitter: undefined
 contributorage: undefined
 tags: 
   - art
-  - culture
+  - culture creatives
+  - "do-it-yourself"
 categories: 
   - editors
 contributors: 
