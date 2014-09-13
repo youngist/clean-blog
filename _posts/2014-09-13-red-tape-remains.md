@@ -9,6 +9,7 @@ tags:
   - "Sexual-violence"
   - higher-education
   - students
+videourl: //https://www.youtube.com/watch?v=S8e71oY7kjE
 featuredphoto: http://33.media.tumblr.com/d324c217a322aa09f78862ee5109bd25/tumblr_nbuqy75het1rq2ndso1_1280.png
 featuredphotoalttext: "Students rally on the steps of Low Hall on Columbia University's campus in Harlem"
 contributorphoto: https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg
