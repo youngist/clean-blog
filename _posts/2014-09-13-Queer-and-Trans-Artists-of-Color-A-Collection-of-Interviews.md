@@ -17,7 +17,7 @@ tags:
 
 contributorphoto: http://vivalaluna.com/wp-content/uploads/2014/04/IMG_0414.jpg
 contributorshortbio: A bruja creature writing and residing in Central California.
-contributortwitter: "@LunaMerbruja"
+contributortwitter: LunaMerbruja
 contributorage: "1993-09-23"
 contributors: 
   - Luna Merbruja
