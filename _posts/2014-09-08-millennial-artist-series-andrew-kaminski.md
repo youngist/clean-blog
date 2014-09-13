@@ -14,7 +14,7 @@ contributorage: 1991-10-26
 categories: 
   - featured
 tags: 
-  - "culture-creators"
+  - "culture-creatives"
   - artists
   - "do-it-yourself"
 contributors:
