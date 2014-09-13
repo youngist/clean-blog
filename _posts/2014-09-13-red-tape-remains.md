@@ -30,7 +30,6 @@ In the last year, campus sexual violence has been a much-publicized issue across
 
 Since last spring, when national media began focusing on the flood of Title IX complaints, [students across the nation](http://youngist.org/why-I-didnt-report/#.VBSUT-eaTw9) have fought back against these lawmakers’ policing narratives, demanding that the violence inflicted on their bodies not be exploited to strengthen institutions, designed to reproduce such violence on other people. No Red Tape has refused to go along with lawmakers’ calls for greater police involvement, instead seeking comprehensive prevention programs, calling for increased resources for survivors, and demanding that survivors no longer need to fear the continued presence of their assailants on campus.
 
-https://www.youtube.com/watch?v=YDhf9qwiA34&index=2&list=LL51dDfLqAClEDkf00EYyruA
  
 Poet G! Pe Benito explained her piece, entitled “No Red Tape,” to Youngist, “For me, a lot of the conversation around violence tends to end with putting the police in charge of final justice,” said Pe Benito, “But we cannot be safe from racial and sexual violence as long as the police are a militarized unit that deploys racial and sexual violence right here.” She continued, “We must take great care to show that not all of us are content to remain complicit in this system of violence because we’ve come from communities, which have been inflicted with such violence.” 
 
