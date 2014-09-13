@@ -40,7 +40,7 @@ Jen Roesch, a former Barnard student, who had been involved in the early 90’s 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/S8e71oY7kjE" frameborder="0" allowfullscreen></iframe>
 
-The demonstration was at times poignant and at times angry. Over the course of three hours, many students, who had never come out about their violent experiences, choose to speak out for the first time, spurring the crowd to rage at the administration’s rape crisis cover-up.
+The demonstration was at times poignant and at times angry. Over the course of three hours, many students, who had never come out about their violent experiences, chose to speak out for the first time, spurring the crowd to rage at the administration’s rape crisis cover-up.
 
 At several points during the rally, unplanned chants broke out, exclaiming, “Fuck The Deans” and “Carry That Weight.” One survivor at the rally noted the power she felt standing with so many others at the rally, “The administration is so fucked. And I don’t know why this has to be so hard. But I know we can win this.”
 
