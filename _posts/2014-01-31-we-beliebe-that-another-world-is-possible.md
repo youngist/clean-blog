@@ -9,7 +9,7 @@ featuredphotoalttext: Photo of a line of people facing a bus and blocking it
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/477917746395500546/9rLsZgUA.jpeg"
 contributorshortbio: "Transformation in the here, now, & ever after. Sister to a badass 3 year old. "
-contributortwitter: JennyMarkz
+contributortwitter: selladura
 contributorage: 7/22/1993
 contributors: 
   - Jenny Marks
