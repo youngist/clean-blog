@@ -4,7 +4,7 @@ layout: post
 maintitle: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other - {Young}ist"
 headline: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other"
 tagline: undefined
-featuredphoto: "http://33.media.tumblr.com/d9234fb586f2b430fed5d8013ae8239e/tumblr_nbus8aLZRF1rq2ndso1_1280.png"
+featuredphoto: http://33.media.tumblr.com/d9234fb586f2b430fed5d8013ae8239e/tumblr_nbus8aLZRF1rq2ndso1_1280.png
 featuredphotoalttext: We Want the Airwaves logo (Artwork by Myles L.)
 videourl: undefined
 categories: 
