@@ -8,7 +8,7 @@ featuredphoto: http://33.media.tumblr.com/d9234fb586f2b430fed5d8013ae8239e/tumbl
 featuredphotoalttext: We Want the Airwaves logo (Artwork by Myles L.)
 videourl: undefined
 categories: 
-  - featured
+  - editors
 tags: 
   - race
   - artists
