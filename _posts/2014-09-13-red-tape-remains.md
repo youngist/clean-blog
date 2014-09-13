@@ -3,9 +3,6 @@ published: true
 layout: post
 headline: The Red Tape Remains: Columbia Students in Solidarity with Sexual Assault Survivors
 maintitle: "The Red Tape Remains: Columbia Students in Solidarity with Sexual Assault Survivors - {Young}ist"
-excerpt: "Yesterday at Columbia University, students held a demo on the steps of Low Hall in solidarity with survivors of sexual assault on their campus."
-contributors:
-  - George Joseph
 categories:
   - editors
 tags:
@@ -18,6 +15,8 @@ contributorphoto: https://pbs.twimg.com/profile_images/440022405323321344/RotDF4
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
 contributortwitter: GeorgeJoseph94
 contributorage: 6/1/1995
+contributors:
+  - George Joseph
 ---
 
 Yesterday, in its first public rally, Columbia’s anti-rape group, No Red Tape, called on students to come out and voice their experiences of sexual violence directly in front of Low Library, the seat of Columbia’s administration.
