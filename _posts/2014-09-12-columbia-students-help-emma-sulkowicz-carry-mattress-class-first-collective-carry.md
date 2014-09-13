@@ -11,7 +11,7 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - editors
+  - article
 tags: 
   - "culture-creatives"
   - artists
