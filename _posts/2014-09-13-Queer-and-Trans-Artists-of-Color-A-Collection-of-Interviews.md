@@ -27,7 +27,7 @@ I met Nia King when she asked to interview me for her podcast, _We Want the Airw
  
 When Nia sent me the draft of our interview, I realized how much knowledge I had to share on self-care, sex work, and harm reduction, and how I wasn’t talking about these things enough. That’s how I know Nia is an incredible interviewer - she knows how to ask questions that give space for brilliant answers.
 
-When I found out she was creating a book out of the podcast transcriptions, I was ecstatic to hold more stories and see what other wisdom she pulled out of QTPOC artists. I was so excited that I had to interview her about her book, _Queer and Trans Artists of Color: Stories of Some of Our Lives_, which you can pre-order [here](artactivistnia.com/book.html). If you’re in the San Francisco Bay Area, there’s going to be a launch party at the Show & Tell Concept Show on September 26th from 7 to 9 PM that will include performances by Virgie Tovar, Magnoliah Black, and Ryka Aoki - all artists who are featured in the book.
+When I found out she was creating a book out of the podcast transcriptions, I was ecstatic to hold more stories and see what other wisdom she pulled out of QTPOC artists. I was so excited that I had to interview her about her book, _Queer and Trans Artists of Color: Stories of Some of Our Lives_, which you can pre-order [here](http://www.artactivistnia.com/book.html). If you’re in the San Francisco Bay Area, there’s going to be a launch party at the Show & Tell Concept Show on September 26th from 7 to 9 PM that will include performances by Virgie Tovar, Magnoliah Black, and Ryka Aoki - all artists who are featured in the book.
  
 **Luna Merbruja:** Nia King, you and your co-editors Terra Mikalson and Jessica Glennon-Zukoff have compiled 16 interviews with queer and trans artists of color into one book. This is an incredible archive of stories and experience that hasn't been archived before. What made you decide to create a book instead of leaving the transcriptions of the interviews up on your website?
  
@@ -83,7 +83,7 @@ Right now, I’m planning a launch party, which will take place at Show and Tell
  
 **Nia:** The story about how Yosimar Reyes almost got deported on the way to perform for Carlos Santana and Harry Belafonte is a memorable story. I think Nick Mwaluko's story about how he got away with having gay sex in Africa IN PUBLIC is pretty memorable. I’m curious which ones you thought were memorable!
  
-[All of the unedited transcriptions are still available for folks to read [here](scribd.com/artactivistnia)]
+[All of the unedited transcriptions are still available for folks to read [here](http://www.scribd.com/artactivistnia)]
  
 **Luna:** Is there anything else you'd like to share about your book? Final words? Great collective QTPOC wisdom?
  
