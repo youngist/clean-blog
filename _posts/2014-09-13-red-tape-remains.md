@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-headline: The Red Tape Remains: Columbia Students in Solidarity with Sexual Assault Survivors
+headline: "The Red Tape Remains: Columbia Students in Solidarity with Sexual Assault Survivors"
 maintitle: "The Red Tape Remains: Columbia Students in Solidarity with Sexual Assault Survivors - {Young}ist"
 categories:
   - editors
