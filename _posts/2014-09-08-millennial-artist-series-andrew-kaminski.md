@@ -68,4 +68,5 @@ _Kaminski is slated for a show in New York City at 86 Orchard Street from **Sept
 
 _To learn more about Kaminski, head on over to his [official website](http://www.andrewkaminskiart.com/)_
 
+_This is one of many articles featured as apart of our [Millennial Culture Creators](http://youngist.org/tag/culture-creatives/) series_
 
