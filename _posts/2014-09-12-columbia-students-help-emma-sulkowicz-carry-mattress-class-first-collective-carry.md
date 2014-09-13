@@ -26,6 +26,8 @@ The collective carry was organized by [Carrying The Weight Together](http://www.
 
 "When I heard about Emma's thesis project, I had a really strong reaction and felt I understood what Emma was doing as an artist and wanted to be in solidarity with her and other survivors," Allie Rickard, BC '15 and one of the organizers of Carrying The Weight Together, said. "I think there's been a general feeling from people among both schools that there's a great sense of support for Emma and other survivors and this would be great for people to get involved on a daily basis, and just show solidarity, and give Emma and other survivors support." 
 
+<iframe width="420" height="315" src="//www.youtube.com/embed/S8e71oY7kjE" frameborder="0" allowfullscreen></iframe>
+
 Rickard said that she envisions that the collective carries will last as long as Sulkowicz continues to carry her mattress around campus.
 
 "I really appreciate how public and open she is about what happened to her becuase, so often when people experience a traumatic event, they keep it under wraps and they hide it," Sarah Murray, SEAS'18 and one of the students who participated in the collective carry on Wednesday, said. "I think it's so brave that she's so public about it, and so I just wanted to be a part of supporting her and her bravery." 
