@@ -88,3 +88,5 @@ Right now, I’m planning a launch party, which will take place at Show and Tell
 **Luna:** Is there anything else you'd like to share about your book? Final words? Great collective QTPOC wisdom?
  
 **Nia:** I'm just excited to help bring exposure to a lot of amazing artists who have kind of been slept on because they are not straight, not white, not cis, etc. I hope this book helps to give them their proper place in history.
+
+_This is one of many articles featured as apart of our [Millennial Culture Creators](http://youngist.org/tag/culture-creatives/) series_
