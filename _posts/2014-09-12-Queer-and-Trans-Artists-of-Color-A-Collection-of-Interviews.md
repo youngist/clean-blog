@@ -12,7 +12,7 @@ contributorshortbio: A bruja creature writing and residing in Central California
 contributortwitter: "@LunaMerbruja"
 contributorage: "1993-09-23"
 categories: 
-  - editors
+  - featured
 tags: 
   - race
   - artists
