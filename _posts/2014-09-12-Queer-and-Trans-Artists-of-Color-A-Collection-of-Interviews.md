@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other - {Young}ist"
 headline: "Queer and Trans Artists of Color: A Collection of Interviews Unlike Any Other"
