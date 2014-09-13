@@ -47,3 +47,5 @@ At several points during the rally, unplanned chants broke out, exclaiming, “F
 No Red Tape members promised to escalate their actions, given Columbia’s refusal to work with students to overhaul the university’s rape crisis response process. At the beginning of the rally a No Red Tape member scaled Columbia’s central statue, Alma Mater, to cover it with red tape—an act of defiance that administrators immediately took down. But as the pain and anger began to pour out at the demonstration, another No Red Tape activist put the tape back up.
 
 “I felt like I wasn’t at Columbia, the space was transformed,” said Deborah Secular, a Barnard Sophomore. Students, for that brief moment, had reclaimed their campus. Three hours later, as organizers picked up their mattresses to leave, the red tape remained.
+
+<img src="http://33.media.tumblr.com/fc44fc050e6b0aa03ef37d89570b7300/tumblr_nbusp3vOBR1rq2ndso1_500.png"/>
