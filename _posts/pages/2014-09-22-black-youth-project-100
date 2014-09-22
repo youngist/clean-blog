@@ -1,0 +1,17 @@
+---
+layout: default
+category: page
+maintitle: Black Youth Project 100
+titlename: Black Youth Project 100
+class: contributor
+position: contributor
+excerpt: "Black Youth Project 100 (BYP 100) is an activist member-based organization of Black 18-35 year olds, dedicated to creating justice and freedom for all Black people." 
+coverphoto: "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/c0.124.851.315/p851x315/10636068_777820355602631_6417923490738476162_n.jpg?oh=d018510680f983579e704de3df4cad3f&oe=5499155C&__gda__=1418502163_51f26d3ccc191d9233717385de9ed179"
+image: "http://byp100.org/wp-content/uploads/2014/07/BYP100-graphic-500x500.jpg"
+bio: "Black Youth Project 100 (BYP 100) is an activist member-based organization of Black 18-35 year olds, dedicated to creating justice and freedom for all Black people. We do this through building a collective focused on transformative leadership development, non-violent direct action organizing, advocacy and education."
+contributortwitter: byp_100
+contributorage: 1981-05-16
+contributors: 
+- Black Youth Project 100
+---
+{% include contrib_feed_post_layout.html %}
