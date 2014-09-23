@@ -10,8 +10,8 @@ featuredphoto: "http://31.media.tumblr.com/cfa124bca7210832d93bb076845f1240/tumb
 featuredphotoalttext: "Credit: Reuters/Robert Pratta/AP/Charlie Riedel"
 videourl: undefined
 tags: 
-- Youth
-- Gaza
+- Organizing
+- Palestine
 - Ferguson
 contributors:
 - Georgia Travers
