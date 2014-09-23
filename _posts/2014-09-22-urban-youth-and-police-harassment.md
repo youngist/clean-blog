@@ -14,8 +14,8 @@ contributorage: undefined
 tags: 
   - "Police-Brutality"
 contributors: 
-  - University Community Collaborative
+  - "University Community Collaborative"
 categories: 
   - video
 ---
-In this short film young people reflect on their experiences with police harassment in Philadelphia. This video was produced by high school students in VOICES, an after-school program at the [University Community Collaborative] (http://uccollab.org/) at Temple University. 
+In this short film young people reflect on their experiences with police harassment in Philadelphia. This video was produced by high school students in VOICES, an after-school program at the [University Community Collaborative](http://uccollab.org/) at Temple University. 
