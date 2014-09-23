@@ -6,8 +6,8 @@ excerpt: "Georgia Travers identifies the similarities between Gaza and Ferguson"
 maintitle: " Occupational Hazard: Lessons from Gaza and Ferguson - {Young}ist"
 headline: "Occupational Hazard: Lessons from Gaza and Ferguson "
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://31.media.tumblr.com/cfa124bca7210832d93bb076845f1240/tumblr_ncdj1qm6M51rq2ndso1_500.png"
+featuredphotoalttext: "Credit: Reuters/Robert Pratta/AP/Charlie Riedel"
 videourl: undefined
 tags: 
 - Youth
