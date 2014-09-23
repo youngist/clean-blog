@@ -1,0 +1,61 @@
+---
+published: false
+layout: post
+categories: article
+excerpt: "Georgia Travers identifies the similarities between Gaza and Ferguson"
+maintitle: " Occupational Hazard: Lessons from Gaza and Ferguson - {Young}ist"
+headline: "Occupational Hazard: Lessons from Gaza and Ferguson "
+tagline: undefined
+featuredphoto: undefined
+featuredphotoalttext: undefined
+videourl: undefined
+tags: 
+- Youth
+- Gaza
+- Ferguson
+contributors:
+- Georgia Travers
+contributorphoto: https://31.media.tumblr.com/a23a552b64902c77abf077c7d6f1b238/tumblr_inline_nccgrcUNPy1spjhtc.jpg
+contributorshortbio: Georgia is a recent graduate of Dartmouth College interested in entrepreneurship, civil rights, fashion and religion.
+contributortwitter: mightbeG
+contributorage: 1991-09-17
+---
+It’s no accident that [many commentators have drawn parallels](http://www.google.com/url?q=http%3A%2F%2Fwww.jadaliyya.com%2Fpages%2Findex%2F18935%2Flinking-violence-in-solidarity_ferguson-gaza-and-t&sa=D&sntz=1&usg=AFQjCNHwNyRq4zKkbdbN80E51N0rjkz6og) over the past week between the riots taking place in Ferguson, MO following the police murder of black teenager Michael Brown, and Israel’s offensive against the Palestinians of the Gaza Strip this summer. The relationship between the conflicts begins with the militarization of the St. Louis police force, who use the [same brand of tear gas](http://mondoweiss.net/2014/08/ferguson-companies-supplying.html) that was employed weeks earlier against Palestinian civilians. In addition to offering tips for minimizing the effects of tear gas, [many Palestinians have reached out via Twitter](http://www.yesmagazine.org/peace-justice/palestinians-and-ferguson-protesters-link-arms-via-social-media) to express solidarity against the oppression experienced by Black Americans in Ferguson. 
+
+Unfortunately, disturbing parallels between the assaults abound, and our government would be wise to heed them.
+ 
+[In an article for Al Jazeera](http://america.aljazeera.com/opinions/2014/8/ferguson-police-violenceisraeliandusmilitarizedpolicies.html), scholar Mark LeVine observes, “Ferguson is not Gaza or even the West Bank.” LeVine attributes this assessment partially to the presence (in the US, unlike in Palestine) of exceptional individuals from the disenfranchised minority (i.e. Black, Arab) in positions of institutional power (President Obama, Attorney General Holder, Police Captain Johnson), and to their ability to speak out against the very violences over which their offices preside. This distinction should not go unnoticed; there are [few Muslims in the Israeli Defense Forces (IDF)](http://www.timesofisrael.com/his-big-secret-hes-arab-muslim-and-serves-in-the-idf/) and none in the ruling [Likud Party](http://972mag.com/the-likud-presents-the-craziest-most-radical-list-ever-expected-to-win-elections/60933/).
+ 
+However, it is important to recognize that while the presence of Black individuals at critical nodes of power and leadership may represent progress in the American system, it does not negate the fact that the structure of American society, and certainly of our law-enforcement system, depends upon pervasive and generationally compounded institutional violence ([as argued so persuasively by Ta-Nehisi Coates in The Atlantic](http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/) earlier this year). Even if this racism is mediated by the achievements of POC and their communities, this does not address the structural fissures that create and perpetuate racial injustice in the United States. It certainly does not earn us the self-congratulatory moniker of a “post-racial” society.
+ 
+So where does the social conflagration ignited by Michael Brown’s murder begin? How did it proceed and what parallels does the crisis in Gaza provide for us to learn from? The confrontations in Gaza and Ferguson alike can be traced to deep and specific contemporary racial prejudices.  Greg Howard describes the latent American fear of Black men [in a recent article](http://theconcourse.deadspin.com/america-is-not-for-black-people-1620169913/all) entitled “America is Not For Black People,” explaining,
+ 
+“We are inexplicably seen as a millions-strong army of potential killers […] There are reasons why white gun’s rights activists can walk into a Chipotle restaurant with assault rifles and be seen as gauche nuisances while unarmed black men are killed for reaching for their wallets or cell phones.”
+ 
+A similar attitude of overwhelming fear and the pre-emptive assumption of guilt is evinced by the attitude expressed toward Palestinians, not only by Israeli government officials but also by average Americans.  
+
+Last week, a man next to me on the train took it upon himself to explain, in an eerie echo of Israeli lawmaker Ayelet Shaked’s [genocidal appeal](http://electronicintifada.net/blogs/ali-abunimah/israeli-lawmakers-call-genocide-palestinians-gets-thousands-facebook-likes) in July, that the democratic election of Hamas, which the US considers a terrorist organization, demonstrates that all Gazans are terrorists and thus deserve to be attacked (and killed) as such. I would argue that this sentiment is not anomalous in the United States, and while rarely so explicit, [similar generalizations](http://www.buzzfeed.com/mrloganrhoades/how-the-powerful-iftheygunnedmedown-movement-changed-the-con) often inform descriptions of both Blacks and Arabs in US media.
+ 
+In an environment of such widespread racial suspicion, finding a spark to justify violent confrontation might appear a frighteningly easy task. However, it becomes trickier when we recognize, in the US as well as in Palestine, that the aggressive force involved in both cases actually ought to have a moral and legal obligation to protect the individuals whom they are attacking.
+ 
+In the United States, for all their tear gas, AR-15s and combat vehicles, the police should exist to protect the citizenry, despite the fact that generations of Americans of color grow up socialized into the knowledge that, for all intents and purposes, their bodies are criminalized and thus they must deal with the State accordingly, i.e. as infrequently as possible. In Gaza, Israel acts as the occupying colonial power, and ostensibly has a duty to protect the civilians under its occupation. As Noura Erakat writes in [The Nation](http://www.thenation.com/article/180783/five-israeli-talking-points-gaza-debunked), “[Israel] cannot simultaneously occupy the territory, thus usurping the self-governing powers that would otherwise belong to Palestinians, and declare war upon them.”
+ 
+Despite this obvious conflict of interest, in both Ferguson and Gaza, the pretenses formally offered to justify the racialized violence are at best unsatisfying, and at worst patently false.  While Israel justified their recent campaign against Hamas in Gaza as a response to the kidnapping of three Israeli teenagers in the West Bank, Hamas was clearly not involved in the incident; the kidnappings seem to have been the work of a few individuals acting independently.
+ 
+In Ferguson, instead of apologizing for killing an unarmed teenager, the local police department released the name of Brown’s murderer in conjunction with surveillance footage allegedly [showing Brown steal cigarillos](http://elitedaily.com/news/world/police-report-photos-brown-stealing/713045/) from a convenience store earlier that day. However, Officer Darren Wilson, who shot Brown, was not aware that Brown was a robbery suspect at the time of the murder.  Not to mention the fact – which I am appalled is not self-evident – that even had Wilson been aware of the alleged robbery (rather than just harassing Brown for jaywalking), there remains no moral justification whatsoever for him to have opened fire on the young man. ([Additional surveillance footing suggests](https://www.lewrockwell.com/lrc-blog/did-michael-brown-steal-cigars-or-pay-for-them/) that Brown did not, in fact, steal anything.)
+ 
+The inclusion of the false kidnapping and convenience store narratives to legitimize the state-sanctioned violence in Gaza and Ferguson distract from the actual questions of justice and public safety that are involved. The prominence of this misleading “evidence” in rhetoric on the conflict not only deflects state responsibility, but also confirms what many marginalized individuals already know: that unofficially or not, inadvertently or not, society demonizes them, “evaluat[es] our humanity on an unfairly weighted scale,” [as dex digital put it in a recent article](https://medium.com/culture-club/face-it-black-people-michael-brown-let-you-down-b3b4408cec82) for medium.com. As such, POC do not have the luxury of making a single mistake, as their (typically white) “mainstream” counterparts do.  
+
+As an Arab in Palestine or a Black citizen of the United States, among the first lessons one learns is to be perfect, at all times, because you are guilty until you prove yourself to be innocent. In public and especially before the law, there is no margin of error.
+ 
+When absorbed into the mind and body, this contradiction in terms – that those sworn to protect you might ultimately pose the greatest threat to your life – constitutes a profound and chilling betrayal for Palestinians and Black Americans alike. Faced with the devastating asymmetry of military firepower brought to bear in such conflicts, the marginalized and/or occupied community often resorts to unconventional or guerilla warfare as their only alternative for survival and resistance. This is the logical conclusion of extreme suffering and desperation. As Langston Hughes famously wrote in his 1951 poem “Harlem,” “What happens to a dream deferred?/ Does it dry up/Like a raisin in the sun?...Maybe it just sags/like a heavy load./Or does it explode?”  
+ 
+Thousands more examples of racial provocation and violence against civilians abound in the carnage of Gaza. One of my favorite columnists for Al Monitor, Asmaa Al Ghoul, [recently wrote a devastating account](http://www.al-monitor.com/pulse/originals/2014/08/rafah-gaza-war-hospitals-filled-bodies-palestinians.html) of the slaughter of her nine family members at their home in Gaza’s Rafah refugee camp by Israeli F-16 missiles. Heartbreakingly, she writes,
+ 
+“If it is Hamas that you hate, let me tell you that the people you are killing have nothing to do with Hamas.  They are women, children, men and senior citizens whose only concern was for the war to end, so they can return to their lives and daily routines.  But let me assure you that you have now created thousands – no, millions – of Hamas loyalists, for we all become Hamas if Hamas, to you, is women, children and innocent families.  If Hamas, in your eyes, is ordinary civilians and families, then I am Hamas, they are Hamas and we are all Hamas.”
+ 
+Al Ghoul’s point is clear: when the state murders civilians of a certain group, it constitutes genocide. And imagining every Black or Arab individual to be a criminal, instilling POC with the bone-chilling knowledge that they are by definition persona non grata whose lives, livelihoods – and, as Hughes reminds us, dreams – do not matter, is an excellent and effective way to quickly produce thousands, if not millions, of “terrorists.”  
+ 
+As societies that pride themselves on a commitment to representative democracy, the US and Israel would do well to learn from one another’s failures. They should beware the parallel consequences that may result from their common devaluation of certain bodies in the public sphere, and their [common use of disproportionate violence against those bodies](http://abc7.com/news/chp-officer-who-beat-woman-may-face-charges/273554/), even when they are innocent and defenseless. This pattern has already produced at least one common response, and that is an explosive and righteous rage. Rather than trying to contain, diffuse or silence that rage, these governments must instead work to dismantle the paradigm of racialized state violence in which it is forged.  
+
+As for us citizens, we must continue to resist, demanding of our governments nothing less. 
