@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: article
 excerpt: "Georgia Travers identifies the similarities between Gaza and Ferguson"
