@@ -20,4 +20,4 @@ contributors:
 categories: 
   - video
 ---
-How does the struggle for LGBT rights fit into the struggles for communities of color? What are the most pressing issues in LGBT activism?  This short video from [Black Youth Project 100] (http://www.byp100.org/) explores these questions and underscores that LGBT rights are critical to obtaining freedom and justice for all black people. Interviews for this video took place at the 2014 Freedom Dreams, Freedom Now Conference, in commemoration of the 50th anniversary of Freedom Summer.
+How does the struggle for LGBT rights fit into the struggles for communities of color? What are the most pressing issues in LGBT activism?  This short video from [Black Youth Project 100](http://www.byp100.org/) explores these questions and underscores that LGBT rights are critical to obtaining freedom and justice for all black people. Interviews for this video took place at the 2014 Freedom Dreams, Freedom Now Conference, in commemoration of the 50th anniversary of Freedom Summer.
