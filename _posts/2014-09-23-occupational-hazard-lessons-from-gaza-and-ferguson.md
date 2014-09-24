@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: featured
+categories: editors
 excerpt: "Georgia Travers identifies the similarities between Gaza and Ferguson"
 maintitle: " Occupational Hazard: Lessons from Gaza and Ferguson - {Young}ist"
 headline: "Occupational Hazard: Lessons from Gaza and Ferguson "
