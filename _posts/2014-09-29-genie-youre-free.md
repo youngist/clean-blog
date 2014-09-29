@@ -14,7 +14,7 @@ tags:
 contributors:
 - Kai Cheng Thom
 contributorphoto: https://farm9.staticflickr.com/8203/8171156553_2bb01ca766.jpg
-contributorshortbio: Kai Cheng Thom is a writer and community worker currently completing a Master’s degree in clinical social work.  They are also the co-founder of [Monster Academy](http://www.google.com/url?q=http%3A%2F%2Fmonsteracademymtl.wordpress.com%2F&sa=D&sntz=1&usg=AFQjCNHY54YepqjrIhUrbBzkksqHfi2XwA), a community mental health project for youth in Montreal.
+contributorshortbio: Kai Cheng Thom is a writer and community worker currently completing a Master’s degree in clinical social work.  They are also the co-founder of Monster Academy, a community mental health project for youth in Montreal.
 contributortwitter: undefined
 contributorage: undefined
 ---
