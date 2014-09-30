@@ -48,7 +48,7 @@ Millennials, people of color, women, and queers seem uniquely targeted by the de
 
 _(Ugh, where do we go from here?)_ If we don’t apply for the few unpaid, entry level jobs out there for us, then what?
 
-We don’t have many answers except to simply suggest: whether you decide to take that unpaid position or not: organize, and organize until we all can live. 
+We don’t have many answers except to simply suggest—whether you decide to take that unpaid position or not: organize, and organize until we all can live. 
 
 What if interns began to see themselves as employees—deserving of all of the protections afforded to that category—rather than volunteers? What would it look like if unemployed, unpaid and underpaid workers across sectors refused to apply for jobs for little-to-no wages? If we refused to operate from a model of scarcity where competition for a small pool of positions, drives down all of our wages?
 
