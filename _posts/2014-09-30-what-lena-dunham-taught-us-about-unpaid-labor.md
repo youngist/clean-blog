@@ -5,7 +5,7 @@ categories: editors
 maintitle: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves - {Young}ist"
 headline: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves"
 tagline: undefined
-Featuredphoto: http://internlaborrights.s3.amazonaws.com/wp-content/uploads/2014/09/15270812055_5cfda66431_z.jpg
+Featuredphoto: http://static.guim.co.uk/sys-images/Education/Pix/pictures/2014/2/14/1392379075718/pay-intercropns-its-in-th-012.jpg
 featuredphotoalttext: undefined
 videourl: undefined
 tags: 
