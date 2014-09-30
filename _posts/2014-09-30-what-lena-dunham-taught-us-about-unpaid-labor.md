@@ -5,7 +5,7 @@ categories: editors
 maintitle: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves - {Young}ist"
 headline: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves"
 tagline: undefined
-Featuredphoto: http://i.imgur.com/QmAa9MK.jpg
+Featuredphoto: http://33.media.tumblr.com/bbf7e03ff0577709a8bb9771b4c9f434/tumblr_ncqda9dYwj1rq2ndso1_500.jpg
 featuredphotoalttext: undefined
 videourl: undefined
 tags: 
