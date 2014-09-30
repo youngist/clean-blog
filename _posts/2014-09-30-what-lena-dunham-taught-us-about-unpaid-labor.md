@@ -4,7 +4,7 @@ layout: post
 categories: article
 maintitle: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves - {Young}ist"
 headline: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves"
-Featuredphoto: undefined
+Featuredphoto: http://www.impactnottingham.com/wp-content/uploads/2013/09/IMG_1303-1.jpg
 tags: 
 - labor
 - gender
