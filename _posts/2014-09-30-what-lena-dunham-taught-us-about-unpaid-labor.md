@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: editors
+categories: article
 maintitle: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves - {Young}ist"
 headline: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves"
 Featuredphoto: http://38.media.tumblr.com/41061749ea90c0d9bd1668d7135621b4/tumblr_ncqdgqsiaq1rq2ndso1_1280.jpg
