@@ -4,7 +4,9 @@ layout: post
 categories: article
 maintitle: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves - {Young}ist"
 headline: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves"
-featuredphoto: http://static.guim.co.uk/sys-images/Education/Pix/pictures/2014/2/14/1392379075718/pay-intercropns-its-in-th-012.jpg
+featuredphoto: "http://www.giveagradago.com/blog/wp-content/uploads/o-PAY-YOUR-INTERNS-facebook.jpg"
+featuredphotoalttext: "Credit: GiveAGradAGo"
+videourl: undefined
 tags: 
 - labor
 - gender
@@ -18,7 +20,6 @@ contributorshortbio: "Shen Trotter is a Black resident of the occupied Lenape te
 contributortwitter: izzynastasia
 contributorage: 1990-09-11
 ---
-
 Yesterday, Lena Dunham—whose character on the HBO show _Girls_ is one of the most [recognizable millennial narratives](https://www.youtube.com/watch?v=6csRnb6ECTI) in pop culture—was [called out by Gawker](http://gawker.com/lena-dunham-does-not-pay-1640249043) for “hiring” unpaid opening acts on her book tour. Only a few hours later, under pressure from fans and other media outlets, Dunham has [come forward via Twitter and agreed](https://twitter.com/lenadunham/status/516696143259254784) to adequately pay all of her acts for their talent and labor out of the $304,000 in revenue from her tour. _(Right on, Lena. We hope you learned something.)_
 
 We want to take this opportunity to reframe the conversation from Dunham as an individual to the realities of precarious, unpaid work and what would happen if every unpaid worker got the attention that those opening for Dunham received on Monday. 
