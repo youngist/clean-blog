@@ -16,7 +16,7 @@ tags:
 contributors:
 - Shen Trotter 
 - Isabelle Nastasia
-contributorphoto: https://pbs.twimg.com/profile_images/430764963074813952/HBHyQd3O.png
+contributorphoto: http://i.imgur.com/wT0hlfy.jpg?1
 contributorshortbio: "Shen Trotter is a Black resident of the occupied Lenape territory now known as New York City. I try to critically engage with the legacies of movements against white imperialism and heteropatriarchy not to make their ghosts walk again, but to find once more the spirit of revolution."
 contributortwitter: izzynastasia
 contributorage: 1990-09-11
