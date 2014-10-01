@@ -2,7 +2,7 @@
 published: true
 layout: post
 categories: article
-maintitle: "What Lena Dunham Taught Us about Unpaid Labor...and What We Taught Ourselves - {Young}ist"
+maintitle: "What Lena Dunham Taught Us about Unpaid Labor—and What We Taught Ourselves - {Young}ist"
 headline: "What Lena Dunham Taught Us about Unpaid Labor—and What We Taught Ourselves"
 featuredphoto: "http://www.giveagradago.com/blog/wp-content/uploads/o-PAY-YOUR-INTERNS-facebook.jpg"
 featuredphotoalttext: "Credit: GiveAGradAGo"
