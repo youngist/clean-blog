@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: editors
+categories: featured
 excerpt: "It is a desperate kind of arrogance that leads us to presume to know and judge the reasoning of individuals who have ended their lives. This same desperate arrogance allows for the social illusion that the world we live in is a fundamentally just and orderly place, that the advances of Western science and industry are the solution to virtually any problem, and that everything is under control."
 maintitle: "Genie, You're Free - {Young}ist"
 headline: "Genie, You're Free"
