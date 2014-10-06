@@ -1,4 +1,26 @@
+---
 published: false
+layout: post
+maintitle: "Modern Day Civil Rights Architects Take to Social Media - {Young}ist"
+headline: Modern Day Civil Rights Architects Take to Social Media
+tagline: undefined
+featuredphoto: "https://38.media.tumblr.com/3d739942357986ffee1d4690be8ce8ef/tumblr_nctjprQlNq1ql60owo1_1280.jpg"
+featuredphotoalttext: 
+videourl: undefined
+contributorphoto: "https://38.media.tumblr.com/831160c22750d7bed4a7a66ccac27777/tumblr_nctkgtEr4Y1ql60owo1_1280.jpg"
+contributorshortbio: Independent performance artist currently serving as the Millenial Organizer for GameChanger Labs, residing in Chicago and the Internet.
+contributortwitter: sancho108
+contributorage: 1991-07-16
+categories: 
+  - article
+tags: 
+  - organizing
+  - youth
+  - Ferguson
+  - racial-justic
+contributors: 
+  - Priscilla 
+---
 
 We cannot forget about Ferguson, Missouri. Despite the mainstream media’s coverage shift, the dialogue is still happening. Young people are continuing to respond in the killing of Michael Brown. Our lenses are being recalibrated as those under 25 claim their footing as modern-day civil rights architects. They are organizing largely via social media, galvanizing others to stage demonstrations across cities, on college campuses and in Ferguson, and helping to shift our lens on leadership. Historically, youth participation in larger political discourse has been disregarded, but the presence of social media amidst this discourse has allowed for the joining of efforts amongst organizations and individuals.
 
