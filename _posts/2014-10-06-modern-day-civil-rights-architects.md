@@ -4,13 +4,13 @@ layout: post
 maintitle: "Modern Day Civil Rights Architects Take to Social Media - {Young}ist"
 headline: Modern Day Civil Rights Architects Take to Social Media
 tagline: undefined
-featuredphoto: "https://38.media.tumblr.com/3d739942357986ffee1d4690be8ce8ef/tumblr_nctjprQlNq1ql60owo1_1280.jpg"
-featuredphotoalttext: 
+featuredphoto: undefined
+featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: "https://38.media.tumblr.com/831160c22750d7bed4a7a66ccac27777/tumblr_nctkgtEr4Y1ql60owo1_1280.jpg"
-contributorshortbio: Independent performance artist currently serving as the Millenial Organizer for GameChanger Labs, residing in Chicago and the Internet.
-contributortwitter: sancho108
-contributorage: 1991-07-16
+contributorphoto: "https://scontent-b-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1235482_10152223068548709_1992080945_n.jpg?oh=4ab17362da0313dd4fdbbc57881998d3&oe=548933E4"
+contributorshortbio: Priscilla, a Brooklyn based multimedia journalist keeping an active pulse on arts and entertainment culture. She is fascinated by use of social media, as a tool for organizing and leveraging important conversations.
+contributortwitter: Macaronifro
+contributorage: 1990-12-01
 categories: 
   - article
 tags: 
@@ -19,7 +19,7 @@ tags:
   - Ferguson
   - racial-justic
 contributors: 
-  - Priscilla 
+  - Priscilla Ward
 ---
 
 We cannot forget about Ferguson, Missouri. Despite the mainstream media’s coverage shift, the dialogue is still happening. Young people are continuing to respond in the killing of Michael Brown. Our lenses are being recalibrated as those under 25 claim their footing as modern-day civil rights architects. They are organizing largely via social media, galvanizing others to stage demonstrations across cities, on college campuses and in Ferguson, and helping to shift our lens on leadership. Historically, youth participation in larger political discourse has been disregarded, but the presence of social media amidst this discourse has allowed for the joining of efforts amongst organizations and individuals.
@@ -32,7 +32,6 @@ Khalil Saadiq, 19, a sophomore at Howard, is responsible for organizing a demons
 
 <blockquote class="twitter-tweet" lang="en"><p>Powerful picture we took today at Howard University <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> <a href="https://twitter.com/hashtag/MikeBrown?src=hash">#MikeBrown</a> <a href="https://twitter.com/hashtag/MyaWhite?src=hash">#MyaWhite</a> <a href="https://twitter.com/hashtag/DONTSHOOT?src=hash">#DONTSHOOT</a> <a href="http://t.co/ttdVg33n5w">pic.twitter.com/ttdVg33n5w</a></p>&mdash; Megan Sims (@The_Blackness48) <a href="https://twitter.com/The_Blackness48/status/499714499688300545">August 14, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 The chilling image received over 7,000 re-tweets.
 
