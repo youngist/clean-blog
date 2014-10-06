@@ -5,7 +5,7 @@ maintitle: "Modern Day Civil Rights Architects Take to Social Media - {Young}ist
 headline: Modern Day Civil Rights Architects Take to Social Media
 tagline: undefined
 featuredphoto: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=sz2KHLWKnkIT6M&tbnid=R7D_G2T9K6b28M:&ved=0CAcQjRw&url=http%3A%2F%2Fsayanythingblog.com%2Fentry%2Fsupreme-court-strikes-down-federal-oversight-of-elections%2F&ei=rKwyVJaCBdGSyASR8oDoCw&bvm=bv.76802529,d.aWw&psig=AFQjCNEY64v8WKzKXnhRGG6N-agRa3jrKw&ust=1412693445579360
-featuredphotoalttext: A young woman stands on a dark street with several people and holds a sign that reads "Black Life Matters".
+featuredphotoalttext: A young woman stands on a dark street with several people and holds a sign that reads "Black Life Matters". Photo: sayanythingblog.com
 videourl: undefined
 contributorphoto: "https://scontent-b-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1235482_10152223068548709_1992080945_n.jpg?oh=4ab17362da0313dd4fdbbc57881998d3&oe=548933E4"
 contributorshortbio: Priscilla, a Brooklyn based multimedia journalist keeping an active pulse on arts and entertainment culture. She is fascinated by use of social media, as a tool for organizing and leveraging important conversations.
