@@ -4,7 +4,7 @@ layout: post
 maintitle: "Modern Day Civil Rights Architects Take to Social Media - {Young}ist"
 headline: Modern Day Civil Rights Architects Take to Social Media
 tagline: undefined
-featuredphoto: http://sayanythingblog.com/wp-content/uploads/2014/08/Ferguson-Protest-453673840.0.jpg
+featuredphoto: "http://sayanythingblog.com/wp-content/uploads/2014/08/Ferguson-Protest-453673840.0.jpg"
 featuredphotoalttext: A young woman stands on a dark street with several people and holds a sign that reads "Black Life Matters". Photo: sayanythingblog.com
 videourl: undefined
 contributorphoto: "https://scontent-b-lga.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1235482_10152223068548709_1992080945_n.jpg?oh=4ab17362da0313dd4fdbbc57881998d3&oe=548933E4"
