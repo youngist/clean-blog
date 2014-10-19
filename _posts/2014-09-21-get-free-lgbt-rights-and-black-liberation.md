@@ -1,11 +1,11 @@
 ---
 published: true
 layout: post
-maintitle: "Get Free: LGBT Rights and Black Liberation - {Young}ist"
-headline: "Get Free: LGBT Rights and Black Liberation"
+maintitle: "Get Free&#58; LGBT Rights and Black Liberation - {Young}ist"
+headline: "Get Free&#58; LGBT Rights and Black Liberation"
 tagline: undefined
 featuredphoto: https://33.media.tumblr.com/37fddb2b74febf160bcd753b0cfe878d/tumblr_ncbtwklzRP1sm7wrao1_1280.png
-featuredphotoalttext: Get Free: LGBT Rights and Black Liberation
+featuredphotoalttext: Get Free&#58; LGBT Rights and Black Liberation
 videourl: //www.youtube.com/embed/MO0fm7KJ1fk
 contributorphoto: "http://byp100.org/wp-content/uploads/2014/07/BYP100-graphic-500x500.jpg"
 contributorshortbio: "Black Youth Project 100 (BYP 100) is an activist member-based organization of Black 18-35 year olds, dedicated to creating justice and freedom for all Black people." 
