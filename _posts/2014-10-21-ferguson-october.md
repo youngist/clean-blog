@@ -4,8 +4,8 @@ layout: post
 maintitle: "Ferguson October, From Moment to Movement - {Young}ist"
 headline: "Ferguson October, From Moment to Movement"
 tagline: undefined
-featuredphoto: "http://38.media.tumblr.com/a51276d89ae9579306446b5860819107/tumblr_ndszbbswhx1rq2ndso1_1280.png"
-featuredphotoalttext: Youngist editor, Muna Mire protesting during Ferguson October rallies in Ferguson and St. Louis. (Photo credit:  Wesley Lowery)
+featuredphoto: "http://31.media.tumblr.com/c7326ef8e566738f0dd860145ffa7568/tumblr_ndszkyth8I1rq2ndso1_1280.png"
+featuredphotoalttext: Young people protesting during Ferguson October rallies in Ferguson and St. Louis. 
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1dde5df2105e3c3a2ced28fdb2dc85f7/tumblr_inline_n710xwdX0H1r7ixte.gif"
 contributorshortbio: "Hannah K. Gold writes on social justice and literature for publication, and composes bad poetry and erotica for herself."
