@@ -15,9 +15,8 @@ contributorage: 4/15/1991
 contributors:
   - Hannah Giorgis
 tags:
-  - feminism
-  - race
-  - pop-culture
+  - trans
+  - organizing
 categories:
   - editors
 ---
