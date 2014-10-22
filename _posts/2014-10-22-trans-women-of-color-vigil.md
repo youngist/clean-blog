@@ -26,7 +26,8 @@ Held outside the Walter E. Washington Convention Center, the vigil took place as
 
 “Seven Black and Latina women of transsexual history were murdered in this summer alone, yet the elected officials that are supposed to serve and protect us have generally remained silent,” said noted transsexual and intersex advocate Ashley Love, a journalist with [Trans Forming Media](http://transformingmedia.blogspot.com/) and organizer with the Black Trans* Women’s Lives Matter campaign. “Whether it’s political inconvenience, immoral priorities, fear or religious bigotry, this epidemic is rarely given the attention it merits.”
 
-Love has spent many years advocating for the needs of women like herself, women who must navigate a world that puts them at disproportionate risk of numerous forms of violence simply because they do not conform to established notions of gender. Love cited economic violence including employment and housing discrimination, 
+Love has spent many years advocating for the needs of women like herself, women who must navigate a world that puts them at disproportionate risk of numerous forms of violence simply because they do not conform to established notions of gender. 
+Love cited economic violence including employment and housing discrimination as two major barriers that her community faces.
 
 “Our ‘call for peace’ event started with everyone introducing themselves and saying why they were present, with women holding white roses to symbolize peace,” Love said. “Invited speakers then gave remarks, and then the floor was open for everyone to testify. Next we moved to the vigil and Prayer for Peace portion, where all fifty of us joined hands in a large circle. We honored the memory of our fallen, and prayed for the safety of those of us still here.”
 
