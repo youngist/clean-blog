@@ -2,7 +2,7 @@
 published: true
 layout: post
 maintitle: "The White Privilege Project - {Young}ist"
-headline: 
+headline: "The White Privilege Project"
 tagline: undefined
 featuredphoto: http://assets.vice.com/content-images/contentimage/192561/Whiteness-Project.jpg
 featuredphotoalttext: undefined
