@@ -4,7 +4,7 @@ layout: post
 maintitle: "TodosSomosAyotzinapa (We all are Ayotzinapa) - {Young}ist"
 headline: "#TodosSomosAyotzinapa (We all are Ayotzinapa)"
 tagline: The biggest protest in the 21st Century in Mexico
-featuredphoto: http://fuckyeahjamaicaplain.tumblr.com/image/101194621466
+featuredphoto: http://31.media.tumblr.com/23baf06751844c2d365d6f191d7da94b/tumblr_ne67twsLgq1ql60owo1_1280.jpg
 featuredphotoalttext: Crowds gather to demand answers in the disappearance of students.
 videourl: undefined
 contributorphoto: "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/s720x720/1397469_10152045657432938_2142110757_o.jpg"
