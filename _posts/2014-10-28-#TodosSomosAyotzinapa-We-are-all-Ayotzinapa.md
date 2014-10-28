@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-maintitle: "#TodosSomosAyotzinapa (We all are Ayotzinapa) - {Young}ist"
+maintitle: "TodosSomosAyotzinapa (We all are Ayotzinapa) - {Young}ist"
 headline: "#TodosSomosAyotzinapa (We all are Ayotzinapa)"
 tagline: The biggest protest in the 21st Century in Mexico
 featuredphoto: http://fuckyeahjamaicaplain.tumblr.com/image/101194621466
