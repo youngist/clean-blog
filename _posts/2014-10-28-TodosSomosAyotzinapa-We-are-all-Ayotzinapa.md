@@ -12,10 +12,10 @@ contributorshortbio: Born and bred in Mx city, gender specialist, urban developm
 contributortwitter: luz_rodeas
 contributorage: 02/06/1986
 categories: 
-  - article
-  - organizing
+  - featured
 tags: 
   - youth
+  - organizing
 contributors: 
   - Luz Rodea S.
 ---
