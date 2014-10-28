@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "The White Privilege Project - {Young}ist"
 headline: 
@@ -7,10 +7,10 @@ tagline: undefined
 featuredphoto: http://assets.vice.com/content-images/contentimage/192561/Whiteness-Project.jpg
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/1909131_803424676338862_1047140504_o.jpg
+contributorshortbio: "multimodal artist looking for a new journalism wave"
+contributortwitter: heraschan
+contributorage: 05/19/1993
 contributors:
   - Hera Chan
 tags:
