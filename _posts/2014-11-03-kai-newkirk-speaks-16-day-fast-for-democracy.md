@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Kai Newkirk, Pro-Democracy Leader Speaks about Day 16 of His Fast - {Young}ist"
 headline: "Kai Newkirk, Pro-Democracy Leader Speaks about Day 16 of His Fast"
