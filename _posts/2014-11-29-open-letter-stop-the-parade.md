@@ -12,7 +12,7 @@ contributorshortbio: "We are community organizers and activists who organized #s
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - editors
+  - featured
 tags: 
   - "black-friday"
   - ferguson 
