@@ -17,6 +17,8 @@ tags:
   - "black-friday"
   - ferguson 
   - organizing
+contributor:
+  - anonymous 
 ---
 
 We are a few of the thousands of people disrupting 'business as usual' and fighting back against the state sanctioned murders of Black individuals and communities. We stand in solidarity with demonstrations spreading all across the nation following the announcement on Monday that a Ferguson grand jury will not indict Darren Wilson, the murderer of Michael Brown. The following is a people's account of what happened during the protest of the Macy's Thanksgiving Day Parade on the morning of November 27th. We want to acknowledge that this act of resistance is happening on a day that ignores the historical and ongoing experiences of colonialism and genocide of Indigenous peoples on Turtle Island. This ‘holiday’ also serves as a potent symbol of capitalist culture that values private property and racist nationalist traditions.
