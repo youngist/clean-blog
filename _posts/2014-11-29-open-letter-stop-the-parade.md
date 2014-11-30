@@ -34,4 +34,5 @@ We are sharing this account with you because it is important to acknowledge and 
 
 
 Signed,
+
 A few of thousands of people organizing for Michael Brown 
