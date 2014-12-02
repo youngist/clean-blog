@@ -4,7 +4,7 @@ layout: post
 maintitle: "Open Letter from #StoptheParade - {Young}ist"
 headline: "Open Letter from #StoptheParade"
 tagline: undefined
-featuredphoto: "http://33.media.tumblr.com/070ed1f3552207988e006b567110b4fa/tumblr_nfu2lhbTJ71rq2ndso1_1280.png"
+featuredphoto: "http://40.media.tumblr.com/ae38d428c864d3128d60bd4ea30ebcbe/tumblr_nfz1gbe1fr1rq2ndso1_1280.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: 
