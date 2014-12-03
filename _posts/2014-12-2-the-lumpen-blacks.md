@@ -9,7 +9,7 @@ featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: http://40.media.tumblr.com/b421d7ffd64115c7be3b99cf72609418/tumblr_nfz76vuNgW1rq2ndso1_1280.jpg
 contributorshortbio: "Messiah Rhodes a recent media fellow at Democracy Now!, directs, shoots and edits documentaries that have been featured in festivals, educational distribution, on platforms such as Vice, Huffington Post, Village Voice & others. Follow him: www.rhodespictures.com"
-contributor:
+contributors:
   - Messiah Rhodes
 contributortwitter: rhodesmessiah
 contributorage: undefined
