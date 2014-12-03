@@ -17,7 +17,7 @@ tags:
   - "black-friday"
   - ferguson 
   - organizing
-contributor:
+contributors:
   - anonymous 
 ---
 
