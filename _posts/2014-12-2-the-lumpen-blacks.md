@@ -9,6 +9,8 @@ featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: http://40.media.tumblr.com/b421d7ffd64115c7be3b99cf72609418/tumblr_nfz76vuNgW1rq2ndso1_1280.jpg
 contributorshortbio: "Messiah Rhodes a recent media fellow at Democracy Now!, directs, shoots and edits documentaries that have been featured in festivals, educational distribution, on platforms such as Vice, Huffington Post, Village Voice & others. Follow him: www.rhodespictures.com"
+contributor:
+  - Messiah Rhodes
 contributortwitter: rhodesmessiah
 contributorage: undefined
 categories: 
@@ -16,8 +18,6 @@ categories:
 tags: 
   - racism 
   - organizing
-contributor:
-  - Messiah Rhodes
 ---
 I’ve visited [Detroit](http://www.democracynow.org/blog/2014/10/21/video_detroit_residents_meet_with_united), Portland, [St. Louis](http://www.democracynow.org/2014/10/13/thousands_march_in_ferguson_for_police), Newburgh and many little towns across the nation that you’d least expect. In their history, all experienced uprisings that would break the segregation of communities. But we have come far from our slave ships only to see our own brothers and sisters lead us back unto cages again. Blacks, Latinos, non-whites, all move through a white world with boots on the necks of the poorest Black people. White hands design a world where Black life is a second thought as they plan our bridges, our cities and our education. Still, we imagine a world outside, an unknown that breaks the confines of our idleness.
       
