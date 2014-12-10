@@ -1,3 +1,4 @@
+---
 published: true
 layout: post
 maintitle: "365—An End to Solitary Confinement for Transgender Detainees - {Young}ist"
