@@ -45,4 +45,4 @@ We are connected online and in the streets. We are decentralized, but coordinate
  
 Because, this is the only way we will win. We can’t breathe. And we won’t stop until Freedom.
  
-_From the teams at: [Ferguson Action](http://fergusonaction.com/), [Millennial Activists United](http://millennialau.tumblr.com/), [Black Lives Matter](http://blacklivesmatter.com/), [Organization for Black Struggle](http://obs-onthemove.org/), [BYP100](http://byp100.org/), [Hands Up United](http://www.handsupunited.org/), (The Dream Defenders)[http://dreamdefenders.org/vest/] and (Million Hoodies Movement for Justice)[http://www.mhoodies.org/]_
+_From the teams at: [Ferguson Action](http://fergusonaction.com/), [Millennial Activists United](http://millennialau.tumblr.com/), [Black Lives Matter](http://blacklivesmatter.com/), [Organization for Black Struggle](http://obs-onthemove.org/), [BYP100](http://byp100.org/), [Hands Up United](http://www.handsupunited.org/), [The Dream Defender](http://dreamdefenders.org/vest/) and [Million Hoodies Movement for Justice](http://www.mhoodies.org/)_
