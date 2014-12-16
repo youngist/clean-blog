@@ -1,8 +1,8 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "About this Movement - {Young}ist"
+headline: About this Movement
 tagline: undefined
 featuredphoto: "http://cdn.fergusonaction.com/wp-content/uploads/2014/12/tumblr_ngjfwpGVMz1s0auzbo1_1280.jpg"
 featuredphotoalttext: "Protesters march in New York carrying a series of signs that create an enlarged image of Eric Garner's eyes."
@@ -11,6 +11,12 @@ contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
+categories: 
+  - editors
+tags: 
+  - "black-lives-matter"
+  - ferguson
+  - youth
 ---
 
 _This open letter was originally posted at http://fergusonaction.com/movement/_
