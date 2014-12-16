@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-maintitle: "About this Movement - {Young}ist"
+maintitle: "About This Movement - {Young}ist"
 headline: About this Movement
 tagline: undefined
 featuredphoto: "http://cdn.fergusonaction.com/wp-content/uploads/2014/12/tumblr_ngjfwpGVMz1s0auzbo1_1280.jpg"
@@ -18,10 +18,10 @@ tags:
   - ferguson
   - youth
 contributors: 
-  - "Ferguson Action, Millennial Activists United, Black Lives Matter, Organization for Black Struggle, BYP100, Hands Up United, The Dream Defender and Million Hoodies Movement for Justice"
+  - "Ferguson Action, Millennial Activists United, Black Lives Matter, Organization for Black Struggle, BYP100, Hands Up United, The Dream Defenders and Million Hoodies Movement for Justice"
 ---
 
-_This open letter was originally posted at [Ferguson Action](http://fergusonaction.com/movement/_)
+_This open letter was originally posted at [Ferguson Action](http://fergusonaction.com/movement/)_
 
 On the week of August 9th, Black youth in Ferguson took to the streets and kicked off a wave of resistance against police violence that has spread across the country. In the last four months, we have stood united in a call for change in our system of policing and a new vision for Black lives, lived fully and with dignity.
  
