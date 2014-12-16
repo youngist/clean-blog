@@ -17,6 +17,8 @@ tags:
   - "black-lives-matter"
   - ferguson
   - youth
+contributors: 
+  - "Ferguson Action, Millennial Activists United, Black Lives Matter, Organization for Black Struggle, BYP100, Hands Up United, The Dream Defender and Million Hoodies Movement for Justice"
 ---
 
 _This open letter was originally posted at http://fergusonaction.com/movement/_
