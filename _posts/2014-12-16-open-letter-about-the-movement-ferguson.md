@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "About this Movement - {Young}ist"
 headline: About this Movement
