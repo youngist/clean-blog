@@ -5,7 +5,7 @@ maintitle: "Assata Shakur is Still Welcome Here - {Young}ist"
 headline: Assata Shakur is Still Welcome Here
 tagline: "How will Obama's new approach to Cuba affect the exiled revolutionary Assata Shakur?"
 featuredphoto: "https://38.media.tumblr.com/e2060a7bf47d3154c9eee27345c01ea1/tumblr_ngrdtivXj61ql60owo1_1280.jpg"
-featuredphotoalttext: "An artistic image of a Black woman's smiling face with the words 'Hands off Assata.' By Dignidad Rebelde."
+featuredphotoalttext: "An artistic image of a Black woman's smiling face with the words \"Hands off Assata.\" By Dignidad Rebelde."
 videourl: undefined
 contributorphoto: "http://farm4.staticflickr.com/3778/9462048756_c42191ddee.jpg"
 contributorshortbio: undefined
@@ -48,9 +48,9 @@ The young, Black, queer, woman-led Ferguson-based group [Millennial Activists Un
 <iframe width="420" height="315" src="//www.youtube.com/embed/OswKmSOZi0k" frameborder="0" allowfullscreen></iframe>
 
 As [Rosa Clemente](http://rosaclemente.net/) [said](https://twitter.com/rosaclemente/status/545331155545763840), if we are chanting Assata quotes and wearing Assata hoodies, we better be ready to keep her free. 
-Philip Agnew, Executive Director of the Dream Defenders, has said that #BlackLivesMatter is [our generation’s Black Power](https://twitter.com/PhilofDreams_/status/543935049717280768). And decades after Black Power first became a visible movement in the United States, the incarcerated population in this country is [40% Black](http://www.naacp.org/pages/criminal-justice-fact-sheet), police are consistently killing unarmed Black folks with no consequence, and people are being abused and killed in US-run prisons both [domestically](http://www.thenation.com/prison-profiteers) and [internationally](http://www.theguardian.com/us-news/2014/dec/09/cia-torture-report-worst-findings-waterboard-rectal). Young leaders have reminded us that the struggle for the liberation of oppressed peoples is the same fight [from Ferguson to Palestine](http://samidoun.ca/2014/12/statement-from-ferguson-to-new-york-to-palestine-solidarity-with-the-resistance-to-racist-oppression/), that we stand in global solidarity. Now, let us honor Assata’s legacy by going beyond demands for reform to visions and strategies for abolition of policing and prisons.
+Philip Agnew, Executive Director of the Dream Defenders, has said that #BlackLivesMatter is [our generation’s Black Power](https://twitter.com/PhilofDreams_/status/543935049717280768). And decades after Black Power first became a visible movement in the United States, the incarcerated population in this country is [40% Black](http://www.naacp.org/pages/criminal-justice-fact-sheet), police are consistently killing unarmed Black folks with no consequence, and people are being abused and killed in US-run prisons both [domestically](http://www.thenation.com/prison-profiteers) and [internationally](http://www.theguardian.com/us-news/2014/dec/09/cia-torture-report-worst-findings-waterboard-rectal). Young leaders have reminded us that the struggle for the liberation of oppressed peoples is the same fight [from Ferguson to Palestine](http://samidoun.ca/2014/12/statement-from-ferguson-to-new-york-to-palestine-solidarity-with-the-resistance-to-racist-oppression/), that we stand in global solidarity. Now, let us honor Assata’s legacy by going beyond demands for reform to visions and strategies for abolition of [policing](http://www.rollingstone.com/politics/news/policing-is-a-dirty-job-but-nobodys-gotta-do-it-6-ideas-for-a-cop-free-world-20141216) and [prisons](http://www.usprisonculture.com/blog/2014/12/01/police-reforms-you-should-always-oppose/).
 
 
 
 
-_Image by Dignidad Rebelde. Check out their work [here](https://www.flickr.com/photos/dignidadrebelde/8705643312/)._
+_Photo by Dignidad Rebelde. Check out their work [here](https://www.flickr.com/photos/dignidadrebelde/8705643312/)_
