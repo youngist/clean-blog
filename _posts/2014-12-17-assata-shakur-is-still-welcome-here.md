@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Assata Shakur is Still Welcome Here - {Young}ist"
 headline: Assata Shakur is Still Welcome Here
