@@ -3,7 +3,7 @@ published: true
 layout: post
 maintitle: "Assata Shakur is Still Welcome Here - {Young}ist"
 headline: Assata Shakur is Still Welcome Here
-tagline: undefine
+tagline: undefined
 featuredphoto: "https://38.media.tumblr.com/e2060a7bf47d3154c9eee27345c01ea1/tumblr_ngrdtivXj61ql60owo1_1280.jpg"
 featuredphotoalttext: "An image of a woman's smiling face with the words \"Hands off Assata.\" By [dignidadrebelde](https://www.flickr.com/photos/dignidadrebelde/8705643312/)"
 videourl: undefined
