@@ -53,4 +53,4 @@ Philip Agnew, Executive Director of the Dream Defenders, has said that #BlackLiv
 
 
 
-_Photo by Dignidad Rebelde. Check out their work [here](https://www.flickr.com/photos/dignidadrebelde/8705643312/)_
+_Image by Dignidad Rebelde. Check out their work [here](https://www.flickr.com/photos/dignidadrebelde/8705643312/)._
