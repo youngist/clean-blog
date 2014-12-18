@@ -24,7 +24,7 @@ contributors:
 
 Assata Olugbala Shakur is on our minds today.
 
-This morning, Obama announced that the US and Cuba would normalize diplomatic relations, after almost 54 years of embargo. A White House fact sheet, dubbed [“Charting a New Course on Cuba”](http://www.documentcloud.org/documents/1382402-white-house-fact-sheet-cuba.html#document/p3), outlines the changes in relations, including the creation of a US embassy in Havana and, notably, a report on the U.S.’s designation of Cuba as a State Sponsor of Terrorism. It is unclear what these policies will mean for returning self-determination to the people of Cuba.
+Yesterday, Obama announced that the US and Cuba would normalize diplomatic relations, after almost 54 years of embargo. A White House fact sheet, dubbed [“Charting a New Course on Cuba”](http://www.documentcloud.org/documents/1382402-white-house-fact-sheet-cuba.html#document/p3), outlines the changes in relations, including the creation of a US embassy in Havana and, notably, a report on the U.S.’s designation of Cuba as a State Sponsor of Terrorism. It is unclear what these policies will mean for returning self-determination to the people of Cuba.
 
 Of course, many of us immediately thought: what about Assata? 
 
