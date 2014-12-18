@@ -5,7 +5,7 @@ maintitle: "Assata Shakur is Still Welcome Here - {Young}ist"
 headline: Assata Shakur is Still Welcome Here
 tagline: "How will Obama's new approach to Cuba affect the exiled revolutionary Assata Shakur?"
 featuredphoto: "https://38.media.tumblr.com/e2060a7bf47d3154c9eee27345c01ea1/tumblr_ngrdtivXj61ql60owo1_1280.jpg"
-featuredphotoalttext: "An artistic image of a Black woman's smiling face with the words \"Hands off Assata.\" By dignidadrebelde."
+featuredphotoalttext: "An artistic image of a Black woman's smiling face with the words \"Hands off Assata.\" By Dignidad Rebelde."
 videourl: undefined
 contributorphoto: "http://farm4.staticflickr.com/3778/9462048756_c42191ddee.jpg"
 contributorshortbio: undefined
