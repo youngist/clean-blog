@@ -1,16 +1,25 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
-tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+maintitle: "Assata Shakur is Still Welcome Here - {Young}ist"
+headline: Assata Shakur is Still Welcome Here
+tagline: undefine
+featuredphoto: "https://38.media.tumblr.com/e2060a7bf47d3154c9eee27345c01ea1/tumblr_ngrdtivXj61ql60owo1_1280.jpg"
+featuredphotoalttext: "An image of a woman's smiling face with the words \"Hands off Assata.\" By [dignidadrebelde](https://www.flickr.com/photos/dignidadrebelde/8705643312/)"
 videourl: undefined
-contributorphoto: undefined
+contributorphoto: "http://farm4.staticflickr.com/3778/9462048756_c42191ddee.jpg"
 contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributortwitter: qaween
+contributorage: 7/24/1991
+tags: 
+  - prisons
+  - organizing
+  - police
+categories: 
+  - editors
+contributors: 
+  - "Queen Arsem-O'Malley"
+  - Isabelle Nastasia
 ---
 
 Assata Olugbala Shakur is on our minds today.
