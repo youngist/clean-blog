@@ -29,7 +29,7 @@ Yesterday, Obama announced that the U.S. and Cuba would normalize diplomatic rel
 
 Of course, many of us immediately thought: what about Assata? 
 
-Born in 1947, Assata Shakur is known for her activism as a City University of New York student and her dedication to self-determination to oppressed peoples as a Black Panther and member of the Black Liberation Army. Authorities tried to charge Assata with alleged murder, attempted murder, and bank robbery; in 1977, she was convicted of murder of a New Jersey state trooper – who was killed in a shootout where Assata was shot with her hands up – and imprisoned. While incarcerated, she was placed in solitary confinement for over 21 months.
+Born in 1947, Assata Shakur is known for her activism as a City University of New York student and her dedication to self-determination to oppressed peoples as a Black Panther and member of the Black Liberation Army. Authorities tried to charge Assata with alleged murder, attempted murder, and bank robbery; in 1977, she was convicted of murder of a New Jersey state trooper – who was killed in a shootout where [Assata was shot with her hands up](https://www.youtube.com/watch?v=t7unIuy0ET8) – and imprisoned. While incarcerated, she was placed in solitary confinement for over 21 months.
 
 In 1979, Assata escaped from Clinton Correctional Facility for Women in New Jersey with help from three members of the Black Liberation Army, who freed her after seizing two prison guards at gunpoint and liberating a prison van for their escape. No one was injured during Assata’s jailbreak.
 
