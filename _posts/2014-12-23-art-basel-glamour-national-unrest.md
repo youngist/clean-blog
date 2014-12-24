@@ -1,11 +1,11 @@
 ---
 published: true
 layout: post
-maintitle: "Art Basel Glamour and National Unrest - {Young}ist"
-headline: Art Basel Glamour and National Unrest
-tagline: "Hira Mahmood attends Miami's Art Basel, and is faced with a number of questions pertaining to revolution and art."
-featuredphoto: undefined
-featuredphotoalttext: undefined
+maintitle: "The Silence of Art Basel, Police Violence, National Unrest and Other Stories - {Young}ist"
+headline: The Silence of Art Basel, Police Violence, National Unrest and Other Stories
+tagline: "Editor Hira Mahmood attends Miami's Art Basel, and is faced with a number of questions pertaining to the roles of revolution and art."
+featuredphoto: https://31.media.tumblr.com/d6cc2576dbec1aecec772030e55d9a93/tumblr_nh2bg3gLwm1sm7wrao1_1280.jpg
+featuredphotoalttext: "The opening of Art Basel in Miami (Left) and a photo from the Ferguson protests (Right)."
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1811d65d6ed708b41434080d7647fa85/tumblr_inline_mmimxegpxW1rkj9dw.jpg"
 contributorshortbio: "another peon with an english degree"
