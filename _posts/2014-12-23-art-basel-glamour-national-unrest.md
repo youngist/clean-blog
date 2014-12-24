@@ -4,7 +4,7 @@ layout: post
 maintitle: "Art Basel Glamour and National Unrest - {Young}ist"
 headline: Art Basel Glamour and National Unrest
 tagline: "Hira Mahmood attends Miami's Art Basel, and is faced with a number of questions pertaining to revolution and art."
-featuredphoto: "https://38.media.tumblr.com/e2060a7bf47d3154c9eee27345c01ea1/tumblr_ngrdtivXj61ql60owo1_1280.jpg"
+featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
 contributorphoto: "http://media.tumblr.com/1811d65d6ed708b41434080d7647fa85/tumblr_inline_mmimxegpxW1rkj9dw.jpg"
