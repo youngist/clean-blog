@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-maintitle: "The Silence of Art Basel, Police Violence, National Unrest and Other Stories - {Young}ist"
-headline: The Silence of Art Basel, Police Violence, National Unrest and Other Stories
+maintitle: "The Silence of Art Basel — Police Violence, National Unrest and Other Stories - {Young}ist"
+headline: The Silence of Art Basel — Police Violence, National Unrest and Other Stories
 tagline: "Editor Hira Mahmood attends Miami's Art Basel, and is faced with a number of questions pertaining to the roles of revolution and art."
 featuredphoto: https://31.media.tumblr.com/d6cc2576dbec1aecec772030e55d9a93/tumblr_nh2bg3gLwm1sm7wrao1_1280.jpg
 featuredphotoalttext: "The opening of Art Basel in Miami (Left) and a photo from the Ferguson protests (Right)."
@@ -13,7 +13,8 @@ contributortwitter: "HiraMahmood5"
 contributorage: 7/24/1991
 tags: 
   - art
-  - activism
+  - organizing
+  - "black-lives-matter"
 categories: 
   - editors
 contributors: 
