@@ -34,7 +34,7 @@ Let’s not kid ourselves – expecting Art Basel to bring political struggle an
 In the 1950s and 60s, the art movement Fluxus, comprised of artists like George Maciunas, Joseph Beuys, and Yoko Ono, took an anti-commercial stance and subverted so-called high art. The Guerilla Girls formed in the 1980s and used subversive tactics to promote women in art. Art collective Claire Fontaine began in France in 2004 as [‘an ongoing interrogation of the political impotence and the crisis of singularity that seem to define contemporary art today,’](http://www.clairefontaine.ws/bio.html) primarily using neon, video, text, and sculpture and aiming to inject collective meaning. At the end of 2014 in Miami, I was left wondering: given that art is an instrument for the opening of controversial conversations and contentious spaces, are there ruptures to be found in even the most suffocating spaces?
 
 <img src="http://www.guerrillagirls.com/posters/images/Naked%20Through%20The%20Ages/Naked1989.jpg">
-<BR>*Guerrilla Girls propaganda, 1989.*
+*Guerrilla Girls propaganda, 1989.*
 
 **WHO REALLY MAKES MIAMI AN ARTIST’S CITY?**<BR>
 The art world is a violent world. It forecloses opportunities to poor people, people of color, and Black artists in particular. It is a world that profits from the unseen and unacknowledged influence and power of labor via appropriation and extraction of oppressed peoples. Art Basel in congruence with police murdering Black and Brown Miami residents in the streets is part of this systemic violence.
@@ -51,11 +51,11 @@ The same night that 21-year-old Demz was killed, protesters shut down the Wynwoo
 
 <img src="https://38.media.tumblr.com/2bdfb878b2ec2ef72b23472471c7d3e2/tumblr_nh287ya3Ls1sm7wrao1_1280.png">
 <img src="https://38.media.tumblr.com/acecd79a988fb4c7227ad0e996ffab81/tumblr_nh287ya3Ls1sm7wrao2_1280.png">
-<BR>*December 5 highway blockade, Miami.*
+*December 5 highway blockade, Miami.*
 
 Both the legal and illegal walls of Wynwood, an up-and-coming arts district in Miami, feature art from graffiti and street artists. As gentrification decimates yet another neighborhood, Wynwood feels more like an artscrawl and less like what it once was – the home of primarily Cuban and Haitian working-class families, then a popular fashion and garment district in the 1970s and 1980s, and now, the burgeoning arts neighborhood. 
 
-<img src="https://c2.staticflickr.com/4/3314/3513426783_970aa135f3.jpg"/><BR>
+<img src="https://c2.staticflickr.com/4/3314/3513426783_970aa135f3.jpg"/>
 *Ben Vautier’s _Total Art Match Box_ is part of “Multiple Strategies: Beuys, Maciunas, Fluxus” at the Busch-Reisinger Museum.*
 
 
@@ -80,7 +80,7 @@ Sandra Khalifa is the former Communications Director and Graphic Designer for th
 
 <img src="http://dreamdefenders.org/wp-content/uploads/2014/03/wish8.jpg"/>
 <img src="http://dreamdefenders.org/wp-content/uploads/2014/03/caution11.jpg"/>
-<BR>*Sandra Khalifa's work for #VisitFL campaign.*
+_Sandra Khalifa's work for #VisitFL campaign._
 
 **SO WHAT?**<BR>
 Perhaps the most striking piece of artwork I saw in Miami in the Rubell Family Collection is titled _Guernika_, by Lucy Dodd (b. 1981). Born 100 years to the day after Picasso, Dodd engages in her own an interpretation of Picasso’s _Guernica_ as she adopts fleshy colors and explosive texture. The towering work is made of earth-drawn materials such as Rio Tinto water, chamomile and pomegranate from Segura de Leon, and Miami rainwater and lavender oil.
@@ -88,7 +88,7 @@ Perhaps the most striking piece of artwork I saw in Miami in the Rubell Family C
 I close with Lucy Dodd’s _Guernika_ for a few reasons. For those who aren’t familiar, Picasso’s _Guernica_ depicts the bombing of _Guernica_, a village in the Basque Country in Spain, in 1937 by German forces. Showcasing the torment of innocent civilians, the painting stands as a profoundly anti-war work of art that has become a cultural artifact capturing human suffering at the hands of war.
 
 <img src="http://cdni.condenast.co.uk/1920x1280/s_v/Vogue-today-12-12Dec14-pr_b.jpg">
-<BR>_Lucy Dodd, Guernika, 2014._
+_Lucy Dodd, Guernika, 2014._
 
 Fast forward to 2003 when, [‘in an act with extraordinary historical resonance,’](http://www.wsws.org/en/articles/2003/02/guer-f08.html) Secretary of State Colin Powell delivered an address to the United Nations making a case for war against Iraq. The tapestry hung behind Powell during his speech was a replica of _Guernica_. Coincidentally, it was decided the _Guernica_ replica be covered with a blue drape. It would not be enough to say that the painting delegitimizes Powell’s case for war against Iraq – what needs to be recognized here is that if art cannot be a revolutionary act in itself, it is still the revolution of ideas. Yes, something changes when we see _Guernica_ moving from a museum wall onto a backdrop ornament making a case for war. Yes, something changes when you look at graffiti on the street versus a graffiti piece actually cut out of the wall and placed in a gallery space. 
 
