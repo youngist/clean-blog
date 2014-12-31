@@ -13,11 +13,11 @@ tags:
 - race
 - organizing 
 contributors:
-- Shen Trotter 
+- Anwar Batte 
 - Isabelle Nastasia
 contributorphoto: http://i.imgur.com/wT0hlfy.jpg?1
-contributorshortbio: "Shen Trotter is a Black resident of the occupied Lenape territory now known as New York City. I try to critically engage with the legacies of movements against white imperialism and heteropatriarchy not to make their ghosts walk again, but to find once more the spirit of revolution."
-contributortwitter: izzynastasia
+contributorshortbio: "Anwar Batte is a Black resident of the occupied Lenape territory now known as New York City. I try to critically engage with the legacies of movements against white imperialism and heteropatriarchy not to make their ghosts walk again, but to find once more the spirit of revolution."
+contributortwitter: r_vsns
 contributorage: 1990-09-11
 ---
 Yesterday, Lena Dunham—whose character on the HBO show _Girls_ is one of the most [recognizable millennial narratives](https://www.youtube.com/watch?v=6csRnb6ECTI) in pop culture—was [called out by Gawker](http://gawker.com/lena-dunham-does-not-pay-1640249043) for “hiring” unpaid opening acts on her book tour. Only a few hours later, under pressure from fans and other media outlets, Dunham has [come forward via Twitter and agreed](https://twitter.com/lenadunham/status/516696143259254784) to adequately pay all of her acts for their talent and labor out of the $304,000 in revenue from her tour. _(Right on, Lena. We hope you learned something.)_
