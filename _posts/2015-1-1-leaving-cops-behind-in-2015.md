@@ -25,7 +25,7 @@ contributors:
   - "Queen Arsem-O'Malley"
 ---
 
-Over the past several months we have taken part in a national uprising against police violence and the killing of Black people in the streets. There are some for whom this is, indeed, an uprising against the police and the State. Regardless of which camp you fall into, on this New Years Day, we want to speak to this generation and all those facing systemic violence at the hands of the State. As dispossessed queer youth and youth of color, we struggle with you and are building with you. 
+We write to you as dispossessed queer youth and youth of color from Atlanta, Boston, Brooklyn, Los Angeles and Oakland. Over the past several months we have taken part in a national uprising against police violence and the killing of Black people in the streets. There are some for whom this is, indeed, an uprising against the police and the State. Regardless of which camp you fall into, on this New Years Day, we want to speak to this generation and all those facing systemic violence at the hands of the State. We struggle with you and are building with you. 
 
 **Trayvon and Onwards**
 
@@ -59,6 +59,6 @@ Let’s stop reinventing the wheel, and instead spend time scaling-up and distri
 
 Our New Year’s resolution is re-committing our work to center those most affected by violence, calling out bullshit reforms that expand the power of the police, [challenging notions of innocence](http://liesjournal.net/media/LIES-Against-Innocence.pdf) that deem anybody in our world [disposable and worthy of imprisonment](http://vimeo.com/83529569), and continuously bringing police and prison abolition into day-to-day conversation in our homes and in the streets. 
 
-Will you join us?
+**Will you join us?**
 
 
