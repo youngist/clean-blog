@@ -12,7 +12,7 @@ contributorshortbio: "another peon with an english degree"
 contributortwitter: "HiraMahmood5"
 contributorage: 7/24/1991
 categories: 
-  - article
+  - editors
 tags: 
   - policing
   - prisons
