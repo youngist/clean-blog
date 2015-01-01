@@ -1,8 +1,8 @@
 ---
 published: false
 layout: post
-maintitle: "Leaving Cops Behind in 2015 - {Young}ist"
-headline: Leaving Cops Behind in 2015 
+maintitle: "Leaving the Cops Behind in 2015 - {Young}ist"
+headline: Leaving the Cops Behind in 2015 
 tagline: undefined
 featuredphoto: "https://pbs.twimg.com/media/B46eDbACAAASck_.jpg"
 featuredphotoalttext: "BlackOut Collective in California blockade the Oakland Police department with abolitionist messaging"
