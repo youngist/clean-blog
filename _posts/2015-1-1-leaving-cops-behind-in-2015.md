@@ -43,7 +43,7 @@ Reforms in the early 20th century attempted to professionalize the police, which
 
 Reviewing this brutal history, we can clearly see plain as day that this system isn’t broken, it was built this way. We can see that the police’s role is to protect capital and the State as well as punish and control Black bodies. This role has not changed historically even if the faces of police officers sometimes do.
 
-**A World Without Cop in Our Lifetime**
+**A World Without Cops in Our Lifetime**
 
 As our friends at *Mask Magazine* [articulated](http://www.maskmagazine.com/the-multiple-worlds-issue/life/passing-through-worlds-beside-worlds), a world where Black lives matter, a world without police is not a new world but “a collision of many”. We’ve already seen conversations of police abolition over reform enter into the mainstream - with publications like [_Rolling Stone_](http://www.rollingstone.com/politics/news/policing-is-a-dirty-job-but-nobodys-gotta-do-it-6-ideas-for-a-cop-free-world-20141216) coming out in support of community alternatives to policing. But how do we actualize a world without police in our lifetime?  
 
