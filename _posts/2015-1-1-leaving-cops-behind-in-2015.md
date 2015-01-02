@@ -41,7 +41,7 @@ By the end of WWII, many Black people fled to the west coast from the south. In 
 
 Reforms in the early 20th century attempted to professionalize the police, which also meant an increased emphasis on crime control — a move that would come to define the relationship between police forces and civilian populations. In the last 50 years, U.S. border patrol and police forces have become [increasingly militarized](http://www.nytimes.com/2014/06/09/us/war-gear-flows-to-police-departments.html?_r=0), growing rapidly into an army of occupation. 
 
-Reviewing this brutal history, we can clearly see plain as day that this system isn’t broken, it was built this way. We can see that the police’s role is to protect capital and the State as well as punish and control Black bodies. This role has not changed historically even if the faces of police officers sometimes do.
+Reviewing this brutal history, we can clearly see plain as day that this system isn’t broken, it was built this way. We can see that the police’s role is to protect property and the State as well as punish and control Black bodies. This role has not changed historically even if the faces of police officers sometimes do. 
 
 **A World Without Cops in Our Lifetime**
 
