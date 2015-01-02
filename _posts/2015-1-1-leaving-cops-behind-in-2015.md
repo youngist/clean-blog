@@ -25,7 +25,7 @@ contributors:
   - "Queen Arsem-O'Malley"
 ---
 
-We write to you as dispossessed queer youth and youth of color from Atlanta, Boston, Brooklyn, Los Angeles and Oakland. Over the past several months we have taken part in a national uprising against police violence and the killing of Black people in the streets of the United States. There are some for whom this is, indeed, an uprising against the police and the State. Regardless of which camp you fall into, on this New Years Day, we want to speak to this generation and all those facing systemic violence at the hands of the State. We struggle with you and are building with you to leave the cops behind as we move into 2015. 
+We write to you as dispossessed queer youth and youth of color from Atlanta, Boston, Brooklyn, Los Angeles and Oakland. Over the past several months we have taken part in a national uprising against police violence and the killing of Black people in the streets of the United States. There are some for whom this is, indeed, an uprising against the police and the State. Regardless of which camp you fall into, on this New Year's Day, we want to speak to this generation and all those facing systemic violence at the hands of the State. We struggle with you and are building with you to leave the cops behind as we move into 2015. 
 
 **The Movement Moment**
 
