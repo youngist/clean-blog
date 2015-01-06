@@ -5,7 +5,7 @@ maintitle: "Black Brunch Won’t Let Us Turn Away From Victims of Police Violenc
 headline: "Black Brunch Won’t Let Us Turn Away From Victims of Police Violence"
 tagline: undefined
 featuredphoto: "http://www.blackyouthproject.com/files/2015/01/B6hgGhbCMAIKBjS.jpg"
-featuredphotoalttext: Demonstrators walked into several Manhattan restaurants to bring attention to police violence
+featuredphotoalttext: "Demonstrators walked into several Manhattan restaurants to bring attention to police violence"
 videourl: undefined
 contributorphoto: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c0.0.180.180/s160x160/1424264_10151984679891726_511706797_a.jpg"
 contributorshortbio: "Organizer, Writer, Black girl from the future."
