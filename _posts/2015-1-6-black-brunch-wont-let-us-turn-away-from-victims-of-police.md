@@ -12,7 +12,7 @@ contributorshortbio: "Organizer, Writer, Black girl from the future."
 contributortwitter: Muna_Mire
 contributorage: undefined
 categories: 
-  - article
+  - editors
 contributors: 
   - Muna Mire
 tags: 
