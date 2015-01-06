@@ -16,8 +16,7 @@ categories:
 contributors: 
   - Muna Mire
 tags: 
-  - race
-  - racial-justice
+  - "black-lives-matter"
   - youth
 ---
 Black Brunch, the collectively led series of direct actions designed to afflict the comfortable has officially hit New York. This past Sunday, I joined [organizers from Oakland](http://ww2.kqed.org/news/2014/12/10/black-brunch-organizers-put-protest-on-the-menu) who took the protests from their city to commercial brunch spots nationwide, including to the affluent Flatiron and Gramercy Park neighborhoods in Manhattan. 
