@@ -1,16 +1,25 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "From Ferguson to Palestine: The Struggle for Freedom Continues - {Young}ist"
+headline: "From Ferguson to Palestine: The Struggle for Freedom Continues"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "https://media.licdn.com/mpr/mpr/shrink_500_500/p/5/000/1d5/2f5/316b17c.jpg"
+contributorshortbio: "I write words, I pet cats, I drink coffee."
+contributortwitter: qaween
+contributorage: "1991-07-24"
+categories: 
+  - video
+tags: 
+  - palestine
+  - BDS
+  - ferguson
+  - "black-lives-matter"
+contributors: 
+  - Queen Arsem
 ---
 
 “We came here to Palestine to stand in love and revolutionary struggle with our brothers and sisters,” journalist and scholar Marc Lamont Hill declared to kick off a solidarity demonstration in Nazareth last week. 
