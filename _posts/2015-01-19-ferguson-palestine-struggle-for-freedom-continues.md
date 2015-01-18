@@ -4,8 +4,8 @@ layout: post
 maintitle: "From Ferguson to Palestine: The Struggle for Freedom Continues - {Young}ist"
 headline: "From Ferguson to Palestine: The Struggle for Freedom Continues"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://www.blackyouthproject.com/files/2015/01/10682390_10153034079724813_1489876103396738057_o.jpg"
+featuredphotoalttext: A group of young activists of color looking into the camera in Palestine. Photo from DDPalestine.
 videourl: undefined
 contributorphoto: "https://media.licdn.com/mpr/mpr/shrink_500_500/p/5/000/1d5/2f5/316b17c.jpg"
 contributorshortbio: "I write words, I pet cats, I drink coffee."
