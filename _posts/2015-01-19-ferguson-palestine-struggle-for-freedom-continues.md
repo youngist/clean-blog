@@ -53,7 +53,7 @@ The group decided to hold a solidarity demonstration in Nazareth, which is docum
 
 <iframe src="//player.vimeo.com/video/116675694" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/116675694">Solidarity Demonstration in Nazareth : Ferguson to Palestine</a> from <a href="http://vimeo.com/dreamdefenders">Dream Defenders</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Follow #DDPalestine to read more about this historic trip and participants' reflections.
+**Follow #DDPalestine to read more about this historic trip and participants' reflections.**
 
 
 _From the video description:
