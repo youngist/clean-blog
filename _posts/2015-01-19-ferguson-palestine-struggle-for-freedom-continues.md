@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "From Ferguson to Palestine: The Struggle for Freedom Continues - {Young}ist"
 headline: "From Ferguson to Palestine: The Struggle for Freedom Continues"
