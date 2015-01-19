@@ -19,7 +19,7 @@ tags:
   - ferguson
   - "black-lives-matter"
 contributors: 
-  - Queen Arsem
+  - "Queen Arsem-O'Malley"
 ---
 
 “We came here to Palestine to stand in love and revolutionary struggle with our brothers and sisters,” journalist and scholar Marc Lamont Hill declared to kick off a solidarity demonstration in Nazareth last week. 
