@@ -7,18 +7,18 @@ tagline: undefined
 featuredphoto: "http://40.media.tumblr.com/ae38d428c864d3128d60bd4ea30ebcbe/tumblr_nfz1gbe1fr1rq2ndso1_1280.jpg"
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: 
+contributorphoto: null
 contributorshortbio: "We are community organizers and activists who organized #stoptheparade. We are releasing an anonymous statement about the infiltration tactics and violence perpetuated by the NYPD. Please publish and make it accessible to the public as soon as possible."
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - featured
+  - editors
 tags: 
   - "black-friday"
-  - ferguson 
+  - ferguson
   - organizing
-contributors:
-  - anonymous 
+contributors: 
+  - anonymous
 ---
 
 We are a few of the thousands of people disrupting 'business as usual' and fighting back against the state sanctioned murders of Black individuals and communities. We stand in solidarity with demonstrations spreading all across the nation following the announcement on Monday that a Ferguson grand jury will not indict Darren Wilson, the murderer of Michael Brown. The following is a people's account of what happened during the protest of the Macy's Thanksgiving Day Parade on the morning of November 27th. We want to acknowledge that this act of resistance is happening on a day that ignores the historical and ongoing experiences of colonialism and genocide of Indigenous peoples on Turtle Island. This ‘holiday’ also serves as a potent symbol of capitalist culture that values private property and racist nationalist traditions.
@@ -36,4 +36,4 @@ We are sharing this account with you because it is important to acknowledge and 
 
 Signed,
 
-A few of thousands of people organizing for Michael Brown 
+A few of thousands of people organizing for Michael Brown
