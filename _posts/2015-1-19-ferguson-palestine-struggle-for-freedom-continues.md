@@ -12,7 +12,7 @@ contributorshortbio: "I write words, I pet cats, I drink coffee."
 contributortwitter: qaween
 contributorage: "1991-07-24"
 categories: 
-  - video
+  - editors
 tags: 
   - palestine
   - BDS
