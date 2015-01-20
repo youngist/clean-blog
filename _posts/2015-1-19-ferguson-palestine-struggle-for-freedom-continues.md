@@ -40,7 +40,7 @@ Hill was one in a coalition of young freedom fighters from organizations includi
 
 Parallels between the [struggles of Palestinians and Black Americans](http://electronicintifada.net/blogs/rana-baker/palestinians-express-solidarity-people-ferguson-mike-brown-statement) has been a topic raised in demonstrations around the world, including connections made between policing styles used to suppress protests and the weapons deployed against the protestors.
 
-![](/http://40.media.tumblr.com/01c9972d547260c9d9464bf7f03dfa78/tumblr_nfnwn2F4171rg8ayko1_1280.jpg )
+![](http://40.media.tumblr.com/01c9972d547260c9d9464bf7f03dfa78/tumblr_nfnwn2F4171rg8ayko1_1280.jpg)
 
 Solidarity between the two struggles also has a long history: Abuznaid cited the legacies of Malcolm X and Angela Davis [in a piece about the trip](http://www.ebony.com/news-views/dream-defenders-black-lives-matter-ferguson-reps-take-historic-trip-to-palestine#axzz3P9b8EXbO) in Ebony. And just two months ago, delegates at #SquadUp14, the Dream Defenders conference, unanimously voted to support the [Boycott, Divest, and Sanctions movement](http://www.bdsmovement.net/).
 
