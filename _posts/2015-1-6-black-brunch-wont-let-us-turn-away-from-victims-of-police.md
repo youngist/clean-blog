@@ -2,23 +2,24 @@
 published: true
 layout: post
 maintitle: "Black Brunch Won’t Let Us Turn Away From Victims of Police Violence  - {Young}ist"
-headline: "Black Brunch Won’t Let Us Turn Away From Victims of Police Violence"
+headline: Black Brunch Won’t Let Us Turn Away From Victims of Police Violence
 tagline: undefined
 featuredphoto: "http://www.blackyouthproject.com/files/2015/01/B6hgGhbCMAIKBjS.jpg"
-featuredphotoalttext: "Demonstrators walked into several Manhattan restaurants to bring attention to police violence"
+featuredphotoalttext: Demonstrators walked into several Manhattan restaurants to bring attention to police violence
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/508034567530233856/vqGxmJGV.jpeg"
 contributorshortbio: "Organizer, Writer, Black girl from the future."
 contributortwitter: Muna_Mire
 contributorage: undefined
 categories: 
-  - editors
+  - featured
 contributors: 
   - Muna Mire
 tags: 
   - "black-lives-matter"
   - youth
 ---
+
 Black Brunch, the collectively led series of direct actions designed to afflict the comfortable has officially hit New York. This past Sunday, I joined [organizers from Oakland](http://ww2.kqed.org/news/2014/12/10/black-brunch-organizers-put-protest-on-the-menu) who took the protests from their city to commercial brunch spots nationwide, including to the affluent Flatiron and Gramercy Park neighborhoods in Manhattan. 
 
 In case you missed it blow up on Twitter and the right-wing blog circuit, Black Brunch is a direct action tactic that was born from a West Coast collective of community members, students, organizers, and artists. The tactic involves a group of people interrupting business as usual at upscale restaurants during brunch (for no more than 5 minutes) to announce that every 28 hours — [according to](https://mxgm.org/wp-content/uploads/2013/04/Operation-Ghetto-Storm.pdf) the Malcolm X Grassroots Movement — a Black life is taken by police or extrajudicial killing. Activists call out the names of fallen Black comrades, chanting [ashe](http://www.aseire.com/meaning.php) in affirmation with each name. Brunchgoers are then asked to stand in solidarity with the movement to end the war on Black life.
@@ -41,7 +42,4 @@ As far as next steps, organizers are satisfied with the impact of the Black Brun
 
 Brunch as a target for direct action became a locus for spectacle and in creating that spectacle, breeding and nurturing a growing, nonviolent resistance. This isn’t unlike the sit ins at lunch counters of the Jim Crow South. We are where we’re not meant to be, holding space for people who were taken from us unjustly. We are singing, chanting, asking that you stand with us. That you help us fight this. Police brutality is but one arm of the New Jim Crow. While elites brunch, we are being killed everyday. To honor this truth, we are disrupting business as usual — at the risk of alienating potential allies. If it’s a step too far to interrupt brunch for five minutes while the war on Black life continues unabated, we don’t accept that.
 
-We won’t let people look away. It is uncomfortable. The war on Black life is uncomfortable. We just won’t be quiet about it anymore. 
-
-
-
+We won’t let people look away. It is uncomfortable. The war on Black life is uncomfortable. We just won’t be quiet about it anymore.
