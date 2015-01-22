@@ -11,7 +11,7 @@ contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
 categories: 
-  - sound
+  - editors
 tags: 
   - trans
   - queer
