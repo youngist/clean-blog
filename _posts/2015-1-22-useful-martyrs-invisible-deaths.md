@@ -3,7 +3,7 @@ published: true
 layout: post
 maintitle: "Useful Martyrs, Invisible Deaths - {Young}ist"
 headline: "Useful Martyrs, Invisible Deaths"
-tagline: "Asam Ahmad discusses the role of innocence, sentimentality and racism in cases of trans suicide" 
+tagline: "Asam Ahmad discusses the role of innocence, sentimentality and racism in cases of trans suicide and death." 
 featuredphoto: http://a.abcnews.com/images/US/HT_islan_nettles_jt_130824_16x9_992.jpg
 featuredphotoalttext: "Islan Nettles, a 21 year old Black trans woman who was murdered on the streets of Harlem in August of 2013."
 contributorphoto: http://media.tumblr.com/c0272a37aa8837981fabc12ce84b5b30/tumblr_inline_mnj53hxkiK1rkj9dw.jpg
