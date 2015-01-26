@@ -2,7 +2,7 @@
 published: true
 layout: post
 maintitle: "Useful Martyrs, Invisible Deaths - {Young}ist"
-headline: "Useful Martyrs, Invisible Deaths"
+headline: "Useful Martyrs and Invisible Deaths: On Leelah Alcorn and the Erasure of Trans Women of Color"
 tagline: "Asam Ahmad discusses the role of innocence, sentimentality and racism in cases of trans suicide and death." 
 featuredphoto: http://a.abcnews.com/images/US/HT_islan_nettles_jt_130824_16x9_992.jpg
 featuredphotoalttext: "Islan Nettles, a 21 year old Black trans woman who was murdered on the streets of Harlem in August of 2013."
