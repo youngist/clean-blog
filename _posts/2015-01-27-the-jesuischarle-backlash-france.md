@@ -1,8 +1,8 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "The JeSuisCharlie Backlash: France’s Illusory Atonement - {Young}ist"
+headline: "The #JeSuisCharlie Backlash: France’s Illusory Atonement"
 tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
@@ -11,6 +11,13 @@ contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
 contributorage: undefined
+contributors: 
+  - George Joseph
+categories: 
+  - editors
+tags: 
+  - Islamophobia
+  - "free-speech"
 ---
 
 “It is a war against terrorism, against jihadism, against radical Islam, against everything that is aimed at breaking fraternity, freedom, solidarity,” - French Prime Minister, Manuel Valls
