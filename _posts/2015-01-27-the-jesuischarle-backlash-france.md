@@ -4,8 +4,8 @@ layout: post
 maintitle: "The JeSuisCharlie Backlash: France’s Illusory Atonement - {Young}ist"
 headline: "The #JeSuisCharlie Backlash: France’s Illusory Atonement"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://www.medias-presse.info/wp-content/uploads/2015/01/Je-ne-suis-pas-Charlie.jpg"
+featuredphotoalttext: "A \"Je Suis Charlie\" sign altered to say \"Je ne suis pas Charlie\". Image from medias-presse.info"
 videourl: undefined
 contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
 contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
