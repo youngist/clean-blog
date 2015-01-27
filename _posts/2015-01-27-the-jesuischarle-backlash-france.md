@@ -7,10 +7,10 @@ tagline: undefined
 featuredphoto: undefined
 featuredphotoalttext: undefined
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "https://pbs.twimg.com/profile_images/440022405323321344/RotDF4PL.jpeg"
+contributorshortbio: "George Joseph is a labor and education reporter, who looks to The Wire and Toblerones for daily inspiration."
+contributortwitter: GeorgeJoseph94
+contributorage: 6/1/1994
 contributors: 
   - George Joseph
 categories: 
