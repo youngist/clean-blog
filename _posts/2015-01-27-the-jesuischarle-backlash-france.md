@@ -20,7 +20,7 @@ tags:
   - "free-speech"
 ---
 
-“It is a war against terrorism, against jihadism, against radical Islam, against everything that is aimed at breaking fraternity, freedom, solidarity,” - French Prime Minister, Manuel Valls
+“It is a war against terrorism, against jihadism, against radical Islam, against everything that is aimed at breaking fraternity, freedom, solidarity,” - French Prime Minister Manuel Valls
 
 What does it mean to say #JeSuisCharlie?
 
