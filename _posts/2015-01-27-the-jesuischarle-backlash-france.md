@@ -20,9 +20,9 @@ tags:
   - "free-speech"
 ---
 
-“It is a war against terrorism, against jihadism, against radical Islam, against everything that is aimed at breaking fraternity, freedom, solidarity,” - French Prime Minister Manuel Valls
+*“It is a war against terrorism, against jihadism, against radical Islam, against everything that is aimed at breaking fraternity, freedom, solidarity.” — French Prime Minister Manuel Valls*
 
-On Friday, the backlash to the Charlie Hebdo killings gave us a hint. Echoing their prime minister’s call to war, French racists moved quickly to reassert their dominance over the Muslim community, blowing up kebab shops, shooting up Muslim prayer halls, throwing grenades into mosques — assaults, which go beyond their normal, frequent attacks on Muslims.
+Last Friday, the backlash to the Charlie Hebdo killings gave us a hint. Echoing their prime minister’s call to war, French racists moved quickly to reassert their dominance over the Muslim community, blowing up kebab shops, shooting up Muslim prayer halls, throwing grenades into mosques — assaults, which go beyond their normal, frequent attacks on Muslims.
 
 One mosque in Bayonne was left with scrawls of graffiti that proclaimed both “Charlie freedom” and “Dirty Arabs.” This message, vaunting “Western freedom” and devaluing the “barbaric orient,” perfectly reflects the imaginary “Clash of Civilizations” struggle that al-Qaeda and Western governments hope to reawaken fresh off the tragedy.
 
@@ -55,3 +55,5 @@ With the #JeSuisCharlie movement, the French white public affirms the seductive 
 But regardless of how much the white French public deludes itself, young French Muslims continue to dissent from any authoritarian civilizational ideal, be it that of the West or that of al-Qaeda. As one angry police officer [reported after a 2010 riot](http://www.lefigaro.fr/actualite-france/2010/10/19/01016-20101019ARTFIG00614-plus-de-voyous-des-cites-que-de-lyceens-chez-les-casseurs.php), their real intention is “to break the cops and attack the capitalist and imperialist state.”
 
 So let’s not fall into the trap of picking between al-Qaeda militants and Western governments, who feed off each other in the same farce.  As young protesters chanted at the same riot, “À bas l'État, les flics et les patrons” (“Down with the state, the cops and bosses”).
+
+*—Edited by Hanna Hurr of [Mask Magazine](mask-mag.com)*
