@@ -1,16 +1,24 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Syriza's Victory and the Youth of Europe - {Young}ist"
+headline: "Syriza's Victory and the Youth of Europe"
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "http://upload.wikimedia.org/wikipedia/commons/7/76/Alexis_Tsipras3.jpg"
+featuredphotoalttext: Prime Minister Tsipras at a rally in Bologna.
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
-contributortwitter: undefined
-contributorage: undefined
+contributorphoto: "http://static.tumblr.com/kg9owro/xBDmq3ht1/edinburgh_castle__59___1_.jpg"
+contributorshortbio: "Writer, traveller, lost earrings detective"
+contributortwitter: mrzpt
+contributorage: 8/19/1991
+contributors: 
+  - Maria Zepatou
+tags: 
+  - greece
+  - elections
+  - "youth-organizing"
+categories: 
+  - editors
 ---
 
 On the 26th of January 2015, Alexis Tsipras took his oath of office at the age of 40, which makes him the youngest prime minister in the history of Greece. Syriza, Coalition of the Radical Left, won the elections with an unprecedented 36.34%, missing an absolute majority by a mere two seats.
