@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Syriza's Victory and the Youth of Europe - {Young}ist"
 headline: "Syriza's Victory and the Youth of Europe"
