@@ -1,16 +1,22 @@
 ---
 published: false
 layout: post
-maintitle: "- {Young}ist"
-headline: undefined
+maintitle: "Colombian leader Carlos Pedraza killed - {Young}ist"
+headline: "Colombian leader Carlos Pedraza killed "
 tagline: undefined
-featuredphoto: undefined
-featuredphotoalttext: undefined
+featuredphoto: "https://40.media.tumblr.com/fa351906b2d5d25a3ac4357a97799da8/tumblr_nj4ixgoPpS1ql60owo1_1280.jpg"
+featuredphotoalttext: "A funeral march for Carlos Pedraza "
 videourl: undefined
-contributorphoto: undefined
-contributorshortbio: undefined
+contributorphoto: "https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1463915_2704522012627_85970789_n.jpg"
+contributorshortbio: "Zoe is an anti-multinational extractivism enthusiast and currently based in Colombia."
 contributortwitter: undefined
-contributorage: undefined
+contributorage: 8/27/1992
+categories: 
+  - editors
+tags: 
+  - "social-movements"
+contributors: 
+  - "Zoe Pepper-Cunningham"
 ---
 
 _This article is an adaptation/translation of [an article](http://colombiainforma.info/politica/seccion-politica/2016-confirmado-medicina-legal-determino-que-el-lider-social-carlos-pedraza-fue-asesinado-de-un-disparo-en-la-nuca) written by the editorial team of Colombia Informa: Agencia de los Pueblos_
