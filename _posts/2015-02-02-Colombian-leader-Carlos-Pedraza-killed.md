@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-maintitle: "Colombian leader Carlos Pedraza killed - {Young}ist"
-headline: "Colombian leader Carlos Pedraza killed "
+maintitle: "People's Congress leader Carlos Pedraza killed - {Young}ist"
+headline: "People's Congress leader Carlos Pedraza killed "
 tagline: undefined
 featuredphoto: "https://40.media.tumblr.com/fa351906b2d5d25a3ac4357a97799da8/tumblr_nj4ixgoPpS1ql60owo1_1280.jpg"
 featuredphotoalttext: "A funeral march for Carlos Pedraza "
