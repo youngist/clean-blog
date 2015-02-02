@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Colombian leader Carlos Pedraza killed - {Young}ist"
 headline: "Colombian leader Carlos Pedraza killed "
