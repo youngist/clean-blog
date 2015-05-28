@@ -1,22 +1,24 @@
 ---
-published: false
+published: true
 layout: post
 maintitle: "Why Do All The White Boys Live Together? White Supremacy in Greek Life - {Young}ist"
 headline: "Why Do All The White Boys Live Together? White Supremacy in Greek Life"
 tagline: undefined
-featuredphoto: "https://40.media.tumblr.com/fa351906b2d5d25a3ac4357a97799da8/tumblr_nj4ixgoPpS1ql60owo1_1280.jpg"
-featuredphotoalttext: "A funeral march for Carlos Pedraza "
+featuredphoto: "https://c1.staticflickr.com/1/198/471668553_54b4a9c9c1_z.jpg"
+featuredphotoalttext: "A college building in sepia tones"
 videourl: undefined
-contributorphoto: "https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1463915_2704522012627_85970789_n.jpg"
-contributorshortbio: "Zoe is an anti-multinational extractivism enthusiast and currently based in Colombia."
+contributorphoto: undefined
+contributorshortbio: "I am an educator and writer living it up in upstate NY."
 contributortwitter: undefined
-contributorage: 8/27/1992
+contributorage: 1992-06-01
 categories: 
   - editors
 tags: 
-  - "social-movements"
+  - race
+  - campus
+  - "higher-education"
 contributors: 
-  - "Lubabah Chowdhury"
+  - "Lubabah R. Chowdhury"
 ---
 
 I do not want to believe that history repeats itself.  When I was younger, I loved studying history for the same reason I obsessively read and re-read “Harry Potter” and “Lord of the Rings”. The strange customs, outlandish clothes and peculiar vernacular proved an intellectual challenge precisely because of their unfamiliarity. 
