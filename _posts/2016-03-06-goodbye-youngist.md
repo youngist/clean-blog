@@ -19,7 +19,6 @@ contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: @muna_mire
 contributorage: undefined
-
 ---
 
 When we launched Youngist in the spring of 2013, we were responding to a powerful need that we saw in our informal networks. Something big was happening, but it wasn’t being covered in ways that were immediate, honest, and present. We wanted to cover “the bold and innovative efforts of an entire generation to shift cultural and political-economic paradigms” in a way that most other publications — even those who might sympathize with young organizers and media-makers — were not.
