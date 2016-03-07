@@ -16,7 +16,7 @@ contributors:
 - Muna Mire
 - Hira Mahmood
 - "Queen Arsem-O'Malley"
-- Victoria C. Valle
+- "Victoria C. Valle"
 - Cayden Mak
 categories: 
   - editors
