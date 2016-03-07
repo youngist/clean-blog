@@ -64,4 +64,5 @@ As we sunset Youngist as an active project, we wanted to take a moment to rememb
 We thank all of our readers, advisors, contributors, and everybody who donated resources and money to make Youngist possible.
 
 In love and struggle,
+
 Youngist 
