@@ -13,11 +13,6 @@ tags:
 - youth
 contributors:
 - Isabelle Nastasia
-- Muna Mire
-- Hira Mahmood
-- "Queen Arsem-O'Malley"
-- "Victoria C. Valle"
-- Cayden Mak
 categories: 
   - editors
 contributorphoto: undefined
