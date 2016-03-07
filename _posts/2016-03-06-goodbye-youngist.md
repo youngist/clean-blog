@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-categories: article
 excerpt: "Good Night, Youngist"
 maintitle: "Good Night, Youngist - {Young}ist"
 headline: "Good Night, Youngist"
@@ -14,7 +13,7 @@ tags:
 contributors:
 - Isabelle Nastasia
 categories: 
-  - editors
+  - featured
 contributorphoto: undefined
 contributorshortbio: undefined
 contributortwitter: undefined
