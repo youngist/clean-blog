@@ -17,7 +17,7 @@ categories:
   - editors
 contributorphoto: undefined
 contributorshortbio: undefined
-contributortwitter: @muna_mire
+contributortwitter: undefined
 contributorage: undefined
 ---
 
