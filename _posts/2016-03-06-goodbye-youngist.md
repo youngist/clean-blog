@@ -6,7 +6,7 @@ excerpt: "Good Night, Youngist"
 maintitle: "Good Night, Youngist - {Young}ist"
 headline: "Good Night, Youngist"
 tagline: undefined
-featuredphoto: http://56.media.tumblr.com/8115794c3f1d74b230202c46eab71e25/tumblr_n34jogKmP51sp5io1o1_1280.png
+featuredphoto: "http://56.media.tumblr.com/8115794c3f1d74b230202c46eab71e25/tumblr_n34jogKmP51sp5io1o1_1280.png"
 featuredphotoalttext: undefined
 videourl: undefined
 tags: 
