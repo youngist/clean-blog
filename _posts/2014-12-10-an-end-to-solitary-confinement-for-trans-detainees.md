@@ -11,7 +11,7 @@ contributorshortbio: "Arab, QWOC, SOBER, Head Master @queerDEP. •all opinions 
 contributortwitter: "queerdep"
 contributorage: undefined
 categories: 
-  - featured
+  - editors
 tags: 
   - queer
   - immigration
