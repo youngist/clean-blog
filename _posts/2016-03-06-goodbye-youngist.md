@@ -21,10 +21,12 @@ contributors:
 categories: 
   - editors
 contributorphoto: undefined
-contributorshortbio: "Editors of Youngist FTW"
+contributorshortbio: undefined
 contributortwitter: @muna_mire
 contributorage: undefined
+
 ---
+
 When we launched Youngist in the spring of 2013, we were responding to a powerful need that we saw in our informal networks. Something big was happening, but it wasn’t being covered in ways that were immediate, honest, and present. We wanted to cover “the bold and innovative efforts of an entire generation to shift cultural and political-economic paradigms” in a way that most other publications — even those who might sympathize with young organizers and media-makers — were not.
 
 Our initial editorial staff met through student organizing, primarily through the 2012 National Student Power Convergence, which itself was the result of formalizing networks of young people working against racism, labor exploitation, and neoliberalism in higher education in the United States and Canada. Importantly, many of us met in hallways outside of centralized organizing conversations, frustrated by white, male-dominated, and generally unintentional spaces. We became comrades in moments of personal crisis and would text one another in the middle of the night sending love. 
