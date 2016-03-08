@@ -1,5 +1,5 @@
 serve: true
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
   extensions: [smart]
 baseurl:
